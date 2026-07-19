@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-19",
+  "title": "Preview briefing",
+  "overview": "This preview demonstrates the editorial structure. After deployment, the daily workflow replaces it with recent records from OpenAlex, arXiv, and Europe PMC, labeling preprints and ranking items as high-signal reading rather than confirmed breakthroughs.",
+  "items": [
+    {
+      "domain": "consciousness",
+      "domain_label": "Consciousness / philosophy",
+      "title": "AI consciousness research may need more tractable questions",
+      "why_it_matters": "The proposal shifts attention from an unresolved yes-or-no question toward measurable social, psychological, and governance consequences.",
+      "url": "https://philpapers.org/archive/COMAAC-5.pdf"
+    },
+    {
+      "domain": "neuroscience",
+      "domain_label": "Neuroscience",
+      "title": "AI pose estimation as continuous neuromonitoring",
+      "why_it_matters": "The work illustrates how computer vision could help track neurological status without adding invasive monitoring hardware.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41532764/"
+    },
+    {
+      "domain": "quantum",
+      "domain_label": "Quantum / consciousness boundary",
+      "title": "A landmark constraint on quantum-brain theories",
+      "why_it_matters": "Tegmark’s decoherence calculation remains important context for evaluating newer claims that invoke quantum coherence in consciousness.",
+      "url": "https://arxiv.org/abs/quant-ph/9907009"
+    }
+  ]
+}

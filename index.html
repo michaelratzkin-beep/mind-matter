@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="A daily research index across consciousness philosophy, quantum foundations, and neuroscience." />
+  <meta name="theme-color" content="#0a0b10" />
+  <title>MIND / MATTER — Research Signal</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Manrope:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/styles.css" />
+  <link rel="alternate" type="application/rss+xml" title="MIND / MATTER Daily Briefing" href="data/feed.xml" />
+</head>
+<body>
+  <div class="noise" aria-hidden="true"></div>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="MIND / MATTER home">
+      <span class="brand-mark">M/M</span>
+      <span class="brand-name">MIND / MATTER</span>
+    </a>
+    <nav>
+      <a href="#briefing">Briefing</a>
+      <a href="#research">Research</a>
+      <a href="#method">Method</a>
+      <a href="data/feed.xml">RSS</a>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">RESEARCH SIGNAL / UPDATED DAILY</p>
+        <h1>Where mind meets matter.</h1>
+        <p class="lede">A living index of consciousness philosophy, quantum foundations, and neuroscience. Built to find serious new work without confusing novelty for truth.</p>
+        <div class="hero-meta">
+          <span id="last-updated">Loading latest update…</span>
+          <span class="dot"></span>
+          <span id="paper-count">— records</span>
+        </div>
+      </div>
+      <div class="orbital" aria-hidden="true">
+        <div class="orbit orbit-a"><i></i></div>
+        <div class="orbit orbit-b"><i></i></div>
+        <div class="orbit orbit-c"><i></i></div>
+        <div class="core"></div>
+      </div>
+    </section>
+
+    <section id="briefing" class="briefing-section section-shell">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">TODAY'S BRIEFING</p>
+          <h2 id="briefing-title">The latest signal</h2>
+        </div>
+        <span id="briefing-date" class="date-chip"></span>
+      </div>
+      <div id="briefing-summary" class="briefing-summary loading-card">Building the daily briefing…</div>
+      <div id="briefing-grid" class="briefing-grid"></div>
+    </section>
+
+    <section id="research" class="research-section section-shell">
+      <div class="section-heading research-heading">
+        <div>
+          <p class="eyebrow">RESEARCH INDEX</p>
+          <h2>Newest publications</h2>
+        </div>
+        <div class="controls">
+          <label class="search-box">
+            <span>Search</span>
+            <input id="search-input" type="search" placeholder="theory, author, method…" autocomplete="off" />
+          </label>
+          <label class="select-box">
+            <span>Sort</span>
+            <select id="sort-select">
+              <option value="signal">High signal</option>
+              <option value="newest">Newest</option>
+              <option value="citations">Citations</option>
+            </select>
+          </label>
+        </div>
+      </div>
+
+      <div class="domain-tabs" role="tablist" aria-label="Research domains">
+        <button class="domain-tab active" data-domain="all">All fields <span id="count-all">0</span></button>
+        <button class="domain-tab" data-domain="consciousness">Consciousness <span id="count-consciousness">0</span></button>
+        <button class="domain-tab" data-domain="quantum">Quantum <span id="count-quantum">0</span></button>
+        <button class="domain-tab" data-domain="neuroscience">Neuroscience <span id="count-neuroscience">0</span></button>
+        <button class="domain-tab" data-domain="cross-domain">Cross-domain <span id="count-cross-domain">0</span></button>
+      </div>
+
+      <div id="research-grid" class="research-grid" aria-live="polite"></div>
+      <button id="load-more" class="load-more" type="button">Load more</button>
+    </section>
+
+    <section id="method" class="method-section section-shell">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">EDITORIAL METHOD</p>
+          <h2>Signal, not hype.</h2>
+        </div>
+      </div>
+      <div class="method-grid">
+        <article>
+          <span class="method-number">01</span>
+          <h3>Primary sources first</h3>
+          <p>Metadata is gathered from OpenAlex, arXiv, and Europe PMC. Preprints are labeled so they are never presented as peer-reviewed findings.</p>
+        </article>
+        <article>
+          <span class="method-number">02</span>
+          <h3>Transparent ranking</h3>
+          <p>The signal score combines recency, evidence language, citation activity, access status, and cross-domain relevance. It is not a truth score.</p>
+        </article>
+        <article>
+          <span class="method-number">03</span>
+          <h3>No quantum mysticism shortcut</h3>
+          <p>Quantum-consciousness claims are surfaced only when the publication itself connects the fields, and the evidence level stays visible.</p>
+        </article>
+      </div>
+      <p class="disclaimer">This is a discovery tool, not peer review, medical guidance, or proof that a reported result is correct. Read the original work before drawing conclusions.</p>
+    </section>
+  </main>
+
+  <footer>
+    <span>MIND / MATTER</span>
+    <span>Automated research discovery · Open source</span>
+  </footer>
+
+  <template id="paper-template">
+    <article class="paper-card">
+      <div class="paper-topline">
+        <div class="badges"></div>
+        <span class="signal-score"></span>
+      </div>
+      <h3 class="paper-title"></h3>
+      <p class="paper-authors"></p>
+      <p class="paper-summary"></p>
+      <div class="paper-meta"></div>
+      <div class="paper-footer">
+        <span class="paper-source"></span>
+        <a class="paper-link" target="_blank" rel="noopener noreferrer">Read source <span>↗</span></a>
+      </div>
+    </article>
+  </template>
+
+  <script src="assets/app.js" defer></script>
+</body>
+</html>
