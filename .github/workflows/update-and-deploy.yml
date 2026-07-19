@@ -1,0 +1,75 @@
+name: Update research and deploy Pages
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "12 12 * * *"
+
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "data/**"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - name: Install updater dependencies
+        run: pip install -r requirements.txt
+
+      - name: Refresh research index
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+          SITE_URL: ${{ vars.SITE_URL }}
+          LOOKBACK_DAYS: "35"
+        run: python scripts/update.py
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "mind-matter-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Daily research update"
+          git push
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: .
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+    needs: build
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
