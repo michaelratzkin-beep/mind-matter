@@ -1,2 +1,149 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>MIND / MATTER Daily Briefing</title><link>https://example.github.io/mind-matter/</link><description>Preview feed. The daily updater replaces this file.</description></channel></rss>
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>MIND / MATTER Daily Briefing</title>
+    <link />
+    <description>New research across consciousness, quantum foundations, and neuroscience.</description>
+    <lastBuildDate>Sun, 19 Jul 2026 06:18:18 +0000</lastBuildDate>
+    <item>
+      <title>Consciousness in the Brain: An Integrative Review of Contemporary Theories</title>
+      <link>https://doi.org/10.3390/brainsci16070745</link>
+      <guid>704aba104bb2bdc5</guid>
+      <description>Understanding consciousness remains one of the most significant challenges in neuroscience, philosophy, and cognitive science. Despite substantial advances in neuroimaging, electrophysiology, and computational modeling, a comprehensive account of the neural basis of conscious experience has yet to emerge.</description>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advances in biomarkers for diagnosing and prognosticating disorders of consciousness</title>
+      <link>https://doi.org/10.3389/fnins.2026.1823376</link>
+      <guid>0f13df127b50ad56</guid>
+      <description>Disorders of Consciousness (DoC) resulting from brain injury comprise a spectrum of clinical syndromes, where the level of impairment varies considerably depending on lesion location, etiology, severity, and individual patient factors. These differences substantially influence both rehabilitation strategies and long-term prognosis.</description>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advances in local field potential research in prolonged disorders of consciousness: a narrative review</title>
+      <link>https://doi.org/10.1186/s41016-026-00441-x</link>
+      <guid>cae5954100b3f68c</guid>
+      <description>Prolonged disorders of consciousness (pDOC)-including coma, vegetative state/unresponsive wakefulness syndrome (VS/UWS), and minimally conscious state (MCS)-remain diagnostically and therapeutically challenging. Even with validated instruments such as the Coma Recovery Scale-Revised (CRS-R), behavioral assessment yields misdiagnosis rates approaching 40%, as fluctuating arousal, motor impairment, and sedation can mask preserved cognition.</description>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum consciousness revisited: a review of Orch OR and an introduction to the Quantum Cognition Gradient</title>
+      <link>https://doi.org/10.64336/001c.164985</link>
+      <guid>1368f0dc3a07340c</guid>
+      <description>Despite centuries of scientific inquiry, the origin of human consciousness, characterized by self-awareness and the presence of qualia, remains one of the deepest mysteries in neuroscience. Orchestrated Objective Reduction (Orch OR), as proposed by Roger Penrose and Stuart Hameroff, posits that consciousness arises from the objective reduction of quantum superpositions within entangled neural microtubules, triggered by gravitational self-energy.</description>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The regulation of GABAergic nervous system in sleep‑wake states and general anesthesia</title>
+      <link>https://doi.org/10.1016/j.brainresbull.2026.112041</link>
+      <guid>bb556228d27c6d38</guid>
+      <description>Sleep-wake cycles and general anesthesia both involve reversible alterations in consciousness and share important neurobehavioral characteristics; however, their underlying mechanisms remain incompletely understood. As the principal inhibitory neuronal population in the central nervous system, GABAergic neurons play a key regulatory role in regulating transitions between states of consciousness.</description>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A three-component dynamical index of consciousness-related neural organisation</title>
+      <link>https://doi.org/10.1007/s00422-026-01049-1</link>
+      <guid>b0bd0314cab53690</guid>
+      <description>Quantifying consciousness from brain activity remains a major challenge in neuroscience and clinical practice. Many existing EEG measures focus on a single feature of neural activity, such as complexity, synchrony, or spectral structure, but no single feature appears sufficient across different brain states.</description>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Efficacy of Hypnotherapy in Reducing Burnout and Related Psychopathologies: Protocol for a Systematic Review and Meta-Analysis.</title>
+      <link>https://europepmc.org/article/MED/42467904</link>
+      <guid>0069787171653e34</guid>
+      <description>New work indexed under “The Efficacy of Hypnotherapy in Reducing Burnout and Related Psychopathologies: Protocol for a Systematic Review and Meta-Analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prevalence of unipolar mania in bipolar I disorder: a systematic review and meta-analysis of observational studies.</title>
+      <link>https://europepmc.org/article/MED/42464611</link>
+      <guid>27dfb1428630b9bd</guid>
+      <description>New work indexed under “Prevalence of unipolar mania in bipolar I disorder: a systematic review and meta-analysis of observational studies..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Aware Recursively Self-Improving Agents for Personal Singularity: A Goal-, Scope-, Tool-, and Benchmark-Driven Multi-Agent Architecture</title>
+      <link>http://arxiv.org/abs/2607.12254v2</link>
+      <guid>1bd90467707a4c9c</guid>
+      <description>Large language model (LLM) agents can plan, use tools, maintain memory, and execute long-horizon tasks. This paper proposes Self-Aware Recursively Self-Improving (SARSI) agents: governed agents that maintain a persistent self-model of identity, goals, capabilities, limitations, uncertainty, relationships, history, and developmental change, and use that model to guide and evaluate recursive improvement.</description>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Effect of Chewing Gum on Bowel Function Recovery in Elderly Patients Following Posterior Lumbar Fusion Surgery: A Randomized Controlled Trial.</title>
+      <link>https://europepmc.org/article/MED/42469928</link>
+      <guid>af445776b4b38db0</guid>
+      <description>New work indexed under “Effect of Chewing Gum on Bowel Function Recovery in Elderly Patients Following Posterior Lumbar Fusion Surgery: A Randomized Controlled Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building Emotional Awareness and Mental Health in Parenting (BEAM): protocol for a parallel-group randomized controlled non-inferiority trial for an app based intervention to improve postpartum mental health and support children's brain development in Western Canada.</title>
+      <link>https://europepmc.org/article/MED/42469885</link>
+      <guid>d37e4ae71f87dbe8</guid>
+      <description>New work indexed under “Building Emotional Awareness and Mental Health in Parenting (BEAM): protocol for a parallel-group randomized controlled non-inferiority trial for an app based intervention to improve postpartum mental health and support children's brain development in Western Canada..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nurses' perceptions of hospital-acquired conditions in older adults in acute care settings: A randomized vignette-based study.</title>
+      <link>https://europepmc.org/article/MED/42468433</link>
+      <guid>4dfd3413be8058b1</guid>
+      <description>New work indexed under “Nurses' perceptions of hospital-acquired conditions in older adults in acute care settings: A randomized vignette-based study..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comparison of ultrasound-guided erector spinae plane block to intrathecal morphine for postoperative analgesia in patients undergoing elective lumbar fusion operations under general anesthesia: a randomized controlled trial.</title>
+      <link>https://europepmc.org/article/MED/42464120</link>
+      <guid>3e76860dc95b7273</guid>
+      <description>New work indexed under “Comparison of ultrasound-guided erector spinae plane block to intrathecal morphine for postoperative analgesia in patients undergoing elective lumbar fusion operations under general anesthesia: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Noise-Resilient Quantum Extreme Learning Machines for Astrophysical Spectral Analysis</title>
+      <link>https://hdl.handle.net/10447/709404</link>
+      <guid>420c784179d558c5</guid>
+      <description>In this thesis we investigate the information processing capabilities of Quantum Extreme Learning Machines and discuss their real world applications in the field of astrophysics, particularly for atmospheric retrieval of exoplanets and supernovae spectral analysis, designing noise resilient models for Noise Intermediate Scale Quantum (NISQ) implementations. Extreme Learning Machines (ELMs) offer rapid training and structural efficiency by utilizing a randomized hidden layer—the reservoir—to map input data into a…</description>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assessment and Intervention of Letter Knowledge With Children With Developmental Language Disorder: A Systematic Review.</title>
+      <link>https://europepmc.org/article/MED/42467730</link>
+      <guid>9ea501260c40dd01</guid>
+      <description>New work indexed under “Assessment and Intervention of Letter Knowledge With Children With Developmental Language Disorder: A Systematic Review..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evolution-Level Quantum Optimal Control of Single-Qubit Gates with Physics-Informed Neural Networks</title>
+      <link>http://arxiv.org/abs/2607.14884v1</link>
+      <guid>75ce790b03c0fb4e</guid>
+      <description>Quantum gate design is often represented as pulse optimization, although the physical object that implements a gate is the full controlled evolution generated by the pulse. Here we use physics-informed neural networks to represent single-qubit gate design at this evolution level: the control fields, the Bloch-state trajectories, and the total duration are learned together under the Bloch equation.</description>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Moment Optimization in the Navascués-Pironio-Acín Hierarchy</title>
+      <link>http://arxiv.org/abs/2607.14755v1</link>
+      <guid>e30c30a8cafe2cfd</guid>
+      <description>The Navascués-Pironio-Acín (NPA) hierarchy provides a convergent sequence of semidefinite programming (SDP) relaxations for noncommutative polynomial optimisation, ubiquitous in quantum physics. However, its practical applicability is limited by the combinatorial growth in operator moments required at each level.</description>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What AI Cannot Learn: A Cognitive Science Perspective on Human-Centered Strategic HRM</title>
+      <link>https://doi.org/10.3390/admsci16070335</link>
+      <guid>a59a0fad04904495</guid>
+      <description>This article addresses the growing concern that generative artificial intelligence (AI) may replace human expertise in organizations. Instead of asking whether AI should be used, it examines why human judgment rooted in experience cannot be fully replaced by current AI systems and how organizations can work with AI more effectively.</description>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The effect of video-assisted education on postoperative outcomes after laparoscopic cholecystectomy: A randomized controlled trial</title>
+      <link>https://doi.org/10.1016/j.pecinn.2026.100488</link>
+      <guid>3aebea5e96671762</guid>
+      <description>Objective To determine the effects of video-assisted education on postoperative physiological parameters and recovery outcomes of patients undergoing laparoscopic cholecystectomy. Background Laparoscopic cholecystectomy is a widely used minimally invasive surgical method to treat gallstones.</description>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beyond a Single Etiology: Tachy-Brady Syndrome and Possible Coexisting Focal Epilepsy Presenting as Transient Loss of Consciousness.</title>
+      <link>https://europepmc.org/article/MED/42465701</link>
+      <guid>bfdb92239b410050</guid>
+      <description>New work indexed under “Beyond a Single Etiology: Tachy-Brady Syndrome and Possible Coexisting Focal Epilepsy Presenting as Transient Loss of Consciousness..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
