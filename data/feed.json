@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T06:27:51.804835+00:00",
+  "updated_at": "2026-07-19T15:34:41.602703+00:00",
   "lookback_days": 35,
   "sources": [
     "OpenAlex",
@@ -312,6 +312,35 @@
       ],
       "has_abstract": true,
       "signal_score": 54
+    },
+    {
+      "id": "745fed9d57e63b67",
+      "title": "The simple reason why classical gravity can entangle",
+      "authors": [
+        "Andrea Di Biagio"
+      ],
+      "summary": "Ever since gravity-induced entanglement (GIE) experiments have been proposed as a witness of the quantum nature of gravity, theories of classical gravity coupled to quantum matter have been shown to predict GIE, despite the existence of several theory-independent no-go theorems purportedly claiming that it should be impossible. We explain why this is possible, and why this makes the study of GIE experiments, and of low-energy quantum gravity effects in general, an even more urgent matter in quantum gravity…",
+      "publication_date": "2026-07-17",
+      "source": "International Journal of Modern Physics D",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.1142/s0218271826410075",
+      "doi": "10.1142/s0218271826410075",
+      "work_type": "article",
+      "evidence_label": "Journal article",
+      "open_access": true,
+      "cited_by_count": 1,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "Quantum entanglement",
+        "Simple (philosophy)",
+        "Quantum gravity",
+        "Quantum",
+        "Loop quantum gravity"
+      ],
+      "has_abstract": true,
+      "signal_score": 53
     },
     {
       "id": "af445776b4b38db0",
@@ -1058,6 +1087,36 @@
       "signal_score": 50
     },
     {
+      "id": "078c1a6b510ab629",
+      "title": "A compact consistency check linking conditional time, dephasing decoherence, and decoherent histories",
+      "authors": [
+        "Soyoung Kim"
+      ],
+      "summary": "Abstract Relational (conditional) time, environment-induced decoherence, and the decoherent-histories formalism are often encountered as three disconnected and mathematically demanding topics in the curriculum. We give a short pedagogical treatment in which the three ingredients are placed in one solvable clock-system-environment model.",
+      "publication_date": "2026-07-17",
+      "source": "European Journal of Physics",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.1088/1361-6404/ae8c8e",
+      "doi": "10.1088/1361-6404/ae8c8e",
+      "work_type": "article",
+      "evidence_label": "Journal article",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "Dephasing",
+        "Quantum decoherence",
+        "Formalism (music)",
+        "Qubit",
+        "Pointer (user interface)",
+        "Consistency (knowledge bases)"
+      ],
+      "has_abstract": true,
+      "signal_score": 49
+    },
+    {
       "id": "0945def34f2071a3",
       "title": "Quantum machine learning in predictive maintenance: A comprehensive state-of-the-art review",
       "authors": [
@@ -1152,6 +1211,43 @@
         "Quantum state",
         "Statistical mechanics",
         "State (computer science)"
+      ],
+      "has_abstract": true,
+      "signal_score": 48
+    },
+    {
+      "id": "a8a10871d3eb37f0",
+      "title": "THE EVOLUTION OF LAW CONCEPT OF INFORMATION: FROM PHILOSOPHICAL ABSTRACTION TO QUANTUM INFORMATION AND CRYPTOGRAPHY IN THE CONTEXT OF GROWING CYBER THREATS AND THE TRANSITION TO POST-QUANTUM SECURITY METHOD",
+      "authors": [
+        "Sergey Polyakov",
+        "Liliya Smeshkova",
+        "Vyacheslav Olegovich Lapin",
+        "Anna Solomatina",
+        "Alexey Konstantinov",
+        "Elmir Nizamievich Alimamedov"
+      ],
+      "summary": "The article examines the significant transformation of the concept of information and its impact on modern security technologies. Until the middle of the 20th century, the concept of information was considered as a philosophical category related to the transfer of knowledge and meaning.",
+      "publication_date": "2026-07-16",
+      "source": "Veredas do Direito Direito Ambiental e Desenvolvimento Sustentável",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.18623/rvd.v23.7531",
+      "doi": "10.18623/rvd.v23.7531",
+      "work_type": "article",
+      "evidence_label": "Journal article",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "Quantum cryptography",
+        "Cryptography",
+        "Context (archaeology)",
+        "Information security",
+        "Quantum information",
+        "Abstraction",
+        "Quantum information science",
+        "Information system"
       ],
       "has_abstract": true,
       "signal_score": 48
@@ -5863,6 +5959,41 @@
       "signal_score": 41
     },
     {
+      "id": "95ea9f8bad9f4f7a",
+      "title": "Universal Quantum Computation with Multi-Mode Schrödinger Cat States Stabilized by Non-Local Dissipation Engineering",
+      "authors": [
+        "Jesper Lind-Olsen",
+        "Jonas Lidal",
+        "Tron Omland",
+        "Joakim Bergli"
+      ],
+      "summary": "Schrödinger cat states provide a hardware-efficient platform for bosonic quantum error correction by encoding logical information in protected manifolds of harmonic oscillators. While previous work has demonstrated the dissipative stabilization of multi-mode Schrödinger cat states as robust quantum memories, a framework for universal quantum computation has remained unavailable.",
+      "publication_date": "2026-07-15",
+      "source": "arXiv (Cornell University)",
+      "source_provider": "OpenAlex",
+      "url": "https://arxiv.org/abs/2607.13975",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "Quantum entanglement",
+        "Dissipative system",
+        "Dissipation",
+        "Quantum",
+        "Quantum computer",
+        "Coupling (piping)",
+        "Computation",
+        "Harmonic oscillator"
+      ],
+      "has_abstract": true,
+      "signal_score": 41
+    },
+    {
       "id": "51c7254b61dbe7e1",
       "title": "Efficient quantum algorithm for Heisenberg spin systems",
       "authors": [
@@ -6516,6 +6647,38 @@
       "signal_score": 41
     },
     {
+      "id": "3c13424920d23e16",
+      "title": "Let the Qudit Do the Jacobi: A Structured Quantum Algorithm for Spectral Decomposition",
+      "authors": [
+        "A. Mandilara"
+      ],
+      "summary": "Jacobi diagonalization is a long-established numerical algorithm for the spectral decomposition of Hermitian and, more generally, normal matrices. In this work, we develop a qudit-native quantum realization of the Jacobi diagonalization algorithm for unknown unitary operators.",
+      "publication_date": "2026-07-14",
+      "source": "arXiv (Cornell University)",
+      "source_provider": "OpenAlex",
+      "url": "https://arxiv.org/abs/2607.13244",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "Quantum algorithm",
+        "Quantum phase estimation algorithm",
+        "Lanczos algorithm",
+        "Hermitian matrix",
+        "Realization (probability)",
+        "Unitary matrix",
+        "Quantum computer",
+        "Dimension (graph theory)"
+      ],
+      "has_abstract": true,
+      "signal_score": 40
+    },
+    {
       "id": "dd94855e88f76f7a",
       "title": "How Breathing Bridges the Physical and Mental Dimensions Helping to Regulate Both",
       "authors": [
@@ -6835,49 +6998,6 @@
       "signal_score": 38
     },
     {
-      "id": "8ff8c13ba5e5ca60",
-      "title": "Benchmarking Barren Plateau Mitigation Strategies in Quantum Neural Networks on Standard and Medical Image Datasets",
-      "authors": [
-        "Maqsudur Rahman",
-        "Rui Liu",
-        "Anup Majumder",
-        "Pintu Chandra Paul",
-        "Kangtong Mo",
-        "Amena Begum",
-        "Kashmi Sultana",
-        "Nahida Akter",
-        "Lu Wei",
-        "Y Zhang",
-        "Jun Zhuang"
-      ],
-      "summary": "Barren plateaus (BPs) pose a major trainability challenge for quantum neural networks (QNNs) by causing gradients to concentrate near zero as circuit size, depth, or expressibility increases. This study presents a comparative benchmark of 10 BP mitigation strategies across six qubit settings (2, 4, 8, 12, 16, and 20) and three datasets of increasing complexity: Iris, MNIST, and MedMNIST.",
-      "publication_date": "2026-06-23",
-      "source": "Journal of Imaging",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.3390/jimaging12070275",
-      "doi": "10.3390/jimaging12070275",
-      "work_type": "article",
-      "evidence_label": "Journal article",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum",
-        "neuroscience",
-        "cross-domain"
-      ],
-      "keywords": [
-        "Benchmark (surveying)",
-        "Initialization",
-        "Benchmarking",
-        "Variance (accounting)",
-        "Plateau (mathematics)",
-        "Artificial neural network",
-        "Convergence (economics)"
-      ],
-      "has_abstract": true,
-      "signal_score": 38
-    },
-    {
       "id": "f9fcc09688e2b471",
       "title": "Infants, the marker method, and the nature of consciousness",
       "authors": [
@@ -7104,124 +7224,6 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 36
-    },
-    {
-      "id": "679d8b62577a2000",
-      "title": "Exploring barriers contributing to late presentation of chronic kidney disease among patients at Amana Hospital",
-      "authors": [
-        "ALIBHAI ZT",
-        "Paulo LS",
-        "Nyamhanga PT."
-      ],
-      "summary": "New work indexed under “Exploring barriers contributing to late presentation of chronic kidney disease among patients at Amana Hospital.” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-07-17",
-      "source": "Europe PMC-indexed source",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/PPR/PPR1280614",
-      "doi": "10.21203/rs.3.rs-9687520/v1",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 36
-    },
-    {
-      "id": "b1443fb2b5564cce",
-      "title": "\"It gives me confidence and value. When working as a deaf person these were constantly undermined”. Evaluating All_Ears@UoS patient and public involvement and engagement (PPIE) group to capture the perspectives of the group and of the researchers - three years on.",
-      "authors": [
-        "Hough K",
-        "Smith S",
-        "Byatt R",
-        "Hudson M",
-        "Newman T."
-      ],
-      "summary": "New work indexed under “\"It gives me confidence and value. When working as a deaf person these were constantly undermined”. Evaluating All_Ears@UoS patient and public involvement and engagement (PPIE) group to capture the perspectives of the group and of the researchers - three years on..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-07-17",
-      "source": "Europe PMC-indexed source",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/PPR/PPR1280570",
-      "doi": "10.21203/rs.3.rs-10080809/v1",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 36
-    },
-    {
-      "id": "2d1f3a2b21a38111",
-      "title": "Circuit and Krylov complexity of primordial perturbations of modified gravity in inflation",
-      "authors": [
-        "Tao Li",
-        "Hai-Bing Fu"
-      ],
-      "summary": "In this work, we investigate quantum complexity diagnostics of primordial curvature perturbations within the inflationary paradigm. We compare canonical scalar-field inflation with the modified gravity model $f(ϕ,R)$, focusing on the evolution of the two-mode squeezed state generated by the coupling between the $\\vec{k}$ and $-\\vec{k}$ momentum sectors.",
-      "publication_date": "2026-07-10",
-      "source": "arXiv (Cornell University)",
-      "source_provider": "OpenAlex",
-      "url": "https://arxiv.org/abs/2607.09408",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "Dissipative system",
-        "Curvature",
-        "Quantum",
-        "Gravitation",
-        "Scalar (mathematics)",
-        "Work (physics)",
-        "Quadratic equation",
-        "Momentum (technical analysis)"
-      ],
-      "has_abstract": true,
-      "signal_score": 36
-    },
-    {
-      "id": "b154250ae7172120",
-      "title": "A metacognitive response of the face and the heart in rats",
-      "authors": [
-        "Joana F. Doutel Figueira",
-        "Nelson K. Totah"
-      ],
-      "summary": "Abstract Humans make emotional facial expressions and have a cardiac response when they catch themselves in a mistake or receive feedback about task performance. We tested whether rats exhibit similar visceral responses in the context of metacognition.",
-      "publication_date": "2026-07-10",
-      "source": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.64898/2026.07.06.736819",
-      "doi": "10.64898/2026.07.06.736819",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [
-        "Facial expression",
-        "Context (archaeology)",
-        "Mistake",
-        "Heart rate variability",
-        "Cognition",
-        "Task (project management)",
-        "Facial electromyography",
-        "Heart rate"
-      ],
-      "has_abstract": true,
       "signal_score": 36
     }
   ]

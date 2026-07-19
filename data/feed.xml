@@ -4,7 +4,7 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Sun, 19 Jul 2026 06:27:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 15:34:41 +0000</lastBuildDate>
     <item>
       <title>Consciousness in the Brain: An Integrative Review of Contemporary Theories</title>
       <link>https://doi.org/10.3390/brainsci16070745</link>
@@ -67,6 +67,13 @@
       <guid>1bd90467707a4c9c</guid>
       <description>Large language model (LLM) agents can plan, use tools, maintain memory, and execute long-horizon tasks. This paper proposes Self-Aware Recursively Self-Improving (SARSI) agents: governed agents that maintain a persistent self-model of identity, goals, capabilities, limitations, uncertainty, relationships, history, and developmental change, and use that model to guide and evaluate recursive improvement.</description>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The simple reason why classical gravity can entangle</title>
+      <link>https://doi.org/10.1142/s0218271826410075</link>
+      <guid>745fed9d57e63b67</guid>
+      <description>Ever since gravity-induced entanglement (GIE) experiments have been proposed as a witness of the quantum nature of gravity, theories of classical gravity coupled to quantum matter have been shown to predict GIE, despite the existence of several theory-independent no-go theorems purportedly claiming that it should be impossible. We explain why this is possible, and why this makes the study of GIE experiments, and of low-energy quantum gravity effects in general, an even more urgent matter in quantum gravity…</description>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Effect of Chewing Gum on Bowel Function Recovery in Elderly Patients Following Posterior Lumbar Fusion Surgery: A Randomized Controlled Trial.</title>
@@ -137,13 +144,6 @@
       <guid>3aebea5e96671762</guid>
       <description>Objective To determine the effects of video-assisted education on postoperative physiological parameters and recovery outcomes of patients undergoing laparoscopic cholecystectomy. Background Laparoscopic cholecystectomy is a widely used minimally invasive surgical method to treat gallstones.</description>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beyond a Single Etiology: Tachy-Brady Syndrome and Possible Coexisting Focal Epilepsy Presenting as Transient Loss of Consciousness.</title>
-      <link>https://europepmc.org/article/MED/42465701</link>
-      <guid>bfdb92239b410050</guid>
-      <description>New work indexed under “Beyond a Single Etiology: Tachy-Brady Syndrome and Possible Coexisting Focal Epilepsy Presenting as Transient Loss of Consciousness..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
