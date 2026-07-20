@@ -4,7 +4,14 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Sun, 19 Jul 2026 15:34:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 17:10:00 +0000</lastBuildDate>
+    <item>
+      <title>Causality in Pure Quantum Computation with Quantum Control</title>
+      <link>http://arxiv.org/abs/2607.15926v1</link>
+      <guid>4216a0ff402e97d1</guid>
+      <description>Indefinite causal order is a characteristic phenomenon in quantum computation, with examples including the quantum SWITCH and the OCB process. Not all such processes are believed to be physically realizable: while some implementations of the quantum SWITCH have been proposed, the OCB process is suspected to be unrealizable.</description>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Consciousness in the Brain: An Integrative Review of Contemporary Theories</title>
       <link>https://doi.org/10.3390/brainsci16070745</link>
@@ -20,11 +27,25 @@
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Causality from the spectrum: Emergence of causal order from process-matrix mereology</title>
+      <link>http://arxiv.org/abs/2607.15345v1</link>
+      <guid>a3f792243c3cbe63</guid>
+      <description>In Hamiltonian systems, the only basis-independent quantity is the spectrum. Given a spectrum, quantum mereology seeks preferred tensor-product decompositions into local subsystems, leading to the emergence of locality.</description>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Advances in local field potential research in prolonged disorders of consciousness: a narrative review</title>
       <link>https://doi.org/10.1186/s41016-026-00441-x</link>
       <guid>cae5954100b3f68c</guid>
       <description>Prolonged disorders of consciousness (pDOC)-including coma, vegetative state/unresponsive wakefulness syndrome (VS/UWS), and minimally conscious state (MCS)-remain diagnostically and therapeutically challenging. Even with validated instruments such as the Coma Recovery Scale-Revised (CRS-R), behavioral assessment yields misdiagnosis rates approaching 40%, as fluctuating arousal, motor impairment, and sedation can mask preserved cognition.</description>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Fourier Wall: Why Public Tabular Datasets Refuse Quantum Advantage, and a Certified Recipe for Where It Lives</title>
+      <link>http://arxiv.org/abs/2607.15815v1</link>
+      <guid>6fecffc28de0d891</guid>
+      <description>Across public tabular benchmarks, quantum machine-learning (QML) models usually lose to carefully tuned classical baselines. We argue that this is a structural property of the datasets rather than merely a limitation of current models.</description>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Quantum consciousness revisited: a review of Orch OR and an introduction to the Quantum Cognition Gradient</title>
@@ -69,10 +90,17 @@
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The simple reason why classical gravity can entangle</title>
-      <link>https://doi.org/10.1142/s0218271826410075</link>
-      <guid>745fed9d57e63b67</guid>
-      <description>Ever since gravity-induced entanglement (GIE) experiments have been proposed as a witness of the quantum nature of gravity, theories of classical gravity coupled to quantum matter have been shown to predict GIE, despite the existence of several theory-independent no-go theorems purportedly claiming that it should be impossible. We explain why this is possible, and why this makes the study of GIE experiments, and of low-energy quantum gravity effects in general, an even more urgent matter in quantum gravity…</description>
+      <title>Fate of dynamical quantum phase transitions from sudden quench to slow quench limit</title>
+      <link>http://arxiv.org/abs/2607.15649v1</link>
+      <guid>fd55826057fd19c3</guid>
+      <description>Previous investigations of dynamical quantum phase transition (DQPT) have predominantly focused on sudden quench protocols. In this work, we systematically explore the fate of DQPT from the sudden to the slow quench regime.</description>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Perceived AGI: Believability as Dimensional Completeness, Not Capability</title>
+      <link>http://arxiv.org/abs/2607.15883v1</link>
+      <guid>928a858bb3c7ffef</guid>
+      <description>Large language models are broadly capable, yet in sustained one-to-one conversation they still read as flat: competent, responsive, and somehow not quite the presence of a mind. We hypothesize that a central missing ingredient is not more capability but dimensional completeness.</description>
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -104,46 +132,18 @@
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Complexity of Dynamical Correlators: Operator Shadows and Exponential Learning Separations</title>
+      <link>http://arxiv.org/abs/2607.15493v1</link>
+      <guid>76beb85501a24ab1</guid>
+      <description>Quantum platforms can realize many-body dynamics beyond classical simulation yet complete readout remains intractable: the cost of extracting accessible information scales exponentially with system size. Classical shadows and Bell sampling offer scalable, multi-observable estimation from randomized or entanglement-assisted measurements.</description>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Noise-Resilient Quantum Extreme Learning Machines for Astrophysical Spectral Analysis</title>
       <link>https://hdl.handle.net/10447/709404</link>
       <guid>420c784179d558c5</guid>
       <description>In this thesis we investigate the information processing capabilities of Quantum Extreme Learning Machines and discuss their real world applications in the field of astrophysics, particularly for atmospheric retrieval of exoplanets and supernovae spectral analysis, designing noise resilient models for Noise Intermediate Scale Quantum (NISQ) implementations. Extreme Learning Machines (ELMs) offer rapid training and structural efficiency by utilizing a randomized hidden layer—the reservoir—to map input data into a…</description>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Assessment and Intervention of Letter Knowledge With Children With Developmental Language Disorder: A Systematic Review.</title>
-      <link>https://europepmc.org/article/MED/42467730</link>
-      <guid>9ea501260c40dd01</guid>
-      <description>New work indexed under “Assessment and Intervention of Letter Knowledge With Children With Developmental Language Disorder: A Systematic Review..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Evolution-Level Quantum Optimal Control of Single-Qubit Gates with Physics-Informed Neural Networks</title>
-      <link>http://arxiv.org/abs/2607.14884v1</link>
-      <guid>75ce790b03c0fb4e</guid>
-      <description>Quantum gate design is often represented as pulse optimization, although the physical object that implements a gate is the full controlled evolution generated by the pulse. Here we use physics-informed neural networks to represent single-qubit gate design at this evolution level: the control fields, the Bloch-state trajectories, and the total duration are learned together under the Bloch equation.</description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Moment Optimization in the Navascués-Pironio-Acín Hierarchy</title>
-      <link>http://arxiv.org/abs/2607.14755v1</link>
-      <guid>e30c30a8cafe2cfd</guid>
-      <description>The Navascués-Pironio-Acín (NPA) hierarchy provides a convergent sequence of semidefinite programming (SDP) relaxations for noncommutative polynomial optimisation, ubiquitous in quantum physics. However, its practical applicability is limited by the combinatorial growth in operator moments required at each level.</description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What AI Cannot Learn: A Cognitive Science Perspective on Human-Centered Strategic HRM</title>
-      <link>https://doi.org/10.3390/admsci16070335</link>
-      <guid>a59a0fad04904495</guid>
-      <description>This article addresses the growing concern that generative artificial intelligence (AI) may replace human expertise in organizations. Instead of asking whether AI should be used, it examines why human judgment rooted in experience cannot be fully replaced by current AI systems and how organizations can work with AI more effectively.</description>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The effect of video-assisted education on postoperative outcomes after laparoscopic cholecystectomy: A randomized controlled trial</title>
-      <link>https://doi.org/10.1016/j.pecinn.2026.100488</link>
-      <guid>3aebea5e96671762</guid>
-      <description>Objective To determine the effects of video-assisted education on postoperative physiological parameters and recovery outcomes of patients undergoing laparoscopic cholecystectomy. Background Laparoscopic cholecystectomy is a widely used minimally invasive surgical method to treat gallstones.</description>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

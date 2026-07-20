@@ -1,34 +1,34 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "title": "The latest signal",
   "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Neuroscience, Quantum physics. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
     {
       "domain": "consciousness",
       "domain_label": "Consciousness / philosophy",
-      "title": "Consciousness in the Brain: An Integrative Review of Contemporary Theories",
-      "why_it_matters": "Understanding consciousness remains one of the most significant challenges in neuroscience, philosophy, and cognitive science. Despite substantial advances in neuroimaging, electrophysiology, and computational modeling, a comprehensive account of the neural basis of conscious experience has yet to emerge.",
-      "url": "https://doi.org/10.3390/brainsci16070745",
-      "signal_score": 59,
-      "evidence_label": "Journal article"
+      "title": "Causality in Pure Quantum Computation with Quantum Control",
+      "why_it_matters": "Indefinite causal order is a characteristic phenomenon in quantum computation, with examples including the quantum SWITCH and the OCB process. Not all such processes are believed to be physically realizable: while some implementations of the quantum SWITCH have been proposed, the OCB process is suspected to be unrealizable.",
+      "url": "http://arxiv.org/abs/2607.15926v1",
+      "signal_score": 58,
+      "evidence_label": "Preprint"
     },
     {
       "domain": "neuroscience",
       "domain_label": "Neuroscience",
-      "title": "Advances in biomarkers for diagnosing and prognosticating disorders of consciousness",
-      "why_it_matters": "Disorders of Consciousness (DoC) resulting from brain injury comprise a spectrum of clinical syndromes, where the level of impairment varies considerably depending on lesion location, etiology, severity, and individual patient factors. These differences substantially influence both rehabilitation strategies and long-term prognosis.",
-      "url": "https://doi.org/10.3389/fnins.2026.1823376",
+      "title": "Consciousness in the Brain: An Integrative Review of Contemporary Theories",
+      "why_it_matters": "Understanding consciousness remains one of the most significant challenges in neuroscience, philosophy, and cognitive science. Despite substantial advances in neuroimaging, electrophysiology, and computational modeling, a comprehensive account of the neural basis of conscious experience has yet to emerge.",
+      "url": "https://doi.org/10.3390/brainsci16070745",
       "signal_score": 58,
       "evidence_label": "Journal article"
     },
     {
       "domain": "quantum",
       "domain_label": "Quantum physics",
-      "title": "Quantum consciousness revisited: a review of Orch OR and an introduction to the Quantum Cognition Gradient",
-      "why_it_matters": "Despite centuries of scientific inquiry, the origin of human consciousness, characterized by self-awareness and the presence of qualia, remains one of the deepest mysteries in neuroscience. Orchestrated Objective Reduction (Orch OR), as proposed by Roger Penrose and Stuart Hameroff, posits that consciousness arises from the objective reduction of quantum superpositions within entangled neural microtubules, triggered by gravitational self-energy.",
-      "url": "https://doi.org/10.64336/001c.164985",
+      "title": "Causality from the spectrum: Emergence of causal order from process-matrix mereology",
+      "why_it_matters": "In Hamiltonian systems, the only basis-independent quantity is the spectrum. Given a spectrum, quantum mereology seeks preferred tensor-product decompositions into local subsystems, leading to the emergence of locality.",
+      "url": "http://arxiv.org/abs/2607.15345v1",
       "signal_score": 57,
-      "evidence_label": "Journal article"
+      "evidence_label": "Preprint"
     }
   ]
 }
