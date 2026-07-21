@@ -4,13 +4,20 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Mon, 20 Jul 2026 17:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 17:01:06 +0000</lastBuildDate>
     <item>
-      <title>Causality in Pure Quantum Computation with Quantum Control</title>
-      <link>http://arxiv.org/abs/2607.15926v1</link>
-      <guid>4216a0ff402e97d1</guid>
-      <description>Indefinite causal order is a characteristic phenomenon in quantum computation, with examples including the quantum SWITCH and the OCB process. Not all such processes are believed to be physically realizable: while some implementations of the quantum SWITCH have been proposed, the OCB process is suspected to be unrealizable.</description>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <title>QuantiSpect: A Structure-Aware Lightweight 3D CNN Pre-Decoder for Scalable Surface Code Quantum Error Correction</title>
+      <link>http://arxiv.org/abs/2607.18204v1</link>
+      <guid>f52b517a75d4c144</guid>
+      <description>Real-time decoding is a critical bottleneck for large-scale fault-tolerant quantum computing. AI-based neural pre-decoders locally correct most physical errors before passing residual syndromes to a global decoder, enabling sub-microsecond latencies.</description>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stochastic Pauli-path simulator for large-scale quantum optimization</title>
+      <link>http://arxiv.org/abs/2607.17804v1</link>
+      <guid>b323fe115c455285</guid>
+      <description>Pauli-based simulators offer a promising route to large-scale classical simulation of quantum circuits in the low-magic regime. Yet their applicability remains largely limited to forward simulation, making them inadequate for optimization-driven quantum tasks such as variational state preparation and parameter initialization.</description>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Consciousness in the Brain: An Integrative Review of Contemporary Theories</title>
@@ -27,13 +34,6 @@
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Causality from the spectrum: Emergence of causal order from process-matrix mereology</title>
-      <link>http://arxiv.org/abs/2607.15345v1</link>
-      <guid>a3f792243c3cbe63</guid>
-      <description>In Hamiltonian systems, the only basis-independent quantity is the spectrum. Given a spectrum, quantum mereology seeks preferred tensor-product decompositions into local subsystems, leading to the emergence of locality.</description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Advances in local field potential research in prolonged disorders of consciousness: a narrative review</title>
       <link>https://doi.org/10.1186/s41016-026-00441-x</link>
       <guid>cae5954100b3f68c</guid>
@@ -41,11 +41,11 @@
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Fourier Wall: Why Public Tabular Datasets Refuse Quantum Advantage, and a Certified Recipe for Where It Lives</title>
-      <link>http://arxiv.org/abs/2607.15815v1</link>
-      <guid>6fecffc28de0d891</guid>
-      <description>Across public tabular benchmarks, quantum machine-learning (QML) models usually lose to carefully tuned classical baselines. We argue that this is a structural property of the datasets rather than merely a limitation of current models.</description>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Light-Cone Scaling of In-Circuit Noise in Randomized Measurements</title>
+      <link>http://arxiv.org/abs/2607.17740v1</link>
+      <guid>fcfafc6c352d7aa4</guid>
+      <description>Randomized measurements provide an efficient way to extract physical properties of an unknown quantum state from limited data. On near-term hardware, gate and readout errors bias the reconstructed observables.</description>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Quantum consciousness revisited: a review of Orch OR and an introduction to the Quantum Cognition Gradient</title>
@@ -53,6 +53,55 @@
       <guid>1368f0dc3a07340c</guid>
       <description>Despite centuries of scientific inquiry, the origin of human consciousness, characterized by self-awareness and the presence of qualia, remains one of the deepest mysteries in neuroscience. Orchestrated Objective Reduction (Orch OR), as proposed by Roger Penrose and Stuart Hameroff, posits that consciousness arises from the objective reduction of quantum superpositions within entangled neural microtubules, triggered by gravitational self-energy.</description>
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spatial nonlocality imaging via metasurface</title>
+      <link>http://arxiv.org/abs/2607.17618v1</link>
+      <guid>f9dd8d1f82204549</guid>
+      <description>Bell nonlocality is both a defining signature of entanglement and a key quantum information resource. However, visualizing and certifying nonlocal correlations across a spatially multimode photonic field remains challenging due to the rapidly growing measurement cost of spatially resolved projective tests.</description>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neural Gauge-P Representation for Open Quantum Dynamics of Interacting Bosons</title>
+      <link>http://arxiv.org/abs/2607.17534v1</link>
+      <guid>0a6539584dee5c72</guid>
+      <description>Simulating the nonequilibrium dynamics of interacting open quantum systems remains challenging beyond small system sizes. Quantum phase-space representations provide a scalable approach, but their useful simulation time can be limited by broad distribution tails and the associated boundary terms.</description>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LLM-Driven Cross-Paradigm Design for Quantum Optimal Control</title>
+      <link>http://arxiv.org/abs/2607.17498v1</link>
+      <guid>64c1bdde297d04db</guid>
+      <description>Quantum optimal control (QOC) underpins adiabatic quantum computation, quantum annealing, and quantum state engineering, yet practical deployment is fundamentally bottlenecked by strict hardware constraints and substantial expert effort required to design protocols for each problem instance. To overcome this, we introduce QOC-Workbench, an auditable, large language model (LLM)-driven workflow that acts as an automated quantum co-scientist for cross-paradigm protocol design.</description>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Topical Airway Anesthesia for Tracheal Intubation Prevents Intraoperative Hypotension and Improves Outcomes in Severe Traumatic Brain Injury by Reducing Anesthesia Induction: A Single-Center, Single-Blinded, Randomized Trial.</title>
+      <link>https://europepmc.org/article/MED/42474272</link>
+      <guid>4bc802f38a8957e3</guid>
+      <description>New work indexed under “Topical Airway Anesthesia for Tracheal Intubation Prevents Intraoperative Hypotension and Improves Outcomes in Severe Traumatic Brain Injury by Reducing Anesthesia Induction: A Single-Center, Single-Blinded, Randomized Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comparison of Opioid-Free Versions of Total Intravenous Anesthesia and Inhalational Anesthesia in Bariatric Surgery: A Randomized Controlled Trial.</title>
+      <link>https://europepmc.org/article/MED/42472775</link>
+      <guid>9361b0fc47f5c543</guid>
+      <description>New work indexed under “Comparison of Opioid-Free Versions of Total Intravenous Anesthesia and Inhalational Anesthesia in Bariatric Surgery: A Randomized Controlled Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spinal anesthesia in laparoscopic colorectal surgery: analgesia and recovery outcomes - a cohort study and systematic review of randomized controlled studies.</title>
+      <link>https://europepmc.org/article/MED/42472759</link>
+      <guid>b4235fe49cd6eedd</guid>
+      <description>New work indexed under “Spinal anesthesia in laparoscopic colorectal surgery: analgesia and recovery outcomes - a cohort study and systematic review of randomized controlled studies..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Correlates of hepatitis B virus awareness and disease specific knowledge in Uganda: a meta-analysis and meta-regression of studies published between 2018 and 2025.</title>
+      <link>https://europepmc.org/article/MED/42471556</link>
+      <guid>181763cdcaf360f2</guid>
+      <description>New work indexed under “Correlates of hepatitis B virus awareness and disease specific knowledge in Uganda: a meta-analysis and meta-regression of studies published between 2018 and 2025..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The regulation of GABAergic nervous system in sleep‑wake states and general anesthesia</title>
@@ -69,81 +118,32 @@
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Efficacy of Hypnotherapy in Reducing Burnout and Related Psychopathologies: Protocol for a Systematic Review and Meta-Analysis.</title>
-      <link>https://europepmc.org/article/MED/42467904</link>
-      <guid>0069787171653e34</guid>
-      <description>New work indexed under “The Efficacy of Hypnotherapy in Reducing Burnout and Related Psychopathologies: Protocol for a Systematic Review and Meta-Analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <title>The Positive Experience Principle: Forecasting Conscious Choices with AI Embeddings</title>
+      <link>http://arxiv.org/abs/2607.16659v1</link>
+      <guid>e7a0b6ed3e924756</guid>
+      <description>A fundamental challenge in the science of consciousness is the lack of a universal, predictive framework for motivated behavior. While existing theories excel at describing specific mechanisms, from neural pathways to computational models, they do not provide a foundational principle that explains the consistent direction of conscious systems toward certain states and away from others.</description>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Prevalence of unipolar mania in bipolar I disorder: a systematic review and meta-analysis of observational studies.</title>
-      <link>https://europepmc.org/article/MED/42464611</link>
-      <guid>27dfb1428630b9bd</guid>
-      <description>New work indexed under “Prevalence of unipolar mania in bipolar I disorder: a systematic review and meta-analysis of observational studies..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <title>How to Build Marcus's Algebraic Mind: From Thagard's Brain--Mind Viewpoint</title>
+      <link>http://arxiv.org/abs/2607.16573v1</link>
+      <guid>02854f6711ae63bc</guid>
+      <description>Two critiques of connectionist cognition converge on one missing capacity. In The Algebraic Mind, Marcus isolated three components any architecture must support -- operations over variables, structured representations, and individuals distinct from kinds -- showed perceptrons support none, and left neural implementation as conjecture.</description>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Self-Aware Recursively Self-Improving Agents for Personal Singularity: A Goal-, Scope-, Tool-, and Benchmark-Driven Multi-Agent Architecture</title>
-      <link>http://arxiv.org/abs/2607.12254v2</link>
-      <guid>1bd90467707a4c9c</guid>
-      <description>Large language model (LLM) agents can plan, use tools, maintain memory, and execute long-horizon tasks. This paper proposes Self-Aware Recursively Self-Improving (SARSI) agents: governed agents that maintain a persistent self-model of identity, goals, capabilities, limitations, uncertainty, relationships, history, and developmental change, and use that model to guide and evaluate recursive improvement.</description>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Perineural or intravenous administration of dexmedetomidine combined with anterior quadratus lumborum block for analgesia after retroperitoneal laparoscopic surgery: a prospective, randomized controlled trial.</title>
+      <link>https://europepmc.org/article/MED/42471587</link>
+      <guid>25020a88df442f69</guid>
+      <description>New work indexed under “Perineural or intravenous administration of dexmedetomidine combined with anterior quadratus lumborum block for analgesia after retroperitoneal laparoscopic surgery: a prospective, randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Fate of dynamical quantum phase transitions from sudden quench to slow quench limit</title>
-      <link>http://arxiv.org/abs/2607.15649v1</link>
-      <guid>fd55826057fd19c3</guid>
-      <description>Previous investigations of dynamical quantum phase transition (DQPT) have predominantly focused on sudden quench protocols. In this work, we systematically explore the fate of DQPT from the sudden to the slow quench regime.</description>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Perceived AGI: Believability as Dimensional Completeness, Not Capability</title>
-      <link>http://arxiv.org/abs/2607.15883v1</link>
-      <guid>928a858bb3c7ffef</guid>
-      <description>Large language models are broadly capable, yet in sustained one-to-one conversation they still read as flat: competent, responsive, and somehow not quite the presence of a mind. We hypothesize that a central missing ingredient is not more capability but dimensional completeness.</description>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Effect of Chewing Gum on Bowel Function Recovery in Elderly Patients Following Posterior Lumbar Fusion Surgery: A Randomized Controlled Trial.</title>
-      <link>https://europepmc.org/article/MED/42469928</link>
-      <guid>af445776b4b38db0</guid>
-      <description>New work indexed under “Effect of Chewing Gum on Bowel Function Recovery in Elderly Patients Following Posterior Lumbar Fusion Surgery: A Randomized Controlled Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building Emotional Awareness and Mental Health in Parenting (BEAM): protocol for a parallel-group randomized controlled non-inferiority trial for an app based intervention to improve postpartum mental health and support children's brain development in Western Canada.</title>
-      <link>https://europepmc.org/article/MED/42469885</link>
-      <guid>d37e4ae71f87dbe8</guid>
-      <description>New work indexed under “Building Emotional Awareness and Mental Health in Parenting (BEAM): protocol for a parallel-group randomized controlled non-inferiority trial for an app based intervention to improve postpartum mental health and support children's brain development in Western Canada..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nurses' perceptions of hospital-acquired conditions in older adults in acute care settings: A randomized vignette-based study.</title>
-      <link>https://europepmc.org/article/MED/42468433</link>
-      <guid>4dfd3413be8058b1</guid>
-      <description>New work indexed under “Nurses' perceptions of hospital-acquired conditions in older adults in acute care settings: A randomized vignette-based study..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comparison of ultrasound-guided erector spinae plane block to intrathecal morphine for postoperative analgesia in patients undergoing elective lumbar fusion operations under general anesthesia: a randomized controlled trial.</title>
-      <link>https://europepmc.org/article/MED/42464120</link>
-      <guid>3e76860dc95b7273</guid>
-      <description>New work indexed under “Comparison of ultrasound-guided erector spinae plane block to intrathecal morphine for postoperative analgesia in patients undergoing elective lumbar fusion operations under general anesthesia: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Complexity of Dynamical Correlators: Operator Shadows and Exponential Learning Separations</title>
-      <link>http://arxiv.org/abs/2607.15493v1</link>
-      <guid>76beb85501a24ab1</guid>
-      <description>Quantum platforms can realize many-body dynamics beyond classical simulation yet complete readout remains intractable: the cost of extracting accessible information scales exponentially with system size. Classical shadows and Bell sampling offer scalable, multi-observable estimation from randomized or entanglement-assisted measurements.</description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Noise-Resilient Quantum Extreme Learning Machines for Astrophysical Spectral Analysis</title>
-      <link>https://hdl.handle.net/10447/709404</link>
-      <guid>420c784179d558c5</guid>
-      <description>In this thesis we investigate the information processing capabilities of Quantum Extreme Learning Machines and discuss their real world applications in the field of astrophysics, particularly for atmospheric retrieval of exoplanets and supernovae spectral analysis, designing noise resilient models for Noise Intermediate Scale Quantum (NISQ) implementations. Extreme Learning Machines (ELMs) offer rapid training and structural efficiency by utilizing a randomized hidden layer—the reservoir—to map input data into a…</description>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Response to Letter to the Editor: Comment on "Effect of Remimazolam or Propofol Combined With Esketamine on Anesthesia and Early Perioperative Neurocognitive Disorders in Patients Undergoing Thoracoscopic Partial Lung Resection: A Randomized Clinical Trial".</title>
+      <link>https://europepmc.org/article/MED/42471301</link>
+      <guid>0c919c5a991bf2c2</guid>
+      <description>New work indexed under “Response to Letter to the Editor: Comment on "Effect of Remimazolam or Propofol Combined With Esketamine on Anesthesia and Early Perioperative Neurocognitive Disorders in Patients Undergoing Thoracoscopic Partial Lung Resection: A Randomized Clinical Trial"..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
