@@ -1,33 +1,33 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "title": "The latest signal",
   "overview": "Today’s index contains 240 recent records. The strongest signals span Quantum physics, Neuroscience, Consciousness / philosophy. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
     {
       "domain": "quantum",
       "domain_label": "Quantum physics",
-      "title": "QuantiSpect: A Structure-Aware Lightweight 3D CNN Pre-Decoder for Scalable Surface Code Quantum Error Correction",
-      "why_it_matters": "Real-time decoding is a critical bottleneck for large-scale fault-tolerant quantum computing. AI-based neural pre-decoders locally correct most physical errors before passing residual syndromes to a global decoder, enabling sub-microsecond latencies.",
-      "url": "http://arxiv.org/abs/2607.18204v1",
-      "signal_score": 60,
-      "evidence_label": "Preprint"
+      "title": "Spin quantum computing, spin quantum cognition",
+      "why_it_matters": "Abstract Over two decades ago, Bruce Kane proposed that spin-half phosphorus nuclei embedded in a spin-zero silicon substrate could serve as a viable platform for spin-based quantum computing. These nuclear spins exhibit remarkably long single-spin coherence times, making them ideal candidates for qubits.",
+      "url": "https://doi.org/10.1007/s11128-026-05286-y",
+      "signal_score": 59,
+      "evidence_label": "Journal article"
     },
     {
       "domain": "neuroscience",
       "domain_label": "Neuroscience",
-      "title": "Stochastic Pauli-path simulator for large-scale quantum optimization",
-      "why_it_matters": "Pauli-based simulators offer a promising route to large-scale classical simulation of quantum circuits in the low-magic regime. Yet their applicability remains largely limited to forward simulation, making them inadequate for optimization-driven quantum tasks such as variational state preparation and parameter initialization.",
-      "url": "http://arxiv.org/abs/2607.17804v1",
-      "signal_score": 60,
-      "evidence_label": "Preprint"
+      "title": "The Five-Year Horizon: Quantum Computing and the Philosophy of Technical Becoming",
+      "why_it_matters": "Certain physics-based technologies (quantum computing, fusion energy, advanced materials, brain–computer interfaces) have remained “five years away” for decades. This paper argues that this perpetual horizon is not a forecasting failure but the temporal signature of Perpetual Five-Year Technologies (PFYTs): technologies of atoms, not bits, whose technical object and enabling ecosystem must co-develop.",
+      "url": "https://doi.org/10.3390/philosophies11040127",
+      "signal_score": 59,
+      "evidence_label": "Journal article"
     },
     {
       "domain": "consciousness",
       "domain_label": "Consciousness / philosophy",
-      "title": "Consciousness in the Brain: An Integrative Review of Contemporary Theories",
-      "why_it_matters": "Understanding consciousness remains one of the most significant challenges in neuroscience, philosophy, and cognitive science. Despite substantial advances in neuroimaging, electrophysiology, and computational modeling, a comprehensive account of the neural basis of conscious experience has yet to emerge.",
-      "url": "https://doi.org/10.3390/brainsci16070745",
-      "signal_score": 57,
+      "title": "Brain criticality characterizes abnormal neural dynamics and metabolism in disorder of consciousness",
+      "why_it_matters": "Revealing how disrupted brain dynamics lead to altered consciousness levels remains a central challenge in understanding the neural mechanisms underlying consciousness. The brain criticality framework offers a promising perspective, in which optimal neural integration and information processing occur when the brain operates near a critical point, while also reflecting fundamental neural processes such as excitation/inhibition balance.",
+      "url": "https://doi.org/10.1038/s42003-026-10713-y",
+      "signal_score": 59,
       "evidence_label": "Journal article"
     }
   ]

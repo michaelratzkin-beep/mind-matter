@@ -4,19 +4,33 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Tue, 21 Jul 2026 17:01:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 17:01:21 +0000</lastBuildDate>
+    <item>
+      <title>Spin quantum computing, spin quantum cognition</title>
+      <link>https://doi.org/10.1007/s11128-026-05286-y</link>
+      <guid>a950825b314d86d8</guid>
+      <description>Abstract Over two decades ago, Bruce Kane proposed that spin-half phosphorus nuclei embedded in a spin-zero silicon substrate could serve as a viable platform for spin-based quantum computing. These nuclear spins exhibit remarkably long single-spin coherence times, making them ideal candidates for qubits.</description>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Five-Year Horizon: Quantum Computing and the Philosophy of Technical Becoming</title>
+      <link>https://doi.org/10.3390/philosophies11040127</link>
+      <guid>1f7a44f332ce3c74</guid>
+      <description>Certain physics-based technologies (quantum computing, fusion energy, advanced materials, brain–computer interfaces) have remained “five years away” for decades. This paper argues that this perpetual horizon is not a forecasting failure but the temporal signature of Perpetual Five-Year Technologies (PFYTs): technologies of atoms, not bits, whose technical object and enabling ecosystem must co-develop.</description>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brain criticality characterizes abnormal neural dynamics and metabolism in disorder of consciousness</title>
+      <link>https://doi.org/10.1038/s42003-026-10713-y</link>
+      <guid>d8e93bc5c1591ade</guid>
+      <description>Revealing how disrupted brain dynamics lead to altered consciousness levels remains a central challenge in understanding the neural mechanisms underlying consciousness. The brain criticality framework offers a promising perspective, in which optimal neural integration and information processing occur when the brain operates near a critical point, while also reflecting fundamental neural processes such as excitation/inhibition balance.</description>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>QuantiSpect: A Structure-Aware Lightweight 3D CNN Pre-Decoder for Scalable Surface Code Quantum Error Correction</title>
       <link>http://arxiv.org/abs/2607.18204v1</link>
       <guid>f52b517a75d4c144</guid>
       <description>Real-time decoding is a critical bottleneck for large-scale fault-tolerant quantum computing. AI-based neural pre-decoders locally correct most physical errors before passing residual syndromes to a global decoder, enabling sub-microsecond latencies.</description>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stochastic Pauli-path simulator for large-scale quantum optimization</title>
-      <link>http://arxiv.org/abs/2607.17804v1</link>
-      <guid>b323fe115c455285</guid>
-      <description>Pauli-based simulators offer a promising route to large-scale classical simulation of quantum circuits in the low-magic regime. Yet their applicability remains largely limited to forward simulation, making them inadequate for optimization-driven quantum tasks such as variational state preparation and parameter initialization.</description>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -41,10 +55,38 @@
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Light-Cone Scaling of In-Circuit Noise in Randomized Measurements</title>
-      <link>http://arxiv.org/abs/2607.17740v1</link>
-      <guid>fcfafc6c352d7aa4</guid>
-      <description>Randomized measurements provide an efficient way to extract physical properties of an unknown quantum state from limited data. On near-term hardware, gate and readout errors bias the reconstructed observables.</description>
+      <title>The Hidden Injury: Behavioral Health's Role in Pediatric Orthopaedic Outcomes-A Systematic Review.</title>
+      <link>https://europepmc.org/article/MED/42478653</link>
+      <guid>993d4ebf6ee01682</guid>
+      <description>New work indexed under “The Hidden Injury: Behavioral Health's Role in Pediatric Orthopaedic Outcomes-A Systematic Review..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enhanced NQS via Annealed Gradient Descent</title>
+      <link>http://arxiv.org/abs/2607.18865v1</link>
+      <guid>b702b3e887f74312</guid>
+      <description>Neural quantum states offer expressive representations of quantum many-body wave functions, yet their practical accuracy can be limited by stochastic optimization rather than representational capacity. Here we identify a finite-sample instability, termed subspace trapping, in which physically important configurations become strongly underestimated, remain absent from successive sampling batches and receive insufficient gradient feedback.</description>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Immediate effects of sitting position on cervical and trunk posture, perceived discomfort, and RULA-based ergonomic risk during smartphone gaming: A randomized within-subject study.</title>
+      <link>https://europepmc.org/article/MED/42479748</link>
+      <guid>c34344682c0a2846</guid>
+      <description>New work indexed under “Immediate effects of sitting position on cervical and trunk posture, perceived discomfort, and RULA-based ergonomic risk during smartphone gaming: A randomized within-subject study..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Effect of IoC2-guided analgesic titration on intraoperative opioid consumption in older patients undergoing laparoscopic colorectal surgery: a randomized controlled trial.</title>
+      <link>https://europepmc.org/article/MED/42479133</link>
+      <guid>7813e1c05bced8f8</guid>
+      <description>New work indexed under “Effect of IoC2-guided analgesic titration on intraoperative opioid consumption in older patients undergoing laparoscopic colorectal surgery: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Non-pharmacological preoperative interventions for the prevention of emergence delirium in children under general anesthesia: a systematic review and network meta-analysis.</title>
+      <link>https://europepmc.org/article/MED/42477534</link>
+      <guid>55f7307186006bcc</guid>
+      <description>New work indexed under “Non-pharmacological preoperative interventions for the prevention of emergence delirium in children under general anesthesia: a systematic review and network meta-analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -55,53 +97,46 @@
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Spatial nonlocality imaging via metasurface</title>
-      <link>http://arxiv.org/abs/2607.17618v1</link>
-      <guid>f9dd8d1f82204549</guid>
-      <description>Bell nonlocality is both a defining signature of entanglement and a key quantum information resource. However, visualizing and certifying nonlocal correlations across a spatially multimode photonic field remains challenging due to the rapidly growing measurement cost of spatially resolved projective tests.</description>
+      <title>Individual-Specific Functional Connectivity-Based State Classification and Prognosis Prediction for Disorders of Consciousness.</title>
+      <link>https://europepmc.org/article/MED/42479508</link>
+      <guid>0f6058ec5f1d0cba</guid>
+      <description>New work indexed under “Individual-Specific Functional Connectivity-Based State Classification and Prognosis Prediction for Disorders of Consciousness..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Equivariant Continuous Normalizing Flows with Offline Sampling for Fermionic Ground State Estimation</title>
+      <link>http://arxiv.org/abs/2607.18486v1</link>
+      <guid>0ac0088cdfc1a770</guid>
+      <description>We introduce a framework for fermionic variational Monte Carlo (VMC) in which a continuous normalizing flow (CNF) refines a fixed antisymmetric base wavefunction. The flow is implemented as a permutation-equivariant neural ODE, a smooth, topology-preserving map that learns correlations not captured by the base; equivariance preserves the antisymmetry of the base, so the flow can in principle improve any antisymmetric ansatz that can be sampled efficiently.</description>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Neural Gauge-P Representation for Open Quantum Dynamics of Interacting Bosons</title>
-      <link>http://arxiv.org/abs/2607.17534v1</link>
-      <guid>0a6539584dee5c72</guid>
-      <description>Simulating the nonequilibrium dynamics of interacting open quantum systems remains challenging beyond small system sizes. Quantum phase-space representations provide a scalable approach, but their useful simulation time can be limited by broad distribution tails and the associated boundary terms.</description>
+      <title>The fermion sector of the SMEFT from asymptotically safe gravity</title>
+      <link>http://arxiv.org/abs/2607.18398v1</link>
+      <guid>dda2026af3beadc8</guid>
+      <description>Quantum gravity impacts Standard Model fields through effective interactions generated by renormalization. These appear as Standard Model Effective Field Theory (SMEFT) operators, where the effects of new physics are parametrized by the values of the higher-order SMEFT coefficients.</description>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LLM-Driven Cross-Paradigm Design for Quantum Optimal Control</title>
-      <link>http://arxiv.org/abs/2607.17498v1</link>
-      <guid>64c1bdde297d04db</guid>
-      <description>Quantum optimal control (QOC) underpins adiabatic quantum computation, quantum annealing, and quantum state engineering, yet practical deployment is fundamentally bottlenecked by strict hardware constraints and substantial expert effort required to design protocols for each problem instance. To overcome this, we introduce QOC-Workbench, an auditable, large language model (LLM)-driven workflow that acts as an automated quantum co-scientist for cross-paradigm protocol design.</description>
+      <title>Effect of intermittent abdominal ice application on postoperative pain and opioid consumption after elective cesarean section: a randomized controlled study.</title>
+      <link>https://europepmc.org/article/MED/42477589</link>
+      <guid>578b718e55ff8352</guid>
+      <description>New work indexed under “Effect of intermittent abdominal ice application on postoperative pain and opioid consumption after elective cesarean section: a randomized controlled study..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Topical Airway Anesthesia for Tracheal Intubation Prevents Intraoperative Hypotension and Improves Outcomes in Severe Traumatic Brain Injury by Reducing Anesthesia Induction: A Single-Center, Single-Blinded, Randomized Trial.</title>
-      <link>https://europepmc.org/article/MED/42474272</link>
-      <guid>4bc802f38a8957e3</guid>
-      <description>New work indexed under “Topical Airway Anesthesia for Tracheal Intubation Prevents Intraoperative Hypotension and Improves Outcomes in Severe Traumatic Brain Injury by Reducing Anesthesia Induction: A Single-Center, Single-Blinded, Randomized Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <title>Ventilation heterogeneity under mechanical ventilation via mask during anesthetic induction: a randomized trial comparing two ventilation strategies.</title>
+      <link>https://europepmc.org/article/MED/42476192</link>
+      <guid>d57bfed7dad0e0d8</guid>
+      <description>New work indexed under “Ventilation heterogeneity under mechanical ventilation via mask during anesthetic induction: a randomized trial comparing two ventilation strategies..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Comparison of Opioid-Free Versions of Total Intravenous Anesthesia and Inhalational Anesthesia in Bariatric Surgery: A Randomized Controlled Trial.</title>
-      <link>https://europepmc.org/article/MED/42472775</link>
-      <guid>9361b0fc47f5c543</guid>
-      <description>New work indexed under “Comparison of Opioid-Free Versions of Total Intravenous Anesthesia and Inhalational Anesthesia in Bariatric Surgery: A Randomized Controlled Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <title>Randomized Feasibility Trial of Routine Versus Selective Transesophageal Echocardiography During Isolated Coronary Artery Bypass Grafting.</title>
+      <link>https://europepmc.org/article/MED/42475817</link>
+      <guid>f4c43e59dd1b7ad1</guid>
+      <description>New work indexed under “Randomized Feasibility Trial of Routine Versus Selective Transesophageal Echocardiography During Isolated Coronary Artery Bypass Grafting..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spinal anesthesia in laparoscopic colorectal surgery: analgesia and recovery outcomes - a cohort study and systematic review of randomized controlled studies.</title>
-      <link>https://europepmc.org/article/MED/42472759</link>
-      <guid>b4235fe49cd6eedd</guid>
-      <description>New work indexed under “Spinal anesthesia in laparoscopic colorectal surgery: analgesia and recovery outcomes - a cohort study and systematic review of randomized controlled studies..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Correlates of hepatitis B virus awareness and disease specific knowledge in Uganda: a meta-analysis and meta-regression of studies published between 2018 and 2025.</title>
-      <link>https://europepmc.org/article/MED/42471556</link>
-      <guid>181763cdcaf360f2</guid>
-      <description>New work indexed under “Correlates of hepatitis B virus awareness and disease specific knowledge in Uganda: a meta-analysis and meta-regression of studies published between 2018 and 2025..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The regulation of GABAergic nervous system in sleep‑wake states and general anesthesia</title>
@@ -109,41 +144,6 @@
       <guid>bb556228d27c6d38</guid>
       <description>Sleep-wake cycles and general anesthesia both involve reversible alterations in consciousness and share important neurobehavioral characteristics; however, their underlying mechanisms remain incompletely understood. As the principal inhibitory neuronal population in the central nervous system, GABAergic neurons play a key regulatory role in regulating transitions between states of consciousness.</description>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A three-component dynamical index of consciousness-related neural organisation</title>
-      <link>https://doi.org/10.1007/s00422-026-01049-1</link>
-      <guid>b0bd0314cab53690</guid>
-      <description>Quantifying consciousness from brain activity remains a major challenge in neuroscience and clinical practice. Many existing EEG measures focus on a single feature of neural activity, such as complexity, synchrony, or spectral structure, but no single feature appears sufficient across different brain states.</description>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Positive Experience Principle: Forecasting Conscious Choices with AI Embeddings</title>
-      <link>http://arxiv.org/abs/2607.16659v1</link>
-      <guid>e7a0b6ed3e924756</guid>
-      <description>A fundamental challenge in the science of consciousness is the lack of a universal, predictive framework for motivated behavior. While existing theories excel at describing specific mechanisms, from neural pathways to computational models, they do not provide a foundational principle that explains the consistent direction of conscious systems toward certain states and away from others.</description>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Build Marcus's Algebraic Mind: From Thagard's Brain--Mind Viewpoint</title>
-      <link>http://arxiv.org/abs/2607.16573v1</link>
-      <guid>02854f6711ae63bc</guid>
-      <description>Two critiques of connectionist cognition converge on one missing capacity. In The Algebraic Mind, Marcus isolated three components any architecture must support -- operations over variables, structured representations, and individuals distinct from kinds -- showed perceptrons support none, and left neural implementation as conjecture.</description>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Perineural or intravenous administration of dexmedetomidine combined with anterior quadratus lumborum block for analgesia after retroperitoneal laparoscopic surgery: a prospective, randomized controlled trial.</title>
-      <link>https://europepmc.org/article/MED/42471587</link>
-      <guid>25020a88df442f69</guid>
-      <description>New work indexed under “Perineural or intravenous administration of dexmedetomidine combined with anterior quadratus lumborum block for analgesia after retroperitoneal laparoscopic surgery: a prospective, randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Response to Letter to the Editor: Comment on "Effect of Remimazolam or Propofol Combined With Esketamine on Anesthesia and Early Perioperative Neurocognitive Disorders in Patients Undergoing Thoracoscopic Partial Lung Resection: A Randomized Clinical Trial".</title>
-      <link>https://europepmc.org/article/MED/42471301</link>
-      <guid>0c919c5a991bf2c2</guid>
-      <description>New work indexed under “Response to Letter to the Editor: Comment on "Effect of Remimazolam or Propofol Combined With Esketamine on Anesthesia and Early Perioperative Neurocognitive Disorders in Patients Undergoing Thoracoscopic Partial Lung Resection: A Randomized Clinical Trial"..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
