@@ -1,33 +1,33 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "title": "The latest signal",
-  "overview": "Today’s index contains 240 recent records. The strongest signals span Quantum physics, Neuroscience, Consciousness / philosophy. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
+  "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Neuroscience, Quantum physics. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
+    {
+      "domain": "consciousness",
+      "domain_label": "Consciousness / philosophy",
+      "title": "From G tolerance to physiological state monitoring: mechanisms and adaptive protection",
+      "why_it_matters": "G-induced loss of consciousness (G-LOC) remains a challenge in high-performance aviation because it can rapidly impair pilot functional capacity and compromise aircraft control. Traditional approaches have largely treated G-LOC as a physiological tolerance or threshold problem, emphasizing maximum +Gz tolerance, centrifuge-based assessment, and post hoc identification of loss of consciousness.",
+      "url": "https://doi.org/10.3389/fphys.2026.1883478",
+      "signal_score": 60,
+      "evidence_label": "Journal article"
+    },
+    {
+      "domain": "neuroscience",
+      "domain_label": "Neuroscience",
+      "title": "Within-subject and between-subject variability in responses to a mind-body intervention in electrophysiological brain activity",
+      "why_it_matters": "Introduction Mind-body interventions (MBIs) increasingly used in health care include alterations in the ordinary state of consciousness that might be essential for their effects on psychological and physical patterns encoded in the unconscious. Little is known about the effects of repeated practice or the time of the repetitions.",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1872803",
+      "signal_score": 60,
+      "evidence_label": "Journal article"
+    },
     {
       "domain": "quantum",
       "domain_label": "Quantum physics",
       "title": "Spin quantum computing, spin quantum cognition",
       "why_it_matters": "Abstract Over two decades ago, Bruce Kane proposed that spin-half phosphorus nuclei embedded in a spin-zero silicon substrate could serve as a viable platform for spin-based quantum computing. These nuclear spins exhibit remarkably long single-spin coherence times, making them ideal candidates for qubits.",
       "url": "https://doi.org/10.1007/s11128-026-05286-y",
-      "signal_score": 59,
-      "evidence_label": "Journal article"
-    },
-    {
-      "domain": "neuroscience",
-      "domain_label": "Neuroscience",
-      "title": "The Five-Year Horizon: Quantum Computing and the Philosophy of Technical Becoming",
-      "why_it_matters": "Certain physics-based technologies (quantum computing, fusion energy, advanced materials, brain–computer interfaces) have remained “five years away” for decades. This paper argues that this perpetual horizon is not a forecasting failure but the temporal signature of Perpetual Five-Year Technologies (PFYTs): technologies of atoms, not bits, whose technical object and enabling ecosystem must co-develop.",
-      "url": "https://doi.org/10.3390/philosophies11040127",
-      "signal_score": 59,
-      "evidence_label": "Journal article"
-    },
-    {
-      "domain": "consciousness",
-      "domain_label": "Consciousness / philosophy",
-      "title": "Brain criticality characterizes abnormal neural dynamics and metabolism in disorder of consciousness",
-      "why_it_matters": "Revealing how disrupted brain dynamics lead to altered consciousness levels remains a central challenge in understanding the neural mechanisms underlying consciousness. The brain criticality framework offers a promising perspective, in which optimal neural integration and information processing occur when the brain operates near a critical point, while also reflecting fundamental neural processes such as excitation/inhibition balance.",
-      "url": "https://doi.org/10.1038/s42003-026-10713-y",
-      "signal_score": 59,
+      "signal_score": 58,
       "evidence_label": "Journal article"
     }
   ]
