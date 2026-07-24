@@ -4,7 +4,14 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Thu, 23 Jul 2026 17:04:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 17:16:56 +0000</lastBuildDate>
+    <item>
+      <title>ARGON: A GNN-Empowered Compilation Framework for Scalable Neutral Atom Computing</title>
+      <link>http://arxiv.org/abs/2607.21216v1</link>
+      <guid>9583d634d0c494ab</guid>
+      <description>Neutral atom quantum systems offer a promising pathway to large-scale quantum computing due to high qubit uniformity and flexible connectivity. To exploit this architecture, compilers must coordinate dynamic atom transport alongside highly parallel entangling gates.</description>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>From G tolerance to physiological state monitoring: mechanisms and adaptive protection</title>
       <link>https://doi.org/10.3389/fphys.2026.1883478</link>
@@ -41,6 +48,62 @@
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Flow-based Phase-space Tomography of Continuous-variable Quantum States</title>
+      <link>http://arxiv.org/abs/2607.21584v1</link>
+      <guid>cbc74507d834f5ec</guid>
+      <description>Continuous-variable quantum state tomography is limited by the cost of resolving non-Gaussian structure in high-dimensional phase space. We introduce QST-Flow, a quantum state tomography framework via flow-based generative modeling that represents experimentally accessible phase-space quasiprobability distributions with normalized, samplable neural densities rather than a truncated density matrix.</description>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The trainability of photonic quantum circuits</title>
+      <link>http://arxiv.org/abs/2607.21544v1</link>
+      <guid>f56783d1d89713f9</guid>
+      <description>Variational quantum algorithms are a leading approach to near-term quantum computing, but their scalability can be limited by barren plateaus and the sampling cost of resolving small changes in the loss landscape. Here, we study the trainability of passive linear-optical quantum circuits and introduce a framework based on the ratio of sample variance to circuit variance.</description>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>QuantumChain: Blockchain-Backed Quantum Federated Learning for Financial Fraud Detection</title>
+      <link>http://arxiv.org/abs/2607.21449v1</link>
+      <guid>1b08c99fa32dc65b</guid>
+      <description>Financial fraud detection is challenged by decentralized data, severe class imbalance, and privacy constraints. This paper presents QuantumChain, a secure Quantum Federated Learning (QFL) framework that combines hybrid quantum-classical neural networks, encrypted federated aggregation, blockchain-based auditability, and quantum-secure communication.</description>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Classifying Topology via Edge-State Pure Thermalization</title>
+      <link>http://arxiv.org/abs/2607.21299v1</link>
+      <guid>bad4603318ef6ec8</guid>
+      <description>Repeated-interaction machines distinguish heat-like from work-like resources through the steady states they generate, but whether topology can control this distinction remains unknown. Here we reveal the role of topology in the process by showing that topological edge states can act as pure-thermalization fuels.</description>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Circuit Fragments and Link Products in Continuous Variables</title>
+      <link>http://arxiv.org/abs/2607.21215v1</link>
+      <guid>ec2e37cf4bb9bfed</guid>
+      <description>Quantum circuits are often drawn as complete processes, with fixed inputs and outputs. In many quantum-information tasks, however, the natural object is only a fragment of such a circuit: an unknown source of non-Markovian noise to be probed, a subroutine to be inserted into a larger algorithm, or an agent implementing an adaptive strategy.</description>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Do emulated quantum circuits change what CNNs look at? Performance and explainability comparison in medical image classification</title>
+      <link>http://arxiv.org/abs/2607.21186v1</link>
+      <guid>068eff90946218bb</guid>
+      <description>Numerous studies have analyzed the use of hybrid quantum-classical convolutional neural networks as a promising alternative to classical deep learning. However, network components on quantum hardware impose fundamental limitations, while the scalability of quantum circuits leads to trainability issues.</description>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Examining Social Media User Types and the Impact on a Reproductive Health Web-Based Intervention for Young People in Francophone West Africa: Randomized Factorial Design Using Latent Class Analysis.</title>
+      <link>https://europepmc.org/article/MED/42490690</link>
+      <guid>cc589302f3fac6f3</guid>
+      <description>New work indexed under “Examining Social Media User Types and the Impact on a Reproductive Health Web-Based Intervention for Young People in Francophone West Africa: Randomized Factorial Design Using Latent Class Analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Autonomous bladder training for neurogenic bladder: a randomized controlled trial.</title>
+      <link>https://europepmc.org/article/MED/42488971</link>
+      <guid>b407e1b224eaf321</guid>
+      <description>New work indexed under “Autonomous bladder training for neurogenic bladder: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Consciousness in the Brain: An Integrative Review of Contemporary Theories</title>
       <link>https://doi.org/10.3390/brainsci16070745</link>
       <guid>704aba104bb2bdc5</guid>
@@ -48,45 +111,31 @@
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Lattice quantum electrodynamics of a molecular emitter in a topological gap</title>
-      <link>http://arxiv.org/abs/2607.20231v1</link>
-      <guid>bc54465bb09d3017</guid>
-      <description>Engineering the photonic environment using lattices of coupled resonators, which we refer to as lattice quantum electrodynamics (QED), provides a route to control both the spontaneous emission of individual quantum emitters and the photon-mediated interactions between them. Here we introduce an optical lattice QED platform based on individual dibenzoterrylene (DBT) molecules embedded in anthracene crystals and coupled to lattices of open optical microcavities.</description>
+      <title>Biological Computers and the Paediatric Consciousness Next Frontier.</title>
+      <link>https://europepmc.org/article/MED/42489173</link>
+      <guid>59d4f7ba1383ad0a</guid>
+      <description>New work indexed under “Biological Computers and the Paediatric Consciousness Next Frontier..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patient autonomy in advance care planning for Parkinson's disease: Systematic review with narrative synthesis.</title>
+      <link>https://europepmc.org/article/MED/42487559</link>
+      <guid>2934b0c259ec4c9a</guid>
+      <description>New work indexed under “Patient autonomy in advance care planning for Parkinson's disease: Systematic review with narrative synthesis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Component-Level Inverse Design of Transmon Qubits Using Neural Networks</title>
+      <link>http://arxiv.org/abs/2607.20795v1</link>
+      <guid>42f2c00d40d9731f</guid>
+      <description>Designing a superconducting qubit to realize specific Hamiltonian parameters typically requires iterating through a time and compute-intensive forward loop in which the designer chooses a layout geometry, simulates it, extracts circuit parameters such as capacitances, and refines the geometry. We study the inverse version of this task using a neural-network workflow that maps target Hamiltonian parameters directly to component-level layout parameters, which we subsequently demonstrate on a planar transmon layout.</description>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Quantum Kernels and the Cross-Section of Stock Returns: Anatomy of a Vanishing Advantage</title>
-      <link>http://arxiv.org/abs/2607.20168v1</link>
-      <guid>97d7eaad1660fe95</guid>
-      <description>Do quantum kernels improve cross-sectional stock return prediction? We run a controlled horse race on the Chinese A-share market in which a quantum fidelity kernel, a projected quantum kernel, and a classical RBF control share identical training subsamples, solver, and tuning budgets, so that only the kernel is exchanged.</description>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Physics-Informed Graph Neural Networks for Surface Code Decoding via Discrete Exterior Calculus</title>
-      <link>http://arxiv.org/abs/2607.20060v1</link>
-      <guid>af878a934482b234</guid>
-      <description>We introduce a physics-informed graph neural network decoder for the surface code. A discrete Poisson equation on the syndrome graph acts as a hard inductive bias on which a graph encoder learns syndrome-adaptive edge weights.</description>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PN-QNN: Harnessing Physical Noise as a Native Regularizer in Photonic Hybrid Quantum Neural Networks</title>
-      <link>http://arxiv.org/abs/2607.20045v1</link>
-      <guid>51264bc33c46f823</guid>
-      <description>Physical noise in near-term quantum hardware is usually treated as a nuisance to suppress. We ask whether it can instead act as a hardware-native regularizer for photonic hybrid quantum-classical neural networks (PHQCNNs), analogous to noise-injection regularization in classical deep learning.</description>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A reduction scheme for general-order Ising-like Hamiltonians in quantum heuristic solvers</title>
-      <link>http://arxiv.org/abs/2607.19871v1</link>
-      <guid>8c074684a1058b81</guid>
-      <description>The Ising model is ubiquitous in various optimization problems but notoriously difficult to solve due to combinatorial explosion. In view of this, Hamiltonian reduction is a useful preprocessing technique for reducing the effective problem size before applying heuristic solvers.</description>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Multi-Resolvent Hierarchy for the ETH Smooth Function</title>
-      <link>http://arxiv.org/abs/2607.19861v1</link>
-      <guid>e9851387dd819f5e</guid>
-      <description>The eigenstate thermalization hypothesis (ETH) provides a statistical description of thermalization in isolated quantum many-body systems, yet the phenomenological smooth function $f_O(\bar{E},ω)$ -- which controls the energy dependence of off-diagonal matrix elements -- lacks a systematic microscopic foundation. We develop a multi-resolvent hierarchy for the correlation corrections entering the ETH smooth function.</description>
+      <title>Learning the closest Slater determinant</title>
+      <link>http://arxiv.org/abs/2607.20623v1</link>
+      <guid>14933aa122b777e3</guid>
+      <description>Learning compact, interpretable descriptions of quantum many-body states is an important task in quantum science. We study the task of learning the Slater determinant with maximum fidelity to an arbitrary fermionic many-body state, with motivation from both Hartree-Fock methods and agnostic tomography.</description>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -95,55 +144,6 @@
       <guid>7140f715d0e46e6b</guid>
       <description>Artificial intelligence (AI) chatbots (e.g., ChatGPT) can communicate in strikingly humanlike ways. This has prompted many chatbot users to attribute psychological properties, including consciousness, to these systems.</description>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hypnosis associated with local anesthesia versus local anesthesia alone during bone marrow biopsy: a randomized, controlled, multicenter study, QUALHYBOM.</title>
-      <link>https://europepmc.org/article/MED/42484702</link>
-      <guid>e938babbca669c9e</guid>
-      <description>New work indexed under “Hypnosis associated with local anesthesia versus local anesthesia alone during bone marrow biopsy: a randomized, controlled, multicenter study, QUALHYBOM..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Advances in biomarkers for diagnosing and prognosticating disorders of consciousness</title>
-      <link>https://doi.org/10.3389/fnins.2026.1823376</link>
-      <guid>0f13df127b50ad56</guid>
-      <description>Disorders of Consciousness (DoC) resulting from brain injury comprise a spectrum of clinical syndromes, where the level of impairment varies considerably depending on lesion location, etiology, severity, and individual patient factors. These differences substantially influence both rehabilitation strategies and long-term prognosis.</description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Advances in local field potential research in prolonged disorders of consciousness: a narrative review</title>
-      <link>https://doi.org/10.1186/s41016-026-00441-x</link>
-      <guid>cae5954100b3f68c</guid>
-      <description>Prolonged disorders of consciousness (pDOC)-including coma, vegetative state/unresponsive wakefulness syndrome (VS/UWS), and minimally conscious state (MCS)-remain diagnostically and therapeutically challenging. Even with validated instruments such as the Coma Recovery Scale-Revised (CRS-R), behavioral assessment yields misdiagnosis rates approaching 40%, as fluctuating arousal, motor impairment, and sedation can mask preserved cognition.</description>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Hidden Injury: Behavioral Health's Role in Pediatric Orthopaedic Outcomes-A Systematic Review.</title>
-      <link>https://europepmc.org/article/MED/42478653</link>
-      <guid>993d4ebf6ee01682</guid>
-      <description>New work indexed under “The Hidden Injury: Behavioral Health's Role in Pediatric Orthopaedic Outcomes-A Systematic Review..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Intelligent qubits</title>
-      <link>http://arxiv.org/abs/2607.19596v1</link>
-      <guid>13145d8b7f455cd3</guid>
-      <description>We introduce the method of ``intelligent qubits,'' which replace live observers in Wigner's friend and Frauchiger--Renner thought experiments, in order to expose the source of the paradoxes: tacit substitution of Boolean hidden variables for non-commuting quantum propositions. The fallacy traces back to London and Bauer's attempt (1939) to legitimize a self-referential interpretation of observers' ``introspection,'' and thus intertwines the measurement and mind-body problems.</description>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quantum resonance-enhanced performance of quantum battery</title>
-      <link>http://arxiv.org/abs/2607.19477v1</link>
-      <guid>2205f3019a68d3ed</guid>
-      <description>Quantum resonance arising whenever the ratio of the intrinsic system frequency to the driving frequency becomes a rational number has been demonstrated to generate super-linear entanglement, enhance transport, quantum metrology performance and communication. Here, we demonstrate that quantum resonance can also serve as a powerful resource for quantum batteries.</description>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comparison of anesthetic effects of different sedative drugs combined with remifentanil for general anesthesia in bronchoscopy: a randomized controlled trial.</title>
-      <link>https://europepmc.org/article/MED/42482190</link>
-      <guid>f43fa23abe1ace46</guid>
-      <description>New work indexed under “Comparison of anesthetic effects of different sedative drugs combined with remifentanil for general anesthesia in bronchoscopy: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
