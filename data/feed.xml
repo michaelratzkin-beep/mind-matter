@@ -4,7 +4,7 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Fri, 24 Jul 2026 17:16:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 15:49:14 +0000</lastBuildDate>
     <item>
       <title>ARGON: A GNN-Empowered Compilation Framework for Scalable Neutral Atom Computing</title>
       <link>http://arxiv.org/abs/2607.21216v1</link>
@@ -46,6 +46,13 @@
       <guid>d8e93bc5c1591ade</guid>
       <description>Revealing how disrupted brain dynamics lead to altered consciousness levels remains a central challenge in understanding the neural mechanisms underlying consciousness. The brain criticality framework offers a promising perspective, in which optimal neural integration and information processing occur when the brain operates near a critical point, while also reflecting fundamental neural processes such as excitation/inhibition balance.</description>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Driving pressure-guided individualized PEEP versus fixed low PEEP in obese patients undergoing bariatric surgery: a randomized clinical trial.</title>
+      <link>https://europepmc.org/article/MED/42496731</link>
+      <guid>0553c236389cd101</guid>
+      <description>New work indexed under “Driving pressure-guided individualized PEEP versus fixed low PEEP in obese patients undergoing bariatric surgery: a randomized clinical trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Flow-based Phase-space Tomography of Continuous-variable Quantum States</title>
@@ -97,34 +104,6 @@
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Autonomous bladder training for neurogenic bladder: a randomized controlled trial.</title>
-      <link>https://europepmc.org/article/MED/42488971</link>
-      <guid>b407e1b224eaf321</guid>
-      <description>New work indexed under “Autonomous bladder training for neurogenic bladder: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Consciousness in the Brain: An Integrative Review of Contemporary Theories</title>
-      <link>https://doi.org/10.3390/brainsci16070745</link>
-      <guid>704aba104bb2bdc5</guid>
-      <description>Understanding consciousness remains one of the most significant challenges in neuroscience, philosophy, and cognitive science. Despite substantial advances in neuroimaging, electrophysiology, and computational modeling, a comprehensive account of the neural basis of conscious experience has yet to emerge.</description>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Biological Computers and the Paediatric Consciousness Next Frontier.</title>
-      <link>https://europepmc.org/article/MED/42489173</link>
-      <guid>59d4f7ba1383ad0a</guid>
-      <description>New work indexed under “Biological Computers and the Paediatric Consciousness Next Frontier..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patient autonomy in advance care planning for Parkinson's disease: Systematic review with narrative synthesis.</title>
-      <link>https://europepmc.org/article/MED/42487559</link>
-      <guid>2934b0c259ec4c9a</guid>
-      <description>New work indexed under “Patient autonomy in advance care planning for Parkinson's disease: Systematic review with narrative synthesis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Component-Level Inverse Design of Transmon Qubits Using Neural Networks</title>
       <link>http://arxiv.org/abs/2607.20795v1</link>
       <guid>42f2c00d40d9731f</guid>
@@ -144,6 +123,27 @@
       <guid>7140f715d0e46e6b</guid>
       <description>Artificial intelligence (AI) chatbots (e.g., ChatGPT) can communicate in strikingly humanlike ways. This has prompted many chatbot users to attribute psychological properties, including consciousness, to these systems.</description>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advances in biomarkers for diagnosing and prognosticating disorders of consciousness</title>
+      <link>https://doi.org/10.3389/fnins.2026.1823376</link>
+      <guid>0f13df127b50ad56</guid>
+      <description>Disorders of Consciousness (DoC) resulting from brain injury comprise a spectrum of clinical syndromes, where the level of impairment varies considerably depending on lesion location, etiology, severity, and individual patient factors. These differences substantially influence both rehabilitation strategies and long-term prognosis.</description>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Consciousness in the Brain: An Integrative Review of Contemporary Theories</title>
+      <link>https://doi.org/10.3390/brainsci16070745</link>
+      <guid>704aba104bb2bdc5</guid>
+      <description>Understanding consciousness remains one of the most significant challenges in neuroscience, philosophy, and cognitive science. Despite substantial advances in neuroimaging, electrophysiology, and computational modeling, a comprehensive account of the neural basis of conscious experience has yet to emerge.</description>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Visceral Adipose Tissue as an Independent Predictor of Severe Post-ERCP Pancreatitis: A Multicenter Retrospective Cohort Study.</title>
+      <link>https://europepmc.org/article/MED/42494284</link>
+      <guid>dd7a7a97ba435546</guid>
+      <description>New work indexed under “Visceral Adipose Tissue as an Independent Predictor of Severe Post-ERCP Pancreatitis: A Multicenter Retrospective Cohort Study..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

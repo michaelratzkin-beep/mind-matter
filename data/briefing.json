@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "title": "The latest signal",
   "overview": "Today’s index contains 240 recent records. The strongest signals span Quantum physics, Consciousness / philosophy, Neuroscience. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
@@ -9,7 +9,7 @@
       "title": "ARGON: A GNN-Empowered Compilation Framework for Scalable Neutral Atom Computing",
       "why_it_matters": "Neutral atom quantum systems offer a promising pathway to large-scale quantum computing due to high qubit uniformity and flexible connectivity. To exploit this architecture, compilers must coordinate dynamic atom transport alongside highly parallel entangling gates.",
       "url": "http://arxiv.org/abs/2607.21216v1",
-      "signal_score": 60,
+      "signal_score": 59,
       "evidence_label": "Preprint"
     },
     {
@@ -18,7 +18,7 @@
       "title": "From G tolerance to physiological state monitoring: mechanisms and adaptive protection",
       "why_it_matters": "G-induced loss of consciousness (G-LOC) remains a challenge in high-performance aviation because it can rapidly impair pilot functional capacity and compromise aircraft control. Traditional approaches have largely treated G-LOC as a physiological tolerance or threshold problem, emphasizing maximum +Gz tolerance, centrifuge-based assessment, and post hoc identification of loss of consciousness.",
       "url": "https://doi.org/10.3389/fphys.2026.1883478",
-      "signal_score": 59,
+      "signal_score": 58,
       "evidence_label": "Journal article"
     },
     {
@@ -27,7 +27,7 @@
       "title": "Within-subject and between-subject variability in responses to a mind-body intervention in electrophysiological brain activity",
       "why_it_matters": "Introduction Mind-body interventions (MBIs) increasingly used in health care include alterations in the ordinary state of consciousness that might be essential for their effects on psychological and physical patterns encoded in the unconscious. Little is known about the effects of repeated practice or the time of the repetitions.",
       "url": "https://doi.org/10.3389/fpsyg.2026.1872803",
-      "signal_score": 59,
+      "signal_score": 58,
       "evidence_label": "Journal article"
     }
   ]
