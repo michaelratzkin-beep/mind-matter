@@ -4,7 +4,14 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Sat, 25 Jul 2026 15:49:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 15:48:01 +0000</lastBuildDate>
+    <item>
+      <title>Organizational closure through regenerative signaling as a possible basis for conscious awareness</title>
+      <link>https://doi.org/10.3389/fncom.2026.1806695</link>
+      <guid>b4acb3c7314e5f3a</guid>
+      <description>Along the lines of neuronal global workspace theories, the paper hypothesizes that active neural signal regeneration in recurrent, re-entrant circuits could constitute an organizational basis for states of conscious awareness. In this view, brains are self-production systems that regenerate their own informational, signal states (“neural autopoiesis”).</description>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ARGON: A GNN-Empowered Compilation Framework for Scalable Neutral Atom Computing</title>
       <link>http://arxiv.org/abs/2607.21216v1</link>
@@ -46,6 +53,48 @@
       <guid>d8e93bc5c1591ade</guid>
       <description>Revealing how disrupted brain dynamics lead to altered consciousness levels remains a central challenge in understanding the neural mechanisms underlying consciousness. The brain criticality framework offers a promising perspective, in which optimal neural integration and information processing occur when the brain operates near a critical point, while also reflecting fundamental neural processes such as excitation/inhibition balance.</description>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nerve Blocks for Shoulder Arthroscopy: A Systematic Review of Randomized Controlled Trials With a Network Meta-analysis.</title>
+      <link>https://europepmc.org/article/MED/42499167</link>
+      <guid>5ced1b45448c1626</guid>
+      <description>New work indexed under “Nerve Blocks for Shoulder Arthroscopy: A Systematic Review of Randomized Controlled Trials With a Network Meta-analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evaluation and interpretation of Hawthorne and other trial-related effects in Celiac Disease: A systematic review and meta-analysis.</title>
+      <link>https://europepmc.org/article/MED/42498599</link>
+      <guid>126d3881d897a549</guid>
+      <description>New work indexed under “Evaluation and interpretation of Hawthorne and other trial-related effects in Celiac Disease: A systematic review and meta-analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>From qubits to general-purpose computing: quantum advantage and its limits</title>
+      <link>https://doi.org/10.53022/oarjet.2026.11.1.0054</link>
+      <guid>b1f6d9a0aba59eb2</guid>
+      <description>Quantum computing has been championed as a ground-breaking technology due to its significant computational advantage over classical computing systems. At present, fault-tolerant, large-scale universal quantum computing remains elusive, and these issues remain central challenges in engineering, physics, and computer science.</description>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>P08 Joint Channel Inseparability, Bell Correlations, Decoherence Rate, and the No-Signalling Boundary</title>
+      <link>https://doi.org/10.5281/zenodo.21523259</link>
+      <guid>b509c061d17ea220</guid>
+      <description>This paper is the eighth paper of the Primary sequence in the new paradigm physics of The Unmanifest Selecting the Manifest's Tri-Source System, and the key bridging paper from “quantum foundations rewriting” to “experimentally adjudicable quantum correlation structures.” It addresses a root question long treated separately in quantum foundations research: why Bell correlations exceed classical local realistic bounds; why these strong correlations cannot be used for controllable superluminal communication; and why…</description>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>P08 Joint Channel Inseparability, Bell Correlations, Decoherence Rate, and the No-Signalling Boundary</title>
+      <link>https://doi.org/10.5281/zenodo.21523258</link>
+      <guid>510cc47726a7f218</guid>
+      <description>This paper is the eighth paper of the Primary sequence in the new paradigm physics of The Unmanifest Selecting the Manifest's Tri-Source System, and the key bridging paper from “quantum foundations rewriting” to “experimentally adjudicable quantum correlation structures.” It addresses a root question long treated separately in quantum foundations research: why Bell correlations exceed classical local realistic bounds; why these strong correlations cannot be used for controllable superluminal communication; and why…</description>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transversus abdominis plane block improved surgical conditions in neuromuscular blocker-free pediatric laparoscopic hernia repair: a randomized trial.</title>
+      <link>https://europepmc.org/article/MED/42498867</link>
+      <guid>cb138f55a0645f89</guid>
+      <description>New work indexed under “Transversus abdominis plane block improved surgical conditions in neuromuscular blocker-free pediatric laparoscopic hernia repair: a randomized trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Driving pressure-guided individualized PEEP versus fixed low PEEP in obese patients undergoing bariatric surgery: a randomized clinical trial.</title>
@@ -95,55 +144,6 @@
       <guid>068eff90946218bb</guid>
       <description>Numerous studies have analyzed the use of hybrid quantum-classical convolutional neural networks as a promising alternative to classical deep learning. However, network components on quantum hardware impose fundamental limitations, while the scalability of quantum circuits leads to trainability issues.</description>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Examining Social Media User Types and the Impact on a Reproductive Health Web-Based Intervention for Young People in Francophone West Africa: Randomized Factorial Design Using Latent Class Analysis.</title>
-      <link>https://europepmc.org/article/MED/42490690</link>
-      <guid>cc589302f3fac6f3</guid>
-      <description>New work indexed under “Examining Social Media User Types and the Impact on a Reproductive Health Web-Based Intervention for Young People in Francophone West Africa: Randomized Factorial Design Using Latent Class Analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Component-Level Inverse Design of Transmon Qubits Using Neural Networks</title>
-      <link>http://arxiv.org/abs/2607.20795v1</link>
-      <guid>42f2c00d40d9731f</guid>
-      <description>Designing a superconducting qubit to realize specific Hamiltonian parameters typically requires iterating through a time and compute-intensive forward loop in which the designer chooses a layout geometry, simulates it, extracts circuit parameters such as capacitances, and refines the geometry. We study the inverse version of this task using a neural-network workflow that maps target Hamiltonian parameters directly to component-level layout parameters, which we subsequently demonstrate on a planar transmon layout.</description>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Learning the closest Slater determinant</title>
-      <link>http://arxiv.org/abs/2607.20623v1</link>
-      <guid>14933aa122b777e3</guid>
-      <description>Learning compact, interpretable descriptions of quantum many-body states is an important task in quantum science. We study the task of learning the Slater determinant with maximum fidelity to an arbitrary fermionic many-body state, with motivation from both Hartree-Fock methods and agnostic tomography.</description>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Are Attributions of Consciousness to AI Chatbots Epistemically Innocent?</title>
-      <link>http://arxiv.org/abs/2607.20001v1</link>
-      <guid>7140f715d0e46e6b</guid>
-      <description>Artificial intelligence (AI) chatbots (e.g., ChatGPT) can communicate in strikingly humanlike ways. This has prompted many chatbot users to attribute psychological properties, including consciousness, to these systems.</description>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Advances in biomarkers for diagnosing and prognosticating disorders of consciousness</title>
-      <link>https://doi.org/10.3389/fnins.2026.1823376</link>
-      <guid>0f13df127b50ad56</guid>
-      <description>Disorders of Consciousness (DoC) resulting from brain injury comprise a spectrum of clinical syndromes, where the level of impairment varies considerably depending on lesion location, etiology, severity, and individual patient factors. These differences substantially influence both rehabilitation strategies and long-term prognosis.</description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Consciousness in the Brain: An Integrative Review of Contemporary Theories</title>
-      <link>https://doi.org/10.3390/brainsci16070745</link>
-      <guid>704aba104bb2bdc5</guid>
-      <description>Understanding consciousness remains one of the most significant challenges in neuroscience, philosophy, and cognitive science. Despite substantial advances in neuroimaging, electrophysiology, and computational modeling, a comprehensive account of the neural basis of conscious experience has yet to emerge.</description>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Visceral Adipose Tissue as an Independent Predictor of Severe Post-ERCP Pancreatitis: A Multicenter Retrospective Cohort Study.</title>
-      <link>https://europepmc.org/article/MED/42494284</link>
-      <guid>dd7a7a97ba435546</guid>
-      <description>New work indexed under “Visceral Adipose Tissue as an Independent Predictor of Severe Post-ERCP Pancreatitis: A Multicenter Retrospective Cohort Study..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
