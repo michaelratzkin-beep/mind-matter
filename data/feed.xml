@@ -4,7 +4,7 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Mon, 27 Jul 2026 18:01:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 17:13:37 +0000</lastBuildDate>
     <item>
       <title>Organizational closure through regenerative signaling as a possible basis for conscious awareness</title>
       <link>https://doi.org/10.3389/fncom.2026.1806695</link>
@@ -25,6 +25,69 @@
       <guid>45491a0c7b9d5ee2</guid>
       <description>Introduction Mind-body interventions (MBIs) increasingly used in health care include alterations in the ordinary state of consciousness that might be essential for their effects on psychological and physical patterns encoded in the unconscious. Little is known about the effects of repeated practice or the time of the repetitions.</description>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Quantitative Framework for Comparing Classical and Quantum Algorithms for the Traveling Salesman Problem</title>
+      <link>http://arxiv.org/abs/2607.24581v1</link>
+      <guid>b77b8caadbca11c4</guid>
+      <description>The Traveling Salesman Problem is a classical NP-hard problem with significant implications in logistics, circuit design, and operations research. This paper presents a comparative study of four approaches to solving the Traveling Salesman Problem: brute-force enumeration, a 2-approximation algorithm using minimum spanning trees, simulated annealing, and the Quantum Approximate Optimization Algorithm.</description>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multivariate Time Series Forecasting with Adaptive Non-Local Observables</title>
+      <link>http://arxiv.org/abs/2607.24399v1</link>
+      <guid>8c5088011ebb573f</guid>
+      <description>Multivariate time series forecasting (MTSF) predicts future values of multiple variables from historical data. While quantum neural networks have been increasingly applied to this task, they typically rely on fixed local measurements, which restrict their expressivity.</description>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Parallelizable Exact Synthesis of Quantum Circuits via Semi-Tensor Product</title>
+      <link>http://arxiv.org/abs/2607.24195v1</link>
+      <guid>e2c45e1ea50b8bad</guid>
+      <description>Exact synthesis is a useful tool in quantum compilation by providing optimal alternative implementations of small circuit shards and is widely used as a circuit re-synthesis optimization kernel. However, existing exact synthesis methods suffer from encoding overhead, poor parallel scalability, and memory bottlenecks.</description>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tree Tensor Network Reservoir Computing: Hierarchical Ensemble with Invariant Phase Boundaries</title>
+      <link>http://arxiv.org/abs/2607.24127v1</link>
+      <guid>ffe0af20052dad9f</guid>
+      <description>We propose Tree Tensor Network Reservoir Computing (TTN-RC), a quantum-inspired reservoir computing framework for time-series prediction that uses the hierarchical structure of Tree Tensor Networks as a random reservoir. To control the exponential concentration or divergence of TTN outputs, we introduce a hierarchical ensemble method that partitions a fixed-size reservoir into multiple independent sub-reservoirs.</description>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gubernaut: A Deterministic Homeostatic Controller for Affect-Regulated LLM Agents, Validated Across Independent Model Families</title>
+      <link>http://arxiv.org/abs/2607.24339v1</link>
+      <guid>f623b4b77228b8a6</guid>
+      <description>Large language model (LLM) agents inherit reactive failure modes: escalation under provocation, sycophantic drift under flattery, perseveration when stuck. These are failures of propensity, not capability; they concern what a model does under sustained pressure, which training-time alignment reduces but does not eliminate at runtime.</description>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Separability in Polynomial Time</title>
+      <link>http://arxiv.org/abs/2607.23773v1</link>
+      <guid>f18cf122543b716c</guid>
+      <description>The quantum separability problem asks whether a bipartite density matrix is separable or is $η$-far from every separable state. We give a randomized polynomial-time algorithm for this problem for every fixed constant gap $η&gt;0$, when distance is measured in the Euclidean norm.</description>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spectral power, but not phase connectivity, decodes the subanaesthetic ketamine state from surface EEG: the role of between-subject transferability</title>
+      <link>https://doi.org/10.64898/2026.07.21.739494</link>
+      <guid>9c333ec6791e02a2</guid>
+      <description>Subanaesthetic ketamine alters the content of consciousness while leaving responsiveness intact. We asked whether this state can be decoded from single eyes-closed EEG epochs, and how spectral power and phase-based connectivity compare when used as features.</description>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qutrit-Based Neural Quantum Kernels for Classification Tasks</title>
+      <link>http://arxiv.org/abs/2607.23683v1</link>
+      <guid>ebf01dc3f08532cb</guid>
+      <description>Neural quantum kernels (NQKs) construct quantum kernels by pretraining a quantum neural network (QNN) and subsequently reusing the trained circuit as a task-adapted embedding. Extending this framework to qudits, with local unitaries in $\mathrm{SU}(d)$, provides a natural route to richer data embeddings through the increased local degrees of freedom and a direct interface for multiclass classification via intrinsically multi-level quantum systems.</description>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neural Network Learning of One-Bit Protocols for Qubit Measurement Simulation</title>
+      <link>http://arxiv.org/abs/2607.23645v1</link>
+      <guid>c9779960a76300ea</guid>
+      <description>Communication complexity provides a natural framework for quantifying the classical resources required to reproduce quantum statistics. In the qubit prepare-and-measure scenario, two classical bits have been shown to be necessary and sufficient to simulate arbitrary qubit states and arbi- trary quantum measurements exactly.</description>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Spin quantum computing, spin quantum cognition</title>
@@ -81,69 +144,6 @@
       <guid>510cc47726a7f218</guid>
       <description>This paper is the eighth paper of the Primary sequence in the new paradigm physics of The Unmanifest Selecting the Manifest's Tri-Source System, and the key bridging paper from “quantum foundations rewriting” to “experimentally adjudicable quantum correlation structures.” It addresses a root question long treated separately in quantum foundations research: why Bell correlations exceed classical local realistic bounds; why these strong correlations cannot be used for controllable superluminal communication; and why…</description>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exact Neural-Network Representations of the Motzkin States</title>
-      <link>http://arxiv.org/abs/2607.22522v1</link>
-      <guid>68c98e41203d8bbe</guid>
-      <description>Motzkin spin chains are paradigmatic frustration-free one-dimensional quantum systems whose ground states feature exactly solvable combinatorial structures and exotic, area-law-violating entanglement scaling. Specifically, colorless Motzkin states exhibit critical logarithmic entanglement divergence \(\log N\) with system size \(N\), while their colorful counterparts host supercritical sublinear \(\sqrt{N}\) entanglement growth.</description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Transversus abdominis plane block improved surgical conditions in neuromuscular blocker-free pediatric laparoscopic hernia repair: a randomized trial.</title>
-      <link>https://europepmc.org/article/MED/42498867</link>
-      <guid>cb138f55a0645f89</guid>
-      <description>New work indexed under “Transversus abdominis plane block improved surgical conditions in neuromuscular blocker-free pediatric laparoscopic hernia repair: a randomized trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Driving pressure-guided individualized PEEP versus fixed low PEEP in obese patients undergoing bariatric surgery: a randomized clinical trial.</title>
-      <link>https://europepmc.org/article/MED/42496731</link>
-      <guid>0553c236389cd101</guid>
-      <description>New work indexed under “Driving pressure-guided individualized PEEP versus fixed low PEEP in obese patients undergoing bariatric surgery: a randomized clinical trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The trainability of photonic quantum circuits</title>
-      <link>https://arxiv.org/abs/2607.21544</link>
-      <guid>3f42e0a513821d01</guid>
-      <description>Variational quantum algorithms are a leading approach to near-term quantum computing, but their scalability can be limited by barren plateaus and the sampling cost of resolving small changes in the loss landscape. Here, we study the trainability of passive linear-optical quantum circuits and introduce a framework based on the ratio of sample variance to circuit variance.</description>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Observation of room temperature intrinsic nonlinear thermoelectric effects in low-dimensional semimetals</title>
-      <link>http://arxiv.org/abs/2607.21808v1</link>
-      <guid>bbba26eaffbf57ae</guid>
-      <description>Nonreciprocal control of thermoelectric responses offers a promising strategy for next-generation thermal-management and energy-conversion. While nonlinear electrical transport has recently emerged as an intrinsic property of low-symmetry quantum materials, their thermoelectric counterparts have not been demonstrated.</description>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flow-based Phase-space Tomography of Continuous-variable Quantum States</title>
-      <link>http://arxiv.org/abs/2607.21584v1</link>
-      <guid>cbc74507d834f5ec</guid>
-      <description>Continuous-variable quantum state tomography is limited by the cost of resolving non-Gaussian structure in high-dimensional phase space. We introduce QST-Flow, a quantum state tomography framework via flow-based generative modeling that represents experimentally accessible phase-space quasiprobability distributions with normalized, samplable neural densities rather than a truncated density matrix.</description>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>QuantumChain: Blockchain-Backed Quantum Federated Learning for Financial Fraud Detection</title>
-      <link>http://arxiv.org/abs/2607.21449v1</link>
-      <guid>1b08c99fa32dc65b</guid>
-      <description>Financial fraud detection is challenged by decentralized data, severe class imbalance, and privacy constraints. This paper presents QuantumChain, a secure Quantum Federated Learning (QFL) framework that combines hybrid quantum-classical neural networks, encrypted federated aggregation, blockchain-based auditability, and quantum-secure communication.</description>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Are Attributions of Consciousness to AI Chatbots Epistemically Innocent?</title>
-      <link>http://arxiv.org/abs/2607.20001v1</link>
-      <guid>7140f715d0e46e6b</guid>
-      <description>Artificial intelligence (AI) chatbots (e.g., ChatGPT) can communicate in strikingly humanlike ways. This has prompted many chatbot users to attribute psychological properties, including consciousness, to these systems.</description>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Generative AI in the age of quantum computing: A taxonomy, architectural elements and future directions</title>
-      <link>https://doi.org/10.1016/j.future.2026.108714</link>
-      <guid>c345f76fb72f0c32</guid>
-      <description>Generative AI has emerged as a transformative paradigm for diverse applications, yet the escalating scale of modern models exposes critical computational and memory bottlenecks in classical hardware. This paper investigates the intersection of quantum computing and generative artificial intelligence (QGAI) to address these limitations and scale modern generative models.</description>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

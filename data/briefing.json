@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "title": "The latest signal",
   "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Neuroscience, Quantum physics. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
@@ -9,7 +9,7 @@
       "title": "Organizational closure through regenerative signaling as a possible basis for conscious awareness",
       "why_it_matters": "Along the lines of neuronal global workspace theories, the paper hypothesizes that active neural signal regeneration in recurrent, re-entrant circuits could constitute an organizational basis for states of conscious awareness. In this view, brains are self-production systems that regenerate their own informational, signal states (“neural autopoiesis”).",
       "url": "https://doi.org/10.3389/fncom.2026.1806695",
-      "signal_score": 58,
+      "signal_score": 57,
       "evidence_label": "Journal article"
     },
     {
@@ -18,17 +18,17 @@
       "title": "From G tolerance to physiological state monitoring: mechanisms and adaptive protection",
       "why_it_matters": "G-induced loss of consciousness (G-LOC) remains a challenge in high-performance aviation because it can rapidly impair pilot functional capacity and compromise aircraft control. Traditional approaches have largely treated G-LOC as a physiological tolerance or threshold problem, emphasizing maximum +Gz tolerance, centrifuge-based assessment, and post hoc identification of loss of consciousness.",
       "url": "https://doi.org/10.3389/fphys.2026.1883478",
-      "signal_score": 56,
+      "signal_score": 55,
       "evidence_label": "Journal article"
     },
     {
       "domain": "quantum",
       "domain_label": "Quantum physics",
-      "title": "Spin quantum computing, spin quantum cognition",
-      "why_it_matters": "Abstract Over two decades ago, Bruce Kane proposed that spin-half phosphorus nuclei embedded in a spin-zero silicon substrate could serve as a viable platform for spin-based quantum computing. These nuclear spins exhibit remarkably long single-spin coherence times, making them ideal candidates for qubits.",
-      "url": "https://doi.org/10.1007/s11128-026-05286-y",
+      "title": "A Quantitative Framework for Comparing Classical and Quantum Algorithms for the Traveling Salesman Problem",
+      "why_it_matters": "The Traveling Salesman Problem is a classical NP-hard problem with significant implications in logistics, circuit design, and operations research. This paper presents a comparative study of four approaches to solving the Traveling Salesman Problem: brute-force enumeration, a 2-approximation algorithm using minimum spanning trees, simulated annealing, and the Quantum Approximate Optimization Algorithm.",
+      "url": "http://arxiv.org/abs/2607.24581v1",
       "signal_score": 54,
-      "evidence_label": "Journal article"
+      "evidence_label": "Preprint"
     }
   ]
 }
