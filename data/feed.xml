@@ -4,13 +4,20 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Tue, 28 Jul 2026 17:13:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 16:54:24 +0000</lastBuildDate>
     <item>
       <title>Organizational closure through regenerative signaling as a possible basis for conscious awareness</title>
       <link>https://doi.org/10.3389/fncom.2026.1806695</link>
       <guid>b4acb3c7314e5f3a</guid>
       <description>Along the lines of neuronal global workspace theories, the paper hypothesizes that active neural signal regeneration in recurrent, re-entrant circuits could constitute an organizational basis for states of conscious awareness. In this view, brains are self-production systems that regenerate their own informational, signal states (“neural autopoiesis”).</description>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Monitoring the depth of anaesthesia using simplified electroencephalogram (EEG)</title>
+      <link>https://doi.org/10.26192/q0yy5</link>
+      <guid>d8b44bf8c8efc0cf</guid>
+      <description>Anaesthesia is administered routinely every day in hospitals and medical facilities. Numerous methods have been devised and implemented for monitoring the depth of anaesthesia (DoA) in order to guarantee the safety of patients.</description>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>From G tolerance to physiological state monitoring: mechanisms and adaptive protection</title>
@@ -27,34 +34,6 @@
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>A Quantitative Framework for Comparing Classical and Quantum Algorithms for the Traveling Salesman Problem</title>
-      <link>http://arxiv.org/abs/2607.24581v1</link>
-      <guid>b77b8caadbca11c4</guid>
-      <description>The Traveling Salesman Problem is a classical NP-hard problem with significant implications in logistics, circuit design, and operations research. This paper presents a comparative study of four approaches to solving the Traveling Salesman Problem: brute-force enumeration, a 2-approximation algorithm using minimum spanning trees, simulated annealing, and the Quantum Approximate Optimization Algorithm.</description>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multivariate Time Series Forecasting with Adaptive Non-Local Observables</title>
-      <link>http://arxiv.org/abs/2607.24399v1</link>
-      <guid>8c5088011ebb573f</guid>
-      <description>Multivariate time series forecasting (MTSF) predicts future values of multiple variables from historical data. While quantum neural networks have been increasingly applied to this task, they typically rely on fixed local measurements, which restrict their expressivity.</description>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Parallelizable Exact Synthesis of Quantum Circuits via Semi-Tensor Product</title>
-      <link>http://arxiv.org/abs/2607.24195v1</link>
-      <guid>e2c45e1ea50b8bad</guid>
-      <description>Exact synthesis is a useful tool in quantum compilation by providing optimal alternative implementations of small circuit shards and is widely used as a circuit re-synthesis optimization kernel. However, existing exact synthesis methods suffer from encoding overhead, poor parallel scalability, and memory bottlenecks.</description>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tree Tensor Network Reservoir Computing: Hierarchical Ensemble with Invariant Phase Boundaries</title>
-      <link>http://arxiv.org/abs/2607.24127v1</link>
-      <guid>ffe0af20052dad9f</guid>
-      <description>We propose Tree Tensor Network Reservoir Computing (TTN-RC), a quantum-inspired reservoir computing framework for time-series prediction that uses the hierarchical structure of Tree Tensor Networks as a random reservoir. To control the exponential concentration or divergence of TTN outputs, we introduce a hierarchical ensemble method that partitions a fixed-size reservoir into multiple independent sub-reservoirs.</description>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Gubernaut: A Deterministic Homeostatic Controller for Affect-Regulated LLM Agents, Validated Across Independent Model Families</title>
       <link>http://arxiv.org/abs/2607.24339v1</link>
       <guid>f623b4b77228b8a6</guid>
@@ -62,31 +41,10 @@
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Quantum Separability in Polynomial Time</title>
-      <link>http://arxiv.org/abs/2607.23773v1</link>
-      <guid>f18cf122543b716c</guid>
-      <description>The quantum separability problem asks whether a bipartite density matrix is separable or is $η$-far from every separable state. We give a randomized polynomial-time algorithm for this problem for every fixed constant gap $η&gt;0$, when distance is measured in the Euclidean norm.</description>
-      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Spectral power, but not phase connectivity, decodes the subanaesthetic ketamine state from surface EEG: the role of between-subject transferability</title>
       <link>https://doi.org/10.64898/2026.07.21.739494</link>
       <guid>9c333ec6791e02a2</guid>
       <description>Subanaesthetic ketamine alters the content of consciousness while leaving responsiveness intact. We asked whether this state can be decoded from single eyes-closed EEG epochs, and how spectral power and phase-based connectivity compare when used as features.</description>
-      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qutrit-Based Neural Quantum Kernels for Classification Tasks</title>
-      <link>http://arxiv.org/abs/2607.23683v1</link>
-      <guid>ebf01dc3f08532cb</guid>
-      <description>Neural quantum kernels (NQKs) construct quantum kernels by pretraining a quantum neural network (QNN) and subsequently reusing the trained circuit as a task-adapted embedding. Extending this framework to qudits, with local unitaries in $\mathrm{SU}(d)$, provides a natural route to richer data embeddings through the increased local degrees of freedom and a direct interface for multiclass classification via intrinsically multi-level quantum systems.</description>
-      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neural Network Learning of One-Bit Protocols for Qubit Measurement Simulation</title>
-      <link>http://arxiv.org/abs/2607.23645v1</link>
-      <guid>c9779960a76300ea</guid>
-      <description>Communication complexity provides a natural framework for quantifying the classical resources required to reproduce quantum statistics. In the qubit prepare-and-measure scenario, two classical bits have been shown to be necessary and sufficient to simulate arbitrary qubit states and arbi- trary quantum measurements exactly.</description>
       <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -132,6 +90,20 @@
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Consistent Quantum States over Spacetime without a Common Quantum Process</title>
+      <link>http://arxiv.org/abs/2607.25899v1</link>
+      <guid>350133657d636fe6</guid>
+      <description>Determining whether multiple record-conditioned quantum descriptions admit a single underlying process is a central consistency problem for quantum states over spacetime (QSOSTs) and relational quantum descriptions. Yet causally agnostic interferometry accesses only a lower-dimensional QSOST projection, which inevitably leaves some process degrees of freedom unresolved.</description>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Teleportation toward the Quantum Internet: A Concise Review</title>
+      <link>http://arxiv.org/abs/2607.25395v1</link>
+      <guid>e61e20854eee6b0a</guid>
+      <description>Quantum networks play a pivotal role in quantum information science, which not only provide a secure communication platform for remote access to quantum computers but also serve as the strategic core for achieving large-scale quantum information processing, forming the foundational infrastructure for the future global-scale quantum internet. Quantum teleportation, which enables the transmission of unknown quantum states over long distances by employing quantum entanglement together with classical communication, is…</description>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>P08 Joint Channel Inseparability, Bell Correlations, Decoherence Rate, and the No-Signalling Boundary</title>
       <link>https://doi.org/10.5281/zenodo.21523259</link>
       <guid>b509c061d17ea220</guid>
@@ -144,6 +116,34 @@
       <guid>510cc47726a7f218</guid>
       <description>This paper is the eighth paper of the Primary sequence in the new paradigm physics of The Unmanifest Selecting the Manifest's Tri-Source System, and the key bridging paper from “quantum foundations rewriting” to “experimentally adjudicable quantum correlation structures.” It addresses a root question long treated separately in quantum foundations research: why Bell correlations exceed classical local realistic bounds; why these strong correlations cannot be used for controllable superluminal communication; and why…</description>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transversus abdominis plane block improved surgical conditions in neuromuscular blocker-free pediatric laparoscopic hernia repair: a randomized trial.</title>
+      <link>https://europepmc.org/article/MED/42498867</link>
+      <guid>cb138f55a0645f89</guid>
+      <description>New work indexed under “Transversus abdominis plane block improved surgical conditions in neuromuscular blocker-free pediatric laparoscopic hernia repair: a randomized trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Driving pressure-guided individualized PEEP versus fixed low PEEP in obese patients undergoing bariatric surgery: a randomized clinical trial.</title>
+      <link>https://europepmc.org/article/MED/42496731</link>
+      <guid>0553c236389cd101</guid>
+      <description>New work indexed under “Driving pressure-guided individualized PEEP versus fixed low PEEP in obese patients undergoing bariatric surgery: a randomized clinical trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Universal Optimization and Tighter Fidelity Bounds for Approximate Quantum Error Correction</title>
+      <link>http://arxiv.org/abs/2607.24968v1</link>
+      <guid>e954b59a1a6295bb</guid>
+      <description>Approximate quantum error correction (AQEC) not only dictates the performance of discrete- and continuous-variable quantum error correction codes but also serves as a unifying framework across various physical disciplines. Identifying the optimal recovery channel to maximize the entanglement fidelity via standard semidefinite programming is computationally bottlenecked by the exponentially growing number of Kraus operators with system size, rendering large-scale optimization prohibitive.</description>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The trainability of photonic quantum circuits</title>
+      <link>https://arxiv.org/abs/2607.21544</link>
+      <guid>3f42e0a513821d01</guid>
+      <description>Variational quantum algorithms are a leading approach to near-term quantum computing, but their scalability can be limited by barren plateaus and the sampling cost of resolving small changes in the loss landscape. Here, we study the trainability of passive linear-optical quantum circuits and introduce a framework based on the ratio of sample variance to circuit variance.</description>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
