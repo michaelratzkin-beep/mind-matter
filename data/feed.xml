@@ -4,13 +4,90 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Wed, 29 Jul 2026 16:54:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 17:10:58 +0000</lastBuildDate>
+    <item>
+      <title>Quantum Optical Reinforcement Learning via Spectrum-Resolved Hong-Ou-Mandel Interference</title>
+      <link>http://arxiv.org/abs/2607.26438v1</link>
+      <guid>2270c2be5b895bb3</guid>
+      <description>Hong-Ou-Mandel (HOM) interference-based optical neural networks can offer complexity advantages on benchmark learning tasks, but conventional readout compresses the coincidence spectrum into a single scalar, limiting its use in complex settings such as continuous-action reinforcement learning. Here we introduce a spectrum-resolved HOM (SR-HOM) architecture that promotes the photons' spectral degrees of freedom to a trainable computational resource and use it to construct a compact optical actor-critic agent.</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Choice of Anesthesia in Microelectrode Recording-guided Deep Brain Stimulation Surgery for Parkinson's Disease (CHAMPION): A Noninferiority Randomized Controlled Trial.</title>
+      <link>https://europepmc.org/article/MED/42102350</link>
+      <guid>6c717397b76cc2fa</guid>
+      <description>New work indexed under “Choice of Anesthesia in Microelectrode Recording-guided Deep Brain Stimulation Surgery for Parkinson's Disease (CHAMPION): A Noninferiority Randomized Controlled Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Label and Recover Coherent Errors: Randomized Compiling Does Not Destroy Coherent-Error Information</title>
+      <link>http://arxiv.org/abs/2607.26756v1</link>
+      <guid>cc5e1e511bb7dd84</guid>
+      <description>Randomized compiling (RC) is the standard technique for converting coherent (systematic) gate errors into stochastic noise. The prevailing view is that the twirl destroys coherent-error information.</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Organizational closure through regenerative signaling as a possible basis for conscious awareness</title>
       <link>https://doi.org/10.3389/fncom.2026.1806695</link>
       <guid>b4acb3c7314e5f3a</guid>
       <description>Along the lines of neuronal global workspace theories, the paper hypothesizes that active neural signal regeneration in recurrent, re-entrant circuits could constitute an organizational basis for states of conscious awareness. In this view, brains are self-production systems that regenerate their own informational, signal states (“neural autopoiesis”).</description>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Radon in natural gas: a systematic review, CFD simulation, and health effects estimation.</title>
+      <link>https://europepmc.org/article/MED/42528467</link>
+      <guid>7fe74ac81f6236d1</guid>
+      <description>New work indexed under “Radon in natural gas: a systematic review, CFD simulation, and health effects estimation..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Practical Quantum Topological Data Analysis with Applications to High-Dimensional Feature Extraction and Time Series Analysis</title>
+      <link>http://arxiv.org/abs/2607.27206v1</link>
+      <guid>dd3dafdcd0bf9154</guid>
+      <description>Topological data analysis (TDA) provides a powerful framework for extracting information about the shape of complex, unstructured data, but the classical cost of computing high dimensional topological features limits its application. Quantum algorithms for TDA offer a route around this bottleneck, yet existing approaches typically focus on exact or high precision Betti number estimation, making the regime for practical quantum advantage appear narrow.</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Effective Hamiltonians for Predictive Quantum Control</title>
+      <link>http://arxiv.org/abs/2607.27111v1</link>
+      <guid>56e96619a92074a9</guid>
+      <description>High-fidelity quantum control relies on accurate models of driven dynamics. We examine this re- quirement for single-qubit gates in superconducting transmons by comparing control pulses derived from the standard Duffing approximation and from a Hamiltonian constructed by diagonalizing the transmon eigenbasis.</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quasi-polar Decomposition of Quantum Neural Networks via Adaptive Non-local Observables</title>
+      <link>http://arxiv.org/abs/2607.27051v1</link>
+      <guid>e4169b5063a18216</guid>
+      <description>We use Diagonal Adaptive Non-local Observables (DANO) as a canonical decomposition for studying Variational Quantum Circuit model evolution. Separating each learned observable into a diagonal spectrum and a unitary basis gives a quasi-polar description: the spectral weights are viewed as radial coordinates, while the unitary circuit serves as angular coordinates through Lie group identifications.</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Long-Acting Narcotic Multimodal Anesthesia Versus Standard of Care Anesthesia for Hallux Valgus Patients Undergoing a Percutaneous Distal Metatarsal Osteotomy: A Multi-Center Randomized Controlled Trial.</title>
+      <link>https://europepmc.org/article/MED/42526741</link>
+      <guid>ab7123300eaa0df4</guid>
+      <description>New work indexed under “Long-Acting Narcotic Multimodal Anesthesia Versus Standard of Care Anesthesia for Hallux Valgus Patients Undergoing a Percutaneous Distal Metatarsal Osteotomy: A Multi-Center Randomized Controlled Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mechanisms of change in mobile app-delivered acceptance and commitment therapy for posttraumatic stress disorder in China: a secondary analysis of a randomized controlled trial.</title>
+      <link>https://europepmc.org/article/MED/42522902</link>
+      <guid>e2743b4c6c81663b</guid>
+      <description>New work indexed under “Mechanisms of change in mobile app-delivered acceptance and commitment therapy for posttraumatic stress disorder in China: a secondary analysis of a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Client and therapist experiences with the Processing of Positive Memories Technique (PPMT) in a randomized controlled trial: insights for protocol refinement.</title>
+      <link>https://europepmc.org/article/MED/42522746</link>
+      <guid>4430e5794f412fcf</guid>
+      <description>New work indexed under “Client and therapist experiences with the Processing of Positive Memories Technique (PPMT) in a randomized controlled trial: insights for protocol refinement..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Efficacy of Sensory Stimulation in Intensive Care Unit Patients: A Systematic Review and Meta-analysis.</title>
+      <link>https://europepmc.org/article/MED/42520766</link>
+      <guid>fec8b3b68f4bec30</guid>
+      <description>New work indexed under “Efficacy of Sensory Stimulation in Intensive Care Unit Patients: A Systematic Review and Meta-analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Monitoring the depth of anaesthesia using simplified electroencephalogram (EEG)</title>
@@ -20,130 +97,53 @@
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Predictors of success and failure in outpatient ureteral stenting under local anaesthesia: a systematic review and proposed clinical guide from EAU Endourology.</title>
+      <link>https://europepmc.org/article/MED/42525236</link>
+      <guid>56dcf970b4289cd2</guid>
+      <description>New work indexed under “Predictors of success and failure in outpatient ureteral stenting under local anaesthesia: a systematic review and proposed clinical guide from EAU Endourology..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Suicide in neurodegenerative diseases: a systematic review.</title>
+      <link>https://europepmc.org/article/MED/42521895</link>
+      <guid>4c4e32cf2cdab6b4</guid>
+      <description>New work indexed under “Suicide in neurodegenerative diseases: a systematic review..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neural quantum states for non-Abelian lattice gauge theories with dynamical fermions</title>
+      <link>http://arxiv.org/abs/2607.26131v1</link>
+      <guid>dafdb13fe59d9486</guid>
+      <description>Determining the ground state of non-Abelian lattice gauge theories coupled to dynamical fermions is key to understanding confinement and the phase structure of gauge--matter systems. We present a variational Monte Carlo framework for the ground state of the untruncated fully-continuous SU$(2)$ lattice gauge theory coupled to dynamical staggered fermions on an $L\times L$ square lattice.</description>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Efficacy of systemic lidocaine versus ultrasound-guided adductor canal block for patients undergoing total knee arthroplasty: a randomized, double-blinded, non-inferiority study.</title>
+      <link>https://europepmc.org/article/MED/42521407</link>
+      <guid>ca24d7735e985977</guid>
+      <description>New work indexed under “Efficacy of systemic lidocaine versus ultrasound-guided adductor canal block for patients undergoing total knee arthroplasty: a randomized, double-blinded, non-inferiority study..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Periarticular Injection Alone Provides Comparable Early Recovery to Combined Adductor Canal and Infiltration between the Popliteal Artery and Capsule of the Knee Blocks Following Total Knee Arthroplasty: A Prospective Randomized Trial.</title>
+      <link>https://europepmc.org/article/MED/42520994</link>
+      <guid>b637f610eef12c60</guid>
+      <description>New work indexed under “Periarticular Injection Alone Provides Comparable Early Recovery to Combined Adductor Canal and Infiltration between the Popliteal Artery and Capsule of the Knee Blocks Following Total Knee Arthroplasty: A Prospective Randomized Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hypnosis in Anesthesia: A Systematic Literature Review of Randomized Controlled Trials.</title>
+      <link>https://europepmc.org/article/MED/42520209</link>
+      <guid>d8fab4865ecc251a</guid>
+      <description>New work indexed under “Hypnosis in Anesthesia: A Systematic Literature Review of Randomized Controlled Trials..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>From G tolerance to physiological state monitoring: mechanisms and adaptive protection</title>
       <link>https://doi.org/10.3389/fphys.2026.1883478</link>
       <guid>4322ff81810ec186</guid>
       <description>G-induced loss of consciousness (G-LOC) remains a challenge in high-performance aviation because it can rapidly impair pilot functional capacity and compromise aircraft control. Traditional approaches have largely treated G-LOC as a physiological tolerance or threshold problem, emphasizing maximum +Gz tolerance, centrifuge-based assessment, and post hoc identification of loss of consciousness.</description>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Within-subject and between-subject variability in responses to a mind-body intervention in electrophysiological brain activity</title>
-      <link>https://doi.org/10.3389/fpsyg.2026.1872803</link>
-      <guid>45491a0c7b9d5ee2</guid>
-      <description>Introduction Mind-body interventions (MBIs) increasingly used in health care include alterations in the ordinary state of consciousness that might be essential for their effects on psychological and physical patterns encoded in the unconscious. Little is known about the effects of repeated practice or the time of the repetitions.</description>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gubernaut: A Deterministic Homeostatic Controller for Affect-Regulated LLM Agents, Validated Across Independent Model Families</title>
-      <link>http://arxiv.org/abs/2607.24339v1</link>
-      <guid>f623b4b77228b8a6</guid>
-      <description>Large language model (LLM) agents inherit reactive failure modes: escalation under provocation, sycophantic drift under flattery, perseveration when stuck. These are failures of propensity, not capability; they concern what a model does under sustained pressure, which training-time alignment reduces but does not eliminate at runtime.</description>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spectral power, but not phase connectivity, decodes the subanaesthetic ketamine state from surface EEG: the role of between-subject transferability</title>
-      <link>https://doi.org/10.64898/2026.07.21.739494</link>
-      <guid>9c333ec6791e02a2</guid>
-      <description>Subanaesthetic ketamine alters the content of consciousness while leaving responsiveness intact. We asked whether this state can be decoded from single eyes-closed EEG epochs, and how spectral power and phase-based connectivity compare when used as features.</description>
-      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spin quantum computing, spin quantum cognition</title>
-      <link>https://doi.org/10.1007/s11128-026-05286-y</link>
-      <guid>a950825b314d86d8</guid>
-      <description>Abstract Over two decades ago, Bruce Kane proposed that spin-half phosphorus nuclei embedded in a spin-zero silicon substrate could serve as a viable platform for spin-based quantum computing. These nuclear spins exhibit remarkably long single-spin coherence times, making them ideal candidates for qubits.</description>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Five-Year Horizon: Quantum Computing and the Philosophy of Technical Becoming</title>
-      <link>https://doi.org/10.3390/philosophies11040127</link>
-      <guid>1f7a44f332ce3c74</guid>
-      <description>Certain physics-based technologies (quantum computing, fusion energy, advanced materials, brain–computer interfaces) have remained “five years away” for decades. This paper argues that this perpetual horizon is not a forecasting failure but the temporal signature of Perpetual Five-Year Technologies (PFYTs): technologies of atoms, not bits, whose technical object and enabling ecosystem must co-develop.</description>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brain criticality characterizes abnormal neural dynamics and metabolism in disorder of consciousness</title>
-      <link>https://doi.org/10.1038/s42003-026-10713-y</link>
-      <guid>d8e93bc5c1591ade</guid>
-      <description>Revealing how disrupted brain dynamics lead to altered consciousness levels remains a central challenge in understanding the neural mechanisms underlying consciousness. The brain criticality framework offers a promising perspective, in which optimal neural integration and information processing occur when the brain operates near a critical point, while also reflecting fundamental neural processes such as excitation/inhibition balance.</description>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nerve Blocks for Shoulder Arthroscopy: A Systematic Review of Randomized Controlled Trials With a Network Meta-analysis.</title>
-      <link>https://europepmc.org/article/MED/42499167</link>
-      <guid>5ced1b45448c1626</guid>
-      <description>New work indexed under “Nerve Blocks for Shoulder Arthroscopy: A Systematic Review of Randomized Controlled Trials With a Network Meta-analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Evaluation and interpretation of Hawthorne and other trial-related effects in Celiac Disease: A systematic review and meta-analysis.</title>
-      <link>https://europepmc.org/article/MED/42498599</link>
-      <guid>126d3881d897a549</guid>
-      <description>New work indexed under “Evaluation and interpretation of Hawthorne and other trial-related effects in Celiac Disease: A systematic review and meta-analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>From qubits to general-purpose computing: quantum advantage and its limits</title>
-      <link>https://doi.org/10.53022/oarjet.2026.11.1.0054</link>
-      <guid>b1f6d9a0aba59eb2</guid>
-      <description>Quantum computing has been championed as a ground-breaking technology due to its significant computational advantage over classical computing systems. At present, fault-tolerant, large-scale universal quantum computing remains elusive, and these issues remain central challenges in engineering, physics, and computer science.</description>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Consistent Quantum States over Spacetime without a Common Quantum Process</title>
-      <link>http://arxiv.org/abs/2607.25899v1</link>
-      <guid>350133657d636fe6</guid>
-      <description>Determining whether multiple record-conditioned quantum descriptions admit a single underlying process is a central consistency problem for quantum states over spacetime (QSOSTs) and relational quantum descriptions. Yet causally agnostic interferometry accesses only a lower-dimensional QSOST projection, which inevitably leaves some process degrees of freedom unresolved.</description>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quantum Teleportation toward the Quantum Internet: A Concise Review</title>
-      <link>http://arxiv.org/abs/2607.25395v1</link>
-      <guid>e61e20854eee6b0a</guid>
-      <description>Quantum networks play a pivotal role in quantum information science, which not only provide a secure communication platform for remote access to quantum computers but also serve as the strategic core for achieving large-scale quantum information processing, forming the foundational infrastructure for the future global-scale quantum internet. Quantum teleportation, which enables the transmission of unknown quantum states over long distances by employing quantum entanglement together with classical communication, is…</description>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>P08 Joint Channel Inseparability, Bell Correlations, Decoherence Rate, and the No-Signalling Boundary</title>
-      <link>https://doi.org/10.5281/zenodo.21523259</link>
-      <guid>b509c061d17ea220</guid>
-      <description>This paper is the eighth paper of the Primary sequence in the new paradigm physics of The Unmanifest Selecting the Manifest's Tri-Source System, and the key bridging paper from “quantum foundations rewriting” to “experimentally adjudicable quantum correlation structures.” It addresses a root question long treated separately in quantum foundations research: why Bell correlations exceed classical local realistic bounds; why these strong correlations cannot be used for controllable superluminal communication; and why…</description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>P08 Joint Channel Inseparability, Bell Correlations, Decoherence Rate, and the No-Signalling Boundary</title>
-      <link>https://doi.org/10.5281/zenodo.21523258</link>
-      <guid>510cc47726a7f218</guid>
-      <description>This paper is the eighth paper of the Primary sequence in the new paradigm physics of The Unmanifest Selecting the Manifest's Tri-Source System, and the key bridging paper from “quantum foundations rewriting” to “experimentally adjudicable quantum correlation structures.” It addresses a root question long treated separately in quantum foundations research: why Bell correlations exceed classical local realistic bounds; why these strong correlations cannot be used for controllable superluminal communication; and why…</description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Transversus abdominis plane block improved surgical conditions in neuromuscular blocker-free pediatric laparoscopic hernia repair: a randomized trial.</title>
-      <link>https://europepmc.org/article/MED/42498867</link>
-      <guid>cb138f55a0645f89</guid>
-      <description>New work indexed under “Transversus abdominis plane block improved surgical conditions in neuromuscular blocker-free pediatric laparoscopic hernia repair: a randomized trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Driving pressure-guided individualized PEEP versus fixed low PEEP in obese patients undergoing bariatric surgery: a randomized clinical trial.</title>
-      <link>https://europepmc.org/article/MED/42496731</link>
-      <guid>0553c236389cd101</guid>
-      <description>New work indexed under “Driving pressure-guided individualized PEEP versus fixed low PEEP in obese patients undergoing bariatric surgery: a randomized clinical trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Universal Optimization and Tighter Fidelity Bounds for Approximate Quantum Error Correction</title>
-      <link>http://arxiv.org/abs/2607.24968v1</link>
-      <guid>e954b59a1a6295bb</guid>
-      <description>Approximate quantum error correction (AQEC) not only dictates the performance of discrete- and continuous-variable quantum error correction codes but also serves as a unifying framework across various physical disciplines. Identifying the optimal recovery channel to maximize the entanglement fidelity via standard semidefinite programming is computationally bottlenecked by the exponentially growing number of Kraus operators with system size, rendering large-scale optimization prohibitive.</description>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The trainability of photonic quantum circuits</title>
-      <link>https://arxiv.org/abs/2607.21544</link>
-      <guid>3f42e0a513821d01</guid>
-      <description>Variational quantum algorithms are a leading approach to near-term quantum computing, but their scalability can be limited by barren plateaus and the sampling cost of resolving small changes in the loss landscape. Here, we study the trainability of passive linear-optical quantum circuits and introduce a framework based on the ratio of sample variance to circuit variance.</description>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
