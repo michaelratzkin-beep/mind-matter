@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T15:43:35.635701+00:00",
+  "updated_at": "2026-08-02T15:47:48.237269+00:00",
   "lookback_days": 35,
   "sources": [
     "OpenAlex",
@@ -8,6 +8,64 @@
   ],
   "method_note": "Signal score is a discovery heuristic, not a validity or truth score.",
   "items": [
+    {
+      "id": "f1d0698638c6ed60",
+      "title": "Reviewer #2 (Public review): Neural correlates of perceptual consciousness from within: A narrative review of human intracranial research",
+      "authors": [],
+      "summary": "Combining intracranial recordings with no-report paradigms and computational models offers the clearest path yet to isolating genuine neural correlates of consciousness from their prerequisites and consequences.",
+      "publication_date": "2026-07-30",
+      "source": "OpenAlex-indexed source",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.7554/elife.109604.4.sa2",
+      "doi": "10.7554/elife.109604.4.sa2",
+      "work_type": "peer-review",
+      "evidence_label": "Review",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "consciousness",
+        "neuroscience",
+        "cross-domain"
+      ],
+      "keywords": [
+        "Neural correlates of consciousness",
+        "Consciousness",
+        "Narrative review",
+        "Narrative",
+        "Perception"
+      ],
+      "has_abstract": true,
+      "signal_score": 61
+    },
+    {
+      "id": "9a193d8af6ca754a",
+      "title": "Reviewer #3 (Public review): Neural correlates of perceptual consciousness from within: A narrative review of human intracranial research",
+      "authors": [],
+      "summary": "Combining intracranial recordings with no-report paradigms and computational models offers the clearest path yet to isolating genuine neural correlates of consciousness from their prerequisites and consequences.",
+      "publication_date": "2026-07-30",
+      "source": "OpenAlex-indexed source",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.7554/elife.109604.4.sa3",
+      "doi": "10.7554/elife.109604.4.sa3",
+      "work_type": "peer-review",
+      "evidence_label": "Review",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "consciousness",
+        "neuroscience",
+        "cross-domain"
+      ],
+      "keywords": [
+        "Neural correlates of consciousness",
+        "Consciousness",
+        "Narrative review",
+        "Narrative",
+        "Perception"
+      ],
+      "has_abstract": true,
+      "signal_score": 61
+    },
     {
       "id": "73cfd447dec3b867",
       "title": "Neural correlates of perceptual consciousness from within: A narrative review of human intracranial research",
@@ -48,7 +106,107 @@
         "Human brain"
       ],
       "has_abstract": true,
-      "signal_score": 62
+      "signal_score": 61
+    },
+    {
+      "id": "908ff5b145f725e7",
+      "title": "Reviewer #1 (Public review): Neural correlates of perceptual consciousness from within: A narrative review of human intracranial research",
+      "authors": [],
+      "summary": "Combining intracranial recordings with no-report paradigms and computational models offers the clearest path yet to isolating genuine neural correlates of consciousness from their prerequisites and consequences.",
+      "publication_date": "2026-07-30",
+      "source": "OpenAlex-indexed source",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.7554/elife.109604.4.sa1",
+      "doi": "10.7554/elife.109604.4.sa1",
+      "work_type": "peer-review",
+      "evidence_label": "Review",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "consciousness",
+        "neuroscience",
+        "cross-domain"
+      ],
+      "keywords": [
+        "Neural correlates of consciousness",
+        "Consciousness",
+        "Narrative review",
+        "Narrative",
+        "Perception"
+      ],
+      "has_abstract": true,
+      "signal_score": 61
+    },
+    {
+      "id": "0aabaf60bc95f85b",
+      "title": "Author response: Neural correlates of perceptual consciousness from within: A narrative review of human intracranial research",
+      "authors": [
+        "François Stockart",
+        "Alexis Robin",
+        "Hal Blumenfeld",
+        "Milan Brázdil",
+        "Philippe Kahane",
+        "Liad Mudrik",
+        "Jasmine Thum",
+        "Michael Pereira",
+        "Nathan Faivre"
+      ],
+      "summary": "Combining intracranial recordings with no-report paradigms and computational models offers the clearest path yet to isolating genuine neural correlates of consciousness from their prerequisites and consequences.",
+      "publication_date": "2026-07-30",
+      "source": "OpenAlex-indexed source",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.7554/elife.109604.4.sa4",
+      "doi": "10.7554/elife.109604.4.sa4",
+      "work_type": "peer-review",
+      "evidence_label": "Review",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "consciousness",
+        "neuroscience",
+        "cross-domain"
+      ],
+      "keywords": [
+        "Neural correlates of consciousness",
+        "Consciousness",
+        "Narrative review",
+        "Narrative",
+        "Perception"
+      ],
+      "has_abstract": true,
+      "signal_score": 61
+    },
+    {
+      "id": "d2c4c1d0c9102c7d",
+      "title": "eLife Assessment: Neural correlates of perceptual consciousness from within: A narrative review of human intracranial research",
+      "authors": [
+        "Clare Press"
+      ],
+      "summary": "Combining intracranial recordings with no-report paradigms and computational models offers the clearest path yet to isolating genuine neural correlates of consciousness from their prerequisites and consequences.",
+      "publication_date": "2026-07-30",
+      "source": "OpenAlex-indexed source",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.7554/elife.109604.4.sa0",
+      "doi": "10.7554/elife.109604.4.sa0",
+      "work_type": "peer-review",
+      "evidence_label": "Review",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "consciousness",
+        "neuroscience",
+        "cross-domain"
+      ],
+      "keywords": [
+        "Neural correlates of consciousness",
+        "Consciousness",
+        "Narrative review",
+        "Perception",
+        "Narrative",
+        "Artificial neural network"
+      ],
+      "has_abstract": true,
+      "signal_score": 61
     },
     {
       "id": "49d52bc0ec0ebb7c",
@@ -89,7 +247,7 @@
         "Cerebral blood flow"
       ],
       "has_abstract": true,
-      "signal_score": 61
+      "signal_score": 60
     },
     {
       "id": "73a54374a9871d33",
@@ -121,7 +279,7 @@
         "Noise (video)"
       ],
       "has_abstract": true,
-      "signal_score": 60
+      "signal_score": 59
     },
     {
       "id": "16e7af0cdd3b5630",
@@ -156,7 +314,7 @@
         "Organizational behavior management"
       ],
       "has_abstract": true,
-      "signal_score": 58
+      "signal_score": 57
     },
     {
       "id": "04c7fc35f1afdba5",
@@ -180,7 +338,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 56
+      "signal_score": 55
     },
     {
       "id": "4aa4c0164dc30201",
@@ -208,7 +366,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 56
+      "signal_score": 55
     },
     {
       "id": "f0255d2079d43cb0",
@@ -235,7 +393,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 56
+      "signal_score": 55
     },
     {
       "id": "b3a6ee59ac5de2fa",
@@ -266,7 +424,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 56
+      "signal_score": 55
     },
     {
       "id": "a9a105bf6a274011",
@@ -289,7 +447,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 55
+      "signal_score": 54
     },
     {
       "id": "8458987a8844fc08",
@@ -317,7 +475,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 55
+      "signal_score": 54
     },
     {
       "id": "9a06dc918e129ec0",
@@ -345,7 +503,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 55
+      "signal_score": 54
     },
     {
       "id": "a98839a1046ccc24",
@@ -376,7 +534,39 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 55
+      "signal_score": 54
+    },
+    {
+      "id": "1909148694588e63",
+      "title": "A Quantum Approximate Optimization Algorithm (QAOA) Approach to Portfolio Optimization",
+      "authors": [
+        "Yifei Huang"
+      ],
+      "summary": "Portfolio optimization, a core combinatorial optimization problem in quantitative finance, requires balancing return maximization and risk minimization within discrete asset sets. Classical algorithms often struggle with scalability and local optima traps when handling large-scale asset pools, limiting their practicality in dynamic markets.",
+      "publication_date": "2026-07-30",
+      "source": "Exploring Science Academic Conference Series",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.70267/icfmb.202619628635",
+      "doi": "10.70267/icfmb.202619628635",
+      "work_type": "conference-paper",
+      "evidence_label": "Conference Paper",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "Portfolio optimization",
+        "Optimization problem",
+        "Stochastic optimization",
+        "Quantum",
+        "Quantum algorithm",
+        "Portfolio",
+        "Quantum circuit",
+        "Scalability"
+      ],
+      "has_abstract": true,
+      "signal_score": 54
     },
     {
       "id": "5ed6daa935f7ac71",
@@ -403,7 +593,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 54
+      "signal_score": 53
     },
     {
       "id": "1984ca046d118625",
@@ -430,7 +620,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 54
+      "signal_score": 53
     },
     {
       "id": "d06fd92a1bf30be2",
@@ -456,7 +646,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 54
+      "signal_score": 53
     },
     {
       "id": "850af07e0d57306a",
@@ -493,7 +683,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 54
+      "signal_score": 53
     },
     {
       "id": "849c89d6530351c6",
@@ -520,7 +710,46 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 54
+      "signal_score": 53
+    },
+    {
+      "id": "a47395f2c0d1915a",
+      "title": "Overview of solutions in quantum information technologies, part 3",
+      "authors": [
+        "Łukasz Czarnacki",
+        "Hubert Kowalczyk",
+        "Marcin Krawiec",
+        "Jagna Misiejuk",
+        "Jan Ciepielewski",
+        "Jakub Szczepaniak",
+        "Kacper Mielczarek",
+        "Ryszard S. Romaniuk"
+      ],
+      "summary": "This paper presents the third installment in a series reviewing contemporary solutions in quantum information technologies. Seven thematic areas are surveyed: (1) quantum control engineering, covering theoretical foundations, open-loop and feedback architectures, and industrial optimization use cases; (2) quantum radar, examining quantum illumination principles alongside the fundamental power and decoherence barriers to practical deployment; (3–4) the integration of quantum technologies with embedded systems and…",
+      "publication_date": "2026-07-31",
+      "source": "International Journal of Electronics and Telecommunications",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.24425/ijet.2026.1728",
+      "doi": "10.24425/ijet.2026.1728",
+      "work_type": "article",
+      "evidence_label": "Journal article",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "Quantum information",
+        "Quantum sensor",
+        "Quantum network",
+        "Quantum technology",
+        "Quantum entanglement",
+        "Quantum nanoscience",
+        "Open quantum system",
+        "Quantum"
+      ],
+      "has_abstract": true,
+      "signal_score": 52
     },
     {
       "id": "4813014f4a81d766",
@@ -552,7 +781,7 @@
         "physics.optics"
       ],
       "has_abstract": true,
-      "signal_score": 53
+      "signal_score": 52
     },
     {
       "id": "65a41879e612b248",
@@ -583,7 +812,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 53
+      "signal_score": 52
     },
     {
       "id": "62c8c17f43dac011",
@@ -640,7 +869,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 53
+      "signal_score": 52
     },
     {
       "id": "6f13778ef025ff89",
@@ -673,7 +902,7 @@
         "cs.CL"
       ],
       "has_abstract": true,
-      "signal_score": 53
+      "signal_score": 52
     },
     {
       "id": "c9fbfeda48125a55",
@@ -702,7 +931,7 @@
         "cs.CY"
       ],
       "has_abstract": true,
-      "signal_score": 53
+      "signal_score": 52
     },
     {
       "id": "b4acb3c7314e5f3a",
@@ -737,7 +966,40 @@
         "Artificial neural network"
       ],
       "has_abstract": true,
-      "signal_score": 53
+      "signal_score": 52
+    },
+    {
+      "id": "5788b7b4ef804825",
+      "title": "Quantum-Enhanced Artificial Intelligence: Bridging Quantum Physics and Machine Learning for Next-Generation Computing Paradigms",
+      "authors": [
+        "Mohammad Wali Khurami",
+        "Musawer Hakimi"
+      ],
+      "summary": "Quantum computing and artificial intelligence (AI) are converging into a distinct research frontier commonly referred to as quantum-enhanced artificial intelligence, or quantum machine learning (QML). This paper presents a conceptual and integrative review of how principles from quantum physics superposition, entanglement, and interference can be embedded into machine learning pipelines to reshape computational paradigms for classification, optimization, and representation learning.",
+      "publication_date": "2026-07-30",
+      "source": "Buana Information Technology and Computer Sciences (BIT and CS)",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.36805/5cdcfp74",
+      "doi": "10.36805/5cdcfp74",
+      "work_type": "article",
+      "evidence_label": "Journal article",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "Quantum machine learning",
+        "Quantum computer",
+        "Quantum",
+        "Quantum algorithm",
+        "Qubit",
+        "Bridging (networking)",
+        "Quantum entanglement",
+        "Quantum sort"
+      ],
+      "has_abstract": true,
+      "signal_score": 51
     },
     {
       "id": "5b9d6dbac4a8bb78",
@@ -767,7 +1029,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 52
+      "signal_score": 51
     },
     {
       "id": "c3a518ae375cfeef",
@@ -793,7 +1055,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 52
+      "signal_score": 51
     },
     {
       "id": "21133caab806b374",
@@ -828,7 +1090,7 @@
         "Particle swarm optimization"
       ],
       "has_abstract": true,
-      "signal_score": 51
+      "signal_score": 50
     },
     {
       "id": "d8b44bf8c8efc0cf",
@@ -858,7 +1120,7 @@
         "Heart rate"
       ],
       "has_abstract": true,
-      "signal_score": 51
+      "signal_score": 50
     },
     {
       "id": "f9548adb9e1377da",
@@ -883,7 +1145,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 50
+      "signal_score": 49
     },
     {
       "id": "0b2cf464b767fba4",
@@ -910,7 +1172,85 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 50
+      "signal_score": 49
+    },
+    {
+      "id": "2d4be614ddca230e",
+      "title": "Overview of solutions in quantum information technologies, part 2",
+      "authors": [
+        "Igor Woźniak",
+        "Mateusz Jangas",
+        "Mateusz Piątek",
+        "Karol Franczuk",
+        "Piotr Liszewski",
+        "Jakub Boruc",
+        "Łukasz Siemionek",
+        "Ryszard S. Romaniuk"
+      ],
+      "summary": "The hardware available today does not support general-purpose quantum computation in medical settings, but specific subtasks such as sensing, photon-resolved detection, or image reconstruction can already be handled by quantum components embedded in classical systems. This article surveys recent developments across several branches of medical applications, with a complementary look at an analogous trend in machine learning.",
+      "publication_date": "2026-07-31",
+      "source": "International Journal of Electronics and Telecommunications",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.24425/ijet.2026.1727",
+      "doi": "10.24425/ijet.2026.1727",
+      "work_type": "article",
+      "evidence_label": "Journal article",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "Quantum",
+        "Quantum computer",
+        "Scalability",
+        "Computation",
+        "Quantum technology",
+        "Exploit",
+        "Photon",
+        "Parametric statistics"
+      ],
+      "has_abstract": true,
+      "signal_score": 49
+    },
+    {
+      "id": "65db6aadcbbe1794",
+      "title": "Overview of solutions in quantum information technologies, part 1",
+      "authors": [
+        "Kalina Białek",
+        "Alicja E. Brz´osko",
+        "Piotr A. Małecki",
+        "Grzegorz Łubian",
+        "Krzysztof Rowicki",
+        "Jacek Strzałkowski Strzałkowski",
+        "Borys Leczycki",
+        "Ryszard S. Romaniuk"
+      ],
+      "summary": "The article presents an overview of the quantum technologies across diverse domains. The exploitation of quantum phenomena—such as superposition, entanglement, and quantum interference—allows the introduction of practical and sometimes still theoretical innovations in a wide range of technologies that at some point met an insuperable obstacle in their development.",
+      "publication_date": "2026-07-31",
+      "source": "International Journal of Electronics and Telecommunications",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.24425/ijet.2026.1726",
+      "doi": "10.24425/ijet.2026.1726",
+      "work_type": "article",
+      "evidence_label": "Journal article",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "Quantum information",
+        "Quantum technology",
+        "Obstacle",
+        "Quantum",
+        "Point (geometry)",
+        "Quantum information science",
+        "Quantum computer",
+        "Range (aeronautics)"
+      ],
+      "has_abstract": true,
+      "signal_score": 49
     },
     {
       "id": "b796ce74d5fd7bfa",
@@ -942,7 +1282,7 @@
         "Coherence (philosophical gambling strategy)"
       ],
       "has_abstract": true,
-      "signal_score": 50
+      "signal_score": 49
     },
     {
       "id": "f623b4b77228b8a6",
@@ -970,7 +1310,7 @@
         "cs.CL"
       ],
       "has_abstract": true,
-      "signal_score": 50
+      "signal_score": 49
     },
     {
       "id": "4322ff81810ec186",
@@ -1009,7 +1349,7 @@
         "Mechanism (biology)"
       ],
       "has_abstract": true,
-      "signal_score": 50
+      "signal_score": 49
     },
     {
       "id": "45491a0c7b9d5ee2",
@@ -1046,7 +1386,39 @@
         "Consciousness"
       ],
       "has_abstract": true,
-      "signal_score": 50
+      "signal_score": 49
+    },
+    {
+      "id": "8eeb3994f94bb809",
+      "title": "Gravitational Poissonian Spontaneous Localization Model of Hybrid Quantum-Classical Newtonian Gravity: Energy Increase and Experimental Bounds",
+      "authors": [
+        "Nicolò Piccione"
+      ],
+      "summary": "Abstract The Gravitational Poissonian Spontaneous Localization (GPSL) model is a hybrid classical–quantum framework in which Newtonian gravity emerges from stochastic collapses of a smeared mass-density operator. Consistency of the hybrid dynamics entails momentum diffusion and, hence, spontaneous heating.",
+      "publication_date": "2026-07-30",
+      "source": "Classical and Quantum Gravity",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.1088/1361-6382/ae92e5",
+      "doi": "10.1088/1361-6382/ae92e5",
+      "work_type": "article",
+      "evidence_label": "Journal article",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "Neutron star",
+        "Consistency (knowledge bases)",
+        "Work (physics)",
+        "Newtonian fluid",
+        "Gravitation",
+        "Diffusion",
+        "Energy (signal processing)",
+        "Gravitational energy"
+      ],
+      "has_abstract": true,
+      "signal_score": 48
     },
     {
       "id": "a2f74e80374c303e",
@@ -1072,7 +1444,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 49
+      "signal_score": 48
     },
     {
       "id": "c461571f5e76c7ce",
@@ -1102,7 +1474,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 49
+      "signal_score": 48
     },
     {
       "id": "9c333ec6791e02a2",
@@ -1135,39 +1507,6 @@
         "Transferability",
         "Curse of dimensionality",
         "Dissociation (chemistry)"
-      ],
-      "has_abstract": true,
-      "signal_score": 49
-    },
-    {
-      "id": "b1f6d9a0aba59eb2",
-      "title": "From qubits to general-purpose computing: quantum advantage and its limits",
-      "authors": [
-        "Claude Cockfield",
-        "Moses Garuba"
-      ],
-      "summary": "Quantum computing has been championed as a ground-breaking technology due to its significant computational advantage over classical computing systems. At present, fault-tolerant, large-scale universal quantum computing remains elusive, and these issues remain central challenges in engineering, physics, and computer science.",
-      "publication_date": "2026-07-23",
-      "source": "Open Access Research Journal of Engineering and Technology",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.53022/oarjet.2026.11.1.0054",
-      "doi": "10.53022/oarjet.2026.11.1.0054",
-      "work_type": "article",
-      "evidence_label": "Journal article",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "Quantum computer",
-        "Quantum technology",
-        "Qubit",
-        "Quantum",
-        "Quantum algorithm",
-        "Quantum network",
-        "Open quantum system",
-        "Quantum information"
       ],
       "has_abstract": true,
       "signal_score": 48
@@ -1205,7 +1544,7 @@
         "Spin (aerodynamics)"
       ],
       "has_abstract": true,
-      "signal_score": 48
+      "signal_score": 47
     },
     {
       "id": "1f7a44f332ce3c74",
@@ -1239,7 +1578,7 @@
         "Emerging technologies"
       ],
       "has_abstract": true,
-      "signal_score": 48
+      "signal_score": 47
     },
     {
       "id": "d8e93bc5c1591ade",
@@ -1280,7 +1619,7 @@
         "Electroencephalography"
       ],
       "has_abstract": true,
-      "signal_score": 48
+      "signal_score": 47
     },
     {
       "id": "2d6edc2a4706bbbf",
@@ -1306,7 +1645,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 47
+      "signal_score": 46
     },
     {
       "id": "b978940429ad7c63",
@@ -1340,7 +1679,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 47
+      "signal_score": 46
     },
     {
       "id": "1de6c0f074803837",
@@ -1372,7 +1711,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 47
+      "signal_score": 46
     },
     {
       "id": "3c10d146b9c56c22",
@@ -1400,7 +1739,7 @@
         "cs.PF"
       ],
       "has_abstract": true,
-      "signal_score": 47
+      "signal_score": 46
     },
     {
       "id": "4acbe4ca21bd8dd7",
@@ -1431,7 +1770,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 47
+      "signal_score": 46
     },
     {
       "id": "9486db48f4f1ec45",
@@ -1463,7 +1802,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 47
+      "signal_score": 46
     },
     {
       "id": "f831c87ccfb6f3f7",
@@ -1492,7 +1831,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 47
+      "signal_score": 46
     },
     {
       "id": "e17ad97254c89651",
@@ -1523,7 +1862,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 47
+      "signal_score": 46
     },
     {
       "id": "7fd2e56531fa6d62",
@@ -1551,7 +1890,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 47
+      "signal_score": 46
     },
     {
       "id": "b509c061d17ea220",
@@ -1585,7 +1924,7 @@
         "Quantum discord"
       ],
       "has_abstract": true,
-      "signal_score": 47
+      "signal_score": 46
     },
     {
       "id": "510cc47726a7f218",
@@ -1619,48 +1958,75 @@
         "Quantum discord"
       ],
       "has_abstract": true,
-      "signal_score": 47
+      "signal_score": 46
     },
     {
-      "id": "3f42e0a513821d01",
-      "title": "The trainability of photonic quantum circuits",
+      "id": "b1f6d9a0aba59eb2",
+      "title": "From qubits to general-purpose computing: quantum advantage and its limits",
       "authors": [
-        "Alexander Makarovskiy",
-        "Adam Taylor",
-        "Zhenghao Li",
-        "Michael Hanks",
-        "Aubrey Clark",
-        "M. S. Kim",
-        "Ian Walmsley",
-        "William Clements"
+        "Claude Cockfield",
+        "Moses Garuba"
       ],
-      "summary": "Variational quantum algorithms are a leading approach to near-term quantum computing, but their scalability can be limited by barren plateaus and the sampling cost of resolving small changes in the loss landscape. Here, we study the trainability of passive linear-optical quantum circuits and introduce a framework based on the ratio of sample variance to circuit variance.",
+      "summary": "Quantum computing has been championed as a ground-breaking technology due to its significant computational advantage over classical computing systems. At present, fault-tolerant, large-scale universal quantum computing remains elusive, and these issues remain central challenges in engineering, physics, and computer science.",
       "publication_date": "2026-07-23",
-      "source": "arXiv (Cornell University)",
+      "source": "Open Access Research Journal of Engineering and Technology",
       "source_provider": "OpenAlex",
-      "url": "https://arxiv.org/abs/2607.21544",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
+      "url": "https://doi.org/10.53022/oarjet.2026.11.1.0054",
+      "doi": "10.53022/oarjet.2026.11.1.0054",
+      "work_type": "article",
+      "evidence_label": "Journal article",
       "open_access": true,
       "cited_by_count": 0,
       "domains": [
-        "quantum",
-        "neuroscience",
-        "cross-domain"
+        "quantum"
       ],
       "keywords": [
-        "Observable",
+        "Quantum computer",
+        "Quantum technology",
+        "Qubit",
         "Quantum",
-        "Polynomial",
-        "Electronic circuit",
-        "Sampling (signal processing)",
-        "Quantum circuit",
-        "Photonics",
-        "Scalability"
+        "Quantum algorithm",
+        "Quantum network",
+        "Open quantum system",
+        "Quantum information"
       ],
       "has_abstract": true,
       "signal_score": 46
+    },
+    {
+      "id": "95f5eda5c51355ee",
+      "title": "Adaptive Optimizer-Enhanced Variational Quantum Classifier Using ZZFeatureMap and TwoLocal Ansatz for Non-Linear Binary Classification",
+      "authors": [
+        "Rajalakshmi D",
+        "R.R. Ramya",
+        "Sridevi S",
+        "Sudharson K"
+      ],
+      "summary": "Noisy Intermediate-Scale Quantum (NISQ) devices can be used to solve classification problems using a promising quantum machine learning technique called Variational Quantum Classifiers (VQC). The performance of VQCs is highly dependent on classical optimizers, and the understanding of the optimizer behavior within a given quantum architecture is limited.",
+      "publication_date": "2026-07-27",
+      "source": "International Research Journal of Multidisciplinary Technovation",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.54392/irjmt26418",
+      "doi": "10.54392/irjmt26418",
+      "work_type": "article",
+      "evidence_label": "Journal article",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "Benchmark (surveying)",
+        "Quantum",
+        "Robustness (evolution)",
+        "Convergence (economics)",
+        "Binary number",
+        "Stability (learning theory)",
+        "Ansatz",
+        "Artificial neural network"
+      ],
+      "has_abstract": true,
+      "signal_score": 45
     },
     {
       "id": "dd4e9224d43d244b",
@@ -1689,7 +2055,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 45
+      "signal_score": 44
     },
     {
       "id": "dbed9c216a354706",
@@ -1715,7 +2081,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 45
+      "signal_score": 44
     },
     {
       "id": "2edd5ffb57d3e41a",
@@ -1741,7 +2107,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 45
+      "signal_score": 44
     },
     {
       "id": "038bf6982f337e20",
@@ -1768,7 +2134,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 45
+      "signal_score": 44
     },
     {
       "id": "3016cce57edf0278",
@@ -1817,7 +2183,7 @@
         "Bounding overwatch"
       ],
       "has_abstract": true,
-      "signal_score": 45
+      "signal_score": 44
     },
     {
       "id": "bdbedd93432fb35a",
@@ -1849,7 +2215,48 @@
         "Quantum error correction"
       ],
       "has_abstract": true,
-      "signal_score": 45
+      "signal_score": 44
+    },
+    {
+      "id": "3f42e0a513821d01",
+      "title": "The trainability of photonic quantum circuits",
+      "authors": [
+        "Alexander Makarovskiy",
+        "Adam Taylor",
+        "Zhenghao Li",
+        "Michael Hanks",
+        "Aubrey Clark",
+        "M. S. Kim",
+        "Ian Walmsley",
+        "William Clements"
+      ],
+      "summary": "Variational quantum algorithms are a leading approach to near-term quantum computing, but their scalability can be limited by barren plateaus and the sampling cost of resolving small changes in the loss landscape. Here, we study the trainability of passive linear-optical quantum circuits and introduce a framework based on the ratio of sample variance to circuit variance.",
+      "publication_date": "2026-07-23",
+      "source": "arXiv (Cornell University)",
+      "source_provider": "OpenAlex",
+      "url": "https://arxiv.org/abs/2607.21544",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum",
+        "neuroscience",
+        "cross-domain"
+      ],
+      "keywords": [
+        "Observable",
+        "Quantum",
+        "Polynomial",
+        "Electronic circuit",
+        "Sampling (signal processing)",
+        "Quantum circuit",
+        "Photonics",
+        "Scalability"
+      ],
+      "has_abstract": true,
+      "signal_score": 44
     },
     {
       "id": "c345f76fb72f0c32",
@@ -1882,7 +2289,7 @@
         "Generative model"
       ],
       "has_abstract": true,
-      "signal_score": 45
+      "signal_score": 44
     },
     {
       "id": "704aba104bb2bdc5",
@@ -1916,7 +2323,7 @@
         "Neuroscience"
       ],
       "has_abstract": true,
-      "signal_score": 45
+      "signal_score": 44
     },
     {
       "id": "036a66e31798d968",
@@ -1949,7 +2356,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "85395f089ea3dab4",
@@ -1977,7 +2384,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "ec67abf59cb48311",
@@ -2010,7 +2417,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "7524a09aa85b1e93",
@@ -2037,7 +2444,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "ababc9ddcf9b13d7",
@@ -2063,7 +2470,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "caba9db40c43ed2d",
@@ -2093,7 +2500,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "6a54705d8c907c8b",
@@ -2120,7 +2527,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "b2d322a61b10e755",
@@ -2144,7 +2551,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "d17f30be796bff5e",
@@ -2167,7 +2574,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "36140b1c8fd32583",
@@ -2195,7 +2602,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "9a8538926bbd7fea",
@@ -2224,7 +2631,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "59d2dbaefa018023",
@@ -2256,7 +2663,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "220701d8b4bd2929",
@@ -2285,7 +2692,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "282b32ea87703a2e",
@@ -2313,7 +2720,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "4f21752483921b49",
@@ -2343,7 +2750,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "aa98fb8e54a2879d",
@@ -2366,7 +2773,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "2f3acc3ea9d4f8a0",
@@ -2394,7 +2801,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "2f018616c59d6333",
@@ -2419,7 +2826,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "1da190d61be795c4",
@@ -2445,7 +2852,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "d81eca068a1c43e6",
@@ -2468,7 +2875,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "19dd2cb6d2df2d68",
@@ -2496,7 +2903,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "6dc0b22912a3ead4",
@@ -2525,7 +2932,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "b24dec6e4ccae6a7",
@@ -2555,7 +2962,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "153cb4ee5d3b5c42",
@@ -2585,7 +2992,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "e9326e491cc8ef7a",
@@ -2614,7 +3021,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "fdce55ad3f6fc13c",
@@ -2644,7 +3051,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "7d929702781f113f",
@@ -2667,7 +3074,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "a0e60e0fbaf5bbdc",
@@ -2694,7 +3101,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "7216b3b8e19f6e0e",
@@ -2727,7 +3134,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "cc3a20c2ff8b3f4b",
@@ -2756,7 +3163,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "2e33aae9d90079a2",
@@ -2790,7 +3197,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "c82692d01159c9ed",
@@ -2814,7 +3221,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "c8d0d30ddc88225f",
@@ -2841,7 +3248,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "04a1b3f71a6fc7dd",
@@ -2867,7 +3274,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "3918cb83456b18d0",
@@ -2893,7 +3300,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "b80b0ac943f6e09b",
@@ -2919,7 +3326,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "d36cef0cfcf774c6",
@@ -2947,7 +3354,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "9463b59f20ba1640",
@@ -2973,7 +3380,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "16b1a966c8301428",
@@ -2999,7 +3406,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "99761b40a4465743",
@@ -3026,7 +3433,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "bd0c68eba384d0fb",
@@ -3052,7 +3459,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "d3d0327f003f878b",
@@ -3083,7 +3490,7 @@
         "Quantum nonlocality"
       ],
       "has_abstract": true,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "5d0a86f231b93f53",
@@ -3113,7 +3520,7 @@
         "Drug"
       ],
       "has_abstract": true,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "7140f715d0e46e6b",
@@ -3142,7 +3549,7 @@
         "cs.HC"
       ],
       "has_abstract": true,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "0f13df127b50ad56",
@@ -3184,7 +3591,7 @@
         "Biomarker discovery"
       ],
       "has_abstract": true,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "cae5954100b3f68c",
@@ -3225,7 +3632,7 @@
         "Coma (optics)"
       ],
       "has_abstract": true,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "5ddf1720db12223f",
@@ -3253,7 +3660,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "127133ad97d3b61a",
@@ -3282,7 +3689,39 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
+    },
+    {
+      "id": "e346ef0ab1883ce9",
+      "title": "The Vacuum Supersolid Hypothesis: A Complete Mathematical Framework for the Emergence of Spacetime, Gauge Fields, and Quantum Mechanics from a Single Elastic Order Parameter",
+      "authors": [
+        "shifa liu"
+      ],
+      "summary": "We present and systematically develop a rigorous theoretical framework in which the physical vacuum is identified as a quantum supersolid medium with nonlinear elastic properties. Within this framework, the speed of light c is interpreted as the phase speed of transverse shear waves in the vacuum medium, dark energy is recog- nised as the elastic restoring pressure arising from the bulk modulus K under cosmic volumetric strain, and general relativity and quantum field theory emerge as low- energy approximations in…",
+      "publication_date": "2026-07-30",
+      "source": "OpenAlex-indexed source",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.33774/coe-2026-djf8h",
+      "doi": "10.33774/coe-2026-djf8h",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "Dark energy",
+        "Vacuum energy",
+        "Vacuum state",
+        "Quantum",
+        "Speed of light (cellular automaton)",
+        "General relativity",
+        "False vacuum",
+        "Quantum field theory"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
     },
     {
       "id": "a9c6289d80b8804c",
@@ -3309,7 +3748,7 @@
         "cond-mat.stat-mech"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "ba5955eec44ce966",
@@ -3337,7 +3776,7 @@
         "physics.optics"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "015f6f39cd6a50ae",
@@ -3364,7 +3803,7 @@
         "cs.DS"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "acd4783ecd222dd8",
@@ -3392,7 +3831,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "cc1758526b343199",
@@ -3419,7 +3858,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "e365a266541c5a77",
@@ -3446,7 +3885,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "833022087319edef",
@@ -3473,7 +3912,7 @@
         "math.CO"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "3760580120adbf33",
@@ -3503,7 +3942,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "63d1318ad596a08a",
@@ -3530,7 +3969,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "65ae6e11d7be90c3",
@@ -3557,7 +3996,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "5163b45aa9da9cef",
@@ -3584,7 +4023,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "8ecf57f60c1af855",
@@ -3614,7 +4053,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "8f06bfad4db40e59",
@@ -3642,7 +4081,7 @@
         "math.SP"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "0a55cd8efcdea594",
@@ -3668,7 +4107,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "eb7a233e06da7029",
@@ -3694,7 +4133,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "d99d8b9084fe6985",
@@ -3724,7 +4163,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "ac53cdc61be3cd4d",
@@ -3753,7 +4192,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "ddcfac6c4e08ff62",
@@ -3784,7 +4223,7 @@
         "cond-mat.supr-con"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "8b84e3bd3de8aa6f",
@@ -3810,7 +4249,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "4ee8d1f6028c3218",
@@ -3837,7 +4276,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "0a8473b044ff9486",
@@ -3863,7 +4302,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "eaf2b0317dbe22bd",
@@ -3890,7 +4329,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "63ca9dfd6d158702",
@@ -3925,7 +4364,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "96b1053e0a0e7c89",
@@ -3979,7 +4418,7 @@
         "cond-mat.quant-gas"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "04071a6f6d56104f",
@@ -4006,7 +4445,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "cf0e9b75e629d014",
@@ -4034,7 +4473,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "83e1bd0a9a3c95d0",
@@ -4066,7 +4505,7 @@
         "cs.DS"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "086aae631f2cd707",
@@ -4095,7 +4534,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "5b83786887016339",
@@ -4123,7 +4562,7 @@
         "physics.optics"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "24adbbd039881f6c",
@@ -4150,7 +4589,7 @@
         "math.FA"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "4dd6109ca08d4561",
@@ -4180,7 +4619,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "cab3a203ef70b67e",
@@ -4208,7 +4647,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "44ff0a3eae0f94ff",
@@ -4241,7 +4680,7 @@
         "cs.CY"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "cae3311248b06dea",
@@ -4272,7 +4711,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "949823259be8fc14",
@@ -4300,7 +4739,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "54264b1883cdbb15",
@@ -4327,7 +4766,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "7bc6cbcb43bfc74b",
@@ -4357,7 +4796,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "208c296a170be6f2",
@@ -4386,7 +4825,7 @@
         "physics.optics"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "5ec4aa4c15198ede",
@@ -4414,7 +4853,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "509bf5b9dbbae526",
@@ -4450,7 +4889,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "aace948696e9fa10",
@@ -4480,7 +4919,7 @@
         "hep-th"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "d66c52700734fcf3",
@@ -4507,7 +4946,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "b2352ddbcf5836d7",
@@ -4539,7 +4978,7 @@
         "cs.DC"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "3cb7244e256280bd",
@@ -4582,7 +5021,7 @@
         "cs.LG"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "b1e519b2786be9d9",
@@ -4610,7 +5049,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "ffde06b64349820a",
@@ -4638,7 +5077,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "a5f8920d374ad03c",
@@ -4665,7 +5104,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "52d281d3cbd95d1e",
@@ -4692,7 +5131,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "bc43de3133c9e5c1",
@@ -4718,7 +5157,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "e2e848f5a3c6b59e",
@@ -4745,7 +5184,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "47fc5276b509928b",
@@ -4772,7 +5211,7 @@
         "math-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "d1fb95dc1548a9ff",
@@ -4805,7 +5244,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "daa89ba92bc8626b",
@@ -4835,7 +5274,7 @@
         "physics.pop-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "f7793a1883fe30e4",
@@ -4866,7 +5305,7 @@
         "physics.chem-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "014f5676e7de57b0",
@@ -4901,7 +5340,7 @@
         "physics.optics"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "be656e6fe081c914",
@@ -4926,7 +5365,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "e75a29a72df398ae",
@@ -4955,7 +5394,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "7d7af71410760e02",
@@ -4982,7 +5421,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "1613ea4a407ba6a8",
@@ -5009,7 +5448,7 @@
         "math.DG"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "ab65ac281279cb7f",
@@ -5038,7 +5477,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "60e0bd1f9863ce50",
@@ -5071,7 +5510,7 @@
         "physics.chem-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "115d872a53b1f691",
@@ -5096,7 +5535,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "35b13898b0adc738",
@@ -5129,7 +5568,7 @@
         "physics.bio-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "2b90562949c01724",
@@ -5158,7 +5597,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "a646e9b2c77895c9",
@@ -5184,7 +5623,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "6e02ef63b2a23c79",
@@ -5216,7 +5655,41 @@
         "Virtue"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
+    },
+    {
+      "id": "8dfb8fa5efed2ef2",
+      "title": "NNLL′ resummation of azimuthal decorrelation for boosted top quark pair production at the LHC",
+      "authors": [
+        "Qian-Shun Dai",
+        "M. H. Liu",
+        "Ding Yu Shao"
+      ],
+      "summary": "A bstract The precision program of the Large Hadron Collider (LHC) increasingly relies on the boosted regime, where top quark properties are probed at the TeV scale. However, the simultaneous presence of heavy quark mass effects and large logarithmic corrections from soft radiation poses a significant challenge for theoretical predictions.",
+      "publication_date": "2026-07-24",
+      "source": "Journal of High Energy Physics",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.1007/jhep07(2026)227",
+      "doi": "10.1007/jhep07(2026)227",
+      "work_type": "article",
+      "evidence_label": "Journal article",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "Resummation",
+        "Pair production",
+        "Large Hadron Collider",
+        "Top quark",
+        "Quark",
+        "Quantum chromodynamics",
+        "Perturbative QCD",
+        "Factorization"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
     },
     {
       "id": "32a44d32dd625492",
@@ -5252,7 +5725,7 @@
         "Encryption"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "057be5b550ae0556",
@@ -5286,7 +5759,7 @@
         "State (computer science)"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "a37d165c88c892f3",
@@ -5319,7 +5792,7 @@
         "Boolean function"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "1368f0dc3a07340c",
@@ -5354,7 +5827,7 @@
         "Quantum information science"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "1301dcadf03c7316",
@@ -5382,7 +5855,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "762c21fd9019ede4",
@@ -5408,7 +5881,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "d0584f4cf9518b0d",
@@ -5434,7 +5907,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "daf13a92e70aefc8",
@@ -5458,7 +5931,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "f52613a50814fc13",
@@ -5482,7 +5955,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "37b440e01c70fc0c",
@@ -5505,7 +5978,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "32aa42740f4cf988",
@@ -5532,7 +6005,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "e7ac92cd35049816",
@@ -5558,7 +6031,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "7d8454b4a2d0b694",
@@ -5592,7 +6065,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "0f77cd8955a78768",
@@ -5626,7 +6099,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "430d4f5644fd1dea",
@@ -5652,7 +6125,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "a9f45f6f343e5c5e",
@@ -5679,7 +6152,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "532e3362efc00b3e",
@@ -5723,7 +6196,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "832ebe9854cf10a6",
@@ -5753,7 +6226,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "5530e95322b4b1fe",
@@ -5779,7 +6252,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "4523b9e720ace61d",
@@ -5804,7 +6277,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "fbf9baaf26562be9",
@@ -5834,7 +6307,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "861709ef404253e5",
@@ -5861,7 +6334,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "0a4ceaba76e5adc7",
@@ -5892,7 +6365,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "e72a6f9467d830fa",
@@ -5916,7 +6389,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "dc4e770eb5e49b85",
@@ -5941,7 +6414,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "090c323ee18f8d23",
@@ -5965,7 +6438,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "5e36bd97d299f750",
@@ -5993,7 +6466,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "7bcf492c525dc5ad",
@@ -6017,7 +6490,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "467b1c876d615fa1",
@@ -6045,7 +6518,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "159133dc3e9f9852",
@@ -6072,7 +6545,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "10bf8002a1250c42",
@@ -6100,7 +6573,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "9d7a5539bdd2c5f7",
@@ -6132,7 +6605,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "f395dbe1b6832ea9",
@@ -6160,7 +6633,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "d4561b3311b72d48",
@@ -6187,7 +6660,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "33c2d69cdc99eadd",
@@ -6215,7 +6688,7 @@
         "cond-mat.mes-hall"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "8703150b7e8a0347",
@@ -6240,7 +6713,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "f8c964c0f3781dae",
@@ -6265,7 +6738,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "40bf1181191fb1ae",
@@ -6292,69 +6765,7 @@
         "gr-qc"
       ],
       "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "02b0f2c8adf20db3",
-      "title": "Time-resolved digital quantum simulation of cosmological particle creation in a de Sitter–radiation transition",
-      "authors": [
-        "Anonymous"
-      ],
-      "summary": "We present a time-resolved digital quantum simulation of cosmological particle creation in a de~Sitter--radiation FLRW transition. Instead of compiling only the final Bogoliubov transformation into a one-shot circuit, we discretize the conformal-time evolution and implement the dynamics as a Trotterized sequence of short-time circuit blocks.",
-      "publication_date": "2026-07-23",
-      "source": "Physical review. D/Physical review. D.",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.1103/467g-1dk1",
-      "doi": "10.1103/467g-1dk1",
-      "work_type": "article",
-      "evidence_label": "Journal article",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "Quantum",
-        "Transition (genetics)",
-        "Particle (ecology)",
-        "Field (mathematics)",
-        "Work (physics)",
-        "Phase transition"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "8116e156497c3c0c",
-      "title": "Toward a Predictive Coding Account of Hypnotic Hypoalgesia: Integrating EEG Oscillations and Somatosensory Evoked Responses",
-      "authors": [
-        "Vilfredo De Pascalis"
-      ],
-      "summary": "Hypnotic hypoalgesia effectively reduces various types of pain, but its neurophysiological mechanisms remain unclear. EEG and somatosensory event-related potentials (SERPs) can help elucidate how hypnotic suggestions influence pain processing across sensory, emotional, and cognitive domains.",
-      "publication_date": "2026-07-23",
-      "source": "Brain Sciences",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.3390/brainsci16080779",
-      "doi": "10.3390/brainsci16080779",
-      "work_type": "article",
-      "evidence_label": "Journal article",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [
-        "Electroencephalography",
-        "Hypnotic",
-        "Sensory system",
-        "Somatosensory system",
-        "Cognition",
-        "Neurophysiology",
-        "Hypnosis",
-        "Hypoalgesia"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "7b85a48915438602",
@@ -6386,7 +6797,69 @@
         "Joint probability distribution"
       ],
       "has_abstract": true,
-      "signal_score": 41
+      "signal_score": 40
+    },
+    {
+      "id": "02b0f2c8adf20db3",
+      "title": "Time-resolved digital quantum simulation of cosmological particle creation in a de Sitter–radiation transition",
+      "authors": [
+        "Anonymous"
+      ],
+      "summary": "We present a time-resolved digital quantum simulation of cosmological particle creation in a de~Sitter--radiation FLRW transition. Instead of compiling only the final Bogoliubov transformation into a one-shot circuit, we discretize the conformal-time evolution and implement the dynamics as a Trotterized sequence of short-time circuit blocks.",
+      "publication_date": "2026-07-23",
+      "source": "Physical review. D/Physical review. D.",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.1103/467g-1dk1",
+      "doi": "10.1103/467g-1dk1",
+      "work_type": "article",
+      "evidence_label": "Journal article",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "Quantum",
+        "Transition (genetics)",
+        "Particle (ecology)",
+        "Field (mathematics)",
+        "Work (physics)",
+        "Phase transition"
+      ],
+      "has_abstract": true,
+      "signal_score": 40
+    },
+    {
+      "id": "8116e156497c3c0c",
+      "title": "Toward a Predictive Coding Account of Hypnotic Hypoalgesia: Integrating EEG Oscillations and Somatosensory Evoked Responses",
+      "authors": [
+        "Vilfredo De Pascalis"
+      ],
+      "summary": "Hypnotic hypoalgesia effectively reduces various types of pain, but its neurophysiological mechanisms remain unclear. EEG and somatosensory event-related potentials (SERPs) can help elucidate how hypnotic suggestions influence pain processing across sensory, emotional, and cognitive domains.",
+      "publication_date": "2026-07-23",
+      "source": "Brain Sciences",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.3390/brainsci16080779",
+      "doi": "10.3390/brainsci16080779",
+      "work_type": "article",
+      "evidence_label": "Journal article",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [
+        "Electroencephalography",
+        "Hypnotic",
+        "Sensory system",
+        "Somatosensory system",
+        "Cognition",
+        "Neurophysiology",
+        "Hypnosis",
+        "Hypoalgesia"
+      ],
+      "has_abstract": true,
+      "signal_score": 40
     },
     {
       "id": "bb556228d27c6d38",
@@ -6420,7 +6893,7 @@
         "Peripheral nervous system"
       ],
       "has_abstract": true,
-      "signal_score": 41
+      "signal_score": 40
     },
     {
       "id": "b0bd0314cab53690",
@@ -6455,7 +6928,7 @@
         "Pattern recognition (psychology)"
       ],
       "has_abstract": true,
-      "signal_score": 41
+      "signal_score": 40
     },
     {
       "id": "0b06c4ada51164c7",
@@ -6490,7 +6963,7 @@
         "Superconducting quantum computing"
       ],
       "has_abstract": true,
-      "signal_score": 40
+      "signal_score": 39
     },
     {
       "id": "6e5d9f80327d711f",
@@ -6524,7 +6997,7 @@
         "Exponent"
       ],
       "has_abstract": true,
-      "signal_score": 40
+      "signal_score": 39
     },
     {
       "id": "e7a0b6ed3e924756",
@@ -6552,7 +7025,7 @@
         "q-bio.NC"
       ],
       "has_abstract": true,
-      "signal_score": 40
+      "signal_score": 39
     },
     {
       "id": "02854f6711ae63bc",
@@ -6581,7 +7054,7 @@
         "cs.NE"
       ],
       "has_abstract": true,
-      "signal_score": 40
+      "signal_score": 39
     },
     {
       "id": "1bd90467707a4c9c",
@@ -6608,7 +7081,7 @@
         "cs.CV"
       ],
       "has_abstract": true,
-      "signal_score": 40
+      "signal_score": 39
     },
     {
       "id": "c5b179d2df5c1abc",
@@ -6640,7 +7113,7 @@
         "Divisibility rule"
       ],
       "has_abstract": true,
-      "signal_score": 39
+      "signal_score": 38
     },
     {
       "id": "66bab2c26574d006",
@@ -6672,7 +7145,7 @@
         "Quantum circuit"
       ],
       "has_abstract": true,
-      "signal_score": 39
+      "signal_score": 38
     },
     {
       "id": "b7e737b3961d3934",
@@ -6705,7 +7178,7 @@
         "Quantum information science"
       ],
       "has_abstract": true,
-      "signal_score": 39
+      "signal_score": 38
     },
     {
       "id": "745fed9d57e63b67",
@@ -6734,475 +7207,7 @@
         "Loop quantum gravity"
       ],
       "has_abstract": true,
-      "signal_score": 39
-    },
-    {
-      "id": "928a858bb3c7ffef",
-      "title": "Perceived AGI: Believability as Dimensional Completeness, Not Capability",
-      "authors": [
-        "Sebastian Cochinescu"
-      ],
-      "summary": "Large language models are broadly capable, yet in sustained one-to-one conversation they still read as flat: competent, responsive, and somehow not quite the presence of a mind. We hypothesize that a central missing ingredient is not more capability but dimensional completeness.",
-      "publication_date": "2026-07-17",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2607.15883v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "consciousness",
-        "neuroscience",
-        "cross-domain"
-      ],
-      "keywords": [
-        "cs.HC",
-        "cs.AI"
-      ],
-      "has_abstract": true,
-      "signal_score": 39
-    },
-    {
-      "id": "e1c3ee0af97a5469",
-      "title": "The Complexity of Dynamical Correlators: Operator Shadows and Exponential Learning Separations",
-      "authors": [
-        "Shao-Hen Chiew",
-        "Armando Angrisani",
-        "Zoe Holmes"
-      ],
-      "summary": "Quantum platforms can realize many-body dynamics beyond classical simulation yet complete readout remains intractable: the cost of extracting accessible information scales exponentially with system size. Classical shadows and Bell sampling offer scalable, multi-observable estimation from randomized or entanglement-assisted measurements.",
-      "publication_date": "2026-07-16",
-      "source": "arXiv (Cornell University)",
-      "source_provider": "OpenAlex",
-      "url": "https://arxiv.org/abs/2607.15493",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "Sampling (signal processing)",
-        "Exponential function",
-        "Diagonal",
-        "Shadow (psychology)",
-        "Operator (biology)",
-        "Exponential growth",
-        "Dynamical systems theory"
-      ],
-      "has_abstract": true,
-      "signal_score": 39
-    },
-    {
-      "id": "564f700057565425",
-      "title": "Tensor Network Machine Learning for Wildfire Susceptibility Mapping: from Grokking Dynamics to Quantum Mixedness of Class Representations",
-      "authors": [
-        "Domenico Pomarico",
-        "Alessandra Costantino",
-        "Gabriel Ramirez Sanchez",
-        "Loredana Bellantuono",
-        "Davide D'Alò",
-        "Mario Elia",
-        "Alessandro Fania",
-        "Francesco Giordano",
-        "Niloofar Kheirkhahan",
-        "Raffaele Lafortezza",
-        "Ester Pantaleo",
-        "S. Tangaro",
-        "R. Bellotti",
-        "A. Monaco",
-        "Nicola Amoroso"
-      ],
-      "summary": "New work indexed under “Tensor Network Machine Learning for Wildfire Susceptibility Mapping: from Grokking Dynamics to Quantum Mixedness of Class Representations.” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-07-29",
-      "source": "Research Square",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.21203/rs.3.rs-10380924/v1",
-      "doi": "10.21203/rs.3.rs-10380924/v1",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "Geospatial analysis",
-        "Multiclass classification",
-        "Binary number",
-        "Class (philosophy)",
-        "Classifier (UML)",
-        "Tensor (intrinsic definition)",
-        "Binary classification",
-        "Separable space"
-      ],
-      "has_abstract": false,
       "signal_score": 38
-    },
-    {
-      "id": "cce9597417746b49",
-      "title": "Theory of approximate quantum error correction and the error-set model",
-      "authors": [
-        "Dor Elimelech",
-        "Victor V. Albert",
-        "Alexander Barg"
-      ],
-      "summary": "We develop a theory of approximate quantum error correction (QEC) based on the error-set model, complemented by general methods for code construction. Exact QEC has a powerful error-set structure: by the Knill-Laflamme conditions, a code correcting a given error set automatically protects against every channel whose Kraus operators lie in their linear span.",
-      "publication_date": "2026-07-25",
-      "source": "arXiv (Cornell University)",
-      "source_provider": "OpenAlex",
-      "url": "https://arxiv.org/abs/2607.22995",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "Equivalence (formal languages)",
-        "Quantum",
-        "Set (abstract data type)",
-        "Code (set theory)",
-        "Fidelity",
-        "Error detection and correction",
-        "Generalization",
-        "Quantum error correction"
-      ],
-      "has_abstract": true,
-      "signal_score": 38
-    },
-    {
-      "id": "cb9cf25f9ae970f2",
-      "title": "Optimal schedule of multi-channel quantum Zeno dragging with application to solving the k-SAT problem",
-      "authors": [
-        "Yipei Zhang",
-        "Alain Sarlette",
-        "Philippe Lewalle",
-        "Tathagata Karmakar",
-        "Thilo Scharnhorst",
-        "K. Birgitta Whaley"
-      ],
-      "summary": "Quantum Zeno dragging enables the preparation of common eigenstates of a set of observables by frequent measurement and adiabatic-like modulation of the measurement basis. In this work, we present a deeper analysis of multi-channel Zeno dragging using generalized measurements, i.e.",
-      "publication_date": "2026-07-20",
-      "source": "Quantum",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.22331/q-2026-07-20-2167",
-      "doi": "10.22331/q-2026-07-20-2167",
-      "work_type": "article",
-      "evidence_label": "Journal article",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "Convergence (economics)",
-        "Zeno's paradoxes",
-        "Observable",
-        "Quantum Zeno effect",
-        "Schedule",
-        "Optimal control",
-        "Quantum",
-        "Set (abstract data type)"
-      ],
-      "has_abstract": true,
-      "signal_score": 38
-    },
-    {
-      "id": "144f647ca2b139dc",
-      "title": "Comparative Analysis of Classical and YOLO Quantum System",
-      "authors": [
-        "Trilok Singh",
-        "Vineet Kumar Chauhan",
-        "Hemendra Shankar Sharma",
-        "Bhuvenashwer Swaroop"
-      ],
-      "summary": "Classical computing is a traditional computing system currently used in digital devices like laptops, smartphones, servers and personal computers and works on binary bits concept where information represents in the form of 2 states, either 0 or 1. Classical computing follows deterministic and sequential computing approach leads to efficiently perform normal and daily computational task[3].On the another hand, quantum computing is an advance and emerging computing paradigm based on the principle of quantum…",
-      "publication_date": "2026-07-20",
-      "source": "Journal of Recent Innovations in Computer Science and Technology",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.70454/jricst.2026.030305",
-      "doi": "10.70454/jricst.2026.030305",
-      "work_type": "article",
-      "evidence_label": "Journal article",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "Quantum computer",
-        "Qubit",
-        "Quantum entanglement",
-        "Quantum",
-        "Quantum algorithm",
-        "Quantum sort",
-        "Natural computing",
-        "Unconventional computing"
-      ],
-      "has_abstract": true,
-      "signal_score": 38
-    },
-    {
-      "id": "a59a0fad04904495",
-      "title": "What AI Cannot Learn: A Cognitive Science Perspective on Human-Centered Strategic HRM",
-      "authors": [
-        "Daniel Altieri",
-        "Zohra Damani",
-        "Cynthia Nebel"
-      ],
-      "summary": "This article addresses the growing concern that generative artificial intelligence (AI) may replace human expertise in organizations. Instead of asking whether AI should be used, it examines why human judgment rooted in experience cannot be fully replaced by current AI systems and how organizations can work with AI more effectively.",
-      "publication_date": "2026-07-10",
-      "source": "Administrative Sciences",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.3390/admsci16070335",
-      "doi": "10.3390/admsci16070335",
-      "work_type": "article",
-      "evidence_label": "Journal article",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "consciousness",
-        "neuroscience",
-        "cross-domain"
-      ],
-      "keywords": [
-        "Framing (construction)",
-        "Notice",
-        "Cognition",
-        "Perspective (graphical)",
-        "Human resource management",
-        "Human intelligence",
-        "Human resources",
-        "Generative grammar"
-      ],
-      "has_abstract": true,
-      "signal_score": 38
-    },
-    {
-      "id": "3aebea5e96671762",
-      "title": "The effect of video-assisted education on postoperative outcomes after laparoscopic cholecystectomy: A randomized controlled trial",
-      "authors": [
-        "Elif Pehlivan",
-        "Berna Dizer",
-        "Arzu Tuna"
-      ],
-      "summary": "Objective To determine the effects of video-assisted education on postoperative physiological parameters and recovery outcomes of patients undergoing laparoscopic cholecystectomy. Background Laparoscopic cholecystectomy is a widely used minimally invasive surgical method to treat gallstones.",
-      "publication_date": "2026-07-09",
-      "source": "PEC Innovation",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.pecinn.2026.100488",
-      "doi": "10.1016/j.pecinn.2026.100488",
-      "work_type": "article",
-      "evidence_label": "Journal article",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [
-        "Randomized controlled trial",
-        "Laparoscopic surgery",
-        "MEDLINE",
-        "Quality of life (healthcare)",
-        "Observational study"
-      ],
-      "has_abstract": true,
-      "signal_score": 38
-    },
-    {
-      "id": "92c4076ae0d21ee1",
-      "title": "Quantum Natural Gradient Optimization for Convergence Reliability in NISQ Variational Quantum Algorithms",
-      "authors": [
-        "Mezbah Uddin Rafi"
-      ],
-      "summary": "New work indexed under “Quantum Natural Gradient Optimization for Convergence Reliability in NISQ Variational Quantum Algorithms.” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-07-28",
-      "source": "Research Square",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.21203/rs.3.rs-10488762/v1",
-      "doi": "10.21203/rs.3.rs-10488762/v1",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "Quantum algorithm",
-        "Quantum computer",
-        "Speedup",
-        "Quantum",
-        "Quantum sort",
-        "Gradient descent",
-        "Quantum circuit",
-        "Information geometry"
-      ],
-      "has_abstract": false,
-      "signal_score": 37
-    },
-    {
-      "id": "b9eadf785f5ea64b",
-      "title": "Tensor Catalyzed Decoherence of Primordial Scalar Fluctuations",
-      "authors": [
-        "C. P. Burgess",
-        "D. Dineen",
-        "R. Holman",
-        "Greg Kaplanek"
-      ],
-      "summary": "We provide the first complete calculation of the leading contribution to the decoherence of primordial fluctuations in the scalar part of the metric fluctuations within simplest, single-clock, inflationary models, assuming decoherence comes from gravitational interactions with an environment made up of the other, unmeasured, short-wavelength scalar and tensor modes. We include the contributions from {\\it all} of the contributing interactions at leading order in powers of $(H/M_p)^2$ and of the slow-roll parameter…",
-      "publication_date": "2026-07-24",
-      "source": "arXiv (Cornell University)",
-      "source_provider": "OpenAlex",
-      "url": "https://arxiv.org/abs/2607.22914",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "Quantum decoherence",
-        "Scalar (mathematics)",
-        "Amplitude",
-        "Perturbation (astronomy)",
-        "Gaussian",
-        "Tensor (intrinsic definition)",
-        "Non-Gaussianity"
-      ],
-      "has_abstract": true,
-      "signal_score": 37
-    },
-    {
-      "id": "7f2ab187d5914dd1",
-      "title": "UTS at ELOQUENT 2026 Voight-Kampff: structural shifts in AI writing bypass state-of-the-art detectors",
-      "authors": [
-        "Dima Galat",
-        "Marian-Andrei Rizoiu"
-      ],
-      "summary": "We investigate which language model evasion attacks survive state-of-the-art adversarial fine-tuning, developing strategies that sweep the top 5 positions on the ELOQUENT 2026 Voight-Kampff leaderboard. While adversarial fine-tuning trivially closes the 2025 winning evasion recipes, we uncover a fundamental asymmetry in detector vulnerability: pushing generated text out of the detector's training distribution reliably defeats adversarial detection, whereas pulling it into the distribution (e.g., mimicking human…",
-      "publication_date": "2026-07-15",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2607.13565v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "consciousness",
-        "neuroscience",
-        "cross-domain"
-      ],
-      "keywords": [
-        "cs.CR",
-        "cs.AI",
-        "cs.CL"
-      ],
-      "has_abstract": true,
-      "signal_score": 37
-    },
-    {
-      "id": "df71356d82d2e52f",
-      "title": "TEVSER: a theory of evolving self-representations",
-      "authors": [
-        "Igor Pivovarov"
-      ],
-      "summary": "This paper proposes TEVSER (Theory of Evolving Self-Representations), a framework describing how increasingly complex forms of regulation give rise to psyche, consciousness, and intelligence. The central idea is that a living system is a self-regulating system that maintains homeostasis.",
-      "publication_date": "2026-07-09",
-      "source": "Frontiers in Human Neuroscience",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.3389/fnhum.2026.1858621",
-      "doi": "10.3389/fnhum.2026.1858621",
-      "work_type": "article",
-      "evidence_label": "Journal article",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "consciousness",
-        "neuroscience",
-        "cross-domain"
-      ],
-      "keywords": [
-        "Hierarchy",
-        "Constructive",
-        "Consciousness",
-        "Intellect",
-        "Set (abstract data type)",
-        "Property (philosophy)",
-        "Control (management)",
-        "Subjectivity"
-      ],
-      "has_abstract": true,
-      "signal_score": 37
-    },
-    {
-      "id": "ebb4bfaae41b6b83",
-      "title": "Multimodal Assessment of Consciousness with Brain-Computer Interfaces and Artificial Intelligence: From Acquired Brain Injury to Neurodegenerative Disease",
-      "authors": [
-        "Bernard Kordas"
-      ],
-      "summary": "The assessment of consciousness has been shaped largely by research on acquired disorders of consciousness after acute or chronic brain injury, but similar problems of unreliable behavioral expression increasingly arise in neurodegenerative disease. This translational overlap is especially relevant when preserved cognition, awareness, or intentionality cannot be reliably expressed because of severe motor impairment, fluctuating arousal, cognitive decline, aphasia, apraxia, or impaired cooperation.",
-      "publication_date": "2026-07-09",
-      "source": "Journal of Clinical Medicine",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.3390/jcm15145398",
-      "doi": "10.3390/jcm15145398",
-      "work_type": "article",
-      "evidence_label": "Journal article",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "consciousness",
-        "neuroscience",
-        "cross-domain"
-      ],
-      "keywords": [
-        "Arousal",
-        "Context (archaeology)",
-        "Minimally conscious state",
-        "Covert",
-        "Persistent vegetative state",
-        "Consciousness",
-        "Cognition",
-        "Modalities"
-      ],
-      "has_abstract": true,
-      "signal_score": 37
-    },
-    {
-      "id": "250cb97cf2714ab7",
-      "title": "Use of cranial ultrasonography to improve prompt and early diagnosis of meningitis at the Neonatal Centre of Excellence, University Teaching Hospitals, Lusaka, Zambia.",
-      "authors": [
-        "OGAH AO",
-        "Hamer DH."
-      ],
-      "summary": "New work indexed under “Use of cranial ultrasonography to improve prompt and early diagnosis of meningitis at the Neonatal Centre of Excellence, University Teaching Hospitals, Lusaka, Zambia..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-07-30",
-      "source": "Europe PMC-indexed source",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/PPR/PPR1288657",
-      "doi": "10.64898/2026.07.29.26359192",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 36
     }
   ]
 }
