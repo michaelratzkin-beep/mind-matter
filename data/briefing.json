@@ -1,34 +1,34 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "title": "The latest signal",
-  "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Neuroscience, Quantum physics. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
+  "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Quantum physics, Neuroscience. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
     {
       "domain": "consciousness",
       "domain_label": "Consciousness / philosophy",
-      "title": "Reviewer #2 (Public review): Neural correlates of perceptual consciousness from within: A narrative review of human intracranial research",
-      "why_it_matters": "Combining intracranial recordings with no-report paradigms and computational models offers the clearest path yet to isolating genuine neural correlates of consciousness from their prerequisites and consequences.",
-      "url": "https://doi.org/10.7554/elife.109604.4.sa2",
-      "signal_score": 61,
-      "evidence_label": "Review"
-    },
-    {
-      "domain": "neuroscience",
-      "domain_label": "Neuroscience",
-      "title": "Reviewer #3 (Public review): Neural correlates of perceptual consciousness from within: A narrative review of human intracranial research",
-      "why_it_matters": "Combining intracranial recordings with no-report paradigms and computational models offers the clearest path yet to isolating genuine neural correlates of consciousness from their prerequisites and consequences.",
-      "url": "https://doi.org/10.7554/elife.109604.4.sa3",
-      "signal_score": 61,
+      "title": "Cognitive Motor Dissociation in Disorders of Consciousness: An Individual Participant Data Meta-Analysis.",
+      "why_it_matters": "New work indexed under “Cognitive Motor Dissociation in Disorders of Consciousness: An Individual Participant Data Meta-Analysis..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "url": "https://europepmc.org/article/MED/42538749",
+      "signal_score": 64,
       "evidence_label": "Review"
     },
     {
       "domain": "quantum",
       "domain_label": "Quantum physics",
-      "title": "Quantum Interference and the Limits of Separability",
-      "why_it_matters": "Abstract Quantum theory implies, and empirical evidence confirms, that while particles can exhibit wave-like behavior in interferometric experiments, this behavior is so limited as not to allow for third- and higher-order interference. The article at hand shows that this possibility-impossibility structure suggests the universal validity of a principle that regulates statistical correlations between spatiotemporally localized events, independently of the nature of the objects that may or may not partake in these…",
-      "url": "https://doi.org/10.1007/s10701-026-00938-6",
-      "signal_score": 59,
+      "title": "Gradient usability in few-qubit quantum Neural Networks: A signal-to-noise ratio framework for evaluating mitigation strategies",
+      "why_it_matters": "The barren-plateau problem—the exponential flattening of optimization landscapes—severely limits the trainability of quantum neural networks (QNNs) on near-term hardware. This review examines ansatz-design and complementary mitigation strategies for few-qubit QNNs under finite-shot noisy intermediate-scale quantum (NISQ) constraints.",
+      "url": "https://doi.org/10.64336/001c.166201",
+      "signal_score": 62,
       "evidence_label": "Journal article"
+    },
+    {
+      "domain": "neuroscience",
+      "domain_label": "Neuroscience",
+      "title": "Reviewer #2 (Public review): Neural correlates of perceptual consciousness from within: A narrative review of human intracranial research",
+      "why_it_matters": "Combining intracranial recordings with no-report paradigms and computational models offers the clearest path yet to isolating genuine neural correlates of consciousness from their prerequisites and consequences.",
+      "url": "https://doi.org/10.7554/elife.109604.4.sa2",
+      "signal_score": 60,
+      "evidence_label": "Review"
     }
   ]
 }
