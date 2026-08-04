@@ -4,7 +4,14 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Mon, 03 Aug 2026 18:29:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 18:16:28 +0000</lastBuildDate>
+    <item>
+      <title>Why Minds Need Bodies: Organismic Unity and Limits of Artificial Consciousness</title>
+      <link>https://doi.org/10.55917/2151-6014.1925</link>
+      <guid>ca3fd2fb680cb655</guid>
+      <description>This paper argues that functional organization alone is not sufficient for phenomenal consciousness or the existence of a unified subject of experience. While many contemporary accounts of artificial consciousness assume that replicating the causal or computational structure of the brain would be sufficient for subjective experience, this paper identifies a deeper constraint: consciousness depends on organismic unity.</description>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cognitive Motor Dissociation in Disorders of Consciousness: An Individual Participant Data Meta-Analysis.</title>
       <link>https://europepmc.org/article/MED/42538749</link>
@@ -83,6 +90,13 @@
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Monad+, the Emergence of “Emergence”</title>
+      <link>https://doi.org/10.22339/jbh.v9i3.9309</link>
+      <guid>615bd0e90cdab6a6</guid>
+      <description>The article analyzes foundational concepts of the framework of Big History, which requires examining certain relationships between the perspective of the philosophy of science, conventional disciplinary traditions, and Big History as a method and theory. The discussion examines how the nexus of the inter-related concepts Information, Complexity, Emergence and Entropy mediates between specific paradigm domains and their respective epistemic and ontological commitments, each of which is supported by long traditions…</description>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Organizational transitions in awareness: a framework of access, coordination, and regulation</title>
       <link>https://doi.org/10.3389/fpsyg.2026.1892596</link>
       <guid>16e7af0cdd3b5630</guid>
@@ -90,60 +104,46 @@
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Global burden of Laryngopharyngeal reflux disease: a systematic review of epidemiology, cost-burden and awareness.</title>
-      <link>https://europepmc.org/article/MED/42543424</link>
-      <guid>9f49f82b3bdf3bfb</guid>
-      <description>New work indexed under “Global burden of Laryngopharyngeal reflux disease: a systematic review of epidemiology, cost-burden and awareness..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <title>Towards Tensor-Network SAT-Solvers for Quantum-Classical Workflows</title>
+      <link>http://arxiv.org/abs/2608.02041v1</link>
+      <guid>1445a7cd5df25d7c</guid>
+      <description>Integrated HPC/QC systems aim to combine classical high-performance computing with quantum processors, but cannot be reduced to mechanisms for dispatching quantum kernels. An integrated architecture must support aspects such as observability, which cannot be implemented using QPUs alone, as well as fallback execution and cost-aware decisions on whether to replace quantum tasks with classical surrogates.</description>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Association Between Mindfulness and Perceived Stress: A Meta-Analysis.</title>
-      <link>https://europepmc.org/article/MED/42470164</link>
-      <guid>04c7fc35f1afdba5</guid>
-      <description>New work indexed under “The Association Between Mindfulness and Perceived Stress: A Meta-Analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Limits of heralded photonic Bell-state generation in the presence of loss</title>
+      <link>http://arxiv.org/abs/2608.01549v1</link>
+      <guid>4e7a7f983e5271cd</guid>
+      <description>High-quality entangled states of photons underlie quantum information science (QIS) applications across communication, sensing, and computing. In many discrete-variable photonic QIS architectures, large application-ready states (e.g., cluster states, repeater graph states) are constructed via fusion measurements on small entangled seed states, of which Bell states are the fundamental example.</description>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Vaccination coverage of influenza and pneumococcal vaccines in patients with rheumatic diseases: a systematic review and meta-analysis.</title>
-      <link>https://europepmc.org/article/MED/42397204</link>
-      <guid>5447439758b0a72d</guid>
-      <description>New work indexed under “Vaccination coverage of influenza and pneumococcal vaccines in patients with rheumatic diseases: a systematic review and meta-analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Conventional vs Video-Assisted Laryngoscopy for Perioperative Endotracheal Intubations: A Randomized Clinical Trial.</title>
+      <link>https://europepmc.org/article/MED/42545700</link>
+      <guid>60acf5495a4f7c43</guid>
+      <description>New work indexed under “Conventional vs Video-Assisted Laryngoscopy for Perioperative Endotracheal Intubations: A Randomized Clinical Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>External Oblique Intercostal Plane Block for Postoperative Analgesia in Thoracoabdominal Procedures: A Systematic Review and Meta-Analysis.</title>
-      <link>https://europepmc.org/article/MED/42027023</link>
-      <guid>4aa4c0164dc30201</guid>
-      <description>New work indexed under “External Oblique Intercostal Plane Block for Postoperative Analgesia in Thoracoabdominal Procedures: A Systematic Review and Meta-Analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Adductor Canal Block and Local Anesthetic Versus Local Anesthetic Alone in ACL Reconstruction: A Double-Blind Randomized Controlled Trial.</title>
+      <link>https://europepmc.org/article/MED/42544937</link>
+      <guid>950ba787087b0c57</guid>
+      <description>New work indexed under “Adductor Canal Block and Local Anesthetic Versus Local Anesthetic Alone in ACL Reconstruction: A Double-Blind Randomized Controlled Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Transversus Abdominis Plane Block With Dexmedetomidine and Local Anesthetics Compared With Local Anesthetics Isolated for Patients Undergoing Cesarean Section: A Systematic Review and Meta-Analysis.</title>
-      <link>https://europepmc.org/article/MED/41937563</link>
-      <guid>f0255d2079d43cb0</guid>
-      <description>New work indexed under “Transversus Abdominis Plane Block With Dexmedetomidine and Local Anesthetics Compared With Local Anesthetics Isolated for Patients Undergoing Cesarean Section: A Systematic Review and Meta-Analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Education and a Short Animated Film to Promote Climate Change Prevention: A Randomized Controlled Trial of Pregnant Women's Awareness and Hope.</title>
+      <link>https://europepmc.org/article/MED/42544698</link>
+      <guid>518fbedee9ede6e6</guid>
+      <description>New work indexed under “Education and a Short Animated Film to Promote Climate Change Prevention: A Randomized Controlled Trial of Pregnant Women's Awareness and Hope..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Opioid-Free Anesthesia With Erector Spinae Plane Block Versus IV Lidocaine for Laparoscopic Sleeve Gastrectomy: A Randomized Controlled Trial.</title>
-      <link>https://europepmc.org/article/MED/42517172</link>
-      <guid>a9a105bf6a274011</guid>
-      <description>New work indexed under “Opioid-Free Anesthesia With Erector Spinae Plane Block Versus IV Lidocaine for Laparoscopic Sleeve Gastrectomy: A Randomized Controlled Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can Nasopharyngeal Suction Under Anesthesia Reduce the Incidence of Respiratory Adverse Events After Supraglottic Airway Removal in Children? A Randomized Controlled Trial.</title>
-      <link>https://europepmc.org/article/MED/42490319</link>
-      <guid>8458987a8844fc08</guid>
-      <description>New work indexed under “Can Nasopharyngeal Suction Under Anesthesia Reduce the Incidence of Respiratory Adverse Events After Supraglottic Airway Removal in Children? A Randomized Controlled Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Prospective Randomized Comparative Study of Hyperbaric Ropivacaine vs. Hyperbaric Bupivacaine in Spinal Anesthesia for Elective Infraumbilical Surgeries.</title>
-      <link>https://europepmc.org/article/MED/42490315</link>
-      <guid>9a06dc918e129ec0</guid>
-      <description>New work indexed under “A Prospective Randomized Comparative Study of Hyperbaric Ropivacaine vs. Hyperbaric Bupivacaine in Spinal Anesthesia for Elective Infraumbilical Surgeries..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Geometry-Informed Polynomial Time Quantum Approximation Schemes for Constrained Optimisation</title>
+      <link>http://arxiv.org/abs/2608.01121v1</link>
+      <guid>dda1370e9305d7ef</guid>
+      <description>When does a noisy quantum sampler yield an end-to-end polynomial-time optimization algorithm with performance guarantees? Building on finite-depth and finite-shot guarantees for Constraint-Enhanced QAOA, we show that inverse-polynomial ideal probability on the optimal set, together with independent sampling, polynomial-time feasibility repair, and scoring, produces an exact-hit fully polynomial randomized approximation scheme, which we call an FPRASq.</description>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
