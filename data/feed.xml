@@ -4,7 +4,7 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Tue, 04 Aug 2026 18:16:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 17:14:13 +0000</lastBuildDate>
     <item>
       <title>Why Minds Need Bodies: Organismic Unity and Limits of Artificial Consciousness</title>
       <link>https://doi.org/10.55917/2151-6014.1925</link>
@@ -13,11 +13,25 @@
       <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cognitive Motor Dissociation in Disorders of Consciousness: An Individual Participant Data Meta-Analysis.</title>
-      <link>https://europepmc.org/article/MED/42538749</link>
-      <guid>60142ec4f105e731</guid>
-      <description>New work indexed under “Cognitive Motor Dissociation in Disorders of Consciousness: An Individual Participant Data Meta-Analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Reviewer #2 (Public review): Pupil size reveals the perceptual quality and effortless nature of synesthesia</title>
+      <link>https://doi.org/10.7554/elife.110390.4.sa2</link>
+      <guid>a15c8bd77862e347</guid>
+      <description>Perception feels like a window onto the world, but it never is. What we see is built from what reaches the eye and from what the brain adds. In synesthesia, that second part is easy to spot.</description>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Author response: Pupil size reveals the perceptual quality and effortless nature of synesthesia</title>
+      <link>https://doi.org/10.7554/elife.110390.4.sa3</link>
+      <guid>7ae374ab1f858ec5</guid>
+      <description>Perception feels like a window onto the world, but it never is. What we see is built from what reaches the eye and from what the brain adds. In synesthesia, that second part is easy to spot.</description>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>eLife Assessment: Pupil size reveals the perceptual quality and effortless nature of synesthesia</title>
+      <link>https://doi.org/10.7554/elife.110390.4.sa0</link>
+      <guid>24062e81b79d1055</guid>
+      <description>Perception feels like a window onto the world, but it never is. What we see is built from what reaches the eye and from what the brain adds. In synesthesia, that second part is easy to spot.</description>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Gradient usability in few-qubit quantum Neural Networks: A signal-to-noise ratio framework for evaluating mitigation strategies</title>
@@ -90,6 +104,13 @@
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Sex Differences in Congenital Aural Atresia: A Systematic Review and Meta-Analysis.</title>
+      <link>https://europepmc.org/article/MED/42549520</link>
+      <guid>ee4bcd2f75d8f712</guid>
+      <description>New work indexed under “Sex Differences in Congenital Aural Atresia: A Systematic Review and Meta-Analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Monad+, the Emergence of “Emergence”</title>
       <link>https://doi.org/10.22339/jbh.v9i3.9309</link>
       <guid>615bd0e90cdab6a6</guid>
@@ -97,53 +118,32 @@
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Organizational transitions in awareness: a framework of access, coordination, and regulation</title>
-      <link>https://doi.org/10.3389/fpsyg.2026.1892596</link>
-      <guid>16e7af0cdd3b5630</guid>
-      <description>Consciousness research often uses overlapping terms such as consciousness, awareness, conscious access, subjective experience, reportability, selfhood, and metacognition. This conceptual compression can make it difficult to distinguish different awareness-related processes or to identify which capacities are preserved, disrupted, or restored across altered states.</description>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Inverse Design of Quantum Control Sequences with Fourier Neural Operators</title>
+      <link>http://arxiv.org/abs/2608.03702v1</link>
+      <guid>783562b4df68cd6b</guid>
+      <description>Quantum optimal control is a key tool for steering quantum dynamics, but its computational cost grows rapidly with the Hilbert space dimension. Here, we introduce a Fourier Neural Operator (FNO)-based framework for learning high dimensional molecular quantum dynamics and accelerating the inverse design of control protocols.</description>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Towards Tensor-Network SAT-Solvers for Quantum-Classical Workflows</title>
-      <link>http://arxiv.org/abs/2608.02041v1</link>
-      <guid>1445a7cd5df25d7c</guid>
-      <description>Integrated HPC/QC systems aim to combine classical high-performance computing with quantum processors, but cannot be reduced to mechanisms for dispatching quantum kernels. An integrated architecture must support aspects such as observability, which cannot be implemented using QPUs alone, as well as fallback execution and cost-aware decisions on whether to replace quantum tasks with classical surrogates.</description>
+      <title>Exact Resonances Are Not Sufficient for Phonon Energy Diffusion</title>
+      <link>http://arxiv.org/abs/2608.03180v1</link>
+      <guid>c2c6bf9beb9d7294</guid>
+      <description>Multi-phonon resonance conditions underpin kinetic theories of phonon transport and lattice thermalization. We show that exact resonance matching, nonzero interaction coefficients, and network connectivity do not guarantee persistent energy diffusion.</description>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Autoreflection: How Agentic Strange Loops Turn Human Culture into AI Infrastructure</title>
+      <link>http://arxiv.org/abs/2608.03800v1</link>
+      <guid>450dc5884e54a4f1</guid>
+      <description>An LLM-based agent is a loop that reads itself. Agentic frameworks externalize identity, memory, and disposition into editable files. The agent loads and edits these files during each activation.</description>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reflection on "Hemodynamic stability with remimazolam versus propofol during anesthesia induction in hypertensive patients: a meta-analysis with trial sequential analysis of randomized controlled trials".</title>
+      <link>https://europepmc.org/article/MED/42547046</link>
+      <guid>fe5765f984129f6d</guid>
+      <description>New work indexed under “Reflection on "Hemodynamic stability with remimazolam versus propofol during anesthesia induction in hypertensive patients: a meta-analysis with trial sequential analysis of randomized controlled trials"..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Limits of heralded photonic Bell-state generation in the presence of loss</title>
-      <link>http://arxiv.org/abs/2608.01549v1</link>
-      <guid>4e7a7f983e5271cd</guid>
-      <description>High-quality entangled states of photons underlie quantum information science (QIS) applications across communication, sensing, and computing. In many discrete-variable photonic QIS architectures, large application-ready states (e.g., cluster states, repeater graph states) are constructed via fusion measurements on small entangled seed states, of which Bell states are the fundamental example.</description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Conventional vs Video-Assisted Laryngoscopy for Perioperative Endotracheal Intubations: A Randomized Clinical Trial.</title>
-      <link>https://europepmc.org/article/MED/42545700</link>
-      <guid>60acf5495a4f7c43</guid>
-      <description>New work indexed under “Conventional vs Video-Assisted Laryngoscopy for Perioperative Endotracheal Intubations: A Randomized Clinical Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adductor Canal Block and Local Anesthetic Versus Local Anesthetic Alone in ACL Reconstruction: A Double-Blind Randomized Controlled Trial.</title>
-      <link>https://europepmc.org/article/MED/42544937</link>
-      <guid>950ba787087b0c57</guid>
-      <description>New work indexed under “Adductor Canal Block and Local Anesthetic Versus Local Anesthetic Alone in ACL Reconstruction: A Double-Blind Randomized Controlled Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Education and a Short Animated Film to Promote Climate Change Prevention: A Randomized Controlled Trial of Pregnant Women's Awareness and Hope.</title>
-      <link>https://europepmc.org/article/MED/42544698</link>
-      <guid>518fbedee9ede6e6</guid>
-      <description>New work indexed under “Education and a Short Animated Film to Promote Climate Change Prevention: A Randomized Controlled Trial of Pregnant Women's Awareness and Hope..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Geometry-Informed Polynomial Time Quantum Approximation Schemes for Constrained Optimisation</title>
-      <link>http://arxiv.org/abs/2608.01121v1</link>
-      <guid>dda1370e9305d7ef</guid>
-      <description>When does a noisy quantum sampler yield an end-to-end polynomial-time optimization algorithm with performance guarantees? Building on finite-depth and finite-shot guarantees for Constraint-Enhanced QAOA, we show that inverse-polynomial ideal probability on the optimal set, together with independent sampling, polynomial-time feasibility repair, and scoring, produces an exact-hit fully polynomial randomized approximation scheme, which we call an FPRASq.</description>
-      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
