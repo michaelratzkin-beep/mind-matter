@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-07",
   "title": "The latest signal",
   "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Neuroscience, Quantum physics. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
@@ -9,7 +9,7 @@
       "title": "Why Minds Need Bodies: Organismic Unity and Limits of Artificial Consciousness",
       "why_it_matters": "This paper argues that functional organization alone is not sufficient for phenomenal consciousness or the existence of a unified subject of experience. While many contemporary accounts of artificial consciousness assume that replicating the causal or computational structure of the brain would be sufficient for subjective experience, this paper identifies a deeper constraint: consciousness depends on organismic unity.",
       "url": "https://doi.org/10.55917/2151-6014.1925",
-      "signal_score": 64,
+      "signal_score": 62,
       "evidence_label": "Journal article"
     },
     {
@@ -18,7 +18,7 @@
       "title": "Reviewer #2 (Public review): Pupil size reveals the perceptual quality and effortless nature of synesthesia",
       "why_it_matters": "Perception feels like a window onto the world, but it never is. What we see is built from what reaches the eye and from what the brain adds. In synesthesia, that second part is easy to spot.",
       "url": "https://doi.org/10.7554/elife.110390.4.sa2",
-      "signal_score": 63,
+      "signal_score": 61,
       "evidence_label": "Review"
     },
     {
@@ -27,7 +27,7 @@
       "title": "Gradient usability in few-qubit quantum Neural Networks: A signal-to-noise ratio framework for evaluating mitigation strategies",
       "why_it_matters": "The barren-plateau problem—the exponential flattening of optimization landscapes—severely limits the trainability of quantum neural networks (QNNs) on near-term hardware. This review examines ansatz-design and complementary mitigation strategies for few-qubit QNNs under finite-shot noisy intermediate-scale quantum (NISQ) constraints.",
       "url": "https://doi.org/10.64336/001c.166201",
-      "signal_score": 60,
+      "signal_score": 58,
       "evidence_label": "Journal article"
     }
   ]

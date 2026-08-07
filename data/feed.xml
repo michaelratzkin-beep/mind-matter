@@ -4,7 +4,7 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Wed, 05 Aug 2026 17:14:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 15:13:15 +0000</lastBuildDate>
     <item>
       <title>Why Minds Need Bodies: Organismic Unity and Limits of Artificial Consciousness</title>
       <link>https://doi.org/10.55917/2151-6014.1925</link>
@@ -16,6 +16,13 @@
       <title>Reviewer #2 (Public review): Pupil size reveals the perceptual quality and effortless nature of synesthesia</title>
       <link>https://doi.org/10.7554/elife.110390.4.sa2</link>
       <guid>a15c8bd77862e347</guid>
+      <description>Perception feels like a window onto the world, but it never is. What we see is built from what reaches the eye and from what the brain adds. In synesthesia, that second part is easy to spot.</description>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reviewer #1 (Public review): Pupil size reveals the perceptual quality and effortless nature of synesthesia</title>
+      <link>https://doi.org/10.7554/elife.110390.4.sa1</link>
+      <guid>338187d344125ccf</guid>
       <description>Perception feels like a window onto the world, but it never is. What we see is built from what reaches the eye and from what the brain adds. In synesthesia, that second part is easy to spot.</description>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
@@ -83,6 +90,27 @@
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Ultra-Early Oral Hydration for General Anesthesia Patients in the Postanesthesia Care Unit: A Meta-analysis of Randomized Controlled Trials.</title>
+      <link>https://europepmc.org/article/MED/42563605</link>
+      <guid>b01f3164953afc55</guid>
+      <description>New work indexed under “Ultra-Early Oral Hydration for General Anesthesia Patients in the Postanesthesia Care Unit: A Meta-analysis of Randomized Controlled Trials..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Effects of Esketamine on Emergence Delirium in Children Undergoing Sevoflurane Anesthesia: A Systematic Review, Meta-Analysis, and Trial Sequential Analysis.</title>
+      <link>https://europepmc.org/article/MED/42559705</link>
+      <guid>54fe5c7d55ea8dfc</guid>
+      <description>New work indexed under “Effects of Esketamine on Emergence Delirium in Children Undergoing Sevoflurane Anesthesia: A Systematic Review, Meta-Analysis, and Trial Sequential Analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Efficacy and safety of oliceridine versus sufentanil in perioperative anesthesia and analgesia: a systematic review and meta-analysis with trial sequential analysis.</title>
+      <link>https://europepmc.org/article/MED/42557460</link>
+      <guid>61a1d722c143face</guid>
+      <description>New work indexed under “Efficacy and safety of oliceridine versus sufentanil in perioperative anesthesia and analgesia: a systematic review and meta-analysis with trial sequential analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>EEG-CBF integration in calf slaughter neurophysiology: a narrative review</title>
       <link>https://doi.org/10.4081/ahr.2026.140</link>
       <guid>49d52bc0ec0ebb7c</guid>
@@ -90,60 +118,32 @@
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Quantum Interference and the Limits of Separability</title>
-      <link>https://doi.org/10.1007/s10701-026-00938-6</link>
-      <guid>73a54374a9871d33</guid>
-      <description>Abstract Quantum theory implies, and empirical evidence confirms, that while particles can exhibit wave-like behavior in interferometric experiments, this behavior is so limited as not to allow for third- and higher-order interference. The article at hand shows that this possibility-impossibility structure suggests the universal validity of a principle that regulates statistical correlations between spatiotemporally localized events, independently of the nature of the objects that may or may not partake in these…</description>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Neural Flux Attachment: From Bose Condensates to Chiral Topological Matter</title>
+      <link>http://arxiv.org/abs/2608.06168v1</link>
+      <guid>e413df1a30ddd5ff</guid>
+      <description>Can one neural wave function describe both a Bose condensate and a chiral topological liquid? We introduce ChernFormer, which combines a fermionic transformer with a fixed Chern-Simons phase that attaches one statistical vortex to every particle pair.</description>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Higher nociception scores in minimally conscious state compared to unresponsive wakefulness syndrome and positive correlations among CRS-R, GCS-P and NCS-R in Patients with Disorders of Consciousness</title>
-      <link>https://doi.org/10.30574/gscarr.2026.28.1.0159</link>
-      <guid>e22a819b3da6c4c8</guid>
-      <description>Background: One of the greatest challenges in understanding pain is the difficulty in assessing or recognizing it in patients with disorders of consciousness (DOC). Objective: To compare the nociception using the Nociception Coma Scale Revised (NCS-R) in DOC.</description>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Criteria for Feasible Monte Carlo Stochastic Simulations of Bosonic Markovian Open Quantum Dynamics</title>
+      <link>http://arxiv.org/abs/2608.06056v1</link>
+      <guid>5a850e92abd1ffb1</guid>
+      <description>The Monte Carlo sampling of the stochastic differential equations (SDEs) based on the quasiprobability distribution function, such as the Glauber--Sudarshan P, Wigner, and Husimi Q functions provides a powerful framework for investigating bosonic open quantum many-body dynamics described by the Gorini--Kossakowski--Sudarshan--Lindblad (GKSL) equation, while considering the effects of quantum fluctuations beyond the mean-field approximation. However, the stochastic Monte Carlo simulation is possible only when the…</description>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sex Differences in Congenital Aural Atresia: A Systematic Review and Meta-Analysis.</title>
-      <link>https://europepmc.org/article/MED/42549520</link>
-      <guid>ee4bcd2f75d8f712</guid>
-      <description>New work indexed under “Sex Differences in Congenital Aural Atresia: A Systematic Review and Meta-Analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <title>How Much Reconstruction Does Quantum Machine Learning Need? Late Fusion of Independently Trained Quantum Subcircuits</title>
+      <link>http://arxiv.org/abs/2608.05595v1</link>
+      <guid>90775698d19c6cd8</guid>
+      <description>Circuit cutting lets a large quantum neural network (QNN) run as independent subcircuits on small devices, but rebuilding its outputs by reconstruction carries a classical sampling overhead exponential in the number of cuts - the dominant runtime cost in prior work. We ask whether, for machine-learning tasks, this step is necessary, and replace it with late fusion: each subcircuit is trained and measured independently, and a small classical head combines their outputs - a linear-cost, decision-level combination…</description>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Monad+, the Emergence of “Emergence”</title>
-      <link>https://doi.org/10.22339/jbh.v9i3.9309</link>
-      <guid>615bd0e90cdab6a6</guid>
-      <description>The article analyzes foundational concepts of the framework of Big History, which requires examining certain relationships between the perspective of the philosophy of science, conventional disciplinary traditions, and Big History as a method and theory. The discussion examines how the nexus of the inter-related concepts Information, Complexity, Emergence and Entropy mediates between specific paradigm domains and their respective epistemic and ontological commitments, each of which is supported by long traditions…</description>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inverse Design of Quantum Control Sequences with Fourier Neural Operators</title>
-      <link>http://arxiv.org/abs/2608.03702v1</link>
-      <guid>783562b4df68cd6b</guid>
-      <description>Quantum optimal control is a key tool for steering quantum dynamics, but its computational cost grows rapidly with the Hilbert space dimension. Here, we introduce a Fourier Neural Operator (FNO)-based framework for learning high dimensional molecular quantum dynamics and accelerating the inverse design of control protocols.</description>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exact Resonances Are Not Sufficient for Phonon Energy Diffusion</title>
-      <link>http://arxiv.org/abs/2608.03180v1</link>
-      <guid>c2c6bf9beb9d7294</guid>
-      <description>Multi-phonon resonance conditions underpin kinetic theories of phonon transport and lattice thermalization. We show that exact resonance matching, nonzero interaction coefficients, and network connectivity do not guarantee persistent energy diffusion.</description>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Autoreflection: How Agentic Strange Loops Turn Human Culture into AI Infrastructure</title>
-      <link>http://arxiv.org/abs/2608.03800v1</link>
-      <guid>450dc5884e54a4f1</guid>
-      <description>An LLM-based agent is a loop that reads itself. Agentic frameworks externalize identity, memory, and disposition into editable files. The agent loads and edits these files during each activation.</description>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reflection on "Hemodynamic stability with remimazolam versus propofol during anesthesia induction in hypertensive patients: a meta-analysis with trial sequential analysis of randomized controlled trials".</title>
-      <link>https://europepmc.org/article/MED/42547046</link>
-      <guid>fe5765f984129f6d</guid>
-      <description>New work indexed under “Reflection on "Hemodynamic stability with remimazolam versus propofol during anesthesia induction in hypertensive patients: a meta-analysis with trial sequential analysis of randomized controlled trials"..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Efficacy of ultrasound-guided external oblique intercostal plane block in laparoscopic common bile duct exploration: A double-blinded randomized controlled study.</title>
+      <link>https://europepmc.org/article/MED/42561000</link>
+      <guid>2ea841334bcd5c1f</guid>
+      <description>New work indexed under “Efficacy of ultrasound-guided external oblique intercostal plane block in laparoscopic common bile duct exploration: A double-blinded randomized controlled study..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
