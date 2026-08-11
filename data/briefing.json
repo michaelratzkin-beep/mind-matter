@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "title": "The latest signal",
   "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Neuroscience, Quantum physics. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
@@ -9,7 +9,7 @@
       "title": "Domain-specific recovery profiles of consciousness after surgically treated intracerebral hemorrhage: A multicenter analysis of the six CRS-R subscales.",
       "why_it_matters": "New work indexed under “Domain-specific recovery profiles of consciousness after surgically treated intracerebral hemorrhage: A multicenter analysis of the six CRS-R subscales..” The source did not provide an abstract; read the original before evaluating its claims.",
       "url": "https://europepmc.org/article/MED/42566841",
-      "signal_score": 59,
+      "signal_score": 58,
       "evidence_label": "Journal article"
     },
     {
@@ -18,17 +18,17 @@
       "title": "Why Minds Need Bodies: Organismic Unity and Limits of Artificial Consciousness",
       "why_it_matters": "This paper argues that functional organization alone is not sufficient for phenomenal consciousness or the existence of a unified subject of experience. While many contemporary accounts of artificial consciousness assume that replicating the causal or computational structure of the brain would be sufficient for subjective experience, this paper identifies a deeper constraint: consciousness depends on organismic unity.",
       "url": "https://doi.org/10.55917/2151-6014.1925",
-      "signal_score": 59,
+      "signal_score": 58,
       "evidence_label": "Journal article"
     },
     {
       "domain": "quantum",
       "domain_label": "Quantum physics",
-      "title": "Gradient usability in few-qubit quantum Neural Networks: A signal-to-noise ratio framework for evaluating mitigation strategies",
-      "why_it_matters": "The barren-plateau problem—the exponential flattening of optimization landscapes—severely limits the trainability of quantum neural networks (QNNs) on near-term hardware. This review examines ansatz-design and complementary mitigation strategies for few-qubit QNNs under finite-shot noisy intermediate-scale quantum (NISQ) constraints.",
-      "url": "https://doi.org/10.64336/001c.166201",
-      "signal_score": 55,
-      "evidence_label": "Journal article"
+      "title": "QSVM-RQNN: Low-Qubit Recurrent Quantum Similarity Learning for Condition Monitoring and Fault Classification",
+      "why_it_matters": "In the Noisy Intermediate-Scale Quantum (NISQ) era, limited qubit availability and hardware noise constrain the practical deployment of quantum machine learning (QML). Existing quantum neural network (QNN) and quantum convolutional neural network (QCNN) architectures often require increasing quantum resources as the input dimension grows, limiting scalability on near-term devices.",
+      "url": "http://arxiv.org/abs/2608.09652v1",
+      "signal_score": 54,
+      "evidence_label": "Preprint"
     }
   ]
 }
