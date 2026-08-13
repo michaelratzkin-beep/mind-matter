@@ -4,13 +4,20 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Wed, 12 Aug 2026 15:32:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 15:33:31 +0000</lastBuildDate>
     <item>
-      <title>Domain-specific recovery profiles of consciousness after surgically treated intracerebral hemorrhage: A multicenter analysis of the six CRS-R subscales.</title>
-      <link>https://europepmc.org/article/MED/42566841</link>
-      <guid>91d4d1ceb235ba88</guid>
-      <description>New work indexed under “Domain-specific recovery profiles of consciousness after surgically treated intracerebral hemorrhage: A multicenter analysis of the six CRS-R subscales..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Benchmarking Quantum and Classical Machine Learning Models on Oncological Data</title>
+      <link>http://arxiv.org/abs/2608.11373v1</link>
+      <guid>18e13f1c04eae668</guid>
+      <description>Machine learning is being increasingly used for the detection, diagnosis, and treatment of cancer. However, models often struggle with biological data due to high dimensionality, limited sample diversity, and complex feature interactions.</description>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Continuous-variable state moments from randomized homodyne and heterodyne measurements</title>
+      <link>http://arxiv.org/abs/2608.11811v1</link>
+      <guid>ff98f5569e4854b6</guid>
+      <description>Continuous-variable (CV) quantum states are naturally characterized by their moments, defined as expectation values of products of single- or multimode ladder operators. Many CV Hamiltonians and quantum algorithms are formulated directly in terms of these moments, and therefore an efficient procedure to estimate moments with limited state measurements is necessary.</description>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>EMI-EDU: reframing learning and education through energy, mass and information</title>
@@ -48,6 +55,34 @@
       <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum-limited imaging using diffractive optical neural networks</title>
+      <link>http://arxiv.org/abs/2608.12300v1</link>
+      <guid>509c2ab07102df46</guid>
+      <description>We cast general imaging as multiparameter quantum estimation of band-limited spatial-frequency amplitudes. For separable (single-copy) measurements, we compute precision limits using semidefinite programming to evaluate the Nagaoka-Hayashi Cramér-Rao bound.</description>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Design of monolithic microcavities for enhancing organic quantum emitters</title>
+      <link>http://arxiv.org/abs/2608.12081v1</link>
+      <guid>722d424fb45838c3</guid>
+      <description>Single organic molecules are a well-established platform for high-quality single-photon generation: they can emit lifetime-limited photons with high purity and indistinguishability. However, their emission is accompanied by a pronounced red-shifted phonon sideband and higher-order vibrational peaks, which reduce the fraction of photons emitted into the desired narrowband zero-phonon line.</description>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hamilton-Zero: A Neural Tensor-Network Foundation Model for Ground States of Arbitrary Quadratic Qubit Hamiltonians</title>
+      <link>http://arxiv.org/abs/2608.11911v1</link>
+      <guid>2411744cbb19e6a0</guid>
+      <description>A central promise of useful quantum advantage is the ability to compute ground states of Hamiltonian systems beyond the reach of classical simulation methods. Here we demonstrate that this problem can be effectively amortized across an arbitrary and universal set of Hamiltonians by a foundation model with $\sim0.5$B variational parameters, trained with contemporary techniques from large language models and deep reinforcement learning.</description>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reply to: "Comments on 'The effect of remimazolam versus propofol on respiratory depression for non-intubated general anesthesia: a randomized controlled trial'".</title>
+      <link>https://europepmc.org/article/MED/42581208</link>
+      <guid>e61b5e1381301487</guid>
+      <description>New work indexed under “Reply to: "Comments on 'The effect of remimazolam versus propofol on respiratory depression for non-intubated general anesthesia: a randomized controlled trial'"..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Universal scaling of spatially extended zero modes in inhomogeneous SSH chains</title>
       <link>http://arxiv.org/abs/2608.11021v1</link>
       <guid>9c39be9d92d08c6b</guid>
@@ -55,10 +90,45 @@
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Theoretical analysis towards accurate optomechanical detection of quantum gravity effects</title>
-      <link>http://arxiv.org/abs/2608.10890v1</link>
-      <guid>03e0363529c87183</guid>
-      <description>Optomechanical systems offer a promising platform for observing dynamical signatures of quantum gravity through precision measurements of quantum harmonic oscillator dynamics. However, most existing analyses consider only the linear radiation-pressure interaction while neglecting higher-order optomechanical couplings and laser phase noise.</description>
+      <title>Consciousness as Intrinsic Structure: Towards a Chemistry of Experience</title>
+      <link>http://arxiv.org/abs/2608.11398v1</link>
+      <guid>eff201c8182142ad</guid>
+      <description>To be conscious is to have an experience - not a collection of phenomenal atoms, but a structured whole composed of distinctions and the relations that bind them. Integrated Information Theory (IIT) identifies the essential properties of every experience (axioms), formulates them operationally as postulates that a substrate must satisfy, and unfolds the cause-effect power of the resulting complex into a $Φ$-structure.</description>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smart Enough to Go Extinct? An Evolutionary Challenge to the Value of General Intelligence and Its Ethical Implications for AGI</title>
+      <link>http://arxiv.org/abs/2608.10730v1</link>
+      <guid>e929d1f7dba4ebab</guid>
+      <description>The pursuit of artificial general intelligence (AGI) rests on a seemingly self-evident premise: that general intelligence, the kind of flexible, domain-general cognitive capacity exemplified by Homo sapiens, is extraordinarily valuable. This paper subjects this premise to critical scrutiny.</description>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Preoperative oral carbohydrate loading and postoperative glucose and insulin metabolism in patients undergoing open abdominal aortic aneurysm repair: A secondary analysis of a randomized controlled trial.</title>
+      <link>https://europepmc.org/article/MED/42581330</link>
+      <guid>e435185c24f9a3fa</guid>
+      <description>New work indexed under “Preoperative oral carbohydrate loading and postoperative glucose and insulin metabolism in patients undergoing open abdominal aortic aneurysm repair: A secondary analysis of a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A randomized controlled trial of intravenous magnesium sulfate shows no analgesic or anti-inflammatory benefit in dogs undergoing thoracolumbar disk herniation surgery.</title>
+      <link>https://europepmc.org/article/MED/42580781</link>
+      <guid>b24a5782a1fe0c60</guid>
+      <description>New work indexed under “A randomized controlled trial of intravenous magnesium sulfate shows no analgesic or anti-inflammatory benefit in dogs undergoing thoracolumbar disk herniation surgery..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Promoting Stigma-Free Language in Type 2 Diabetes Care Among Primary Care Clinicians: Randomized Controlled Pilot Trial.</title>
+      <link>https://europepmc.org/article/MED/42579884</link>
+      <guid>3c8382f7fe3a67e1</guid>
+      <description>New work indexed under “Promoting Stigma-Free Language in Type 2 Diabetes Care Among Primary Care Clinicians: Randomized Controlled Pilot Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Laparoscopic Burch Colposuspension Versus Transobturator Tape for the Treatment of Stress Urinary Incontinence in Egyptian Women: A 12-Month Randomized Controlled Trial.</title>
+      <link>https://europepmc.org/article/MED/42578342</link>
+      <guid>e39afa0cc637604d</guid>
+      <description>New work indexed under “Laparoscopic Burch Colposuspension Versus Transobturator Tape for the Treatment of Stress Urinary Incontinence in Egyptian Women: A 12-Month Randomized Controlled Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -69,81 +139,11 @@
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Author response: Pupil size reveals the perceptual quality and effortless nature of synesthesia</title>
-      <link>https://doi.org/10.7554/elife.110390.4.sa3</link>
-      <guid>7ae374ab1f858ec5</guid>
-      <description>Perception feels like a window onto the world, but it never is. What we see is built from what reaches the eye and from what the brain adds. In synesthesia, that second part is easy to spot.</description>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>eLife Assessment: Pupil size reveals the perceptual quality and effortless nature of synesthesia</title>
-      <link>https://doi.org/10.7554/elife.110390.4.sa0</link>
-      <guid>24062e81b79d1055</guid>
-      <description>Perception feels like a window onto the world, but it never is. What we see is built from what reaches the eye and from what the brain adds. In synesthesia, that second part is easy to spot.</description>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gradient usability in few-qubit quantum Neural Networks: A signal-to-noise ratio framework for evaluating mitigation strategies</title>
-      <link>https://doi.org/10.64336/001c.166201</link>
-      <guid>e0cc743161f576c7</guid>
-      <description>The barren-plateau problem—the exponential flattening of optimization landscapes—severely limits the trainability of quantum neural networks (QNNs) on near-term hardware. This review examines ansatz-design and complementary mitigation strategies for few-qubit QNNs under finite-shot noisy intermediate-scale quantum (NISQ) constraints.</description>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unified Exact Cylindrical Dirac Modes and Symmetry-Resolved Quantum Geometry</title>
-      <link>http://arxiv.org/abs/2608.10563v1</link>
-      <guid>ed05bc22b78f1238</guid>
-      <description>Exact cylindrical solutions of the free Dirac equation provide natural single-particle modes for a broad class of axially symmetric relativistic fermion systems, including electron vortices, twisted-particle scattering, rotating matter, and cylindrical field quantization, but are commonly formulated in different internal bases. We derive the general regular positive-energy cylindrical solution at fixed energy, transverse and longitudinal momenta, and total angular momentum, and show how the commonly used…</description>
+      <title>Structural heat adaptation and education in urban settings (SHAPES trial): study protocol for a cluster randomised controlled trial.</title>
+      <link>https://europepmc.org/article/MED/42580837</link>
+      <guid>edd13c78b4da328f</guid>
+      <description>New work indexed under “Structural heat adaptation and education in urban settings (SHAPES trial): study protocol for a cluster randomised controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patient Satisfaction With Perioperative Services and Associated Factors in Ethiopia: Systematic Review and Meta-Analysis.</title>
-      <link>https://europepmc.org/article/MED/42566769</link>
-      <guid>7528c8484ab3d984</guid>
-      <description>New work indexed under “Patient Satisfaction With Perioperative Services and Associated Factors in Ethiopia: Systematic Review and Meta-Analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Artificial Externality: A Three-Layer Model of Reality from Substrate to Smart Contract</title>
-      <link>https://doi.org/10.1007/s13347-026-01158-6</link>
-      <guid>a652b6cb55e9d822</guid>
-      <description>What is real has always been something we find , not something we make —or so philosophy has assumed. This paper argues otherwise. Characterizing reality through resistance rather than substance (the ways the world refuses a subject’s mastery), I distinguish three modalities correlative to epistemic, judgmental, and practical mastery: Substrate (matter’s resistance to representation), Contingency (the forceful givenness of experience that resists revision by judgment), and the Inexorable (structures’ resistance to…</description>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quantum Computing for Industrial Electromagnetics: Applicability and Case Studies in Solving Maxwell's Equations</title>
-      <link>http://arxiv.org/abs/2608.10671v1</link>
-      <guid>fc4cd9add6925888</guid>
-      <description>Computational electromagnetics plays a central role in many industrial applications but often requires substantial computational resources, particularly when fine spatial discretizations are needed. While classical approaches remain the standard, quantum computing offers the potential to accelerate large-scale simulations by encoding them with a limited number of qubits.</description>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Public Self-Consciousness and Anticipatory Avatar Customization in Korean Metaverse Platform.</title>
-      <link>https://europepmc.org/article/MED/42569831</link>
-      <guid>8f50ff4012263d92</guid>
-      <description>New work indexed under “Public Self-Consciousness and Anticipatory Avatar Customization in Korean Metaverse Platform..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reviewer #2 (Public review): Neural correlates of perceptual consciousness from within: A narrative review of human intracranial research</title>
-      <link>https://doi.org/10.7554/elife.109604.4.sa2</link>
-      <guid>f1d0698638c6ed60</guid>
-      <description>Combining intracranial recordings with no-report paradigms and computational models offers the clearest path yet to isolating genuine neural correlates of consciousness from their prerequisites and consequences.</description>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reviewer #3 (Public review): Neural correlates of perceptual consciousness from within: A narrative review of human intracranial research</title>
-      <link>https://doi.org/10.7554/elife.109604.4.sa3</link>
-      <guid>9a193d8af6ca754a</guid>
-      <description>Combining intracranial recordings with no-report paradigms and computational models offers the clearest path yet to isolating genuine neural correlates of consciousness from their prerequisites and consequences.</description>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neural correlates of perceptual consciousness from within: A narrative review of human intracranial research</title>
-      <link>https://doi.org/10.7554/elife.109604.4</link>
-      <guid>73cfd447dec3b867</guid>
-      <description>Despite many years of research, the quest to identify neural correlates of perceptual consciousness (NCC) remains unresolved. One major obstacle lies in methodological limitations: most studies rely on non-invasive neural measures with limited spatial or temporal resolution, making it difficult to disentangle proper NCCs from concurrent cognitive processes.</description>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

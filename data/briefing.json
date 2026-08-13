@@ -1,34 +1,34 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "title": "The latest signal",
-  "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Neuroscience, Quantum physics. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
+  "overview": "Today’s index contains 240 recent records. The strongest signals span Quantum physics, Consciousness / philosophy, Neuroscience. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
+    {
+      "domain": "quantum",
+      "domain_label": "Quantum physics",
+      "title": "Benchmarking Quantum and Classical Machine Learning Models on Oncological Data",
+      "why_it_matters": "Machine learning is being increasingly used for the detection, diagnosis, and treatment of cancer. However, models often struggle with biological data due to high dimensionality, limited sample diversity, and complex feature interactions.",
+      "url": "http://arxiv.org/abs/2608.11373v1",
+      "signal_score": 57,
+      "evidence_label": "Preprint"
+    },
     {
       "domain": "consciousness",
       "domain_label": "Consciousness / philosophy",
-      "title": "Domain-specific recovery profiles of consciousness after surgically treated intracerebral hemorrhage: A multicenter analysis of the six CRS-R subscales.",
-      "why_it_matters": "New work indexed under “Domain-specific recovery profiles of consciousness after surgically treated intracerebral hemorrhage: A multicenter analysis of the six CRS-R subscales..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "url": "https://europepmc.org/article/MED/42566841",
-      "signal_score": 57,
+      "title": "EMI-EDU: reframing learning and education through energy, mass and information",
+      "why_it_matters": "Building on the EMI framework that conceptualises consciousness, cognition, and behaviour as emergent phenomena arising from dynamic interactions among energy, mass, and information, this article extends the model into the educational domain by reframing learning as a resonance-based process within complex adaptive systems. While the initial formulation of EMI provided a scale-free biophysical account of mental phenomena, here we argue that neuroplasticity, evolutionary entropy, resonance and informational…",
+      "url": "https://doi.org/10.3389/fnhum.2026.1761644",
+      "signal_score": 55,
       "evidence_label": "Journal article"
     },
     {
       "domain": "neuroscience",
       "domain_label": "Neuroscience",
-      "title": "EMI-EDU: reframing learning and education through energy, mass and information",
-      "why_it_matters": "Building on the EMI framework that conceptualises consciousness, cognition, and behaviour as emergent phenomena arising from dynamic interactions among energy, mass, and information, this article extends the model into the educational domain by reframing learning as a resonance-based process within complex adaptive systems. While the initial formulation of EMI provided a scale-free biophysical account of mental phenomena, here we argue that neuroplasticity, evolutionary entropy, resonance and informational…",
-      "url": "https://doi.org/10.3389/fnhum.2026.1761644",
-      "signal_score": 56,
+      "title": "Mapping basal ganglia circuitry in altered states of consciousness: from pathology to pharmacology",
+      "why_it_matters": "The precise neuromodulatory mechanisms underlying consciousness and its disorders, despite growing evidence in both animals and humans, remain poorly understood at the subcortical level. The basal ganglia, a key component of the cortico-basal ganglia-thalamo-cortical loop, are known to play a crucial role in mediating consciousness and behavioural responsiveness to the environment.",
+      "url": "https://doi.org/10.1093/brain/awag272",
+      "signal_score": 55,
       "evidence_label": "Journal article"
-    },
-    {
-      "domain": "quantum",
-      "domain_label": "Quantum physics",
-      "title": "Universal scaling of spatially extended zero modes in inhomogeneous SSH chains",
-      "why_it_matters": "Protected zero modes are a hallmark of topological phases of matter and are exponentially localized at sharp interfaces between distinct gapped phases. We investigate how this picture changes for smooth interfaces in a broad class of inhomogeneous Su-Schrieffer-Heeger (SSH) models.",
-      "url": "http://arxiv.org/abs/2608.11021v1",
-      "signal_score": 54,
-      "evidence_label": "Preprint"
     }
   ]
 }
