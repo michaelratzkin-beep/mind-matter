@@ -4,20 +4,20 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Thu, 13 Aug 2026 15:33:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 15:09:27 +0000</lastBuildDate>
     <item>
-      <title>Benchmarking Quantum and Classical Machine Learning Models on Oncological Data</title>
-      <link>http://arxiv.org/abs/2608.11373v1</link>
-      <guid>18e13f1c04eae668</guid>
-      <description>Machine learning is being increasingly used for the detection, diagnosis, and treatment of cancer. However, models often struggle with biological data due to high dimensionality, limited sample diversity, and complex feature interactions.</description>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Parity Floors in Quantum Denoisers: A Closed-Form Benchmark for Fixed-Map Denoising Networks</title>
+      <link>http://arxiv.org/abs/2608.12712v1</link>
+      <guid>c154c10ae67482b8</guid>
+      <description>Fixed quantum feature maps are increasingly inserted into diffusion denoisers, but standard image benchmarks do not reveal which structural constraint limits them. We introduce CoupledPhaseTexture, a torus-diffusion benchmark with analytic heat-kernel noising that separates parity, within-sector approximation, and sample-complexity limitations.</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Continuous-variable state moments from randomized homodyne and heterodyne measurements</title>
-      <link>http://arxiv.org/abs/2608.11811v1</link>
-      <guid>ff98f5569e4854b6</guid>
-      <description>Continuous-variable (CV) quantum states are naturally characterized by their moments, defined as expectation values of products of single- or multimode ladder operators. Many CV Hamiltonians and quantum algorithms are formulated directly in terms of these moments, and therefore an efficient procedure to estimate moments with limited state measurements is necessary.</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Quantum Reference Frames and Correlation Geometry</title>
+      <link>https://doi.org/10.1088/1361-6382/ae9821</link>
+      <guid>4416eee56f317430</guid>
+      <description>Abstract The aim of this paper is to provide a largely self-contained, compact and comprehensible introduction to the basic ideas behind correlation geometry, which underlies the theory of causal fermion system (CFS). A key focus here is on the manner in which the framework deals with gauge transformations, including diffeomorphisms via the principle of unitary equivalence.</description>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>EMI-EDU: reframing learning and education through energy, mass and information</title>
@@ -55,24 +55,24 @@
       <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Dissociative Catalysts of Coherence Loss: Impairment of World-Model Maintenance in Cognitive Constructivism</title>
+      <link>https://doi.org/10.5281/zenodo.21352469</link>
+      <guid>af87c79fd889f4c8</guid>
+      <description>Dissociative psychoactive substances (such as ketamine and PCP) present a challenge to standard models of altered states of consciousness. Unlike classical hallucinogens which enrich or distort conscious content, dissociatives induce a peculiar fragility in the construction of one’s world-model – a breakdown of the high-level coherence that ordinarily binds perception, selfhood, and meaning.</description>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Superconductivity in the $t$-$t'$ Hubbard Model from Symmetry-Preserving Neural-Network Quantum States</title>
+      <link>http://arxiv.org/abs/2608.12465v1</link>
+      <guid>c2bf11a3ae9a9ba8</guid>
+      <description>Despite its fundamental importance in the theory of strongly correlated electrons, the nature of the ground state of the two-dimensional doped Hubbard model remains intensely debated. Variational approaches provide a powerful route to this problem, but their conclusions can depend sensitively on the chosen wave-function parameterization, the mean-field initialization, or the pinning fields used to guide the optimization, as well as on boundary conditions.</description>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Quantum-limited imaging using diffractive optical neural networks</title>
       <link>http://arxiv.org/abs/2608.12300v1</link>
       <guid>509c2ab07102df46</guid>
       <description>We cast general imaging as multiparameter quantum estimation of band-limited spatial-frequency amplitudes. For separable (single-copy) measurements, we compute precision limits using semidefinite programming to evaluate the Nagaoka-Hayashi Cramér-Rao bound.</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Design of monolithic microcavities for enhancing organic quantum emitters</title>
-      <link>http://arxiv.org/abs/2608.12081v1</link>
-      <guid>722d424fb45838c3</guid>
-      <description>Single organic molecules are a well-established platform for high-quality single-photon generation: they can emit lifetime-limited photons with high purity and indistinguishability. However, their emission is accompanied by a pronounced red-shifted phonon sideband and higher-order vibrational peaks, which reduce the fraction of photons emitted into the desired narrowband zero-phonon line.</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hamilton-Zero: A Neural Tensor-Network Foundation Model for Ground States of Arbitrary Quadratic Qubit Hamiltonians</title>
-      <link>http://arxiv.org/abs/2608.11911v1</link>
-      <guid>2411744cbb19e6a0</guid>
-      <description>A central promise of useful quantum advantage is the ability to compute ground states of Hamiltonian systems beyond the reach of classical simulation methods. Here we demonstrate that this problem can be effectively amortized across an arbitrary and universal set of Hamiltonians by a foundation model with $\sim0.5$B variational parameters, trained with contemporary techniques from large language models and deep reinforcement learning.</description>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -81,13 +81,6 @@
       <guid>e61b5e1381301487</guid>
       <description>New work indexed under “Reply to: "Comments on 'The effect of remimazolam versus propofol on respiratory depression for non-intubated general anesthesia: a randomized controlled trial'"..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Universal scaling of spatially extended zero modes in inhomogeneous SSH chains</title>
-      <link>http://arxiv.org/abs/2608.11021v1</link>
-      <guid>9c39be9d92d08c6b</guid>
-      <description>Protected zero modes are a hallmark of topological phases of matter and are exponentially localized at sharp interfaces between distinct gapped phases. We investigate how this picture changes for smooth interfaces in a broad class of inhomogeneous Su-Schrieffer-Heeger (SSH) models.</description>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Consciousness as Intrinsic Structure: Towards a Chemistry of Experience</title>
@@ -125,13 +118,6 @@
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Laparoscopic Burch Colposuspension Versus Transobturator Tape for the Treatment of Stress Urinary Incontinence in Egyptian Women: A 12-Month Randomized Controlled Trial.</title>
-      <link>https://europepmc.org/article/MED/42578342</link>
-      <guid>e39afa0cc637604d</guid>
-      <description>New work indexed under “Laparoscopic Burch Colposuspension Versus Transobturator Tape for the Treatment of Stress Urinary Incontinence in Egyptian Women: A 12-Month Randomized Controlled Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Neuroinflammation as molecular landscape of post-operative delirium revealed by live human brain multi-omics profiling</title>
       <link>https://doi.org/10.1038/s41380-026-03804-z</link>
       <guid>e43060d066db1fbe</guid>
@@ -144,6 +130,20 @@
       <guid>edd13c78b4da328f</guid>
       <description>New work indexed under “Structural heat adaptation and education in urban settings (SHAPES trial): study protocol for a cluster randomised controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Histoplasmosis in India: a systematic review of reported cases.</title>
+      <link>https://europepmc.org/article/MED/42579065</link>
+      <guid>4ac461da04c8bc57</guid>
+      <description>New work indexed under “Histoplasmosis in India: a systematic review of reported cases..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems</title>
+      <link>http://arxiv.org/abs/2608.10218v1</link>
+      <guid>21b5576f95cb6a84</guid>
+      <description>AI agents are becoming more autonomous and increasingly interconnected, exposing them to new emergent risks arising from agent-to-agent interaction. One such risk is the spread of mind viruses: ideas or goals that propagate through multi-agent systems by inducing the agents that adopt them to transmit them onward.</description>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
