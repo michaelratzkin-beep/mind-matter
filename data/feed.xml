@@ -4,13 +4,41 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Fri, 14 Aug 2026 15:09:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 13:43:48 +0000</lastBuildDate>
     <item>
       <title>Parity Floors in Quantum Denoisers: A Closed-Form Benchmark for Fixed-Map Denoising Networks</title>
       <link>http://arxiv.org/abs/2608.12712v1</link>
       <guid>c154c10ae67482b8</guid>
       <description>Fixed quantum feature maps are increasingly inserted into diffusion denoisers, but standard image benchmarks do not reveal which structural constraint limits them. We introduce CoupledPhaseTexture, a torus-diffusion benchmark with analytic heat-kernel noising that separates parity, within-sector approximation, and sample-complexity limitations.</description>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Effectiveness of Child Life Service in the Management of Pediatric Anxiety During the Perioperative Period: A Systematic Review and Meta-analysis.</title>
+      <link>https://europepmc.org/article/MED/42593387</link>
+      <guid>0c84aab73fca423a</guid>
+      <description>New work indexed under “Effectiveness of Child Life Service in the Management of Pediatric Anxiety During the Perioperative Period: A Systematic Review and Meta-analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Liposomal bupivacaine versus ropivacaine in four-in-one nerve block for total knee arthroplasty: a randomized controlled trial.</title>
+      <link>https://europepmc.org/article/MED/42595972</link>
+      <guid>1cfd79ba70b2edcb</guid>
+      <description>New work indexed under “Liposomal bupivacaine versus ropivacaine in four-in-one nerve block for total knee arthroplasty: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prevention of postoperative nausea and vomiting with rapid sequence induction and intubation in patients undergoing thyroidectomy: a randomized controlled trial.</title>
+      <link>https://europepmc.org/article/MED/42593488</link>
+      <guid>9d7c19932e3b2bec</guid>
+      <description>New work indexed under “Prevention of postoperative nausea and vomiting with rapid sequence induction and intubation in patients undergoing thyroidectomy: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Current evidence of multimodal anesthesia on postoperative outcomes: A systematic review and Meta-analysis.</title>
+      <link>https://europepmc.org/article/MED/42585876</link>
+      <guid>1ae0a68b93ab3e74</guid>
+      <description>New work indexed under “Current evidence of multimodal anesthesia on postoperative outcomes: A systematic review and Meta-analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Reference Frames and Correlation Geometry</title>
@@ -34,25 +62,25 @@
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Reviewer #2 (Public review): Pupil size reveals the perceptual quality and effortless nature of synesthesia</title>
-      <link>https://doi.org/10.7554/elife.110390.4.sa2</link>
-      <guid>a15c8bd77862e347</guid>
-      <description>Perception feels like a window onto the world, but it never is. What we see is built from what reaches the eye and from what the brain adds. In synesthesia, that second part is easy to spot.</description>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reviewer #1 (Public review): Pupil size reveals the perceptual quality and effortless nature of synesthesia</title>
-      <link>https://doi.org/10.7554/elife.110390.4.sa1</link>
-      <guid>338187d344125ccf</guid>
-      <description>Perception feels like a window onto the world, but it never is. What we see is built from what reaches the eye and from what the brain adds. In synesthesia, that second part is easy to spot.</description>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Why Minds Need Bodies: Organismic Unity and Limits of Artificial Consciousness</title>
       <link>https://doi.org/10.55917/2151-6014.1925</link>
       <guid>ca3fd2fb680cb655</guid>
       <description>This paper argues that functional organization alone is not sufficient for phenomenal consciousness or the existence of a unified subject of experience. While many contemporary accounts of artificial consciousness assume that replicating the causal or computational structure of the brain would be sufficient for subjective experience, this paper identifies a deeper constraint: consciousness depends on organismic unity.</description>
       <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nurses' Perceptions of Their Non-Technical Skills in Recognising and Responding to Clinical Deterioration in Hospital Settings: A Systematic Review.</title>
+      <link>https://europepmc.org/article/MED/42595711</link>
+      <guid>3c75bb00880920d4</guid>
+      <description>New work indexed under “Nurses' Perceptions of Their Non-Technical Skills in Recognising and Responding to Clinical Deterioration in Hospital Settings: A Systematic Review..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gastroparesis induced by glucagon-like peptide-1 receptor agonists: A systematic review of clinical features, diagnosis, management, and outcomes.</title>
+      <link>https://europepmc.org/article/MED/42594084</link>
+      <guid>35b4c576269fc0d7</guid>
+      <description>New work indexed under “Gastroparesis induced by glucagon-like peptide-1 receptor agonists: A systematic review of clinical features, diagnosis, management, and outcomes..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Dissociative Catalysts of Coherence Loss: Impairment of World-Model Maintenance in Cognitive Constructivism</title>
@@ -76,10 +104,38 @@
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Reply to: "Comments on 'The effect of remimazolam versus propofol on respiratory depression for non-intubated general anesthesia: a randomized controlled trial'".</title>
-      <link>https://europepmc.org/article/MED/42581208</link>
-      <guid>e61b5e1381301487</guid>
-      <description>New work indexed under “Reply to: "Comments on 'The effect of remimazolam versus propofol on respiratory depression for non-intubated general anesthesia: a randomized controlled trial'"..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <title>Effects of Combined Pericapsular Nerve Group and Iliohypogastric Nerve Blocks on Postoperative Pain and Opioid Consumption After Total Hip Arthroplasty: A Randomized Clinical Trial.</title>
+      <link>https://europepmc.org/article/MED/42593418</link>
+      <guid>d276e68235b6815d</guid>
+      <description>New work indexed under “Effects of Combined Pericapsular Nerve Group and Iliohypogastric Nerve Blocks on Postoperative Pain and Opioid Consumption After Total Hip Arthroplasty: A Randomized Clinical Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EEG-Guided Sevoflurane Anesthesia and Emergence Delirium in Children: A Randomized Controlled Trial.</title>
+      <link>https://europepmc.org/article/MED/42590887</link>
+      <guid>9ff9e95280877f29</guid>
+      <description>New work indexed under “EEG-Guided Sevoflurane Anesthesia and Emergence Delirium in Children: A Randomized Controlled Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reviewer #2 (Public review): Pupil size reveals the perceptual quality and effortless nature of synesthesia</title>
+      <link>https://doi.org/10.7554/elife.110390.4.sa2</link>
+      <guid>a15c8bd77862e347</guid>
+      <description>Perception feels like a window onto the world, but it never is. What we see is built from what reaches the eye and from what the brain adds. In synesthesia, that second part is easy to spot.</description>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reviewer #1 (Public review): Pupil size reveals the perceptual quality and effortless nature of synesthesia</title>
+      <link>https://doi.org/10.7554/elife.110390.4.sa1</link>
+      <guid>338187d344125ccf</guid>
+      <description>Perception feels like a window onto the world, but it never is. What we see is built from what reaches the eye and from what the brain adds. In synesthesia, that second part is easy to spot.</description>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A systematic review and narrative synthesis of functional neuroimaging studies for chronic ocular surface pain.</title>
+      <link>https://europepmc.org/article/MED/42586445</link>
+      <guid>4278e1cb65419909</guid>
+      <description>New work indexed under “A systematic review and narrative synthesis of functional neuroimaging studies for chronic ocular surface pain..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -88,62 +144,6 @@
       <guid>eff201c8182142ad</guid>
       <description>To be conscious is to have an experience - not a collection of phenomenal atoms, but a structured whole composed of distinctions and the relations that bind them. Integrated Information Theory (IIT) identifies the essential properties of every experience (axioms), formulates them operationally as postulates that a substrate must satisfy, and unfolds the cause-effect power of the resulting complex into a $Φ$-structure.</description>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smart Enough to Go Extinct? An Evolutionary Challenge to the Value of General Intelligence and Its Ethical Implications for AGI</title>
-      <link>http://arxiv.org/abs/2608.10730v1</link>
-      <guid>e929d1f7dba4ebab</guid>
-      <description>The pursuit of artificial general intelligence (AGI) rests on a seemingly self-evident premise: that general intelligence, the kind of flexible, domain-general cognitive capacity exemplified by Homo sapiens, is extraordinarily valuable. This paper subjects this premise to critical scrutiny.</description>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Preoperative oral carbohydrate loading and postoperative glucose and insulin metabolism in patients undergoing open abdominal aortic aneurysm repair: A secondary analysis of a randomized controlled trial.</title>
-      <link>https://europepmc.org/article/MED/42581330</link>
-      <guid>e435185c24f9a3fa</guid>
-      <description>New work indexed under “Preoperative oral carbohydrate loading and postoperative glucose and insulin metabolism in patients undergoing open abdominal aortic aneurysm repair: A secondary analysis of a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A randomized controlled trial of intravenous magnesium sulfate shows no analgesic or anti-inflammatory benefit in dogs undergoing thoracolumbar disk herniation surgery.</title>
-      <link>https://europepmc.org/article/MED/42580781</link>
-      <guid>b24a5782a1fe0c60</guid>
-      <description>New work indexed under “A randomized controlled trial of intravenous magnesium sulfate shows no analgesic or anti-inflammatory benefit in dogs undergoing thoracolumbar disk herniation surgery..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Promoting Stigma-Free Language in Type 2 Diabetes Care Among Primary Care Clinicians: Randomized Controlled Pilot Trial.</title>
-      <link>https://europepmc.org/article/MED/42579884</link>
-      <guid>3c8382f7fe3a67e1</guid>
-      <description>New work indexed under “Promoting Stigma-Free Language in Type 2 Diabetes Care Among Primary Care Clinicians: Randomized Controlled Pilot Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neuroinflammation as molecular landscape of post-operative delirium revealed by live human brain multi-omics profiling</title>
-      <link>https://doi.org/10.1038/s41380-026-03804-z</link>
-      <guid>e43060d066db1fbe</guid>
-      <description>Post-operative delirium (POD) is a serious complication of surgery particularly in older adults, characterized by acute disturbances in consciousness and cognition and associated with increased mortality and long-term cognitive impairment. Despite its clinical relevance, the underlying pathophysiology remains poorly understood.</description>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Structural heat adaptation and education in urban settings (SHAPES trial): study protocol for a cluster randomised controlled trial.</title>
-      <link>https://europepmc.org/article/MED/42580837</link>
-      <guid>edd13c78b4da328f</guid>
-      <description>New work indexed under “Structural heat adaptation and education in urban settings (SHAPES trial): study protocol for a cluster randomised controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Histoplasmosis in India: a systematic review of reported cases.</title>
-      <link>https://europepmc.org/article/MED/42579065</link>
-      <guid>4ac461da04c8bc57</guid>
-      <description>New work indexed under “Histoplasmosis in India: a systematic review of reported cases..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems</title>
-      <link>http://arxiv.org/abs/2608.10218v1</link>
-      <guid>21b5576f95cb6a84</guid>
-      <description>AI agents are becoming more autonomous and increasingly interconnected, exposing them to new emergent risks arising from agent-to-agent interaction. One such risk is the spread of mind viruses: ideas or goals that propagate through multi-agent systems by inducing the agents that adopt them to transmit them onward.</description>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
