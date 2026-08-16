@@ -4,7 +4,7 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Sat, 15 Aug 2026 13:43:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 13:45:46 +0000</lastBuildDate>
     <item>
       <title>Parity Floors in Quantum Denoisers: A Closed-Form Benchmark for Fixed-Map Denoising Networks</title>
       <link>http://arxiv.org/abs/2608.12712v1</link>
@@ -13,11 +13,46 @@
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Effectiveness of Child Life Service in the Management of Pediatric Anxiety During the Perioperative Period: A Systematic Review and Meta-analysis.</title>
-      <link>https://europepmc.org/article/MED/42593387</link>
-      <guid>0c84aab73fca423a</guid>
-      <description>New work indexed under “Effectiveness of Child Life Service in the Management of Pediatric Anxiety During the Perioperative Period: A Systematic Review and Meta-analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Unified framework for efficiently computable quantum circuits</title>
+      <link>https://doi.org/10.1140/epjqt/s40507-026-00557-0</link>
+      <guid>09c38bdaa934e3ad</guid>
+      <description>Quantum circuits consisting of Clifford and matchgates are two classes of circuits that are known to be efficiently simulatable on a classical computer. We introduce a unified framework that shows in a transparent way the special structure that allows these circuits to be efficiently simulatable.</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Depression and Depressive Symptoms in Glaucoma: A Systematic Review and Meta-Analysis of Comparative, Prevalence, and Longitudinal Evidence.</title>
+      <link>https://europepmc.org/article/MED/42602681</link>
+      <guid>b106c534cd174bcc</guid>
+      <description>New work indexed under “Depression and Depressive Symptoms in Glaucoma: A Systematic Review and Meta-Analysis of Comparative, Prevalence, and Longitudinal Evidence..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Traversing Gaussian and non-Gaussian regimes in photonic quantum simulators: a review</title>
+      <link>https://doi.org/10.1140/epjqt/s40507-026-00496-w</link>
+      <guid>48087a33f09847a3</guid>
+      <description>Abstract Quantum photonic simulators are pivotal for designing and analyzing quantum photonic circuits that utilize both continuous-variable (CV) and discrete-variable (DV) encodings. This review critically examines the transition from Gaussian to non-Gaussian photonic models and the computational overhead that emerges from simulating systems with more than 20 modes or photon numbers exceeding 10 per mode.</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Subjective experience of 'Stream of Consciousness Impairment' in three patients with severe amnesia.</title>
+      <link>https://europepmc.org/article/MED/42602579</link>
+      <guid>33d279150cd3fb33</guid>
+      <description>New work indexed under “Subjective experience of 'Stream of Consciousness Impairment' in three patients with severe amnesia..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Parental and Healthcare Professional Experiences of Food Allergen Introduction During Complementary Feeding: A Behavioural Theory-Informed Systematic Review.</title>
+      <link>https://europepmc.org/article/MED/42601326</link>
+      <guid>9bd7c1d4383ef3c4</guid>
+      <description>New work indexed under “Parental and Healthcare Professional Experiences of Food Allergen Introduction During Complementary Feeding: A Behavioural Theory-Informed Systematic Review..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Plasma Carbamazepine and Carbamazepine-Epoxide Concentrations as Indicators of Consciousness Impairment in Acute Poisoning: A Sex-Based Analysis.</title>
+      <link>https://europepmc.org/article/MED/42599622</link>
+      <guid>2b9fcb229017151a</guid>
+      <description>New work indexed under “Plasma Carbamazepine and Carbamazepine-Epoxide Concentrations as Indicators of Consciousness Impairment in Acute Poisoning: A Sex-Based Analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Liposomal bupivacaine versus ropivacaine in four-in-one nerve block for total knee arthroplasty: a randomized controlled trial.</title>
@@ -25,20 +60,6 @@
       <guid>1cfd79ba70b2edcb</guid>
       <description>New work indexed under “Liposomal bupivacaine versus ropivacaine in four-in-one nerve block for total knee arthroplasty: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prevention of postoperative nausea and vomiting with rapid sequence induction and intubation in patients undergoing thyroidectomy: a randomized controlled trial.</title>
-      <link>https://europepmc.org/article/MED/42593488</link>
-      <guid>9d7c19932e3b2bec</guid>
-      <description>New work indexed under “Prevention of postoperative nausea and vomiting with rapid sequence induction and intubation in patients undergoing thyroidectomy: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Current evidence of multimodal anesthesia on postoperative outcomes: A systematic review and Meta-analysis.</title>
-      <link>https://europepmc.org/article/MED/42585876</link>
-      <guid>1ae0a68b93ab3e74</guid>
-      <description>New work indexed under “Current evidence of multimodal anesthesia on postoperative outcomes: A systematic review and Meta-analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Reference Frames and Correlation Geometry</title>
@@ -76,13 +97,6 @@
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Gastroparesis induced by glucagon-like peptide-1 receptor agonists: A systematic review of clinical features, diagnosis, management, and outcomes.</title>
-      <link>https://europepmc.org/article/MED/42594084</link>
-      <guid>35b4c576269fc0d7</guid>
-      <description>New work indexed under “Gastroparesis induced by glucagon-like peptide-1 receptor agonists: A systematic review of clinical features, diagnosis, management, and outcomes..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Dissociative Catalysts of Coherence Loss: Impairment of World-Model Maintenance in Cognitive Constructivism</title>
       <link>https://doi.org/10.5281/zenodo.21352469</link>
       <guid>af87c79fd889f4c8</guid>
@@ -104,20 +118,6 @@
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Effects of Combined Pericapsular Nerve Group and Iliohypogastric Nerve Blocks on Postoperative Pain and Opioid Consumption After Total Hip Arthroplasty: A Randomized Clinical Trial.</title>
-      <link>https://europepmc.org/article/MED/42593418</link>
-      <guid>d276e68235b6815d</guid>
-      <description>New work indexed under “Effects of Combined Pericapsular Nerve Group and Iliohypogastric Nerve Blocks on Postoperative Pain and Opioid Consumption After Total Hip Arthroplasty: A Randomized Clinical Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>EEG-Guided Sevoflurane Anesthesia and Emergence Delirium in Children: A Randomized Controlled Trial.</title>
-      <link>https://europepmc.org/article/MED/42590887</link>
-      <guid>9ff9e95280877f29</guid>
-      <description>New work indexed under “EEG-Guided Sevoflurane Anesthesia and Emergence Delirium in Children: A Randomized Controlled Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Reviewer #2 (Public review): Pupil size reveals the perceptual quality and effortless nature of synesthesia</title>
       <link>https://doi.org/10.7554/elife.110390.4.sa2</link>
       <guid>a15c8bd77862e347</guid>
@@ -132,17 +132,17 @@
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>A systematic review and narrative synthesis of functional neuroimaging studies for chronic ocular surface pain.</title>
-      <link>https://europepmc.org/article/MED/42586445</link>
-      <guid>4278e1cb65419909</guid>
-      <description>New work indexed under “A systematic review and narrative synthesis of functional neuroimaging studies for chronic ocular surface pain..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Consciousness as Intrinsic Structure: Towards a Chemistry of Experience</title>
       <link>http://arxiv.org/abs/2608.11398v1</link>
       <guid>eff201c8182142ad</guid>
       <description>To be conscious is to have an experience - not a collection of phenomenal atoms, but a structured whole composed of distinctions and the relations that bind them. Integrated Information Theory (IIT) identifies the essential properties of every experience (axioms), formulates them operationally as postulates that a substrate must satisfy, and unfolds the cause-effect power of the resulting complex into a $Φ$-structure.</description>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smart Enough to Go Extinct? An Evolutionary Challenge to the Value of General Intelligence and Its Ethical Implications for AGI</title>
+      <link>http://arxiv.org/abs/2608.10730v1</link>
+      <guid>e929d1f7dba4ebab</guid>
+      <description>The pursuit of artificial general intelligence (AGI) rests on a seemingly self-evident premise: that general intelligence, the kind of flexible, domain-general cognitive capacity exemplified by Homo sapiens, is extraordinarily valuable. This paper subjects this premise to critical scrutiny.</description>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
