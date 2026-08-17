@@ -4,13 +4,20 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Sun, 16 Aug 2026 13:45:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 13:57:45 +0000</lastBuildDate>
     <item>
-      <title>Parity Floors in Quantum Denoisers: A Closed-Form Benchmark for Fixed-Map Denoising Networks</title>
-      <link>http://arxiv.org/abs/2608.12712v1</link>
-      <guid>c154c10ae67482b8</guid>
-      <description>Fixed quantum feature maps are increasingly inserted into diffusion denoisers, but standard image benchmarks do not reveal which structural constraint limits them. We introduce CoupledPhaseTexture, a torus-diffusion benchmark with analytic heat-kernel noising that separates parity, within-sector approximation, and sample-complexity limitations.</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Superficial Cervical Plexus Block and Quality of Recovery after Thyroidectomy: A Randomized Clinical Trial.</title>
+      <link>https://europepmc.org/article/MED/42268604</link>
+      <guid>b654be7fec5fc64b</guid>
+      <description>New work indexed under “Superficial Cervical Plexus Block and Quality of Recovery after Thyroidectomy: A Randomized Clinical Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clinical Performance in Critical Care Simulation under Sleep Deprivation: Effects of Power Napping in the Recovery Napping Protocol for Anesthesiologist Performance (R-NAP) Randomized Controlled Trial.</title>
+      <link>https://europepmc.org/article/MED/42101030</link>
+      <guid>9d9cdbcbc8da1f96</guid>
+      <description>New work indexed under “Clinical Performance in Critical Care Simulation under Sleep Deprivation: Effects of Power Napping in the Recovery Napping Protocol for Anesthesiologist Performance (R-NAP) Randomized Controlled Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Unified framework for efficiently computable quantum circuits</title>
@@ -25,6 +32,62 @@
       <guid>b106c534cd174bcc</guid>
       <description>New work indexed under “Depression and Depressive Symptoms in Glaucoma: A Systematic Review and Meta-Analysis of Comparative, Prevalence, and Longitudinal Evidence..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Fixed Universal Determinant is Variationally Complete for Continuum Fermions</title>
+      <link>http://arxiv.org/abs/2608.14476v1</link>
+      <guid>860b0c335a5f77c6</guid>
+      <description>How many Slater determinants does an accurate variational description of interacting fermions require? Exact expansions in a finite basis need combinatorially many, and state-of-the-art fermionic neural quantum states stack growing numbers of them.</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linearised quantum signal processing</title>
+      <link>http://arxiv.org/abs/2608.14387v1</link>
+      <guid>6ad1ad89b0cabd5b</guid>
+      <description>Quantum functional programming has been developed through two distinct paradigms in the last few years: Quantum Signal Processing (QSP)-based methods, including the Quantum Singular Value Transformation (QSVT), and methods based on higher-order quantum transformations, such as the Universal Hamiltonian Eigenvalue Transformation (UHET). While UHET performs functional transformations of Hamiltonian dynamics, its relationship to QSP-based techniques has remained unclear despite evident structural similarities.</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analytical Theory of Higher-Order Collective Spin Interactions in Cavity Quantum Electrodynamics</title>
+      <link>http://arxiv.org/abs/2608.14343v1</link>
+      <guid>5bc1d8bd0bf59648</guid>
+      <description>Cavity-mediated collective-spin interactions are commonly described by a quadratic one-axis twisting Hamiltonian. However, the underlying atom-light interaction naturally generates nonlinearities to arbitrary order.</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Foundation Neural Effective Hamiltonian for Strongly Correlated Quantum Materials</title>
+      <link>http://arxiv.org/abs/2608.14208v1</link>
+      <guid>b3fbd00d267e7ee8</guid>
+      <description>Simulating strongly correlated quantum materials often involves not a single Hamiltonian, but a family of Hamiltonians whose ground states evolve across experimentally tunable couplings. Foundation neural quantum states (FNQS) offer a promising route to amortizing many-body calculations across such families, but can lose accuracy near phase transitions and still incur non-negligible sampling costs that grow with the number of target couplings.</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Synthesizing In-Bulk Topological Corner States via Giant Atoms</title>
+      <link>http://arxiv.org/abs/2608.14206v1</link>
+      <guid>feea747166c9dd7d</guid>
+      <description>Corner states in higher-order topological insulators are typically confined to geometric corners, limiting their flexibility for scalable quantum information processing. We propose a scheme to synthesize topological corner states at arbitrary positions within the bulk of a two-dimensional Su-Schrieffer-Heeger (SSH) lattice by coupling it to giant atoms.</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neural decoders for subsystem many-hypercube codes</title>
+      <link>http://arxiv.org/abs/2608.13975v1</link>
+      <guid>9c733c0c66cf4916</guid>
+      <description>To maximize the potential of quantum error-correcting codes, it is essential to develop high-performance decoders. The subsystem many-hypercube (MHC) codes have been developed to achieve both high encoding rates and low-weight syndrome-measurements, but the introduction of gauge degrees of freedom makes decoding more challenging.</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Integrated Information in the Active Inference Framework</title>
+      <link>http://arxiv.org/abs/2608.14165v1</link>
+      <guid>95046d02870581f1</guid>
+      <description>The active inference framework provides a principled approach to modeling sentient behavior. In this framework perception and action selection are treated in a unified way.</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scalable Test of Genuine Multipartite Entanglement via Partially Randomized Measurements</title>
+      <link>http://arxiv.org/abs/2608.13725v1</link>
+      <guid>e6002249e4179751</guid>
+      <description>Certifying genuine multipartite entanglement in quantum systems can require a number of measurements that grows exponentially with the system size. Here we introduce a criterion based on correlation-tensor subsector lengths restricted to local measurement planes and show that it can be evaluated using partially randomized measurements without an explicit exponential dependence on the number of qubits.</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Traversing Gaussian and non-Gaussian regimes in photonic quantum simulators: a review</title>
@@ -55,32 +118,11 @@
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Liposomal bupivacaine versus ropivacaine in four-in-one nerve block for total knee arthroplasty: a randomized controlled trial.</title>
-      <link>https://europepmc.org/article/MED/42595972</link>
-      <guid>1cfd79ba70b2edcb</guid>
-      <description>New work indexed under “Liposomal bupivacaine versus ropivacaine in four-in-one nerve block for total knee arthroplasty: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Quantum Reference Frames and Correlation Geometry</title>
       <link>https://doi.org/10.1088/1361-6382/ae9821</link>
       <guid>4416eee56f317430</guid>
       <description>Abstract The aim of this paper is to provide a largely self-contained, compact and comprehensible introduction to the basic ideas behind correlation geometry, which underlies the theory of causal fermion system (CFS). A key focus here is on the manner in which the framework deals with gauge transformations, including diffeomorphisms via the principle of unitary equivalence.</description>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>EMI-EDU: reframing learning and education through energy, mass and information</title>
-      <link>https://doi.org/10.3389/fnhum.2026.1761644</link>
-      <guid>ac7f765f4840f6c5</guid>
-      <description>Building on the EMI framework that conceptualises consciousness, cognition, and behaviour as emergent phenomena arising from dynamic interactions among energy, mass, and information, this article extends the model into the educational domain by reframing learning as a resonance-based process within complex adaptive systems. While the initial formulation of EMI provided a scale-free biophysical account of mental phenomena, here we argue that neuroplasticity, evolutionary entropy, resonance and informational…</description>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mapping basal ganglia circuitry in altered states of consciousness: from pathology to pharmacology</title>
-      <link>https://doi.org/10.1093/brain/awag272</link>
-      <guid>21620fabd034eb29</guid>
-      <description>The precise neuromodulatory mechanisms underlying consciousness and its disorders, despite growing evidence in both animals and humans, remain poorly understood at the subcortical level. The basal ganglia, a key component of the cortico-basal ganglia-thalamo-cortical loop, are known to play a crucial role in mediating consciousness and behavioural responsiveness to the environment.</description>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Why Minds Need Bodies: Organismic Unity and Limits of Artificial Consciousness</title>
@@ -90,13 +132,6 @@
       <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Nurses' Perceptions of Their Non-Technical Skills in Recognising and Responding to Clinical Deterioration in Hospital Settings: A Systematic Review.</title>
-      <link>https://europepmc.org/article/MED/42595711</link>
-      <guid>3c75bb00880920d4</guid>
-      <description>New work indexed under “Nurses' Perceptions of Their Non-Technical Skills in Recognising and Responding to Clinical Deterioration in Hospital Settings: A Systematic Review..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Dissociative Catalysts of Coherence Loss: Impairment of World-Model Maintenance in Cognitive Constructivism</title>
       <link>https://doi.org/10.5281/zenodo.21352469</link>
       <guid>af87c79fd889f4c8</guid>
@@ -104,46 +139,11 @@
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Superconductivity in the $t$-$t'$ Hubbard Model from Symmetry-Preserving Neural-Network Quantum States</title>
-      <link>http://arxiv.org/abs/2608.12465v1</link>
-      <guid>c2bf11a3ae9a9ba8</guid>
-      <description>Despite its fundamental importance in the theory of strongly correlated electrons, the nature of the ground state of the two-dimensional doped Hubbard model remains intensely debated. Variational approaches provide a powerful route to this problem, but their conclusions can depend sensitively on the chosen wave-function parameterization, the mean-field initialization, or the pinning fields used to guide the optimization, as well as on boundary conditions.</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quantum-limited imaging using diffractive optical neural networks</title>
-      <link>http://arxiv.org/abs/2608.12300v1</link>
-      <guid>509c2ab07102df46</guid>
-      <description>We cast general imaging as multiparameter quantum estimation of band-limited spatial-frequency amplitudes. For separable (single-copy) measurements, we compute precision limits using semidefinite programming to evaluate the Nagaoka-Hayashi Cramér-Rao bound.</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reviewer #2 (Public review): Pupil size reveals the perceptual quality and effortless nature of synesthesia</title>
-      <link>https://doi.org/10.7554/elife.110390.4.sa2</link>
-      <guid>a15c8bd77862e347</guid>
-      <description>Perception feels like a window onto the world, but it never is. What we see is built from what reaches the eye and from what the brain adds. In synesthesia, that second part is easy to spot.</description>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reviewer #1 (Public review): Pupil size reveals the perceptual quality and effortless nature of synesthesia</title>
-      <link>https://doi.org/10.7554/elife.110390.4.sa1</link>
-      <guid>338187d344125ccf</guid>
-      <description>Perception feels like a window onto the world, but it never is. What we see is built from what reaches the eye and from what the brain adds. In synesthesia, that second part is easy to spot.</description>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Consciousness as Intrinsic Structure: Towards a Chemistry of Experience</title>
-      <link>http://arxiv.org/abs/2608.11398v1</link>
-      <guid>eff201c8182142ad</guid>
-      <description>To be conscious is to have an experience - not a collection of phenomenal atoms, but a structured whole composed of distinctions and the relations that bind them. Integrated Information Theory (IIT) identifies the essential properties of every experience (axioms), formulates them operationally as postulates that a substrate must satisfy, and unfolds the cause-effect power of the resulting complex into a $Φ$-structure.</description>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smart Enough to Go Extinct? An Evolutionary Challenge to the Value of General Intelligence and Its Ethical Implications for AGI</title>
-      <link>http://arxiv.org/abs/2608.10730v1</link>
-      <guid>e929d1f7dba4ebab</guid>
-      <description>The pursuit of artificial general intelligence (AGI) rests on a seemingly self-evident premise: that general intelligence, the kind of flexible, domain-general cognitive capacity exemplified by Homo sapiens, is extraordinarily valuable. This paper subjects this premise to critical scrutiny.</description>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <title>EMI-EDU: reframing learning and education through energy, mass and information</title>
+      <link>https://doi.org/10.3389/fnhum.2026.1761644</link>
+      <guid>ac7f765f4840f6c5</guid>
+      <description>Building on the EMI framework that conceptualises consciousness, cognition, and behaviour as emergent phenomena arising from dynamic interactions among energy, mass, and information, this article extends the model into the educational domain by reframing learning as a resonance-based process within complex adaptive systems. While the initial formulation of EMI provided a scale-free biophysical account of mental phenomena, here we argue that neuroplasticity, evolutionary entropy, resonance and informational…</description>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

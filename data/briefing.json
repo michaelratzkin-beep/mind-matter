@@ -1,16 +1,16 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "title": "The latest signal",
-  "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Quantum physics, Neuroscience. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
+  "overview": "Today’s index contains 240 recent records. The strongest signals span Neuroscience, Quantum physics, Consciousness / philosophy. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
     {
-      "domain": "consciousness",
-      "domain_label": "Consciousness / philosophy",
-      "title": "Parity Floors in Quantum Denoisers: A Closed-Form Benchmark for Fixed-Map Denoising Networks",
-      "why_it_matters": "Fixed quantum feature maps are increasingly inserted into diffusion denoisers, but standard image benchmarks do not reveal which structural constraint limits them. We introduce CoupledPhaseTexture, a torus-diffusion benchmark with analytic heat-kernel noising that separates parity, within-sector approximation, and sample-complexity limitations.",
-      "url": "http://arxiv.org/abs/2608.12712v1",
-      "signal_score": 56,
-      "evidence_label": "Preprint"
+      "domain": "neuroscience",
+      "domain_label": "Neuroscience",
+      "title": "Superficial Cervical Plexus Block and Quality of Recovery after Thyroidectomy: A Randomized Clinical Trial.",
+      "why_it_matters": "New work indexed under “Superficial Cervical Plexus Block and Quality of Recovery after Thyroidectomy: A Randomized Clinical Trial..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "url": "https://europepmc.org/article/MED/42268604",
+      "signal_score": 55,
+      "evidence_label": "Journal article"
     },
     {
       "domain": "quantum",
@@ -18,17 +18,17 @@
       "title": "Unified framework for efficiently computable quantum circuits",
       "why_it_matters": "Quantum circuits consisting of Clifford and matchgates are two classes of circuits that are known to be efficiently simulatable on a classical computer. We introduce a unified framework that shows in a transparent way the special structure that allows these circuits to be efficiently simulatable.",
       "url": "https://doi.org/10.1140/epjqt/s40507-026-00557-0",
-      "signal_score": 55,
+      "signal_score": 54,
       "evidence_label": "Journal article"
     },
     {
-      "domain": "neuroscience",
-      "domain_label": "Neuroscience",
-      "title": "Depression and Depressive Symptoms in Glaucoma: A Systematic Review and Meta-Analysis of Comparative, Prevalence, and Longitudinal Evidence.",
-      "why_it_matters": "New work indexed under “Depression and Depressive Symptoms in Glaucoma: A Systematic Review and Meta-Analysis of Comparative, Prevalence, and Longitudinal Evidence..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "url": "https://europepmc.org/article/MED/42602681",
-      "signal_score": 54,
-      "evidence_label": "Review"
+      "domain": "consciousness",
+      "domain_label": "Consciousness / philosophy",
+      "title": "Linearised quantum signal processing",
+      "why_it_matters": "Quantum functional programming has been developed through two distinct paradigms in the last few years: Quantum Signal Processing (QSP)-based methods, including the Quantum Singular Value Transformation (QSVT), and methods based on higher-order quantum transformations, such as the Universal Hamiltonian Eigenvalue Transformation (UHET). While UHET performs functional transformations of Hamiltonian dynamics, its relationship to QSP-based techniques has remained unclear despite evident structural similarities.",
+      "url": "http://arxiv.org/abs/2608.14387v1",
+      "signal_score": 52,
+      "evidence_label": "Preprint"
     }
   ]
 }
