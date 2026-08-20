@@ -1,34 +1,34 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "title": "The latest signal",
-  "overview": "Today’s index contains 240 recent records. The strongest signals span Quantum physics, Consciousness / philosophy, Neuroscience. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
+  "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Quantum physics, Neuroscience. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
+    {
+      "domain": "consciousness",
+      "domain_label": "Consciousness / philosophy",
+      "title": "Do Large Language Models Hallucinate Electric Fata Morganas?",
+      "why_it_matters": "AI hallucinations - that is, outputs which are made up, cannot be verified, or contradict the source material - are generally regarded as an engineering flaw to be dealt with. This paper contends that they also have philosophical significance when it comes to the question of machine consciousness.",
+      "url": "http://arxiv.org/abs/2608.18816v1",
+      "signal_score": 54,
+      "evidence_label": "Preprint"
+    },
     {
       "domain": "quantum",
       "domain_label": "Quantum physics",
       "title": "Quantum Geometric Tensor Preconditioning for Stable Training of Recurrent Neural Quantum States",
       "why_it_matters": "Neural Quantum States (NQS) provide a powerful neural network-based variational framework for representing many-body wave functions and solving for ground states. Recurrent Neural Networks (RNNs) are particularly promising owing to their relatively low computational cost and their autoregressive property, which enables perfect sampling.",
       "url": "http://arxiv.org/abs/2608.18065v1",
-      "signal_score": 54,
-      "evidence_label": "Preprint"
-    },
-    {
-      "domain": "consciousness",
-      "domain_label": "Consciousness / philosophy",
-      "title": "Observation of magnetic quantum phase crossovers in a semiconductor spin ladder",
-      "why_it_matters": "Understanding collective phases of strongly correlated quantum magnets relies on theoretically tractable model systems with precise microscopic control. Antiferromagnetic spin ladders provide such a setting, hosting field-tunable gapped and gapless phases at half filling and unconventional pairing tendencies upon doping.",
-      "url": "http://arxiv.org/abs/2608.17789v1",
-      "signal_score": 54,
+      "signal_score": 53,
       "evidence_label": "Preprint"
     },
     {
       "domain": "neuroscience",
       "domain_label": "Neuroscience",
-      "title": "Flat band and Bulk-Boundary correspondence in a non-Hermitian trimerized lattice model with generic boundary conditions",
-      "why_it_matters": "We consider a Su-Schrieffer-Heeger(SSH)-type trimer model with next-nearest-neighbor(NNN) interaction and balanced loss-gain(BLG) to study the combined effect of lattice symmetries, topology, non-hermiticity and general boundary conditions(GBC)on the existence of flat band and the nature of Bulk-Boundary correspondence(BBC). We derive the necessary and sufficient conditions for the existence of an entirely real spectrum under the periodic boundary condition(PBC).",
-      "url": "http://arxiv.org/abs/2608.17428v1",
-      "signal_score": 54,
-      "evidence_label": "Preprint"
+      "title": "Comparison of Patellofemoral and Motion Outcomes Between Unrestricted Kinematic and Mechanical Alignment in Primary Total Knee Arthroplasty: A Systematic Review and Meta-Analysis.",
+      "why_it_matters": "New work indexed under “Comparison of Patellofemoral and Motion Outcomes Between Unrestricted Kinematic and Mechanical Alignment in Primary Total Knee Arthroplasty: A Systematic Review and Meta-Analysis..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "url": "https://europepmc.org/article/MED/42606828",
+      "signal_score": 53,
+      "evidence_label": "Journal article"
     }
   ]
 }

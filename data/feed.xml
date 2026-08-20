@@ -4,26 +4,19 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Wed, 19 Aug 2026 13:05:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 13:06:34 +0000</lastBuildDate>
+    <item>
+      <title>Do Large Language Models Hallucinate Electric Fata Morganas?</title>
+      <link>http://arxiv.org/abs/2608.18816v1</link>
+      <guid>0644ed20696bbc72</guid>
+      <description>AI hallucinations - that is, outputs which are made up, cannot be verified, or contradict the source material - are generally regarded as an engineering flaw to be dealt with. This paper contends that they also have philosophical significance when it comes to the question of machine consciousness.</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Quantum Geometric Tensor Preconditioning for Stable Training of Recurrent Neural Quantum States</title>
       <link>http://arxiv.org/abs/2608.18065v1</link>
       <guid>b5696ca28a4463c9</guid>
       <description>Neural Quantum States (NQS) provide a powerful neural network-based variational framework for representing many-body wave functions and solving for ground states. Recurrent Neural Networks (RNNs) are particularly promising owing to their relatively low computational cost and their autoregressive property, which enables perfect sampling.</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Observation of magnetic quantum phase crossovers in a semiconductor spin ladder</title>
-      <link>http://arxiv.org/abs/2608.17789v1</link>
-      <guid>03461e2a72da955f</guid>
-      <description>Understanding collective phases of strongly correlated quantum magnets relies on theoretically tractable model systems with precise microscopic control. Antiferromagnetic spin ladders provide such a setting, hosting field-tunable gapped and gapless phases at half filling and unconventional pairing tendencies upon doping.</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flat band and Bulk-Boundary correspondence in a non-Hermitian trimerized lattice model with generic boundary conditions</title>
-      <link>http://arxiv.org/abs/2608.17428v1</link>
-      <guid>d635b6c4e0103cba</guid>
-      <description>We consider a Su-Schrieffer-Heeger(SSH)-type trimer model with next-nearest-neighbor(NNN) interaction and balanced loss-gain(BLG) to study the combined effect of lattice symmetries, topology, non-hermiticity and general boundary conditions(GBC)on the existence of flat band and the nature of Bulk-Boundary correspondence(BBC). We derive the necessary and sufficient conditions for the existence of an entirely real spectrum under the periodic boundary condition(PBC).</description>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -69,6 +62,13 @@
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Branching (Almost) Everywhere And All at Once</title>
+      <link>http://arxiv.org/abs/2608.18644v1</link>
+      <guid>e5208d995e8bd828</guid>
+      <description>It is sometimes said that a reason to prefer Everettian quantum mechanics is that it allows one to avoid the kind of spooky action at a distance that is a consequence of quantum entanglement according to other approaches. There is a straightforward argument to show EQM has this virtue, however some advocates argue that this requires we see branching as a local causal process.</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Unified framework for efficiently computable quantum circuits</title>
       <link>https://doi.org/10.1140/epjqt/s40507-026-00557-0</link>
       <guid>09c38bdaa934e3ad</guid>
@@ -83,6 +83,13 @@
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Causal structure and light-conical singularities in Lorentzian simplicial quantum gravity</title>
+      <link>http://arxiv.org/abs/2608.18216v1</link>
+      <guid>dec1685521f55cb4</guid>
+      <description>The definition of a Lorentzian gravitational path integral requires specifying which causal struc- tures are admitted off shell. Of particular importance are light-conical singularities, codimension- two irregularities of the light cone structure that render the gravitational action complex and can therefore lead to exponential enhancement or suppression of configurations.</description>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Gisin's Argument and the Limits of Causal Explanations in Relativistic Spacetime</title>
       <link>http://arxiv.org/abs/2608.18010v1</link>
       <guid>f2aa477cced26e0d</guid>
@@ -95,13 +102,6 @@
       <guid>95046d02870581f1</guid>
       <description>The active inference framework provides a principled approach to modeling sentient behavior. In this framework perception and action selection are treated in a unified way.</description>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iterative tensor network transformations for element-wise evaluation of elementary and filtering functions</title>
-      <link>http://arxiv.org/abs/2608.17135v1</link>
-      <guid>68a3148d25a6342a</guid>
-      <description>Tensor networks are powerful formats for compressing large-scale data. However, their application to general data processing has been limited by the difficulty of performing nonlinear operations.</description>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Traversing Gaussian and non-Gaussian regimes in photonic quantum simulators: a review</title>
