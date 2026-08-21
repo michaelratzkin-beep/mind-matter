@@ -4,20 +4,48 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Thu, 20 Aug 2026 13:06:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 13:05:30 +0000</lastBuildDate>
+    <item>
+      <title>Constant-round quantum advantage in communication complexity for total functions</title>
+      <link>http://arxiv.org/abs/2608.19787v1</link>
+      <guid>ff4e637f0a9c953d</guid>
+      <description>We show that there exists a total function for which there is a polynomial gap between the randomized and the constant-round quantum communication complexity. Previously, such a separation was known only for quantum protocols using polynomially many rounds.</description>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Variational Quantum Circuit Parameterization of SchNet: A Simulator-Based Feasibility Study for Conservative Molecular Force Fields</title>
+      <link>http://arxiv.org/abs/2608.19532v1</link>
+      <guid>f35125e3536a44e6</guid>
+      <description>Machine-learning force fields provide a promising route for accelerating molecular simulation by replacing expensive quantum-chemical calculations with differentiable models of molecular energies and atomic forces. However, learning accurate and energy-conserving forces remains challenging, especially when the model must capture both global energy trends and local potential-energy gradients from limited data.</description>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Physics-Based versus Data-Driven Classification of Single-Photon Quantum Emitters from Sparse Autocorrelation Data</title>
+      <link>http://arxiv.org/abs/2608.19528v1</link>
+      <guid>4b87097446e262b5</guid>
+      <description>Identifying single photon emitters from large, inhomogeneous candidate populations is key to realizing many quantum applications. This requires measuring the emitters second order autocorrelation function, whose statistical reliability is fundamentally limited by acquisition time.</description>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum algorithm for differential equations via permutation matrix representation with application to the Burgers equation</title>
+      <link>http://arxiv.org/abs/2608.19508v1</link>
+      <guid>8eab191fc9ac7074</guid>
+      <description>We develop a quantum algorithm for solving the dynamics of the nonlinear viscous Burgers equation. We apply the Carleman linearization procedure on the spatially discretized equation, followed by a padding scheme that allows implementation on qubit registers.</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stability and squeezing of the three-photon degenerate parametric down-conversion</title>
+      <link>http://arxiv.org/abs/2608.19494v1</link>
+      <guid>7c7bfac75793c773</guid>
+      <description>Nonlinear multiphoton conversion processes are theoretically and experimentally challenging systems in quantum optics and related areas. These phenomena bring remarkable quantum properties and can be of fundamental relevance in quantum information and computation applications.</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Do Large Language Models Hallucinate Electric Fata Morganas?</title>
       <link>http://arxiv.org/abs/2608.18816v1</link>
       <guid>0644ed20696bbc72</guid>
       <description>AI hallucinations - that is, outputs which are made up, cannot be verified, or contradict the source material - are generally regarded as an engineering flaw to be dealt with. This paper contends that they also have philosophical significance when it comes to the question of machine consciousness.</description>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quantum Geometric Tensor Preconditioning for Stable Training of Recurrent Neural Quantum States</title>
-      <link>http://arxiv.org/abs/2608.18065v1</link>
-      <guid>b5696ca28a4463c9</guid>
-      <description>Neural Quantum States (NQS) provide a powerful neural network-based variational framework for representing many-body wave functions and solving for ground states. Recurrent Neural Networks (RNNs) are particularly promising owing to their relatively low computational cost and their autoregressive property, which enables perfect sampling.</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Comparison of Patellofemoral and Motion Outcomes Between Unrestricted Kinematic and Mechanical Alignment in Primary Total Knee Arthroplasty: A Systematic Review and Meta-Analysis.</title>
@@ -62,11 +90,25 @@
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Branching (Almost) Everywhere And All at Once</title>
-      <link>http://arxiv.org/abs/2608.18644v1</link>
-      <guid>e5208d995e8bd828</guid>
-      <description>It is sometimes said that a reason to prefer Everettian quantum mechanics is that it allows one to avoid the kind of spooky action at a distance that is a consequence of quantum entanglement according to other approaches. There is a straightforward argument to show EQM has this virtue, however some advocates argue that this requires we see branching as a local causal process.</description>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Jamming Extensions of Quantum Correlations Lead to Hidden Superluminal Signaling</title>
+      <link>http://arxiv.org/abs/2608.20247v1</link>
+      <guid>c1de1cc63b0ce20e</guid>
+      <description>Relativistic causality in certain spacetime configurations permits jamming - superluminal causal influences that nevertheless do not enable superluminal signaling. We fully characterize the correlations compatible with relativistic causality (RC) by extending the operator framework of PRL 104, 140404.</description>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Large Scale Entanglement Structure Detection in 100-Qubit Systems via Local Joint Measurements</title>
+      <link>http://arxiv.org/abs/2608.20170v1</link>
+      <guid>472fd7142343a6e9</guid>
+      <description>Identifying the entanglement structure of a many-body quantum state, namely how its constituents partition into unentangled blocks, is a central task in quantum information science, yet conventional tomography scales exponentially with system size. Here we introduce a scalable framework that recognizes large-scale entanglement structures directly from local correlation fingerprints.</description>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>High fidelity control of superconducting qubits with optical transmitted signal</title>
+      <link>http://arxiv.org/abs/2608.19602v1</link>
+      <guid>6505613f52567de4</guid>
+      <description>Superconducting circuits exhibit remarkable potential for constructing large-scale quantum simulation and computation systems, featuring numerous qubits, extended coherence time, and precise control. Nevertheless, the growing number of signal cables poses a challenge in dilution refrigerators due to space and heat load constraints.</description>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Unified framework for efficiently computable quantum circuits</title>
@@ -83,18 +125,11 @@
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Causal structure and light-conical singularities in Lorentzian simplicial quantum gravity</title>
-      <link>http://arxiv.org/abs/2608.18216v1</link>
-      <guid>dec1685521f55cb4</guid>
-      <description>The definition of a Lorentzian gravitational path integral requires specifying which causal struc- tures are admitted off shell. Of particular importance are light-conical singularities, codimension- two irregularities of the light cone structure that render the gravitational action complex and can therefore lead to exponential enhancement or suppression of configurations.</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gisin's Argument and the Limits of Causal Explanations in Relativistic Spacetime</title>
-      <link>http://arxiv.org/abs/2608.18010v1</link>
-      <guid>f2aa477cced26e0d</guid>
-      <description>Gisin has provided an argument for the conclusion that no covariant nonlocal model can reproduce the operational statistics observed in Bell experiments. Gisin's argument applies only to deterministic models and we argue that proposed generalizations of the argument beyond determinism based solely on statistical notions are unconvincing, as they lack the resources to formulate a satisfactory notion of no-retrocausality.</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Variational Quantum Linear Solver via Block Encoding for the Poisson Equation</title>
+      <link>http://arxiv.org/abs/2608.19655v1</link>
+      <guid>cc66d4d78eeba275</guid>
+      <description>We present a variational quantum linear solver (VQLS) for the Poisson equation built on an exact block encoding of the discrete Laplacian, and demonstrate its performance on physically motivated benchmarks. Unlike LCU-based VQLS where the number of distinct circuits required per cost-function evaluation is $\mathcal{O}(L^2)$, where $L$ is the number of terms in the LCU decomposition of the discrete Laplacian operator, this approach requires only a single circuit for cost evaluation.</description>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Integrated Information in the Active Inference Framework</title>
@@ -104,46 +139,11 @@
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Traversing Gaussian and non-Gaussian regimes in photonic quantum simulators: a review</title>
-      <link>https://doi.org/10.1140/epjqt/s40507-026-00496-w</link>
-      <guid>48087a33f09847a3</guid>
-      <description>Abstract Quantum photonic simulators are pivotal for designing and analyzing quantum photonic circuits that utilize both continuous-variable (CV) and discrete-variable (DV) encodings. This review critically examines the transition from Gaussian to non-Gaussian photonic models and the computational overhead that emerges from simulating systems with more than 20 modes or photon numbers exceeding 10 per mode.</description>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Subjective experience of 'Stream of Consciousness Impairment' in three patients with severe amnesia.</title>
-      <link>https://europepmc.org/article/MED/42602579</link>
-      <guid>33d279150cd3fb33</guid>
-      <description>New work indexed under “Subjective experience of 'Stream of Consciousness Impairment' in three patients with severe amnesia..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Parental and Healthcare Professional Experiences of Food Allergen Introduction During Complementary Feeding: A Behavioural Theory-Informed Systematic Review.</title>
-      <link>https://europepmc.org/article/MED/42601326</link>
-      <guid>9bd7c1d4383ef3c4</guid>
-      <description>New work indexed under “Parental and Healthcare Professional Experiences of Food Allergen Introduction During Complementary Feeding: A Behavioural Theory-Informed Systematic Review..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Plasma Carbamazepine and Carbamazepine-Epoxide Concentrations as Indicators of Consciousness Impairment in Acute Poisoning: A Sex-Based Analysis.</title>
-      <link>https://europepmc.org/article/MED/42599622</link>
-      <guid>2b9fcb229017151a</guid>
-      <description>New work indexed under “Plasma Carbamazepine and Carbamazepine-Epoxide Concentrations as Indicators of Consciousness Impairment in Acute Poisoning: A Sex-Based Analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Emergence of Transfer Learning towards Specific Identification of Alzheimer's Disease A Prospective Approach</title>
-      <link>http://arxiv.org/abs/2608.14731v1</link>
-      <guid>65ba41bc4d3583b6</guid>
-      <description>Worldwide, millions of senior citizens are suffering from Alzheimer disease abbreviated as AD, a well- versed form of dementia. AD is featured by amnesia, intellectual disability, and difficulty with consciousness.</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quantum Reference Frames and Correlation Geometry</title>
-      <link>https://doi.org/10.1088/1361-6382/ae9821</link>
-      <guid>4416eee56f317430</guid>
-      <description>Abstract The aim of this paper is to provide a largely self-contained, compact and comprehensible introduction to the basic ideas behind correlation geometry, which underlies the theory of causal fermion system (CFS). A key focus here is on the manner in which the framework deals with gauge transformations, including diffeomorphisms via the principle of unitary equivalence.</description>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <title>ChatGPT Solves All Tested Qiskit Homework Assignments</title>
+      <link>http://arxiv.org/abs/2608.19707v1</link>
+      <guid>86c2837d9209cc3e</guid>
+      <description>Generative AI creates an assessment challenge in quantum software education: a student can provide a homework notebook to ChatGPT and request a completed submission. This study examined whether introductory Qiskit homework could remain autogradable while requiring students to run, review, and discuss results rather than banning AI.</description>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

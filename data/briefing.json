@@ -1,34 +1,34 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "title": "The latest signal",
-  "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Quantum physics, Neuroscience. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
+  "overview": "Today’s index contains 240 recent records. The strongest signals span Quantum physics, Neuroscience, Consciousness / philosophy. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
-    {
-      "domain": "consciousness",
-      "domain_label": "Consciousness / philosophy",
-      "title": "Do Large Language Models Hallucinate Electric Fata Morganas?",
-      "why_it_matters": "AI hallucinations - that is, outputs which are made up, cannot be verified, or contradict the source material - are generally regarded as an engineering flaw to be dealt with. This paper contends that they also have philosophical significance when it comes to the question of machine consciousness.",
-      "url": "http://arxiv.org/abs/2608.18816v1",
-      "signal_score": 54,
-      "evidence_label": "Preprint"
-    },
     {
       "domain": "quantum",
       "domain_label": "Quantum physics",
-      "title": "Quantum Geometric Tensor Preconditioning for Stable Training of Recurrent Neural Quantum States",
-      "why_it_matters": "Neural Quantum States (NQS) provide a powerful neural network-based variational framework for representing many-body wave functions and solving for ground states. Recurrent Neural Networks (RNNs) are particularly promising owing to their relatively low computational cost and their autoregressive property, which enables perfect sampling.",
-      "url": "http://arxiv.org/abs/2608.18065v1",
-      "signal_score": 53,
+      "title": "Constant-round quantum advantage in communication complexity for total functions",
+      "why_it_matters": "We show that there exists a total function for which there is a polynomial gap between the randomized and the constant-round quantum communication complexity. Previously, such a separation was known only for quantum protocols using polynomially many rounds.",
+      "url": "http://arxiv.org/abs/2608.19787v1",
+      "signal_score": 55,
       "evidence_label": "Preprint"
     },
     {
       "domain": "neuroscience",
       "domain_label": "Neuroscience",
-      "title": "Comparison of Patellofemoral and Motion Outcomes Between Unrestricted Kinematic and Mechanical Alignment in Primary Total Knee Arthroplasty: A Systematic Review and Meta-Analysis.",
-      "why_it_matters": "New work indexed under “Comparison of Patellofemoral and Motion Outcomes Between Unrestricted Kinematic and Mechanical Alignment in Primary Total Knee Arthroplasty: A Systematic Review and Meta-Analysis..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "url": "https://europepmc.org/article/MED/42606828",
+      "title": "Variational Quantum Circuit Parameterization of SchNet: A Simulator-Based Feasibility Study for Conservative Molecular Force Fields",
+      "why_it_matters": "Machine-learning force fields provide a promising route for accelerating molecular simulation by replacing expensive quantum-chemical calculations with differentiable models of molecular energies and atomic forces. However, learning accurate and energy-conserving forces remains challenging, especially when the model must capture both global energy trends and local potential-energy gradients from limited data.",
+      "url": "http://arxiv.org/abs/2608.19532v1",
+      "signal_score": 54,
+      "evidence_label": "Preprint"
+    },
+    {
+      "domain": "consciousness",
+      "domain_label": "Consciousness / philosophy",
+      "title": "Quantum algorithm for differential equations via permutation matrix representation with application to the Burgers equation",
+      "why_it_matters": "We develop a quantum algorithm for solving the dynamics of the nonlinear viscous Burgers equation. We apply the Carleman linearization procedure on the spatially discretized equation, followed by a padding scheme that allows implementation on qubit registers.",
+      "url": "http://arxiv.org/abs/2608.19508v1",
       "signal_score": 53,
-      "evidence_label": "Journal article"
+      "evidence_label": "Preprint"
     }
   ]
 }
