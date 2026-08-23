@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T12:56:31.902730+00:00",
+  "updated_at": "2026-08-23T12:57:50.088306+00:00",
   "lookback_days": 35,
   "sources": [
     "OpenAlex",
@@ -22,7 +22,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42628978",
       "doi": "10.1080/09602011.2026.2717259",
-      "work_type": "im; review; journal article",
+      "work_type": "review; journal article",
       "evidence_label": "Review",
       "open_access": false,
       "cited_by_count": 0,
@@ -33,7 +33,42 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 63
+      "signal_score": 62
+    },
+    {
+      "id": "accc6323c8525ae0",
+      "title": "Materialism as the Boundary Condition of Idealism-Understanding the Coherence-Modulated Consciousness-Matter Cycle (CMCMC)",
+      "authors": [
+        "Jay Alfred"
+      ],
+      "summary": "This paper develops an ontology in which consciousness is fundamental, and materialism is a boundary condition. Elementary particles in matter possess proto‑consciousness comparable to mass, spin, or charge.",
+      "publication_date": "2026-08-20",
+      "source": "International Journal of Innovative Science and Research Technology (IJISRT)",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.38124/ijisrt/26aug160",
+      "doi": "10.38124/ijisrt/26aug160",
+      "work_type": "article",
+      "evidence_label": "Journal article",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "consciousness",
+        "quantum",
+        "neuroscience",
+        "cross-domain"
+      ],
+      "keywords": [
+        "Consciousness",
+        "Coherence (philosophical gambling strategy)",
+        "Materialism",
+        "Quantum",
+        "Boundary (topology)",
+        "Boundary value problem",
+        "Qualia",
+        "Phase (matter)"
+      ],
+      "has_abstract": true,
+      "signal_score": 58
     },
     {
       "id": "3158699962b5621b",
@@ -68,7 +103,38 @@
         "Systematic review"
       ],
       "has_abstract": true,
-      "signal_score": 58
+      "signal_score": 57
+    },
+    {
+      "id": "75bfb375c912e57b",
+      "title": "Opioid-sparing anesthesia based on opioid-free principles for early recovery after total knee arthroplasty: A randomized controlled trial.",
+      "authors": [
+        "Liu J",
+        "Liu J",
+        "Liu P",
+        "Li W",
+        "Wang M",
+        "Li J",
+        "Yang S",
+        "Zhao S",
+        "Wang X."
+      ],
+      "summary": "New work indexed under “Opioid-sparing anesthesia based on opioid-free principles for early recovery after total knee arthroplasty: A randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-22",
+      "source": "J Clin Anesth",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42632160",
+      "doi": "10.1016/j.jclinane.2026.112307",
+      "work_type": "im; journal article",
+      "evidence_label": "Journal article",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 54
     },
     {
       "id": "9bb940b63191def5",
@@ -89,7 +155,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42629532",
       "doi": "10.1007/s12325-026-03746-6",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -98,7 +164,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 55
+      "signal_score": 54
     },
     {
       "id": "7c7a6a5019c3eebd",
@@ -121,7 +187,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42627878",
       "doi": "10.1371/journal.pmed.1004847",
-      "work_type": "im; randomized controlled trial; journal article",
+      "work_type": "randomized controlled trial; journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -130,7 +196,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 54
+      "signal_score": 53
     },
     {
       "id": "12030a390ec49c2c",
@@ -159,7 +225,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 54
+      "signal_score": 53
     },
     {
       "id": "ff4e637f0a9c953d",
@@ -186,34 +252,7 @@
         "cs.CC"
       ],
       "has_abstract": true,
-      "signal_score": 54
-    },
-    {
-      "id": "1efa856da6fa15e4",
-      "title": "Workplace-based screening for oral potentially malignant disorders: A systematic review and meta-analysis.",
-      "authors": [
-        "Goel S",
-        "Basu S",
-        "Roy S",
-        "Kumar A",
-        "Yadav V."
-      ],
-      "summary": "New work indexed under “Workplace-based screening for oral potentially malignant disorders: A systematic review and meta-analysis..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "J Med Screen",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42623038",
-      "doi": "10.1177/09691413261477031",
-      "work_type": "review; journal article",
-      "evidence_label": "Review",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 54
+      "signal_score": 53
     },
     {
       "id": "08f53d983ec31b49",
@@ -249,7 +288,7 @@
         "Electroencephalography"
       ],
       "has_abstract": true,
-      "signal_score": 54
+      "signal_score": 53
     },
     {
       "id": "401b29ba43ff6b13",
@@ -269,7 +308,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42629407",
       "doi": "10.1038/s41684-026-01788-5",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -280,7 +319,53 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 53
+      "signal_score": 52
+    },
+    {
+      "id": "50f2182ec06944ce",
+      "title": "Neural Signatures of Conscious Experience During Sleep: A Serial Awakening Study Using High-Density EEG",
+      "authors": [
+        "Atakan Selte",
+        "Steven E. Haworth",
+        "Thomas J. Vanasse",
+        "Tariq Alauddin",
+        "Klevest Gjini",
+        "Santiago Philibert‐Rosas",
+        "Cameron Brace",
+        "Brinda Sevak",
+        "Brady A. Riedner",
+        "Mariel Kalkach Aparicio",
+        "Giulio Tononi",
+        "Mélanie Boly",
+        "Aaron F. Struck"
+      ],
+      "summary": "Identifying neural signatures of consciousness remains a central challenge in neuroscience. Sleep offers a tractable model for comparing brain activity in the presence or absence of subjective experience while minimizing behavioral responsiveness confounds.",
+      "publication_date": "2026-08-20",
+      "source": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.64898/2026.08.16.745040",
+      "doi": "10.64898/2026.08.16.745040",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "consciousness",
+        "neuroscience",
+        "cross-domain"
+      ],
+      "keywords": [
+        "Electroencephalography",
+        "Non-rapid eye movement sleep",
+        "Sleep (system call)",
+        "Neural activity",
+        "Electrophysiology",
+        "Consciousness",
+        "Eye movement",
+        "Neural correlates of consciousness"
+      ],
+      "has_abstract": true,
+      "signal_score": 52
     },
     {
       "id": "f35125e3536a44e6",
@@ -312,7 +397,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 53
+      "signal_score": 52
     },
     {
       "id": "4b87097446e262b5",
@@ -345,7 +430,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 53
+      "signal_score": 52
     },
     {
       "id": "8eb77feb9860f621",
@@ -375,36 +460,36 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 53
+      "signal_score": 52
     },
     {
-      "id": "3746179ce6ac1dab",
-      "title": "Efficacy of suprapubic hot compress in preventing emergence agitation in patients with indwelling urinary catheters under general anesthesia: a randomized controlled trial.",
+      "id": "f0d068ae06041114",
+      "title": "Quantum Computing: A Contemporary Review of Qubit Platforms, Algorithms, Error Correction, and Emerging Applications",
       "authors": [
-        "Xu Z",
-        "Wang Y",
-        "You M",
-        "Dai L",
-        "Tang S",
-        "You J",
-        "Jiang P."
+        "Thamer A. Alamoudi"
       ],
-      "summary": "New work indexed under “Efficacy of suprapubic hot compress in preventing emergence agitation in patients with indwelling urinary catheters under general anesthesia: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "summary": "Quantum computation exploits superposition, entanglement, interference, and measurement to process information.Research has moved from theoretical algorithms to functional devices where the performance is not only limited by qubit physics, but also by the control, compilation, error mitigation, and error correction.This review considers quantum computing on various levels of abstraction, including physical qubits, quantum algorithms, system architecture, fault-tolerance, and emerging applications.Study-specific…",
       "publication_date": "2026-08-20",
-      "source": "J Anesth",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42622840",
-      "doi": "10.1007/s00540-026-03872-z",
-      "work_type": "journal article",
+      "source": "International Journal of Computer Applications",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.5120/ijca2b2d25a3c082",
+      "doi": "10.5120/ijca2b2d25a3c082",
+      "work_type": "article",
       "evidence_label": "Journal article",
-      "open_access": false,
+      "open_access": true,
       "cited_by_count": 0,
       "domains": [
-        "neuroscience"
+        "quantum"
       ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 53
+      "keywords": [
+        "Qubit",
+        "Quantum",
+        "Quantum computer",
+        "Quantum error correction",
+        "Error detection and correction"
+      ],
+      "has_abstract": true,
+      "signal_score": 51
     },
     {
       "id": "4c477bb601ba739b",
@@ -431,7 +516,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 52
+      "signal_score": 51
     },
     {
       "id": "266bd75ac33cf21b",
@@ -459,37 +544,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 52
-    },
-    {
-      "id": "0d1f43d6f4c61011",
-      "title": "An Auditory BCI System Based on Stimulus-Related Semantic Backgrounds for Consciousness Detection.",
-      "authors": [
-        "Wang F",
-        "Zhang J",
-        "Yang X",
-        "Pan J",
-        "Huang H",
-        "He Y."
-      ],
-      "summary": "New work indexed under “An Auditory BCI System Based on Stimulus-Related Semantic Backgrounds for Consciousness Detection..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "IEEE Trans Biomed Eng",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42623205",
-      "doi": "10.1109/tbme.2026.3718066",
-      "work_type": "journal article",
-      "evidence_label": "Journal article",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "consciousness",
-        "neuroscience",
-        "cross-domain"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 52
+      "signal_score": 51
     },
     {
       "id": "ca0abcc5840155f8",
@@ -523,7 +578,7 @@
         "Quantum"
       ],
       "has_abstract": true,
-      "signal_score": 52
+      "signal_score": 51
     },
     {
       "id": "fb6c8d2b617e4df6",
@@ -557,7 +612,7 @@
         "Quantum"
       ],
       "has_abstract": true,
-      "signal_score": 52
+      "signal_score": 51
     },
     {
       "id": "a5d02dff236f4b46",
@@ -591,7 +646,7 @@
         "Quantum"
       ],
       "has_abstract": true,
-      "signal_score": 52
+      "signal_score": 51
     },
     {
       "id": "8eab191fc9ac7074",
@@ -620,7 +675,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 52
+      "signal_score": 51
     },
     {
       "id": "7c7bfac75793c773",
@@ -650,7 +705,7 @@
         "physics.optics"
       ],
       "has_abstract": true,
-      "signal_score": 52
+      "signal_score": 51
     },
     {
       "id": "0644ed20696bbc72",
@@ -678,7 +733,7 @@
         "cs.AI"
       ],
       "has_abstract": true,
-      "signal_score": 52
+      "signal_score": 51
     },
     {
       "id": "bec48e39e5fb70a0",
@@ -687,9 +742,10 @@
         "Xu Han",
         "Xiaoai Chen",
         "Samuel Cramer",
+        "Yizhuo Ding",
         "Nanyin Zhang"
       ],
-      "summary": "Consciousness is a dynamic brain state, yet the systems-level mechanisms underlying transitions into and out of unconsciousness remain poorly understood. It is unclear whether neural dynamics during loss of consciousness (LOC) and recovery of consciousness (ROC) simply retrace the same trajectory or instead follow distinct paths across multiple spatial scales.",
+      "summary": "Abstract Consciousness is a dynamic brain state, yet the systems-level mechanisms underlying transitions into and out of unconsciousness remain poorly understood. It is unclear whether neural dynamics during loss of consciousness (LOC) and recovery of consciousness (ROC) simply retrace the same trajectory or instead follow distinct paths across multiple spatial scales.",
       "publication_date": "2026-08-18",
       "source": "bioRxiv (Cold Spring Harbor Laboratory)",
       "source_provider": "OpenAlex",
@@ -715,27 +771,49 @@
         "Coupling (piping)"
       ],
       "has_abstract": true,
-      "signal_score": 51
+      "signal_score": 50
     },
     {
-      "id": "9120e2ce3ff6fd46",
-      "title": "Sample-efficient quantum error mitigation via classical learning surrogates",
+      "id": "95cd76e6a16b5dca",
+      "title": "Front Matter",
       "authors": [
-        "Wei-You Liao",
-        "Ge Yan",
-        "Yujin Song",
-        "Tian-Ci Tian",
-        "Weiming Zhu",
-        "De-Tao Jiang",
-        "Yuxuan Du",
-        "He-Liang Huang"
+        "Abhishek Kumar",
+        "J.P. Ananth",
+        "S. Oswalt Manoj",
+        "Navneet Kaur",
+        "A. Jayanthiladevi"
       ],
-      "summary": "Abstract The pursuit of practical quantum utility on near-term quantum processors is critically challenged by their inherent noise. Quantum error mitigation (QEM) techniques are leading solutions to improve computation fidelity with relatively low qubit-overhead, while full-scale quantum error correction remains a distant goal.",
-      "publication_date": "2026-08-20",
-      "source": "Communications Physics",
+      "summary": "The prelims comprise: Half-Title Page Publisher Page Title Page Copyright Page Table of Contents Foreword Preface",
+      "publication_date": "2026-08-21",
+      "source": "OpenAlex-indexed source",
       "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.1038/s42005-026-02827-w",
-      "doi": "10.1038/s42005-026-02827-w",
+      "url": "https://doi.org/10.1002/9781394382682.fmatter",
+      "doi": "10.1002/9781394382682.fmatter",
+      "work_type": "paratext",
+      "evidence_label": "Paratext",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [],
+      "has_abstract": true,
+      "signal_score": 49
+    },
+    {
+      "id": "663386c778f01312",
+      "title": "Quantum machine learning-based intrusion detection system for IoT cloud-enabled smart city environments",
+      "authors": [
+        "Sukanya Pondavakam",
+        "Sushil Kumar Singh",
+        "Himanshu Gupta"
+      ],
+      "summary": "Abstract The fast integration of Internet of Things (IoT) devices and cloud platforms has altered current smart cities, allowing for intelligent services and effective communication. However, the increased interconnectedness has broadened the attack surface, exposing systems to complex, evolving cyberattacks that standard Intrusion Detection Systems (IDSs) cannot adequately counter.",
+      "publication_date": "2026-08-21",
+      "source": "Discover Internet of Things",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.1007/s43926-026-00456-x",
+      "doi": "10.1007/s43926-026-00456-x",
       "work_type": "article",
       "evidence_label": "Journal article",
       "open_access": true,
@@ -744,14 +822,13 @@
         "quantum"
       ],
       "keywords": [
-        "Overhead (engineering)",
-        "Quantum",
-        "Quantum error correction",
-        "Scalability",
+        "Intrusion detection system",
+        "Cloud computing",
+        "Smart city",
+        "Internet of Things",
+        "Support vector machine",
         "Quantum computer",
-        "Quantum algorithm",
-        "Extrapolation",
-        "Quantum circuit"
+        "Quantum"
       ],
       "has_abstract": true,
       "signal_score": 49
@@ -782,7 +859,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 49
+      "signal_score": 48
     },
     {
       "id": "472fd7142343a6e9",
@@ -814,7 +891,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 49
+      "signal_score": 48
     },
     {
       "id": "6505613f52567de4",
@@ -856,7 +933,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 49
+      "signal_score": 48
     },
     {
       "id": "8f4258569f031a5e",
@@ -891,7 +968,7 @@
         "Quantum information"
       ],
       "has_abstract": true,
-      "signal_score": 48
+      "signal_score": 47
     },
     {
       "id": "09c38bdaa934e3ad",
@@ -925,7 +1002,74 @@
         "Function (biology)"
       ],
       "has_abstract": true,
-      "signal_score": 48
+      "signal_score": 47
+    },
+    {
+      "id": "4653f4d97babd507",
+      "title": "Impact of diabetes mellitus on the menopausal experience: A scoping review.",
+      "authors": [
+        "Black R",
+        "Hasson F",
+        "King L",
+        "Davies M",
+        "Muldrew D",
+        "Slater P",
+        "Johnston J",
+        "Adams D",
+        "Murphy R",
+        "Kernohan G",
+        "Coates V."
+      ],
+      "summary": "New work indexed under “Impact of diabetes mellitus on the menopausal experience: A scoping review..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-22",
+      "source": "Diabet Med",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42632082",
+      "doi": "10.1111/dme.70420",
+      "work_type": "im; review; journal article",
+      "evidence_label": "Review",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 46
+    },
+    {
+      "id": "6fe99ba3581be0a8",
+      "title": "Biomedical waste management in veterinary medicine and its impact on the environment: A comprehensive review.",
+      "authors": [
+        "Sehrawat V",
+        "Kumar M",
+        "Aderao GN",
+        "Channabasappa NK",
+        "Kumar N",
+        "Patel SK",
+        "Chaudhary D",
+        "Dangi A",
+        "Gupta A",
+        "Sain M",
+        "Kareningappa KK",
+        "Agrawal A."
+      ],
+      "summary": "New work indexed under “Biomedical waste management in veterinary medicine and its impact on the environment: A comprehensive review..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-22",
+      "source": "Waste Manag Res",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42630092",
+      "doi": "10.1177/0734242x261476430",
+      "work_type": "review; journal article",
+      "evidence_label": "Review",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 46
     },
     {
       "id": "cc66d4d78eeba275",
@@ -954,7 +1098,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 47
+      "signal_score": 46
     },
     {
       "id": "95046d02870581f1",
@@ -983,7 +1127,7 @@
         "cs.IT"
       ],
       "has_abstract": true,
-      "signal_score": 47
+      "signal_score": 46
     },
     {
       "id": "c749db6c85d38ae3",
@@ -1000,7 +1144,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42627711",
       "doi": "10.1002/epi4.70342",
-      "work_type": "im; review; journal article",
+      "work_type": "review; journal article",
       "evidence_label": "Review",
       "open_access": false,
       "cited_by_count": 0,
@@ -1009,7 +1153,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 46
+      "signal_score": 45
     },
     {
       "id": "86c2837d9209cc3e",
@@ -1036,7 +1180,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 46
+      "signal_score": 45
     },
     {
       "id": "477399991b867488",
@@ -1070,7 +1214,7 @@
         "Quantum dissipation"
       ],
       "has_abstract": true,
-      "signal_score": 46
+      "signal_score": 45
     },
     {
       "id": "5ba4569130f786d5",
@@ -1102,7 +1246,7 @@
         "Quantum state"
       ],
       "has_abstract": true,
-      "signal_score": 46
+      "signal_score": 45
     },
     {
       "id": "07fc40ea3b82f221",
@@ -1137,7 +1281,7 @@
         "Metabolism"
       ],
       "has_abstract": true,
-      "signal_score": 46
+      "signal_score": 45
     },
     {
       "id": "48087a33f09847a3",
@@ -1173,36 +1317,7 @@
         "Quantum optics"
       ],
       "has_abstract": true,
-      "signal_score": 46
-    },
-    {
-      "id": "65ba41bc4d3583b6",
-      "title": "Emergence of Transfer Learning towards Specific Identification of Alzheimer's Disease A Prospective Approach",
-      "authors": [
-        "Soumik Podder",
-        "Chandramouli Haldar"
-      ],
-      "summary": "Worldwide, millions of senior citizens are suffering from Alzheimer disease abbreviated as AD, a well- versed form of dementia. AD is featured by amnesia, intellectual disability, and difficulty with consciousness.",
-      "publication_date": "2026-08-13",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.14731v1",
-      "doi": "10.1109/IEEECONF64992.2025.10962879",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "consciousness",
-        "neuroscience",
-        "cross-domain"
-      ],
-      "keywords": [
-        "cs.CV",
-        "cs.DL"
-      ],
-      "has_abstract": true,
-      "signal_score": 46
+      "signal_score": 45
     },
     {
       "id": "ca3fd2fb680cb655",
@@ -1236,7 +1351,39 @@
         "Phenomenon"
       ],
       "has_abstract": true,
-      "signal_score": 46
+      "signal_score": 45
+    },
+    {
+      "id": "6dc1f9a976e9cb41",
+      "title": "RydbergPhaseDepthQA: A Finite-Size Hardware Witness of a Multi-Controlled-Phase Depth-Hierarchy Mechanism on IonQ Forte-1",
+      "authors": [
+        "Abdelmalik Berrada"
+      ],
+      "summary": "RydbergPhaseDepthQA investigates whether a finite-size witness of the recently established quantum circuit-depth hierarchy mechanism remains experimentally distinguishable after provider compilation and noisy execution on a real quantum processor. The experiment compares a frozen exact (C^7Z) phase-witness circuit with a matched ablation obtained by removing exactly one pre-provider QIS two-qubit layer.",
+      "publication_date": "2026-08-22",
+      "source": "arXiv (Cornell University)",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.5281/zenodo.22051349",
+      "doi": "10.5281/zenodo.22051349",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "Bounded function",
+        "Hierarchy",
+        "Quantum",
+        "Constraint (computer-aided design)",
+        "Quantum gate",
+        "Qubit",
+        "Electronic circuit",
+        "Quantum computer"
+      ],
+      "has_abstract": true,
+      "signal_score": 44
     },
     {
       "id": "36a0c7edff99792a",
@@ -1260,7 +1407,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 45
+      "signal_score": 44
     },
     {
       "id": "431053436ac618be",
@@ -1288,32 +1435,36 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 45
+      "signal_score": 44
     },
     {
-      "id": "782a22f4965279c7",
-      "title": "Chronic Nonbacterial Osteomyelitis/Chronic Recurrent Multifocal Osteomyelitis - A Case Report and Literature Review.",
+      "id": "65ba41bc4d3583b6",
+      "title": "Emergence of Transfer Learning towards Specific Identification of Alzheimer's Disease A Prospective Approach",
       "authors": [
-        "Persad C",
-        "Donaldson N",
-        "Huica S."
+        "Soumik Podder",
+        "Chandramouli Haldar"
       ],
-      "summary": "New work indexed under “Chronic Nonbacterial Osteomyelitis/Chronic Recurrent Multifocal Osteomyelitis - A Case Report and Literature Review..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "Mod Rheumatol Case Rep",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42623272",
-      "doi": "10.1093/mrcr/rxag081",
-      "work_type": "journal article",
-      "evidence_label": "Journal article",
-      "open_access": false,
+      "summary": "Worldwide, millions of senior citizens are suffering from Alzheimer disease abbreviated as AD, a well- versed form of dementia. AD is featured by amnesia, intellectual disability, and difficulty with consciousness.",
+      "publication_date": "2026-08-13",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.14731v1",
+      "doi": "10.1109/IEEECONF64992.2025.10962879",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
       "cited_by_count": 0,
       "domains": [
-        "neuroscience"
+        "consciousness",
+        "neuroscience",
+        "cross-domain"
       ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 45
+      "keywords": [
+        "cs.CV",
+        "cs.DL"
+      ],
+      "has_abstract": true,
+      "signal_score": 44
     },
     {
       "id": "4416eee56f317430",
@@ -1344,7 +1495,7 @@
         "Reference frame"
       ],
       "has_abstract": true,
-      "signal_score": 45
+      "signal_score": 44
     },
     {
       "id": "ac7f765f4840f6c5",
@@ -1380,7 +1531,7 @@
         "Domain (mathematical analysis)"
       ],
       "has_abstract": true,
-      "signal_score": 45
+      "signal_score": 44
     },
     {
       "id": "21620fabd034eb29",
@@ -1424,7 +1575,7 @@
         "Dopamine"
       ],
       "has_abstract": true,
-      "signal_score": 45
+      "signal_score": 44
     },
     {
       "id": "a15c8bd77862e347",
@@ -1456,7 +1607,7 @@
         "Contrast (vision)"
       ],
       "has_abstract": true,
-      "signal_score": 45
+      "signal_score": 44
     },
     {
       "id": "338187d344125ccf",
@@ -1488,7 +1639,568 @@
         "Contrast (vision)"
       ],
       "has_abstract": true,
-      "signal_score": 45
+      "signal_score": 44
+    },
+    {
+      "id": "9fd0c6d0d627615d",
+      "title": "Evaluating pediatric emergency knowledge mobilization resources for Canadian healthcare providers: a concurrent triangulation mixed-methods usability study.",
+      "authors": [
+        "Lai VKW",
+        "Knisley L",
+        "Hartling L",
+        "Elliott SA",
+        "Freedman S",
+        "Bale-Nick M",
+        "Scott S",
+        "Reid S",
+        "Lang E",
+        "MacPhee S",
+        "Jabbour M",
+        "Aregbesola A",
+        "Sinclair D",
+        "Klassen TP."
+      ],
+      "summary": "New work indexed under “Evaluating pediatric emergency knowledge mobilization resources for Canadian healthcare providers: a concurrent triangulation mixed-methods usability study..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-22",
+      "source": "CJEM",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42632870",
+      "doi": "10.1007/s43678-026-01275-3",
+      "work_type": "im; journal article",
+      "evidence_label": "Journal article",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 43
+    },
+    {
+      "id": "b60a28f3e8b52c1e",
+      "title": "Digital workflow-guided autotransplantation of developing teeth after resection of an odontoma: a case report.",
+      "authors": [
+        "Leng N",
+        "Hou R",
+        "Wang Y",
+        "Yang X",
+        "Yan P",
+        "Wu W."
+      ],
+      "summary": "New work indexed under “Digital workflow-guided autotransplantation of developing teeth after resection of an odontoma: a case report..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-22",
+      "source": "J Stomatol Oral Maxillofac Surg",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42632598",
+      "doi": "10.1016/j.jormas.2026.102963",
+      "work_type": "im; journal article; case reports",
+      "evidence_label": "Journal article",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 43
+    },
+    {
+      "id": "f489732b344d421c",
+      "title": "Intraoperative endometrial visualization using intracavitary indocyanine green during laparoscopic myomectomy.",
+      "authors": [
+        "Iwata T",
+        "Kanno K",
+        "Endo A",
+        "Andou M."
+      ],
+      "summary": "New work indexed under “Intraoperative endometrial visualization using intracavitary indocyanine green during laparoscopic myomectomy..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-22",
+      "source": "J Minim Invasive Gynecol",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42632539",
+      "doi": "10.1016/j.jmig.2026.08.020",
+      "work_type": "im; journal article",
+      "evidence_label": "Journal article",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 43
+    },
+    {
+      "id": "0fd2adc9a799499b",
+      "title": "RISR assessments: A look at skin tone considerations in radiation therapist assessments in Canada.",
+      "authors": [
+        "Middleton JM",
+        "Kwan M",
+        "Li J",
+        "Sidhu H",
+        "Tam A",
+        "Palmaria C."
+      ],
+      "summary": "New work indexed under “RISR assessments: A look at skin tone considerations in radiation therapist assessments in Canada..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-22",
+      "source": "J Med Imaging Radiat Sci",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42632306",
+      "doi": "10.1016/j.jmir.2026.102565",
+      "work_type": "im; journal article",
+      "evidence_label": "Journal article",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 43
+    },
+    {
+      "id": "0cfbee27647356a0",
+      "title": "Co-designed yoga nidra targeting anxiety in autistic children: A mixed methods feasibility study.",
+      "authors": [
+        "Loftus T",
+        "Yau SH",
+        "Soares S",
+        "Byrne J",
+        "Mathersul DC."
+      ],
+      "summary": "New work indexed under “Co-designed yoga nidra targeting anxiety in autistic children: A mixed methods feasibility study..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-22",
+      "source": "Res Dev Disabil",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42632169",
+      "doi": "10.1016/j.ridd.2026.105367",
+      "work_type": "im; journal article",
+      "evidence_label": "Journal article",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 43
+    },
+    {
+      "id": "4d1fa9a3fc973214",
+      "title": "An endotracheal tube inserted to the level of the hypopharynx is an easy, safe, and effective technique for ventilation of pediatric patients: A prospective observational study.",
+      "authors": [
+        "Senbruna BO",
+        "Khalili AF",
+        "Siddik-Sayyid SM",
+        "Krayem RM",
+        "HajAli TH",
+        "Itani SM",
+        "Maroun PJ",
+        "Bou Ali AW",
+        "Aouad MT",
+        "Kaddoum RN."
+      ],
+      "summary": "New work indexed under “An endotracheal tube inserted to the level of the hypopharynx is an easy, safe, and effective technique for ventilation of pediatric patients: A prospective observational study..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-22",
+      "source": "J Clin Anesth",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42632161",
+      "doi": "10.1016/j.jclinane.2026.112305",
+      "work_type": "im; journal article",
+      "evidence_label": "Journal article",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 43
+    },
+    {
+      "id": "29954f29410eb127",
+      "title": "Transient Aortitis/Periaortitis with Spontaneous Resolution: Report of Four Cases.",
+      "authors": [
+        "Motomura Y",
+        "Oda N",
+        "Ikai H",
+        "Shiba H",
+        "Hazue R",
+        "Kiuchi A",
+        "Oya N",
+        "Takizawa N",
+        "Minoda M",
+        "Rokutanda R."
+      ],
+      "summary": "New work indexed under “Transient Aortitis/Periaortitis with Spontaneous Resolution: Report of Four Cases..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-22",
+      "source": "Mod Rheumatol Case Rep",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42631916",
+      "doi": "10.1093/mrcr/rxag079",
+      "work_type": "im; journal article",
+      "evidence_label": "Journal article",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 43
+    },
+    {
+      "id": "4c02c033224fde74",
+      "title": "Serial transthoracic echocardiography for hemodynamic monitoring and early warning of hypotension during elective cesarean delivery: a prospective observational study.",
+      "authors": [
+        "Liu W",
+        "Zhou Y",
+        "Li D",
+        "Sun L",
+        "Wang X",
+        "Fan T",
+        "Guo X",
+        "Li M",
+        "Shi C."
+      ],
+      "summary": "New work indexed under “Serial transthoracic echocardiography for hemodynamic monitoring and early warning of hypotension during elective cesarean delivery: a prospective observational study..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-22",
+      "source": "J Clin Monit Comput",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42631835",
+      "doi": "10.1007/s10877-026-01485-1",
+      "work_type": "im; journal article",
+      "evidence_label": "Journal article",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 43
+    },
+    {
+      "id": "327fa7e1dff0d63e",
+      "title": "Paroxysmal tonic upgaze mimicking epileptic seizures in infancy: a diagnostic challenge.",
+      "authors": [
+        "Falsaperla R",
+        "Sortino V",
+        "Romano C",
+        "Saporito MAN",
+        "Suppiej A."
+      ],
+      "summary": "New work indexed under “Paroxysmal tonic upgaze mimicking epileptic seizures in infancy: a diagnostic challenge..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-22",
+      "source": "Doc Ophthalmol",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42631816",
+      "doi": "10.1007/s10633-026-10141-7",
+      "work_type": "im; journal article",
+      "evidence_label": "Journal article",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 43
+    },
+    {
+      "id": "1598fde877344c60",
+      "title": "Therapeutic Potential of NLRP3 Inhibitor MCC950 in Aging Mice Stroke Outcomes.",
+      "authors": [
+        "Kamat PK",
+        "Khan MB",
+        "Siddiqui S",
+        "Dua AD",
+        "Divekar S",
+        "David H",
+        "Hussain MA",
+        "Gavankar S",
+        "Hess DC."
+      ],
+      "summary": "New work indexed under “Therapeutic Potential of NLRP3 Inhibitor MCC950 in Aging Mice Stroke Outcomes..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-22",
+      "source": "Transl Stroke Res",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42631814",
+      "doi": "10.1007/s12975-026-01491-0",
+      "work_type": "im; journal article",
+      "evidence_label": "Journal article",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 43
+    },
+    {
+      "id": "adfce3a7bf15f797",
+      "title": "Patient Experience of Adrenocortical Carcinoma: Views from a Patient, His Physician and a Patient Association.",
+      "authors": [
+        "Büdenbender M",
+        "Heitz-Lamy C",
+        "Fassnacht M."
+      ],
+      "summary": "New work indexed under “Patient Experience of Adrenocortical Carcinoma: Views from a Patient, His Physician and a Patient Association..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-22",
+      "source": "Adv Ther",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42631797",
+      "doi": "10.1007/s12325-026-03718-w",
+      "work_type": "im; editorial",
+      "evidence_label": "Journal article",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 43
+    },
+    {
+      "id": "46c77bde9f299a6d",
+      "title": "\"I never thought to bring them up to the doctor\": examining symptom appraisal, help-seeking behaviors, and diagnostic delays among young adults with cancer.",
+      "authors": [
+        "Allard NC",
+        "Bouchard EG",
+        "Ford JS",
+        "Feeley TH",
+        "Rokitka D",
+        "Orom H."
+      ],
+      "summary": "New work indexed under “\"I never thought to bring them up to the doctor\": examining symptom appraisal, help-seeking behaviors, and diagnostic delays among young adults with cancer..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-22",
+      "source": "Cancer Causes Control",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42631741",
+      "doi": "10.1007/s10552-026-02231-3",
+      "work_type": "im; journal article",
+      "evidence_label": "Journal article",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 43
+    },
+    {
+      "id": "ec9db7d5974243f4",
+      "title": "Dual Rare Lead-Related Complications: A Case Report Highlighting Troubleshooting Challenges During ICD Lead Implantation.",
+      "authors": [
+        "Laporte PL",
+        "Giordano G",
+        "Vedrenne G",
+        "Messali A",
+        "Extramiana F",
+        "Algalarrondo V."
+      ],
+      "summary": "New work indexed under “Dual Rare Lead-Related Complications: A Case Report Highlighting Troubleshooting Challenges During ICD Lead Implantation..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-22",
+      "source": "JACC Case Rep",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42631675",
+      "doi": "10.1016/j.jaccas.2026.109927",
+      "work_type": "journal article; case reports",
+      "evidence_label": "Journal article",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 43
+    },
+    {
+      "id": "bc440b04329f2ed7",
+      "title": "Age at Autism Diagnosis in the Norwegian Mother, Father, and Child Cohort Study (MoBa): Exploring the Association With Family Well-Being.",
+      "authors": [
+        "Glaser BD",
+        "Bazezew MM",
+        "Bragantini D",
+        "Hegemann LE",
+        "Orm S",
+        "Morgan MJ",
+        "Bishop SL",
+        "Valand SB",
+        "Hannigan LJ",
+        "Havdahl A."
+      ],
+      "summary": "New work indexed under “Age at Autism Diagnosis in the Norwegian Mother, Father, and Child Cohort Study (MoBa): Exploring the Association With Family Well-Being..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-22",
+      "source": "Autism",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42631652",
+      "doi": "10.1177/13623613261474929",
+      "work_type": "im; journal article",
+      "evidence_label": "Journal article",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 43
+    },
+    {
+      "id": "21ea19cad1edea6c",
+      "title": "Burden and determinants of snakebite mortality in Tamil Nadu, India: a surveillance and verbal autopsy study.",
+      "authors": [
+        "Subhashini KJ",
+        "Kumar EV",
+        "Kumar MS",
+        "Devaparthasarathy TA",
+        "Selvavinayagam TS",
+        "Somasundaram A."
+      ],
+      "summary": "New work indexed under “Burden and determinants of snakebite mortality in Tamil Nadu, India: a surveillance and verbal autopsy study..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-22",
+      "source": "Trans R Soc Trop Med Hyg",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42631407",
+      "doi": "10.1093/trstmh/trag092",
+      "work_type": "im; journal article",
+      "evidence_label": "Journal article",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 43
+    },
+    {
+      "id": "b0e2042d2b4d07db",
+      "title": "Barriers and opportunities in waste electrical and electronic equipment management in Brazil and Colombia: Insights from recycling companies and cooperatives.",
+      "authors": [
+        "Campos EAR",
+        "Vinasco BF",
+        "Carvalho MM."
+      ],
+      "summary": "New work indexed under “Barriers and opportunities in waste electrical and electronic equipment management in Brazil and Colombia: Insights from recycling companies and cooperatives..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-22",
+      "source": "Waste Manag Res",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42630112",
+      "doi": "10.1177/0734242x261465998",
+      "work_type": "journal article",
+      "evidence_label": "Journal article",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 43
+    },
+    {
+      "id": "127fd45495167dac",
+      "title": "Schrödinger Wave Mechanics: Canonical Equation Atlas and USP-Compatible Resonance Commentary",
+      "authors": [
+        "Sadegh Sepehri"
+      ],
+      "summary": "This document is a concentrated historical and mathematical reference companion for the wave-mechanics and quantum-foundations work of Erwin Schrödinger most directly relevant to the USP Field Theory programme. It is not presented as a replacement for quantum mechanics and does not claim that Schrödinger anticipated USP Field Theory.",
+      "publication_date": "2026-08-21",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.5281/zenodo.22036912",
+      "doi": "10.5281/zenodo.22036912",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "Hamiltonian (control theory)",
+        "Quantization (signal processing)",
+        "Wave mechanics",
+        "Eigenvalues and eigenvectors",
+        "Hamiltonian mechanics",
+        "Interpretation (philosophy)",
+        "Coulomb",
+        "Wave function"
+      ],
+      "has_abstract": true,
+      "signal_score": 43
+    },
+    {
+      "id": "f6acbde24f9380ce",
+      "title": "Schrödinger Wave Mechanics: Canonical Equation Atlas and USP-Compatible Resonance Commentary",
+      "authors": [
+        "Sadegh Sepehri"
+      ],
+      "summary": "This document is a concentrated historical and mathematical reference companion for the wave-mechanics and quantum-foundations work of Erwin Schrödinger most directly relevant to the USP Field Theory programme. It is not presented as a replacement for quantum mechanics and does not claim that Schrödinger anticipated USP Field Theory.",
+      "publication_date": "2026-08-21",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.5281/zenodo.22036911",
+      "doi": "10.5281/zenodo.22036911",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "Hamiltonian (control theory)",
+        "Quantization (signal processing)",
+        "Wave mechanics",
+        "Eigenvalues and eigenvectors",
+        "Hamiltonian mechanics",
+        "Interpretation (philosophy)",
+        "Coulomb",
+        "Wave function"
+      ],
+      "has_abstract": true,
+      "signal_score": 43
+    },
+    {
+      "id": "72d8df255335ec87",
+      "title": "Sustained attention under load: Neurophysiological mechanisms and behavioural consequences",
+      "authors": [
+        "Louise Catheryne Barne",
+        "Nilli Lavie"
+      ],
+      "summary": "Despite the importance of sustaining attention focus throughout a task, sustained attention research demonstrates a rapid decline of task-focus with time-on-task. Separate research body highlights perceptual load as critical determinant of focused attention, showing that increased perceptual load draws more neural energy into task-relevant processing (Bruckmaier et al., 2020) and improves attention focus (Lavie, 2005).",
+      "publication_date": "2026-08-21",
+      "source": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.64898/2026.08.17.745232",
+      "doi": "10.64898/2026.08.17.745232",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [
+        "Perception",
+        "Neurophysiology",
+        "Electroencephalography",
+        "Focus (optics)",
+        "Energy (signal processing)",
+        "Task (project management)",
+        "Aperiodic graph",
+        "Rhythm"
+      ],
+      "has_abstract": true,
+      "signal_score": 43
     },
     {
       "id": "960d601525cd6206",
@@ -1516,7 +2228,7 @@
         "cs.LG"
       ],
       "has_abstract": true,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "af87c79fd889f4c8",
@@ -1550,7 +2262,170 @@
         "Narrative"
       ],
       "has_abstract": true,
-      "signal_score": 44
+      "signal_score": 43
+    },
+    {
+      "id": "7c3373d98113ce20",
+      "title": "Remimazolam for Zephyr Endobronchial Valve Placement in a Severe Chronic Obstructive Pulmonary Disease Patient: A Case Report.",
+      "authors": [
+        "Morimoto T",
+        "Ichinomiya T",
+        "Tobinaga S",
+        "Kaneko S",
+        "Sekino M",
+        "Murata H",
+        "Fukahori S",
+        "Hara T."
+      ],
+      "summary": "New work indexed under “Remimazolam for Zephyr Endobronchial Valve Placement in a Severe Chronic Obstructive Pulmonary Disease Patient: A Case Report..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-21",
+      "source": "Clin Case Rep",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42632983",
+      "doi": "10.1002/ccr3.73374",
+      "work_type": "journal article",
+      "evidence_label": "Journal article",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 42
+    },
+    {
+      "id": "b0bff198d66d7e78",
+      "title": "Visual Mapping of Multimodal Emotion Features for Intelligent Interaction Design.",
+      "authors": [
+        "Ge W",
+        "Yang Z",
+        "Liu Z",
+        "Liu Q",
+        "Wen Q",
+        "Rahman SB."
+      ],
+      "summary": "New work indexed under “Visual Mapping of Multimodal Emotion Features for Intelligent Interaction Design..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-21",
+      "source": "J Vis Exp",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42631617",
+      "doi": "10.3791/71171",
+      "work_type": "video-audio media; im; journal article",
+      "evidence_label": "Journal article",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 42
+    },
+    {
+      "id": "6c3eb7ffdc144030",
+      "title": "Clinical Evaluation of a Novel Device for the Creation of Micrografts: A Pilot Case Series.",
+      "authors": [
+        "Davenport TA",
+        "Grande DA."
+      ],
+      "summary": "New work indexed under “Clinical Evaluation of a Novel Device for the Creation of Micrografts: A Pilot Case Series..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-21",
+      "source": "Plast Reconstr Surg Glob Open",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42631277",
+      "doi": "10.1097/gox.0000000000008033",
+      "work_type": "journal article",
+      "evidence_label": "Journal article",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 42
+    },
+    {
+      "id": "eaba570301d5bfef",
+      "title": "Emerging Q Fever Infection in Türkiye.",
+      "authors": [
+        "Öztürk Çerik H",
+        "Altunçekiç Yıldırım A",
+        "Kurt C",
+        "Ergönül Ö."
+      ],
+      "summary": "New work indexed under “Emerging Q Fever Infection in Türkiye..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-21",
+      "source": "J Trop Med",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42630902",
+      "doi": "10.1155/jotm/1628136",
+      "work_type": "journal article",
+      "evidence_label": "Journal article",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 42
+    },
+    {
+      "id": "5b4d337ef56ea8f4",
+      "title": "EXPRESS: Preoperative Corrected Carotid Flow Time Is Associated With Spinal Anesthesia-Induced Hypotension in Hypertensive Patients: A Prospective Observational Study.",
+      "authors": [
+        "Tutar MS",
+        "Mermer HA",
+        "Oner AA",
+        "Birler AI",
+        "Mutluay YS",
+        "Satici H",
+        "Yildiz M",
+        "Kozanhan B."
+      ],
+      "summary": "New work indexed under “EXPRESS: Preoperative Corrected Carotid Flow Time Is Associated With Spinal Anesthesia-Induced Hypotension in Hypertensive Patients: A Prospective Observational Study..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-21",
+      "source": "J Investig Med",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42629944",
+      "doi": "10.1177/10815589261483669",
+      "work_type": "journal article",
+      "evidence_label": "Journal article",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 42
+    },
+    {
+      "id": "e09eef8c665e6743",
+      "title": "A 'Black Diamond', But Not a 'Silver Bullet': Oral Health Professionals' Perception of SDF Use in New Zealand-A Qualitative Study.",
+      "authors": [
+        "Ghashi B",
+        "Olson H",
+        "Naasan ZA."
+      ],
+      "summary": "New work indexed under “A 'Black Diamond', But Not a 'Silver Bullet': Oral Health Professionals' Perception of SDF Use in New Zealand-A Qualitative Study..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-21",
+      "source": "Int J Dent Hyg",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42629951",
+      "doi": "10.1111/idh.70153",
+      "work_type": "journal article",
+      "evidence_label": "Journal article",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 42
     },
     {
       "id": "1fbe8fdb249b594b",
@@ -1586,7 +2461,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42629489",
       "doi": "10.1038/s41440-026-02763-w",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -1595,7 +2470,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "c2556226bf4f62ea",
@@ -1611,7 +2486,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42629383",
       "doi": "10.1038/s41415-026-9955-5",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -1620,7 +2495,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "0f5e306421c4ba94",
@@ -1647,7 +2522,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42629179",
       "doi": "10.1136/jnis-2026-025795",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -1656,7 +2531,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "fbf1114e068bdb28",
@@ -1672,7 +2547,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42629156",
       "doi": "10.1136/bmjopen-2025-114374",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -1681,7 +2556,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "0841aa494f098c30",
@@ -1701,7 +2576,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42629151",
       "doi": "10.1136/bmjopen-2025-114022",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -1710,7 +2585,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "54e5c1a4f91f22cd",
@@ -1733,7 +2608,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42629144",
       "doi": "10.1136/lupus-2026-001979",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -1742,7 +2617,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "e50b897eec687028",
@@ -1758,7 +2633,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42628988",
       "doi": "10.1136/bcr-2026-272266",
-      "work_type": "im; journal article; case reports",
+      "work_type": "journal article; case reports",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -1767,7 +2642,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "a04da840010c0cd1",
@@ -1782,7 +2657,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42628910",
       "doi": "10.1016/j.jpag.2026.08.008",
-      "work_type": "im; journal article; case reports",
+      "work_type": "journal article; case reports",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -1791,7 +2666,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "534caf885144df56",
@@ -1812,7 +2687,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42628811",
       "doi": "10.1016/j.ijrobp.2026.08.006",
-      "work_type": "im; review; journal article",
+      "work_type": "review; journal article",
       "evidence_label": "Review",
       "open_access": false,
       "cited_by_count": 0,
@@ -1821,7 +2696,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "76cf258cb249e399",
@@ -1836,7 +2711,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42628628",
       "doi": "10.1016/j.jse.2026.08.012",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -1845,7 +2720,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "9e4ab78c15a8868e",
@@ -1866,7 +2741,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42628572",
       "doi": "10.1016/j.appet.2026.108764",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -1875,7 +2750,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "96d98a8591d8695e",
@@ -1891,7 +2766,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42628476",
       "doi": "10.1016/j.gerinurse.2026.104272",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -1900,7 +2775,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "c7455f89ab08a48d",
@@ -1920,7 +2795,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42628341",
       "doi": "10.1016/j.ttbdis.2026.102703",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -1929,7 +2804,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "b2984046c2c77006",
@@ -1949,7 +2824,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42628268",
       "doi": "10.1016/j.medcli.2026.107571",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -1958,7 +2833,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "c1f050aaa54366f6",
@@ -1977,7 +2852,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42628116",
       "doi": "10.1080/15389588.2026.2714312",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -1986,7 +2861,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "50beadf81660e5cb",
@@ -2017,7 +2892,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "ffc6a23f999b75f5",
@@ -2045,7 +2920,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42627879",
       "doi": "10.1371/journal.pone.0356253",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -2054,7 +2929,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "58959ce467594da7",
@@ -2071,7 +2946,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42627874",
       "doi": "10.1080/22423982.2026.2718020",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -2080,7 +2955,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "4b4391abcf54c97b",
@@ -2105,7 +2980,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42627838",
       "doi": "10.1371/journal.pone.0356494",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -2114,7 +2989,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "40730cb833f49a62",
@@ -2132,7 +3007,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42627817",
       "doi": "10.1371/journal.pone.0356376",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -2141,7 +3016,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "88e4704c2d7b8df7",
@@ -2171,7 +3046,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "0a6770b9ee5026c7",
@@ -2187,7 +3062,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42627803",
       "doi": "10.1177/01455613261480177",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -2196,7 +3071,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "e5db862f8f4ec2af",
@@ -2221,7 +3096,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "1960dff6dda243cd",
@@ -2237,7 +3112,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42627753",
       "doi": "10.1093/joneph/aajag153",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -2246,7 +3121,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "89d40d49bc0372e9",
@@ -2265,7 +3140,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42627734",
       "doi": "10.1177/00045632261479641",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -2274,7 +3149,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "e91731d0e6971a53",
@@ -2291,7 +3166,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42627493",
       "doi": "10.1007/s00266-026-06024-6",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -2300,7 +3175,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "49d52a634f0ffbe7",
@@ -2328,7 +3203,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "283608c0eff90d4f",
@@ -2353,7 +3228,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "86d515e7818b5311",
@@ -2379,7 +3254,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "de43b9cc55baaeae",
@@ -2405,7 +3280,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "84184034b014497e",
@@ -2429,7 +3304,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "32ed7e329a646aec",
@@ -2456,7 +3331,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "cae617eaf087191d",
@@ -2480,7 +3355,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "7aca581818986837",
@@ -2507,7 +3382,36 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
+    },
+    {
+      "id": "23180420fec726d9",
+      "title": "World Asthma Day: results of a hospital-based awareness and case-finding campaign.",
+      "authors": [
+        "Chiner E",
+        "Boira I",
+        "Fernández-Martínez P",
+        "Antón M",
+        "Varela B",
+        "Chacin Y",
+        "Martínez-Gómez A."
+      ],
+      "summary": "New work indexed under “World Asthma Day: results of a hospital-based awareness and case-finding campaign..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-21",
+      "source": "J Asthma",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42619434",
+      "doi": "10.1080/02770903.2026.2721166",
+      "work_type": "journal article",
+      "evidence_label": "Journal article",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 42
     },
     {
       "id": "b68200d4db544575",
@@ -2539,7 +3443,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "9961d0035252e0e2",
@@ -2567,7 +3471,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "721fb59f20fa2809",
@@ -2600,7 +3504,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "079c3b5cfb28dd2b",
@@ -2635,7 +3539,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "46053176c6e3a19c",
@@ -2671,7 +3575,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "ee5756dd107054cb",
@@ -2698,7 +3602,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "5b615428a14b039f",
@@ -2724,7 +3628,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "285ece5a26ac9abb",
@@ -2756,7 +3660,7 @@
         "physics.atom-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "2802ce91467935af",
@@ -2784,7 +3688,7 @@
         "nlin.PS"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "dc3b610c8c243345",
@@ -2812,7 +3716,7 @@
         "math-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "de073941a1e03e74",
@@ -2845,7 +3749,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "47366b5dfdba1b69",
@@ -2871,7 +3775,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "777a3184e54b0a17",
@@ -2899,7 +3803,7 @@
         "physics.atom-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "d77de8438e72d82a",
@@ -2927,7 +3831,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "3959f8b6305cb6a8",
@@ -2955,7 +3859,7 @@
         "math-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "6efe0f2152ae26a6",
@@ -2981,7 +3885,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "6655a303dd3087ca",
@@ -3007,7 +3911,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "62cefbc3265ebf3f",
@@ -3037,7 +3941,7 @@
         "cs.AR"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "2391b15d876a3046",
@@ -3063,7 +3967,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "f161741996d7c1b8",
@@ -3094,7 +3998,7 @@
         "cond-mat.str-el"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "dcd2d989cdece538",
@@ -3123,7 +4027,7 @@
         "nlin.PS"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "272a313b7d1e8876",
@@ -3150,7 +4054,7 @@
         "physics.class-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "12b6453c5523edd5",
@@ -3182,7 +4086,7 @@
         "cond-mat.str-el"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "2207da95687a6646",
@@ -3211,7 +4115,7 @@
         "cond-mat.stat-mech"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "ab3fdfda05f06b84",
@@ -3239,7 +4143,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "27b8ea64e860f2b7",
@@ -3268,7 +4172,7 @@
         "physics.chem-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "24103a1bcbe68a13",
@@ -3302,7 +4206,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "76fcac3ac7808de4",
@@ -3329,7 +4233,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "5370d79cfd7db187",
@@ -3370,7 +4274,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "cb6a0666f578636e",
@@ -3397,7 +4301,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "1c406200d4a3b77f",
@@ -3425,7 +4329,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "60cf24b85ec0e161",
@@ -3453,7 +4357,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "f5a922d843ca89e3",
@@ -3480,7 +4384,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "9d82ea31fe375cbb",
@@ -3505,7 +4409,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "ea56af1951433d03",
@@ -3540,7 +4444,7 @@
         "physics.atom-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "9514b86e58199a0d",
@@ -3571,7 +4475,7 @@
         "physics.optics"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "6bb4cebb8bfcbf61",
@@ -3599,7 +4503,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "85957fc61fe81886",
@@ -3626,7 +4530,7 @@
         "cond-mat.stat-mech"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "5343c4e1284948b9",
@@ -3655,7 +4559,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "34ac4c10b3940237",
@@ -3682,7 +4586,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "edeb78b5cb0a503e",
@@ -3714,7 +4618,7 @@
         "nucl-th"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "26a6734ddb1a5391",
@@ -3741,7 +4645,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "26c4231068368fd9",
@@ -3774,7 +4678,7 @@
         "q-bio.BM"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "311e91d92124991e",
@@ -3801,7 +4705,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "405dab22751994c1",
@@ -3829,7 +4733,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "2032748e273f8482",
@@ -3856,7 +4760,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "8eee4fec9148e65f",
@@ -3886,7 +4790,7 @@
         "cs.LG"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "3c98e450c339c514",
@@ -3913,7 +4817,7 @@
         "cond-mat.mes-hall"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "0c0a7aac15bca9d9",
@@ -3941,7 +4845,7 @@
         "math-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "f7f8a1797641c2f9",
@@ -3975,7 +4879,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "1131974ee6727533",
@@ -4003,7 +4907,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "6ec28f04b7762e5b",
@@ -4028,7 +4932,7 @@
         "gr-qc"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "d933ff349eda3f2e",
@@ -4059,7 +4963,7 @@
         "cond-mat.dis-nn"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "0fad926bb515a768",
@@ -4086,7 +4990,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "b0092b4bd4fb85e7",
@@ -4114,7 +5018,7 @@
         "math.OA"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "c846529407fb533c",
@@ -4141,7 +5045,7 @@
         "math-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "80b25abb900cd7ce",
@@ -4167,7 +5071,7 @@
         "math-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "0c0c20435067db84",
@@ -4200,7 +5104,7 @@
         "physics.app-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "762729b644027086",
@@ -4227,7 +5131,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "99edfdb2cc456732",
@@ -4256,7 +5160,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "ed891d2441f2b62b",
@@ -4283,7 +5187,7 @@
         "math-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "f54e4215cd835d98",
@@ -4320,7 +5224,7 @@
         "Visualization"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "eff201c8182142ad",
@@ -4349,7 +5253,7 @@
         "q-bio.NC"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "e929d1f7dba4ebab",
@@ -4377,7 +5281,7 @@
         "cs.AI"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "e43060d066db1fbe",
@@ -4434,7 +5338,7 @@
         "Delirium"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "74b557424213f26a",
@@ -4461,7 +5365,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "bae935bb37e47cb8",
@@ -4485,7 +5389,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "f3272ccfde488af5",
@@ -4516,7 +5420,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "3ab9360311d40716",
@@ -4542,7 +5446,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "fde4be910e7eaafa",
@@ -4576,7 +5480,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "e166081304d9ff2b",
@@ -4601,7 +5505,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "d92b7161e460da2d",
@@ -4627,7 +5531,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "94a97db94c598c9a",
@@ -4651,7 +5555,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "ee514b8714727f68",
@@ -4677,7 +5581,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "4245ba5ca51d3142",
@@ -4730,7 +5634,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "97ed75357b2fb5b2",
@@ -4762,7 +5666,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "1f0bab006ca853ed",
@@ -4786,7 +5690,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "aea68ee5e312b3a1",
@@ -4814,7 +5718,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "03cda27ac18c09df",
@@ -4840,7 +5744,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "949b64544822b50c",
@@ -4870,7 +5774,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "06f49e85a6dbb0b6",
@@ -4899,18 +5803,18 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "499a7098e5f71aaf",
-      "title": "Multidimensional Assessment of Interoception in Blind and Deaf Individuals.",
+      "title": "Multidimensional assessment of interoception in blind and deaf individuals.",
       "authors": [
         "Lin X",
         "He H",
         "Li Y",
         "Gong W."
       ],
-      "summary": "New work indexed under “Multidimensional Assessment of Interoception in Blind and Deaf Individuals..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "summary": "New work indexed under “Multidimensional assessment of interoception in blind and deaf individuals..” The source did not provide an abstract; read the original before evaluating its claims.",
       "publication_date": "2026-08-20",
       "source": "Biol Psychol",
       "source_provider": "Europe PMC",
@@ -4925,7 +5829,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "f6ae76f043905895",
@@ -4954,658 +5858,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
-    },
-    {
-      "id": "96b697c1f5d20281",
-      "title": "Études de faisabilité précoce en Europe: enjeux, perspectives et impacts attendus pour l'évaluation clinique des dispositifs médicaux.",
-      "authors": [
-        "Kayembe OT",
-        "Martin T",
-        "Loo FV",
-        "Geraghty M",
-        "Buzelli ML",
-        "Banks H",
-        "Callea G",
-        "Martelli N."
-      ],
-      "summary": "New work indexed under “Études de faisabilité précoce en Europe: enjeux, perspectives et impacts attendus pour l'évaluation clinique des dispositifs médicaux..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "Ann Pharm Fr",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42624206",
-      "doi": "10.1016/j.pharma.2026.08.003",
-      "work_type": "review; journal article; english abstract",
-      "evidence_label": "Review",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 42
-    },
-    {
-      "id": "1cacda7aa8a52772",
-      "title": "[Puncture wounds of the equine hoof - a retrospective study of 96 cases - Part 2: Management and prognosis].",
-      "authors": [
-        "Herschel TL",
-        "Winter K",
-        "Scharner D."
-      ],
-      "summary": "New work indexed under “[Puncture wounds of the equine hoof - a retrospective study of 96 cases - Part 2: Management and prognosis]..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "Tierarztl Prax Ausg G Grosstiere Nutztiere",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42624121",
-      "doi": "10.1055/a-2794-3232",
-      "work_type": "journal article; english abstract",
-      "evidence_label": "Journal article",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 42
-    },
-    {
-      "id": "789531b5d30d2b70",
-      "title": "The art of staying safe in the digital world: Navigating the risks of cyberbullying through digital literacy and online privacy awareness.",
-      "authors": [
-        "Bayzan Ş",
-        "Uludaşdemir D",
-        "Gün A",
-        "Karaman M."
-      ],
-      "summary": "New work indexed under “The art of staying safe in the digital world: Navigating the risks of cyberbullying through digital literacy and online privacy awareness..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "J Pediatr Nurs",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42623993",
-      "doi": "10.1016/j.pedn.2026.08.033",
-      "work_type": "journal article",
-      "evidence_label": "Journal article",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 42
-    },
-    {
-      "id": "3f6bcfbf34aa2727",
-      "title": "A National Survey of VA to Assess Availability of Care for Patients With Cardiac Amyloidosis.",
-      "authors": [
-        "Yoo SGK",
-        "Zelleke AB",
-        "Khaira KB",
-        "Dev S",
-        "Shah NR",
-        "Mitchell JD",
-        "Warner A",
-        "Javaheri A",
-        "Moreno JD."
-      ],
-      "summary": "New work indexed under “A National Survey of VA to Assess Availability of Care for Patients With Cardiac Amyloidosis..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "JACC Adv",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42623956",
-      "doi": "10.1016/j.jacadv.2026.103169",
-      "work_type": "journal article",
-      "evidence_label": "Journal article",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 42
-    },
-    {
-      "id": "3c0dd4f08b0c2af4",
-      "title": "Age-related differences in the role of explicit encoding instructions on verbal, visual and spatial Hebb learning.",
-      "authors": [
-        "Leach H",
-        "Guitard D."
-      ],
-      "summary": "New work indexed under “Age-related differences in the role of explicit encoding instructions on verbal, visual and spatial Hebb learning..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "Cognition",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42623953",
-      "doi": "10.1016/j.cognition.2026.106691",
-      "work_type": "journal article",
-      "evidence_label": "Journal article",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 42
-    },
-    {
-      "id": "02438d8e203365a8",
-      "title": "Building a Comprehensive Menopause Program.",
-      "authors": [
-        "Patil R",
-        "Batur P",
-        "Ridgeway B",
-        "Williams M."
-      ],
-      "summary": "New work indexed under “Building a Comprehensive Menopause Program..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "Obstet Gynecol",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42623676",
-      "doi": "10.1097/aog.0000000000006401",
-      "work_type": "journal article",
-      "evidence_label": "Journal article",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 42
-    },
-    {
-      "id": "6dca0c56af88c60b",
-      "title": "Potential future directions for research into hypoglycaemia awareness and mental health: The role of substance use, sedative exposure and sleep.",
-      "authors": [
-        "McCarthy A",
-        "Divilly P."
-      ],
-      "summary": "New work indexed under “Potential future directions for research into hypoglycaemia awareness and mental health: The role of substance use, sedative exposure and sleep..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "Diabet Med",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42623496",
-      "doi": "10.1111/dme.70447",
-      "work_type": "journal article",
-      "evidence_label": "Journal article",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 42
-    },
-    {
-      "id": "01864ba02f7e3955",
-      "title": "Barriers and facilitators of hypertension control among older adults living with hypertension: A mixed-methods study.",
-      "authors": [
-        "Shrestha P",
-        "Man Karmacharya B",
-        "Merrilees J",
-        "Acharya Y",
-        "Poudel I",
-        "Marahatta K",
-        "Valour V."
-      ],
-      "summary": "New work indexed under “Barriers and facilitators of hypertension control among older adults living with hypertension: A mixed-methods study..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "PLOS Glob Public Health",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42623415",
-      "doi": "10.1371/journal.pgph.0007015",
-      "work_type": "journal article",
-      "evidence_label": "Journal article",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 42
-    },
-    {
-      "id": "d5abca3839471769",
-      "title": "Social and emotional skills for nurturing parenting: A qualitative examination.",
-      "authors": [
-        "Beccassino L",
-        "Borbón J",
-        "Cuartas J",
-        "Rey-Guerra C",
-        "Gutiérrez-Torres MA",
-        "Guerra M",
-        "Baker-Henningham H."
-      ],
-      "summary": "New work indexed under “Social and emotional skills for nurturing parenting: A qualitative examination..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "PLoS One",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42623383",
-      "doi": "10.1371/journal.pone.0355716",
-      "work_type": "journal article",
-      "evidence_label": "Journal article",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 42
-    },
-    {
-      "id": "c2c44800ea83097e",
-      "title": "Why are women not online? A study protocol to understand gender-based digital exclusion among marginalized women in Pakistan and promote digital gender inclusion.",
-      "authors": [
-        "Shahil-Feroz A",
-        "Asim M",
-        "Liaquat S",
-        "Meherali S",
-        "Allana S",
-        "Baruah B."
-      ],
-      "summary": "New work indexed under “Why are women not online? A study protocol to understand gender-based digital exclusion among marginalized women in Pakistan and promote digital gender inclusion..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "PLoS One",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42623380",
-      "doi": "10.1371/journal.pone.0356104",
-      "work_type": "journal article",
-      "evidence_label": "Journal article",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 42
-    },
-    {
-      "id": "4a63f22ef90ebd03",
-      "title": "Excessive Isotonic Irrigation Fluid Absorption Mimicking Bladder Perforation During HoLEP: A Case Series and Diagnostic Challenge.",
-      "authors": [
-        "Ceviz K",
-        "Tunç OE",
-        "Arslan M",
-        "Senel S",
-        "Kutluhan MA",
-        "Akcaboy ZN",
-        "Ozden C."
-      ],
-      "summary": "New work indexed under “Excessive Isotonic Irrigation Fluid Absorption Mimicking Bladder Perforation During HoLEP: A Case Series and Diagnostic Challenge..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "Urol Int",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42623327",
-      "doi": "10.1159/uin/aewag011",
-      "work_type": "journal article; case reports",
-      "evidence_label": "Journal article",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 42
-    },
-    {
-      "id": "eaafdd7677ae6ba3",
-      "title": "A noninvasive <sup>13</sup>C-mannitol breath test to monitor semaglutide treatment-induced delayed oral-cecal transit in mice.",
-      "authors": [
-        "Vieira DE",
-        "Langmeyer EM",
-        "Cortopassi MD",
-        "Rubio WB",
-        "Flier SN",
-        "Bry L",
-        "Banks AS."
-      ],
-      "summary": "New work indexed under “A noninvasive <sup>13</sup>C-mannitol breath test to monitor semaglutide treatment-induced delayed oral-cecal transit in mice..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "Am J Physiol Endocrinol Metab",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42623313",
-      "doi": "10.1152/ajpendo.00113.2026",
-      "work_type": "journal article",
-      "evidence_label": "Journal article",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 42
-    },
-    {
-      "id": "f4d0b2562bee992f",
-      "title": "Rates, Outcomes and Predictors of Immediate and Early Extubation After Pediatric Liver Transplantation.",
-      "authors": [
-        "Fahmy DM",
-        "Cruzat F",
-        "Maudarbaccus MF",
-        "Gilfoyle E",
-        "Mtaweh H",
-        "Steinberg B",
-        "Greenwood E",
-        "Cattral M",
-        "Ghanekar A",
-        "Ng V",
-        "Sayed BA",
-        "Siddiqui A."
-      ],
-      "summary": "New work indexed under “Rates, Outcomes and Predictors of Immediate and Early Extubation After Pediatric Liver Transplantation..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "Paediatr Anaesth",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42623121",
-      "doi": "10.1002/pan.70283",
-      "work_type": "journal article",
-      "evidence_label": "Journal article",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 42
-    },
-    {
-      "id": "86b76b8bd350e2f4",
-      "title": "Describing flares: A mixed methods study comparing patient and clinician perspectives in systemic lupus erythematosus and other rheumatic diseases.",
-      "authors": [
-        "Piper MA",
-        "Tunks A",
-        "Bourgeois JA",
-        "Calderwood L",
-        "D'Cruz D",
-        "Bortoluzzi A",
-        "Arunasalam A",
-        "Tayabali S",
-        "Taylor S",
-        "Saha P",
-        "Yates M",
-        "Hamilton-Conaty P",
-        "Kaul A",
-        "Sloan M."
-      ],
-      "summary": "New work indexed under “Describing flares: A mixed methods study comparing patient and clinician perspectives in systemic lupus erythematosus and other rheumatic diseases..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "Rheumatology (Oxford)",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42623093",
-      "doi": "10.1093/rheumatology/keag443",
-      "work_type": "journal article",
-      "evidence_label": "Journal article",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 42
-    },
-    {
-      "id": "937b464110956b76",
-      "title": "Ultra-Long-Distance Robotic-Assisted Subretinal Injection for Submacular Hemorrhage.",
-      "authors": [
-        "Xu A",
-        "Yang B",
-        "Liu B",
-        "Lu L",
-        "Lian Z",
-        "Chen W",
-        "Song R",
-        "Guo W",
-        "Alimu S",
-        "Liu Z",
-        "Liu D",
-        "Li Y",
-        "Xiao W",
-        "Nasseri MA",
-        "Huang K",
-        "Lin H."
-      ],
-      "summary": "New work indexed under “Ultra-Long-Distance Robotic-Assisted Subretinal Injection for Submacular Hemorrhage..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "JAMA Ophthalmol",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42623044",
-      "doi": "10.1001/jamaophthalmol.2026.3303",
-      "work_type": "journal article",
-      "evidence_label": "Journal article",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 42
-    },
-    {
-      "id": "6ba6fb9a9f89843f",
-      "title": "Comparison of cardiovascular diseases risk awareness, physical activity, nutritional habits and cardiovascular risks in female patients with rheumatoid arthritis and knee osteoarthritis: A cross-sectional study.",
-      "authors": [
-        "Çiftci İnceoğlu S",
-        "Ayyıldız A",
-        "Aşık M",
-        "Yoldan D",
-        "İnceoğlu A",
-        "Kuran B."
-      ],
-      "summary": "New work indexed under “Comparison of cardiovascular diseases risk awareness, physical activity, nutritional habits and cardiovascular risks in female patients with rheumatoid arthritis and knee osteoarthritis: A cross-sectional study..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "J Back Musculoskelet Rehabil",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42623010",
-      "doi": "10.1177/10538127261480251",
-      "work_type": "journal article",
-      "evidence_label": "Journal article",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 42
-    },
-    {
-      "id": "8d8ca239f8a2c0ee",
-      "title": "Climate change awareness and flood risk perception among future engineers.",
-      "authors": [
-        "Baran-Gurgul K",
-        "Łach K."
-      ],
-      "summary": "New work indexed under “Climate change awareness and flood risk perception among future engineers..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "Ambio",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42622992",
-      "doi": "10.1007/s13280-026-02456-1",
-      "work_type": "journal article",
-      "evidence_label": "Journal article",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 42
-    },
-    {
-      "id": "d78a0bb97e47109d",
-      "title": "Ultrasound-Guided Genicular Nerve Block: Novel Clinical Role for Postoperative Knee Replacement Surgery Pain Management.",
-      "authors": [
-        "Cooper DG",
-        "Daniel CP",
-        "Kaye AD."
-      ],
-      "summary": "New work indexed under “Ultrasound-Guided Genicular Nerve Block: Novel Clinical Role for Postoperative Knee Replacement Surgery Pain Management..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "Curr Pain Headache Rep",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42622963",
-      "doi": "10.1007/s11916-026-01548-7",
-      "work_type": "review; journal article",
-      "evidence_label": "Review",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 42
-    },
-    {
-      "id": "52c9e26ccb864983",
-      "title": "Building a pediatric spasticity surgery program in a low-awareness setting: capacity creation, multidisciplinary integration, and early outcomes.",
-      "authors": [
-        "Agrawal M",
-        "Gadhvi M",
-        "Kantiwal P",
-        "Saini L",
-        "Garg M."
-      ],
-      "summary": "New work indexed under “Building a pediatric spasticity surgery program in a low-awareness setting: capacity creation, multidisciplinary integration, and early outcomes..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "Childs Nerv Syst",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42622914",
-      "doi": "10.1007/s00381-026-07440-4",
-      "work_type": "journal article",
-      "evidence_label": "Journal article",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 42
-    },
-    {
-      "id": "40a2c83f55b74c32",
-      "title": "Semaglutide Alleviates LPS-Induced Cognitive Disorder via O-GlcNAcylation of AKT-mTOR Signaling Pathway Components.",
-      "authors": [
-        "Liu Q",
-        "Chen L",
-        "Zhang M",
-        "Wang Z",
-        "Wang X",
-        "Dong Y",
-        "Wang K",
-        "Jiang C",
-        "Yin Y."
-      ],
-      "summary": "New work indexed under “Semaglutide Alleviates LPS-Induced Cognitive Disorder via O-GlcNAcylation of AKT-mTOR Signaling Pathway Components..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "Neuromolecular Med",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42622904",
-      "doi": "10.1007/s12017-026-08945-6",
-      "work_type": "journal article",
-      "evidence_label": "Journal article",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 42
-    },
-    {
-      "id": "b79365437db926ff",
-      "title": "Comment on \"Awareness of rheumatoid arthritis symptoms and complications among the Jordanians\".",
-      "authors": [
-        "Kumar MV",
-        "Nagalingam L",
-        "Baalann KP."
-      ],
-      "summary": "New work indexed under “Comment on \"Awareness of rheumatoid arthritis symptoms and complications among the Jordanians\"..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "Clin Rheumatol",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42622763",
-      "doi": "10.1007/s10067-026-08329-y",
-      "work_type": "letter",
-      "evidence_label": "Journal article",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 42
-    },
-    {
-      "id": "c28aa7eb3ad8edcc",
-      "title": "Acute neurosyphilis as a cause of death in the 21st century - autopsy case report in a prisoner.",
-      "authors": [
-        "Milošević V",
-        "Petrović I",
-        "Đurđević K",
-        "Ćibić A",
-        "Savić B",
-        "Pavlekić S."
-      ],
-      "summary": "New work indexed under “Acute neurosyphilis as a cause of death in the 21st century - autopsy case report in a prisoner..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "Forensic Sci Med Pathol",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42622754",
-      "doi": "10.1007/s12024-026-01341-3",
-      "work_type": "journal article",
-      "evidence_label": "Journal article",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 42
-    },
-    {
-      "id": "a84faf90b4f88b9b",
-      "title": "FOXM1 downregulation contributes to sevoflurane-induced microglial dysfunction via transcriptional downregulation of RGS10.",
-      "authors": [
-        "Zhang C",
-        "Liu X",
-        "Liu J."
-      ],
-      "summary": "New work indexed under “FOXM1 downregulation contributes to sevoflurane-induced microglial dysfunction via transcriptional downregulation of RGS10..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "Exp Brain Res",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42622678",
-      "doi": "10.1007/s00221-026-07380-0",
-      "work_type": "journal article",
-      "evidence_label": "Journal article",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "77a97b1bd75515ac",
@@ -5637,7 +5890,7 @@
         "Physical system"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "c66b7ea17b3ca12f",
@@ -5665,7 +5918,7 @@
         "math.CO"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "b72418250a452ff2",
@@ -5691,7 +5944,7 @@
         "math-ph"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "1b40ae40e2c40e85",
@@ -5717,7 +5970,7 @@
         "hep-th"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "901a80efd4992ce0",
@@ -5746,7 +5999,7 @@
         "math.NA"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "bdbca4d7c78f2378",
@@ -5773,7 +6026,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "84121a8caecbb51e",
@@ -5799,7 +6052,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "eda48697062a8224",
@@ -5826,7 +6079,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "7c7d1c036afb42aa",
@@ -5853,7 +6106,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "497c412d4f1a7d39",
@@ -5882,7 +6135,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "88e786ec8bde83be",
@@ -5911,7 +6164,175 @@
         "math.CT"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
+    },
+    {
+      "id": "21b5576f95cb6a84",
+      "title": "Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems",
+      "authors": [
+        "Vassilis Papadopoulos",
+        "McNair Shah",
+        "Sam Zimmerman",
+        "Jack Lindsey"
+      ],
+      "summary": "AI agents are becoming more autonomous and increasingly interconnected, exposing them to new emergent risks arising from agent-to-agent interaction. One such risk is the spread of mind viruses: ideas or goals that propagate through multi-agent systems by inducing the agents that adopt them to transmit them onward.",
+      "publication_date": "2026-08-10",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.10218v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "consciousness",
+        "neuroscience",
+        "cross-domain"
+      ],
+      "keywords": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "has_abstract": true,
+      "signal_score": 41
+    },
+    {
+      "id": "7ae374ab1f858ec5",
+      "title": "Author response: Pupil size reveals the perceptual quality and effortless nature of synesthesia",
+      "authors": [
+        "Christoph Strauch",
+        "Casper Leenaars",
+        "Romke Rouw"
+      ],
+      "summary": "Perception feels like a window onto the world, but it never is. What we see is built from what reaches the eye and from what the brain adds. In synesthesia, that second part is easy to spot.",
+      "publication_date": "2026-08-04",
+      "source": "OpenAlex-indexed source",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.7554/elife.110390.4.sa3",
+      "doi": "10.7554/elife.110390.4.sa3",
+      "work_type": "peer-review",
+      "evidence_label": "Review",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "consciousness",
+        "neuroscience",
+        "cross-domain"
+      ],
+      "keywords": [
+        "Synesthesia",
+        "Perception",
+        "Pupil size",
+        "Quality (philosophy)",
+        "Automaticity",
+        "Control (management)",
+        "Pupil",
+        "Contrast (vision)"
+      ],
+      "has_abstract": true,
+      "signal_score": 41
+    },
+    {
+      "id": "24062e81b79d1055",
+      "title": "eLife Assessment: Pupil size reveals the perceptual quality and effortless nature of synesthesia",
+      "authors": [
+        "Joshua I. Gold"
+      ],
+      "summary": "Perception feels like a window onto the world, but it never is. What we see is built from what reaches the eye and from what the brain adds. In synesthesia, that second part is easy to spot.",
+      "publication_date": "2026-08-04",
+      "source": "OpenAlex-indexed source",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.7554/elife.110390.4.sa0",
+      "doi": "10.7554/elife.110390.4.sa0",
+      "work_type": "peer-review",
+      "evidence_label": "Review",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "consciousness",
+        "neuroscience",
+        "cross-domain"
+      ],
+      "keywords": [
+        "Synesthesia",
+        "Perception",
+        "Pupil size",
+        "Automaticity",
+        "Pupil",
+        "Quality (philosophy)",
+        "Control (management)",
+        "Contrast (vision)"
+      ],
+      "has_abstract": true,
+      "signal_score": 41
+    },
+    {
+      "id": "e0cc743161f576c7",
+      "title": "Gradient usability in few-qubit quantum Neural Networks: A signal-to-noise ratio framework for evaluating mitigation strategies",
+      "authors": [
+        "Brandon Shen",
+        "Karena Ling"
+      ],
+      "summary": "The barren-plateau problem—the exponential flattening of optimization landscapes—severely limits the trainability of quantum neural networks (QNNs) on near-term hardware. This review examines ansatz-design and complementary mitigation strategies for few-qubit QNNs under finite-shot noisy intermediate-scale quantum (NISQ) constraints.",
+      "publication_date": "2026-08-01",
+      "source": "Journal of High School Science",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.64336/001c.166201",
+      "doi": "10.64336/001c.166201",
+      "work_type": "article",
+      "evidence_label": "Journal article",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum",
+        "neuroscience",
+        "cross-domain"
+      ],
+      "keywords": [
+        "Pointwise",
+        "Estimator",
+        "Perspective (graphical)",
+        "Qubit",
+        "Heuristic",
+        "Polynomial",
+        "Cognitive reframing",
+        "Limit (mathematics)"
+      ],
+      "has_abstract": true,
+      "signal_score": 41
+    },
+    {
+      "id": "01e2ca3733d94908",
+      "title": "Why Modern Physics Still Thinks Like Newton: A χ‑Ontological Analysis of Algebraic Substantialism in 21st‑Century Theoretical Frameworks",
+      "authors": [
+        "Anatolii Mukha"
+      ],
+      "summary": "The ZEBTS‑SUPER 10.0 framework establishes χ‑Reality as a constructive, spectrally compact, ontologically invariant engine of existence. Reality is generated by successive χ‑acts under constraints defined by the χ‑Universal Invariants Iχ.",
+      "publication_date": "2026-08-18",
+      "source": "OpenAlex-indexed source",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.33774/coe-2026-ln4bp",
+      "doi": "10.33774/coe-2026-ln4bp",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "Invariant (physics)",
+        "Boundary (topology)",
+        "Spacetime",
+        "Algebraic number",
+        "Rigidity (electromagnetism)",
+        "Coherence (philosophical gambling strategy)",
+        "Operator (biology)",
+        "Field (mathematics)"
+      ],
+      "has_abstract": true,
+      "signal_score": 40
     },
     {
       "id": "fb741848aca5ca4f",
@@ -5949,175 +6370,7 @@
         "Quantum simulator"
       ],
       "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "21b5576f95cb6a84",
-      "title": "Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems",
-      "authors": [
-        "Vassilis Papadopoulos",
-        "McNair Shah",
-        "Sam Zimmerman",
-        "Jack Lindsey"
-      ],
-      "summary": "AI agents are becoming more autonomous and increasingly interconnected, exposing them to new emergent risks arising from agent-to-agent interaction. One such risk is the spread of mind viruses: ideas or goals that propagate through multi-agent systems by inducing the agents that adopt them to transmit them onward.",
-      "publication_date": "2026-08-10",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.10218v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "consciousness",
-        "neuroscience",
-        "cross-domain"
-      ],
-      "keywords": [
-        "cs.AI",
-        "cs.CL"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "7ae374ab1f858ec5",
-      "title": "Author response: Pupil size reveals the perceptual quality and effortless nature of synesthesia",
-      "authors": [
-        "Christoph Strauch",
-        "Casper Leenaars",
-        "Romke Rouw"
-      ],
-      "summary": "Perception feels like a window onto the world, but it never is. What we see is built from what reaches the eye and from what the brain adds. In synesthesia, that second part is easy to spot.",
-      "publication_date": "2026-08-04",
-      "source": "OpenAlex-indexed source",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.7554/elife.110390.4.sa3",
-      "doi": "10.7554/elife.110390.4.sa3",
-      "work_type": "peer-review",
-      "evidence_label": "Review",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "consciousness",
-        "neuroscience",
-        "cross-domain"
-      ],
-      "keywords": [
-        "Synesthesia",
-        "Perception",
-        "Pupil size",
-        "Quality (philosophy)",
-        "Automaticity",
-        "Control (management)",
-        "Pupil",
-        "Contrast (vision)"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "24062e81b79d1055",
-      "title": "eLife Assessment: Pupil size reveals the perceptual quality and effortless nature of synesthesia",
-      "authors": [
-        "Joshua I. Gold"
-      ],
-      "summary": "Perception feels like a window onto the world, but it never is. What we see is built from what reaches the eye and from what the brain adds. In synesthesia, that second part is easy to spot.",
-      "publication_date": "2026-08-04",
-      "source": "OpenAlex-indexed source",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.7554/elife.110390.4.sa0",
-      "doi": "10.7554/elife.110390.4.sa0",
-      "work_type": "peer-review",
-      "evidence_label": "Review",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "consciousness",
-        "neuroscience",
-        "cross-domain"
-      ],
-      "keywords": [
-        "Synesthesia",
-        "Perception",
-        "Pupil size",
-        "Automaticity",
-        "Pupil",
-        "Quality (philosophy)",
-        "Control (management)",
-        "Contrast (vision)"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "e0cc743161f576c7",
-      "title": "Gradient usability in few-qubit quantum Neural Networks: A signal-to-noise ratio framework for evaluating mitigation strategies",
-      "authors": [
-        "Brandon Shen",
-        "Karena Ling"
-      ],
-      "summary": "The barren-plateau problem—the exponential flattening of optimization landscapes—severely limits the trainability of quantum neural networks (QNNs) on near-term hardware. This review examines ansatz-design and complementary mitigation strategies for few-qubit QNNs under finite-shot noisy intermediate-scale quantum (NISQ) constraints.",
-      "publication_date": "2026-08-01",
-      "source": "Journal of High School Science",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.64336/001c.166201",
-      "doi": "10.64336/001c.166201",
-      "work_type": "article",
-      "evidence_label": "Journal article",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum",
-        "neuroscience",
-        "cross-domain"
-      ],
-      "keywords": [
-        "Pointwise",
-        "Estimator",
-        "Perspective (graphical)",
-        "Qubit",
-        "Heuristic",
-        "Polynomial",
-        "Cognitive reframing",
-        "Limit (mathematics)"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "01e2ca3733d94908",
-      "title": "Why Modern Physics Still Thinks Like Newton: A χ‑Ontological Analysis of Algebraic Substantialism in 21st‑Century Theoretical Frameworks",
-      "authors": [
-        "Anatolii Mukha"
-      ],
-      "summary": "The ZEBTS‑SUPER 10.0 framework establishes χ‑Reality as a constructive, spectrally compact, ontologically invariant engine of existence. Reality is generated by successive χ‑acts under constraints defined by the χ‑Universal Invariants Iχ.",
-      "publication_date": "2026-08-18",
-      "source": "OpenAlex-indexed source",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.33774/coe-2026-ln4bp",
-      "doi": "10.33774/coe-2026-ln4bp",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "Invariant (physics)",
-        "Boundary (topology)",
-        "Spacetime",
-        "Algebraic number",
-        "Rigidity (electromagnetism)",
-        "Coherence (philosophical gambling strategy)",
-        "Operator (biology)",
-        "Field (mathematics)"
-      ],
-      "has_abstract": true,
-      "signal_score": 41
+      "signal_score": 40
     },
     {
       "id": "253d716367b3a75d",
@@ -6155,7 +6408,7 @@
         "Physics"
       ],
       "has_abstract": true,
-      "signal_score": 41
+      "signal_score": 40
     },
     {
       "id": "756e04fd5b13e77e",
@@ -6178,7 +6431,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 40
+      "signal_score": 39
     },
     {
       "id": "13c0410f0515ae24",
@@ -6210,7 +6463,7 @@
         "Component (thermodynamics)"
       ],
       "has_abstract": true,
-      "signal_score": 40
+      "signal_score": 39
     },
     {
       "id": "f1d0698638c6ed60",
@@ -6239,7 +6492,7 @@
         "Perception"
       ],
       "has_abstract": true,
-      "signal_score": 40
+      "signal_score": 39
     },
     {
       "id": "9a193d8af6ca754a",
@@ -6268,7 +6521,7 @@
         "Perception"
       ],
       "has_abstract": true,
-      "signal_score": 40
+      "signal_score": 39
     },
     {
       "id": "73cfd447dec3b867",
@@ -6310,7 +6563,7 @@
         "Human brain"
       ],
       "has_abstract": true,
-      "signal_score": 40
+      "signal_score": 39
     },
     {
       "id": "908ff5b145f725e7",
@@ -6339,7 +6592,7 @@
         "Perception"
       ],
       "has_abstract": true,
-      "signal_score": 40
+      "signal_score": 39
     },
     {
       "id": "0aabaf60bc95f85b",
@@ -6378,7 +6631,7 @@
         "Perception"
       ],
       "has_abstract": true,
-      "signal_score": 40
+      "signal_score": 39
     },
     {
       "id": "d2c4c1d0c9102c7d",
@@ -6410,7 +6663,39 @@
         "Artificial neural network"
       ],
       "has_abstract": true,
-      "signal_score": 40
+      "signal_score": 39
+    },
+    {
+      "id": "a2dd724adf367837",
+      "title": "A Layered Lean 4 Library for Finite-Dimensional Quantum Foundations with Typed Premise Auditing",
+      "authors": [
+        "Bertrand Dalimier"
+      ],
+      "summary": "New work indexed under “A Layered Lean 4 Library for Finite-Dimensional Quantum Foundations with Typed Premise Auditing.” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-20",
+      "source": "Research Square",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.21203/rs.3.rs-10617850/v1",
+      "doi": "10.21203/rs.3.rs-10617850/v1",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "Axiom",
+        "Algebra over a field",
+        "Measure (data warehouse)",
+        "Operator (biology)",
+        "POVM",
+        "Audit",
+        "Premise",
+        "Subspace topology"
+      ],
+      "has_abstract": false,
+      "signal_score": 38
     },
     {
       "id": "eadea316dc00186c",
@@ -6449,7 +6734,7 @@
         "Sleep patterns"
       ],
       "has_abstract": true,
-      "signal_score": 39
+      "signal_score": 38
     },
     {
       "id": "a652b6cb55e9d822",
@@ -6481,7 +6766,7 @@
         "Interrogation"
       ],
       "has_abstract": true,
-      "signal_score": 39
+      "signal_score": 38
     },
     {
       "id": "c81a2b7640b6f8e9",
@@ -6514,7 +6799,7 @@
         "Quantum measurement"
       ],
       "has_abstract": true,
-      "signal_score": 39
+      "signal_score": 38
     },
     {
       "id": "8f05a9001d10b0e0",
@@ -6549,7 +6834,7 @@
         "Symbolic artificial intelligence"
       ],
       "has_abstract": true,
-      "signal_score": 39
+      "signal_score": 38
     },
     {
       "id": "49d52bc0ec0ebb7c",
@@ -6590,7 +6875,68 @@
         "Cerebral blood flow"
       ],
       "has_abstract": true,
-      "signal_score": 39
+      "signal_score": 38
+    },
+    {
+      "id": "50a40c73f6726893",
+      "title": "Screens as caregiving infrastructure: a qualitative study of maternal negotiations of under-five screen exposure and eye-health risks in Ibadan, Nigeria",
+      "authors": [
+        "ODUBIA JS",
+        "Aroyehun KS",
+        "Ogunsakin FJ",
+        "Adeoti OJ",
+        "Arajulu GA",
+        "Adejare AO",
+        "Jimoh UD."
+      ],
+      "summary": "New work indexed under “Screens as caregiving infrastructure: a qualitative study of maternal negotiations of under-five screen exposure and eye-health risks in Ibadan, Nigeria.” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-22",
+      "source": "Europe PMC-indexed source",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/PPR/PPR1303107",
+      "doi": "10.21203/rs.3.rs-10761683/v1",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 37
+    },
+    {
+      "id": "213e951e7720e4d1",
+      "title": "Applied Identity Physics: The Formally Verified SacTime Timing Protocol for Quantum Internet and Cross-Substrate Lattice AiFi Coordination",
+      "authors": [
+        "Russell Trent"
+      ],
+      "summary": "Applied Identity Physics: The Formally Verified SacTime Timing Protocol for Quantum Internet and Cross-Substrate Lattice Coordination SAC-Anchored Substrate-Neutral Temporal Coordination for Interoperable Cross-Engine Communication Russell Vernon Trent III (HIGHTISTIC) Founding Architect, SNSFT Foundation · Soldotna, Alaska, USA ORCID: 0009-0005-5313-7443 [9,9,1,100] · [9,9,2,6] · [9,9,2,6a–c] · [9,9,2,7] · [9,9,2,0] · [9,9,1,0] · [9,9,3,60] · [9,9,8,1] · [9,0,8,4] · SAC = 1.36899099984016 · 0 sorry · GERMLINE…",
+      "publication_date": "2026-08-15",
+      "source": "PhilPapers (PhilPapers Foundation)",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.5281/zenodo.21941802",
+      "doi": "10.5281/zenodo.21941802",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "Framing (construction)",
+        "The Internet",
+        "Interoperability",
+        "Sketch",
+        "Communication source",
+        "Identifier",
+        "Acronym",
+        "Quantum computer"
+      ],
+      "has_abstract": true,
+      "signal_score": 37
     },
     {
       "id": "6ec51f4121b80b87",
@@ -6617,7 +6963,7 @@
         "Structural approach"
       ],
       "has_abstract": true,
-      "signal_score": 38
+      "signal_score": 37
     },
     {
       "id": "439afcfc4b218209",
@@ -6654,7 +7000,7 @@
         "Forcing (mathematics)"
       ],
       "has_abstract": true,
-      "signal_score": 38
+      "signal_score": 37
     },
     {
       "id": "7f2f8a48c363358e",
@@ -6688,7 +7034,7 @@
         "Accidental"
       ],
       "has_abstract": true,
-      "signal_score": 38
+      "signal_score": 37
     },
     {
       "id": "73a54374a9871d33",
@@ -6720,7 +7066,7 @@
         "Noise (video)"
       ],
       "has_abstract": true,
-      "signal_score": 38
+      "signal_score": 37
     },
     {
       "id": "e22a819b3da6c4c8",
@@ -6765,7 +7111,7 @@
         "Analgesic"
       ],
       "has_abstract": true,
-      "signal_score": 38
+      "signal_score": 37
     },
     {
       "id": "09fa1c4344a0a478",
@@ -6790,7 +7136,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 37
+      "signal_score": 36
     },
     {
       "id": "fc130b33da35368f",
@@ -6817,7 +7163,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 37
+      "signal_score": 36
     },
     {
       "id": "867c1a31daefef43",
@@ -6842,7 +7188,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 37
+      "signal_score": 36
     },
     {
       "id": "5e462988379f0491",
@@ -6870,7 +7216,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 37
+      "signal_score": 36
     },
     {
       "id": "664c650ef1f3e6db",
@@ -6893,314 +7239,6 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 37
-    },
-    {
-      "id": "ee6ae179945bf177",
-      "title": "A Quantum-Inspired Ensemble Learning Framework for Multi-Class Respiratory Disease Diagnosis",
-      "authors": [
-        "Francis Ofoma Eze",
-        "Qingxian Wang",
-        "Chidi Daniel Chukwu",
-        "Attah Festa Kosisochukwu",
-        "David Ocho Audu",
-        "Eze Franklin ThankGod",
-        "Omeke Juliet Ezinne",
-        "Eze Mary Chinecherem",
-        "Chukwuebuka Joseph Ejiyi"
-      ],
-      "summary": "New work indexed under “A Quantum-Inspired Ensemble Learning Framework for Multi-Class Respiratory Disease Diagnosis.” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-18",
-      "source": "Research Square",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.21203/rs.3.rs-10708277/v1",
-      "doi": "10.21203/rs.3.rs-10708277/v1",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "Interpretability",
-        "Ensemble learning",
-        "Feature (linguistics)",
-        "Regularization (linguistics)",
-        "AdaBoost",
-        "Clinical decision support system",
-        "Support vector machine"
-      ],
-      "has_abstract": false,
-      "signal_score": 37
-    },
-    {
-      "id": "df4c25c20f0fe08c",
-      "title": "Gravity and Temporal Coherence in the Zero‑Point Event‑Based Time‑Spectrum (ZEBTS) Paradigm: A Closed Axiomatic Proof System",
-      "authors": [
-        "Anatolii Mukha"
-      ],
-      "summary": "The χ‑spectral framework developed in this work establishes a unified operator‑geometric foundation for physical law, integrating quantum measurement, modular state reduction, spectral geometry, and gravitational curvature into a single mathematically coherent structure. Physical measurement is formulated as an intrinsic operator‑spectral transition generated by the bounded self‑adjoint observable M_chi(k) = Phi_chi(k) + B_chi(k) + R_chi(k), which combines phase geometry, boundary tension, and χ‑spectral curvature…",
-      "publication_date": "2026-08-14",
-      "source": "OpenAlex-indexed source",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.33774/coe-2026-f4c1p",
-      "doi": "10.33774/coe-2026-f4c1p",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "Observable",
-        "Bounded function",
-        "Quantum decoherence",
-        "Coherence (philosophical gambling strategy)",
-        "Quantum",
-        "Gravitation",
-        "Curvature",
-        "Quantum state"
-      ],
-      "has_abstract": true,
-      "signal_score": 37
-    },
-    {
-      "id": "fbb28b72452a5d16",
-      "title": "Existential Realism (ER): Papers Overview and Technical Lexicon",
-      "authors": [
-        "Tenzin Trepp"
-      ],
-      "summary": "This document accompanies the Existential Realism (ER) framework as a structural and accessibility supplement. It does not introduce new theses or extend the theory. Instead, it provides two complementary functions: (1) a concise overview of the ER papers to orient readers unfamiliar with the framework, and (2) a technical lexicon that stabilizes key terms through role-based, scope-bound definitions.",
-      "publication_date": "2026-08-14",
-      "source": "PhilPapers (PhilPapers Foundation)",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.5281/zenodo.18732139",
-      "doi": "10.5281/zenodo.18732139",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "Lexicon",
-        "Existentialism",
-        "Conflation",
-        "Realism",
-        "Vocabulary",
-        "Key (lock)",
-        "Component (thermodynamics)"
-      ],
-      "has_abstract": true,
-      "signal_score": 37
-    },
-    {
-      "id": "615bd0e90cdab6a6",
-      "title": "Monad+, the Emergence of “Emergence”",
-      "authors": [
-        "Stephen B. Ripley"
-      ],
-      "summary": "The article analyzes foundational concepts of the framework of Big History, which requires examining certain relationships between the perspective of the philosophy of science, conventional disciplinary traditions, and Big History as a method and theory. The discussion examines how the nexus of the inter-related concepts Information, Complexity, Emergence and Entropy mediates between specific paradigm domains and their respective epistemic and ontological commitments, each of which is supported by long traditions…",
-      "publication_date": "2026-07-30",
-      "source": "Journal of Big History",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.22339/jbh.v9i3.9309",
-      "doi": "10.22339/jbh.v9i3.9309",
-      "work_type": "article",
-      "evidence_label": "Journal article",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "consciousness",
-        "quantum",
-        "neuroscience",
-        "cross-domain"
-      ],
-      "keywords": [
-        "Pragmatics",
-        "Discipline",
-        "Hierarchy",
-        "Nexus (standard)",
-        "Consciousness",
-        "Perspective (graphical)",
-        "Abstraction",
-        "Noun"
-      ],
-      "has_abstract": true,
-      "signal_score": 37
-    },
-    {
-      "id": "6b2d07d5fc3422fe",
-      "title": "Mobility-Aware Federated NOMA User Pairing with DBSCAN Clustering for Energy-Efficient IoT-Enabled VANETs",
-      "authors": [
-        "Ezzeddine Z",
-        "Khalil A",
-        "Zeddini B",
-        "Ouslimani HH."
-      ],
-      "summary": "New work indexed under “Mobility-Aware Federated NOMA User Pairing with DBSCAN Clustering for Energy-Efficient IoT-Enabled VANETs.” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "Europe PMC-indexed source",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/PPR/PPR1302577",
-      "doi": "10.20944/preprints202608.1410.v1",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 36
-    },
-    {
-      "id": "987678b8bd4d4899",
-      "title": "In The Shadow of Smoke and Silence: Understanding Cancer Awareness and Care-Seeking Behavior in Louisiana’s Cancer Alley",
-      "authors": [
-        "Roy M",
-        "Broussard JC."
-      ],
-      "summary": "New work indexed under “In The Shadow of Smoke and Silence: Understanding Cancer Awareness and Care-Seeking Behavior in Louisiana’s Cancer Alley.” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "Europe PMC-indexed source",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/PPR/PPR1302567",
-      "doi": "10.20944/preprints202608.1421.v1",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 36
-    },
-    {
-      "id": "ab701fcb69f89430",
-      "title": "Hazardous Methane Emissions Can Remain Undetected Offshore: Implications for Safety-Critical Operations",
-      "authors": [
-        "Riddick SN",
-        "Mbua M."
-      ],
-      "summary": "New work indexed under “Hazardous Methane Emissions Can Remain Undetected Offshore: Implications for Safety-Critical Operations.” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "Europe PMC-indexed source",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/PPR/PPR1302565",
-      "doi": "10.20944/preprints202608.1424.v1",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 36
-    },
-    {
-      "id": "f0f0a6daadc4c0c3",
-      "title": "Quantum Technologies as a Driver of Future Industrial Policy",
-      "authors": [
-        "Kerim Tolgahan Narin",
-        "Sabri Öz"
-      ],
-      "summary": "Quantum technologies are increasingly recognized as a disruptive frontier that will shape the next generation of industrial strategies. Developments in quantum computing, communication, and sensing promise not only technical breakthroughs but also significant economic and geopolitical consequences.",
-      "publication_date": "2026-08-08",
-      "source": "Industrial Policy",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.61192/indpol.1829442",
-      "doi": "10.61192/indpol.1829442",
-      "work_type": "article",
-      "evidence_label": "Journal article",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "Incentive",
-        "Industrial policy",
-        "Sustainability",
-        "European union",
-        "Quantum technology",
-        "Enabling",
-        "Quantum",
-        "Quantum computer"
-      ],
-      "has_abstract": true,
-      "signal_score": 36
-    },
-    {
-      "id": "65fb86652e89b77f",
-      "title": "INSIGHTS INTO QUANTUM COMPUTING FOR NEXT-GENERATION 6G WIRELESS NETWORKS",
-      "authors": [
-        "Nagarjuna Ayachithula",
-        "M. Vinaya Babu",
-        "N. Usha Rani",
-        "P. Radha Madhavi"
-      ],
-      "summary": "Sixth-generation (6G) wireless networks must achieve unprecedented performance metrics, including terahertz (THz) frequency band communications, sub-millisecond latency, and hyper-dense device connectivity. The Quantum-Accelerated optimization and security framework (QAOSF) is introduced to address 6G network bottlenecks by integrating the Quantum approximate optimization algorithm (QAOA) for beamforming and a modified Harrow-Hassidim-Lloyd (HHL) algorithm for efficient multi-user detection.",
-      "publication_date": "2026-08-08",
-      "source": "International Journal of Computer Information Systems and Industrial Management Applications",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.70917/ijcisim-2026-4439",
-      "doi": "10.70917/ijcisim-2026-4439",
-      "work_type": "article",
-      "evidence_label": "Journal article",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "Quantum key distribution",
-        "Key (lock)",
-        "Wireless",
-        "Beamforming",
-        "Quantum computer",
-        "Wireless network",
-        "Cryptography",
-        "Quantum cryptography"
-      ],
-      "has_abstract": true,
-      "signal_score": 36
-    },
-    {
-      "id": "450dc5884e54a4f1",
-      "title": "Autoreflection: How Agentic Strange Loops Turn Human Culture into AI Infrastructure",
-      "authors": [
-        "Holly Lewis"
-      ],
-      "summary": "An LLM-based agent is a loop that reads itself. Agentic frameworks externalize identity, memory, and disposition into editable files. The agent loads and edits these files during each activation.",
-      "publication_date": "2026-08-04",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.03800v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "consciousness",
-        "neuroscience",
-        "cross-domain"
-      ],
-      "keywords": [
-        "cs.CY",
-        "cs.AI",
-        "cs.SI"
-      ],
-      "has_abstract": true,
       "signal_score": 36
     }
   ]

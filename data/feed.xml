@@ -4,7 +4,7 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Sat, 22 Aug 2026 12:56:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 12:57:50 +0000</lastBuildDate>
     <item>
       <title>How do families of relatives with prolonged disorders of consciousness experience care decision-making? A systematic review and thematic synthesis of qualitative research.</title>
       <link>https://europepmc.org/article/MED/42628978</link>
@@ -13,11 +13,25 @@
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Materialism as the Boundary Condition of Idealism-Understanding the Coherence-Modulated Consciousness-Matter Cycle (CMCMC)</title>
+      <link>https://doi.org/10.38124/ijisrt/26aug160</link>
+      <guid>accc6323c8525ae0</guid>
+      <description>This paper develops an ontology in which consciousness is fundamental, and materialism is a boundary condition. Elementary particles in matter possess proto‑consciousness comparable to mass, spin, or charge.</description>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Advancements in intraoperative monitoring techniques in neurosurgical practice: a systematic review</title>
       <link>https://doi.org/10.1186/s41984-026-00650-7</link>
       <guid>3158699962b5621b</guid>
       <description>Abstract Background Intraoperative monitoring (IOM) has become a vital component of contemporary neurosurgery, significantly reducing neurological deficits and improving surgical outcomes. This systematic review aims to evaluate recent advancements in IOM techniques in neurosurgical practice.</description>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Opioid-sparing anesthesia based on opioid-free principles for early recovery after total knee arthroplasty: A randomized controlled trial.</title>
+      <link>https://europepmc.org/article/MED/42632160</link>
+      <guid>75bfb375c912e57b</guid>
+      <description>New work indexed under “Opioid-sparing anesthesia based on opioid-free principles for early recovery after total knee arthroplasty: A randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Intraoperative Transcutaneous Electrical Acupoint Stimulation Attenuates Postoperative Mechanical Pain Sensitization and Visceral Pain After Elective Cesarean Delivery: A Randomized Controlled Trial.</title>
@@ -48,13 +62,6 @@
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Workplace-based screening for oral potentially malignant disorders: A systematic review and meta-analysis.</title>
-      <link>https://europepmc.org/article/MED/42623038</link>
-      <guid>1efa856da6fa15e4</guid>
-      <description>New work indexed under “Workplace-based screening for oral potentially malignant disorders: A systematic review and meta-analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Development of a Deep Learning Model for Real-Time Monitoring of Anesthesia Depth and Its Clinical Validation</title>
       <link>https://doi.org/10.4018/ijhisi.419075</link>
       <guid>08f53d983ec31b49</guid>
@@ -67,6 +74,13 @@
       <guid>401b29ba43ff6b13</guid>
       <description>New work indexed under “Neural and behavioral correlates of consciousness: the welfare consequences of fatal hypobaric and hypercapnic hypoxia in laboratory mice..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neural Signatures of Conscious Experience During Sleep: A Serial Awakening Study Using High-Density EEG</title>
+      <link>https://doi.org/10.64898/2026.08.16.745040</link>
+      <guid>50f2182ec06944ce</guid>
+      <description>Identifying neural signatures of consciousness remains a central challenge in neuroscience. Sleep offers a tractable model for comparing brain activity in the presence or absence of subjective experience while minimizing behavioral responsiveness confounds.</description>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Variational Quantum Circuit Parameterization of SchNet: A Simulator-Based Feasibility Study for Conservative Molecular Force Fields</title>
@@ -90,10 +104,10 @@
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Efficacy of suprapubic hot compress in preventing emergence agitation in patients with indwelling urinary catheters under general anesthesia: a randomized controlled trial.</title>
-      <link>https://europepmc.org/article/MED/42622840</link>
-      <guid>3746179ce6ac1dab</guid>
-      <description>New work indexed under “Efficacy of suprapubic hot compress in preventing emergence agitation in patients with indwelling urinary catheters under general anesthesia: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <title>Quantum Computing: A Contemporary Review of Qubit Platforms, Algorithms, Error Correction, and Emerging Applications</title>
+      <link>https://doi.org/10.5120/ijca2b2d25a3c082</link>
+      <guid>f0d068ae06041114</guid>
+      <description>Quantum computation exploits superposition, entanglement, interference, and measurement to process information.Research has moved from theoretical algorithms to functional devices where the performance is not only limited by qubit physics, but also by the control, compilation, error mitigation, and error correction.This review considers quantum computing on various levels of abstraction, including physical qubits, quantum algorithms, system architecture, fault-tolerance, and emerging applications.Study-specific…</description>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -108,13 +122,6 @@
       <link>https://europepmc.org/article/MED/42624533</link>
       <guid>266bd75ac33cf21b</guid>
       <description>New work indexed under “Prevalence and incidence of interstitial lung diseases in systemic lupus erythematosus: systematic review and meta-analyses..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>An Auditory BCI System Based on Stimulus-Related Semantic Backgrounds for Consciousness Detection.</title>
-      <link>https://europepmc.org/article/MED/42623205</link>
-      <guid>0d1f43d6f4c61011</guid>
-      <description>New work indexed under “An Auditory BCI System Based on Stimulus-Related Semantic Backgrounds for Consciousness Detection..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -136,13 +143,6 @@
       <link>https://doi.org/10.5281/zenodo.22018632</link>
       <guid>a5d02dff236f4b46</guid>
       <description>Quantum mechanics represents physical states through complex amplitudes, state vectors, and density operators, yet the ontological status of these objects remains interpretation-dependent. This paper develops a closure-based formulation in which a quantum state is interpreted as a representation of contextually partial relational closure: the state possesses definite mathematical and relational structure while remaining unresolved relative to one or more observational contexts.</description>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quantum algorithm for differential equations via permutation matrix representation with application to the Burgers equation</title>
-      <link>http://arxiv.org/abs/2608.19508v1</link>
-      <guid>8eab191fc9ac7074</guid>
-      <description>We develop a quantum algorithm for solving the dynamics of the nonlinear viscous Burgers equation. We apply the Carleman linearization procedure on the spatially discretized equation, followed by a padding scheme that allows implementation on qubit registers.</description>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
