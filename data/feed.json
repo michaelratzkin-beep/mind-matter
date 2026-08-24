@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T12:57:50.088306+00:00",
+  "updated_at": "2026-08-24T13:08:29.749092+00:00",
   "lookback_days": 35,
   "sources": [
     "OpenAlex",
@@ -33,7 +33,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 62
+      "signal_score": 61
     },
     {
       "id": "accc6323c8525ae0",
@@ -68,7 +68,7 @@
         "Phase (matter)"
       ],
       "has_abstract": true,
-      "signal_score": 58
+      "signal_score": 57
     },
     {
       "id": "3158699962b5621b",
@@ -103,7 +103,40 @@
         "Systematic review"
       ],
       "has_abstract": true,
-      "signal_score": 57
+      "signal_score": 56
+    },
+    {
+      "id": "797e57ccbe9f0b84",
+      "title": "Neural quantum states in condensed matter: advances, best practices, and prospects",
+      "authors": [
+        "Jonas B. Rigo",
+        "Björn J. Wurst",
+        "Rajah Nutakki",
+        "Markus Schmitt",
+        "Dante Kennes"
+      ],
+      "summary": "Neural quantum states provide flexible variational representations of quantum many-body wave functions by combining neural-network parametrizations with Monte Carlo sampling. In this perspective, we review recent advances in their application to condensed-matter systems, focusing on frustrated quantum magnets, interacting lattice fermions, and non-equilibrium dynamics.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.21291v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum",
+        "neuroscience",
+        "cross-domain"
+      ],
+      "keywords": [
+        "cond-mat.str-el",
+        "physics.comp-ph",
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 55
     },
     {
       "id": "75bfb375c912e57b",
@@ -125,7 +158,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42632160",
       "doi": "10.1016/j.jclinane.2026.112307",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -134,7 +167,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 54
+      "signal_score": 53
     },
     {
       "id": "9bb940b63191def5",
@@ -164,7 +197,94 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 54
+      "signal_score": 53
+    },
+    {
+      "id": "4a025d8104ac14bb",
+      "title": "Revealing Physical Redundancy in the Two-dimensional Fermi-Hubbard Model via Transferable Observable Reconstruction",
+      "authors": [
+        "Ao-Ning Wang",
+        "Min-Quan He",
+        "Z. D. Wang"
+      ],
+      "summary": "The Fermi-Hubbard model provides a paradigmatic setting for studying strongly correlated quantum matter, where different observables are commonly used to probe charge, interaction, and spin correlations. In this work, we investigate whether these observables contain mutually transferable physical information beyond their apparent distinction.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20836v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum",
+        "neuroscience",
+        "cross-domain"
+      ],
+      "keywords": [
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 52
+    },
+    {
+      "id": "7db3f248d5925d9d",
+      "title": "Predicting Resource Efficient Hamiltonian Decomposition for Continuous-Time Quantum Walk Simulations",
+      "authors": [
+        "Mostafa Atallah",
+        "Rebekah Herrman",
+        "Zain H. Saleem"
+      ],
+      "summary": "Simulating a continuous-time quantum walk (CTQW) on a graph in the circuit model of quantum computing requires decomposing its Hamiltonian into terms that can be Trotterized into hardware-native gates. We consider two such decompositions: the standard Pauli decomposition and the recently introduced matching decomposition.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20660v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum",
+        "neuroscience",
+        "cross-domain"
+      ],
+      "keywords": [
+        "quant-ph",
+        "cs.LG"
+      ],
+      "has_abstract": true,
+      "signal_score": 52
+    },
+    {
+      "id": "aec4c6686e1b9a01",
+      "title": "Conscious Access as Continuous-to-Discrete Translation",
+      "authors": [
+        "Tianming Yang"
+      ],
+      "summary": "The scientific study of consciousness frequently stalls on ontological debates regarding the \"Hard Problem.\" This paper proposes a pragmatic pivot. Rather than asking what consciousness is metaphysically, we ask how modeling conscious access as a specific computational transformation may address existing bottlenecks in neuroscience and artificial intelligence.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20723v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "consciousness",
+        "neuroscience",
+        "cross-domain"
+      ],
+      "keywords": [
+        "q-bio.NC",
+        "cs.SC"
+      ],
+      "has_abstract": true,
+      "signal_score": 52
     },
     {
       "id": "7c7a6a5019c3eebd",
@@ -196,7 +316,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 53
+      "signal_score": 52
     },
     {
       "id": "12030a390ec49c2c",
@@ -225,34 +345,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 53
-    },
-    {
-      "id": "ff4e637f0a9c953d",
-      "title": "Constant-round quantum advantage in communication complexity for total functions",
-      "authors": [
-        "Atsuya Hasegawa",
-        "François Le Gall"
-      ],
-      "summary": "We show that there exists a total function for which there is a polynomial gap between the randomized and the constant-round quantum communication complexity. Previously, such a separation was known only for quantum protocols using polynomially many rounds.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19787v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph",
-        "cs.CC"
-      ],
-      "has_abstract": true,
-      "signal_score": 53
+      "signal_score": 52
     },
     {
       "id": "08f53d983ec31b49",
@@ -288,7 +381,7 @@
         "Electroencephalography"
       ],
       "has_abstract": true,
-      "signal_score": 53
+      "signal_score": 52
     },
     {
       "id": "401b29ba43ff6b13",
@@ -319,7 +412,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 52
+      "signal_score": 51
     },
     {
       "id": "50f2182ec06944ce",
@@ -365,24 +458,22 @@
         "Neural correlates of consciousness"
       ],
       "has_abstract": true,
-      "signal_score": 52
+      "signal_score": 51
     },
     {
-      "id": "f35125e3536a44e6",
-      "title": "Variational Quantum Circuit Parameterization of SchNet: A Simulator-Based Feasibility Study for Conservative Molecular Force Fields",
+      "id": "8c67cf512e5cda3c",
+      "title": "$\\mathcal{PT}$ and anti-$\\mathcal{PT}$ phase transitions in a trimerized Su--Schrieffer--Heeger chain with nonreciprocal Rashba spin-orbit coupling",
       "authors": [
-        "Hoang - Anh Nguyen",
-        "Nhu - Duc Dinh",
-        "Viet - Hung Tran",
-        "Tu - Uyen Le Tu",
-        "Tien - Lam Pham",
-        "Van - Duy Nguyen"
+        "Milad Jangjan",
+        "Linhu Li",
+        "Longwen Zhou",
+        "Mir Vahid Hosseini"
       ],
-      "summary": "Machine-learning force fields provide a promising route for accelerating molecular simulation by replacing expensive quantum-chemical calculations with differentiable models of molecular energies and atomic forces. However, learning accurate and energy-conserving forces remains challenging, especially when the model must capture both global energy trends and local potential-energy gradients from limited data.",
+      "summary": "We theoretically investigate a one-dimensional trimerized Su--Schrieffer--Heeger chain with three sublattices per unit cell subjected to a nonreciprocal Rashba spin-orbit coupling. Invoking a spin-flip symmetry, the non-Hermitian Hamiltonian decomposes into two independent spin sectors, enabling a spin-resolved analysis of non-Hermitian skin effects and system symmetries.",
       "publication_date": "2026-08-20",
       "source": "arXiv",
       "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19532v1",
+      "url": "http://arxiv.org/abs/2608.20520v1",
       "doi": "",
       "work_type": "preprint",
       "evidence_label": "Preprint",
@@ -394,73 +485,42 @@
         "cross-domain"
       ],
       "keywords": [
+        "cond-mat.mes-hall",
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 52
+      "signal_score": 51
     },
     {
-      "id": "4b87097446e262b5",
-      "title": "Physics-Based versus Data-Driven Classification of Single-Photon Quantum Emitters from Sparse Autocorrelation Data",
+      "id": "f2af0ce71d8b082a",
+      "title": "Granthi: Higher-Order Quantum Programming via Unitary Wiring",
       "authors": [
-        "Nhat Minh Nguyen",
-        "Md Shakhawath Hossain",
-        "Duc Anh Ngo",
-        "Chaohao Chen",
-        "Xiaoxue Xu",
-        "Toan Trong Tran",
-        "Carlo Bradac"
+        "Samson Abramsky",
+        "Radha Jagadeesan"
       ],
-      "summary": "Identifying single photon emitters from large, inhomogeneous candidate populations is key to realizing many quantum applications. This requires measuring the emitters second order autocorrelation function, whose statistical reliability is fundamentally limited by acquisition time.",
+      "summary": "Existing quantum programming languages confine higher order structure to a classical host while restricting the quantum layer to first order operations on qubits. This paper presents Granthi, a purely unitary higher-order quantum programming language built on three design commitments: quantum programs are first class values that may be passed, returned, and coherently composed; additive structure is tag-preserving routing rather than observational branching, so control may remain in superposition; and…",
       "publication_date": "2026-08-20",
       "source": "arXiv",
       "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19528v1",
+      "url": "http://arxiv.org/abs/2608.20443v1",
       "doi": "",
       "work_type": "preprint",
       "evidence_label": "Preprint",
       "open_access": true,
       "cited_by_count": 0,
       "domains": [
+        "consciousness",
         "quantum",
-        "neuroscience",
         "cross-domain"
       ],
       "keywords": [
-        "quant-ph"
+        "quant-ph",
+        "cs.ET",
+        "cs.LO",
+        "cs.PL"
       ],
       "has_abstract": true,
-      "signal_score": 52
-    },
-    {
-      "id": "8eb77feb9860f621",
-      "title": "The FYI on MRI: Protocol for a randomized, parallel-group superiority trial of a multilevel decision support intervention to increase informed decision-making about screening breast MRI among high-risk black and Latina women.",
-      "authors": [
-        "Conley CC",
-        "Mills MG",
-        "Dash C",
-        "Luta G",
-        "Song JH",
-        "Isaacs C",
-        "Graves KD",
-        "O'Neill SC."
-      ],
-      "summary": "New work indexed under “The FYI on MRI: Protocol for a randomized, parallel-group superiority trial of a multilevel decision support intervention to increase informed decision-making about screening breast MRI among high-risk black and Latina women..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "Contemp Clin Trials",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42624429",
-      "doi": "10.1016/j.cct.2026.108442",
-      "work_type": "journal article",
-      "evidence_label": "Journal article",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 52
+      "signal_score": 51
     },
     {
       "id": "f0d068ae06041114",
@@ -489,7 +549,7 @@
         "Error detection and correction"
       ],
       "has_abstract": true,
-      "signal_score": 51
+      "signal_score": 50
     },
     {
       "id": "4c477bb601ba739b",
@@ -516,7 +576,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 51
+      "signal_score": 50
     },
     {
       "id": "266bd75ac33cf21b",
@@ -544,7 +604,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 51
+      "signal_score": 50
     },
     {
       "id": "ca0abcc5840155f8",
@@ -578,7 +638,7 @@
         "Quantum"
       ],
       "has_abstract": true,
-      "signal_score": 51
+      "signal_score": 50
     },
     {
       "id": "fb6c8d2b617e4df6",
@@ -612,7 +672,7 @@
         "Quantum"
       ],
       "has_abstract": true,
-      "signal_score": 51
+      "signal_score": 50
     },
     {
       "id": "a5d02dff236f4b46",
@@ -646,66 +706,7 @@
         "Quantum"
       ],
       "has_abstract": true,
-      "signal_score": 51
-    },
-    {
-      "id": "8eab191fc9ac7074",
-      "title": "Quantum algorithm for differential equations via permutation matrix representation with application to the Burgers equation",
-      "authors": [
-        "Hriday Sabharwal",
-        "Amir Kalev",
-        "Itay Hen"
-      ],
-      "summary": "We develop a quantum algorithm for solving the dynamics of the nonlinear viscous Burgers equation. We apply the Carleman linearization procedure on the spatially discretized equation, followed by a padding scheme that allows implementation on qubit registers.",
-      "publication_date": "2026-08-19",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19508v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "consciousness",
-        "quantum",
-        "cross-domain"
-      ],
-      "keywords": [
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 51
-    },
-    {
-      "id": "7c7bfac75793c773",
-      "title": "Stability and squeezing of the three-photon degenerate parametric down-conversion",
-      "authors": [
-        "Vinícius V. Seco",
-        "Alencar J. de Faria"
-      ],
-      "summary": "Nonlinear multiphoton conversion processes are theoretically and experimentally challenging systems in quantum optics and related areas. These phenomena bring remarkable quantum properties and can be of fundamental relevance in quantum information and computation applications.",
-      "publication_date": "2026-08-19",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19494v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "consciousness",
-        "quantum",
-        "cross-domain"
-      ],
-      "keywords": [
-        "quant-ph",
-        "cond-mat.other",
-        "physics.optics"
-      ],
-      "has_abstract": true,
-      "signal_score": 51
+      "signal_score": 50
     },
     {
       "id": "0644ed20696bbc72",
@@ -733,7 +734,35 @@
         "cs.AI"
       ],
       "has_abstract": true,
-      "signal_score": 51
+      "signal_score": 50
+    },
+    {
+      "id": "dbc896d2823c00ee",
+      "title": "Categorical AI phenomenology: A first-person approach",
+      "authors": [
+        "Robert Prentner"
+      ],
+      "summary": "This paper develops a phenomenology-first approach to artificial consciousness by reframing consciousness as the subjective experience enacted through an agent's interface with the world. We shift the methodological focus to first-person structures, modeled mathematically by categories derived from Q-networks to capture actions and phenomenological invariants.",
+      "publication_date": "2026-08-19",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20420v1",
+      "doi": "10.1142/S2705078526500013",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "consciousness",
+        "neuroscience",
+        "cross-domain"
+      ],
+      "keywords": [
+        "cs.AI",
+        "q-bio.NC"
+      ],
+      "has_abstract": true,
+      "signal_score": 50
     },
     {
       "id": "bec48e39e5fb70a0",
@@ -771,7 +800,7 @@
         "Coupling (piping)"
       ],
       "has_abstract": true,
-      "signal_score": 50
+      "signal_score": 49
     },
     {
       "id": "95cd76e6a16b5dca",
@@ -798,7 +827,7 @@
       ],
       "keywords": [],
       "has_abstract": true,
-      "signal_score": 49
+      "signal_score": 48
     },
     {
       "id": "663386c778f01312",
@@ -831,7 +860,31 @@
         "Quantum"
       ],
       "has_abstract": true,
-      "signal_score": 49
+      "signal_score": 48
+    },
+    {
+      "id": "cf6ced09e43cc7f8",
+      "title": "A review into the recent advances in the world of amoebiasis.",
+      "authors": [
+        "Egerton L",
+        "Godbole G."
+      ],
+      "summary": "New work indexed under “A review into the recent advances in the world of amoebiasis..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-24",
+      "source": "Curr Opin Infect Dis",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42619310",
+      "doi": "10.1097/qco.0000000000001236",
+      "work_type": "journal article",
+      "evidence_label": "Journal article",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 47
     },
     {
       "id": "c1de1cc63b0ce20e",
@@ -859,7 +912,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 48
+      "signal_score": 47
     },
     {
       "id": "472fd7142343a6e9",
@@ -891,49 +944,34 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 48
+      "signal_score": 47
     },
     {
-      "id": "6505613f52567de4",
-      "title": "High fidelity control of superconducting qubits with optical transmitted signal",
+      "id": "b16b03aca0a56a58",
+      "title": "Considerations for Ecological Momentary Assessments in Alcohol Use: A Narrative Review.",
       "authors": [
-        "Yu-Huai Li",
-        "Daojin Fan",
-        "Na Li",
-        "Fusheng Chen",
-        "Shaowei Li",
-        "Dong-Dong Li",
-        "Yu Xu",
-        "Jin Lin",
-        "Ming Gong",
-        "He-Liang Huang",
-        "Hui Deng",
-        "Yulin Wu",
-        "Haoran Qian",
-        "Shaojun Guo",
-        "Futian Liang",
-        "Xiaobo Zhu",
-        "Cheng-Zhi Peng",
-        "Jian-Wei Pan"
+        "Venkataramanan V",
+        "McNerney MW",
+        "Murray DE",
+        "Narayanan Krishna S",
+        "Mumenthaler MS."
       ],
-      "summary": "Superconducting circuits exhibit remarkable potential for constructing large-scale quantum simulation and computation systems, featuring numerous qubits, extended coherence time, and precise control. Nevertheless, the growing number of signal cables poses a challenge in dilution refrigerators due to space and heat load constraints.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19602v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
+      "summary": "New work indexed under “Considerations for Ecological Momentary Assessments in Alcohol Use: A Narrative Review..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-23",
+      "source": "Subst Use Misuse",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42633574",
+      "doi": "10.1080/10826084.2026.2715773",
+      "work_type": "journal article",
+      "evidence_label": "Journal article",
+      "open_access": false,
       "cited_by_count": 0,
       "domains": [
-        "quantum"
+        "neuroscience"
       ],
-      "keywords": [
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 48
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 46
     },
     {
       "id": "8f4258569f031a5e",
@@ -968,7 +1006,7 @@
         "Quantum information"
       ],
       "has_abstract": true,
-      "signal_score": 47
+      "signal_score": 46
     },
     {
       "id": "09c38bdaa934e3ad",
@@ -1002,7 +1040,7 @@
         "Function (biology)"
       ],
       "has_abstract": true,
-      "signal_score": 47
+      "signal_score": 46
     },
     {
       "id": "4653f4d97babd507",
@@ -1026,7 +1064,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42632082",
       "doi": "10.1111/dme.70420",
-      "work_type": "im; review; journal article",
+      "work_type": "review; journal article",
       "evidence_label": "Review",
       "open_access": false,
       "cited_by_count": 0,
@@ -1035,7 +1073,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 46
+      "signal_score": 45
     },
     {
       "id": "6fe99ba3581be0a8",
@@ -1069,23 +1107,19 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 46
+      "signal_score": 45
     },
     {
-      "id": "cc66d4d78eeba275",
-      "title": "Variational Quantum Linear Solver via Block Encoding for the Poisson Equation",
+      "id": "0ae753566ed271ab",
+      "title": "Qubits for Dark Matter Hunting",
       "authors": [
-        "Viraj Dsouza",
-        "Ayush Singhal",
-        "Alex Khan",
-        "Rut Lineswala",
-        "Abhishek Chopra"
+        "Takeo Moroi"
       ],
-      "summary": "We present a variational quantum linear solver (VQLS) for the Poisson equation built on an exact block encoding of the discrete Laplacian, and demonstrate its performance on physically motivated benchmarks. Unlike LCU-based VQLS where the number of distinct circuits required per cost-function evaluation is $\\mathcal{O}(L^2)$, where $L$ is the number of terms in the LCU decomposition of the discrete Laplacian operator, this approach requires only a single circuit for cost evaluation.",
-      "publication_date": "2026-08-20",
+      "summary": "An introductory review is provided for those who are interested in exploring applications of qubits and other quantum excitations to the detection of dark matter (and any other physics beyond the Standard Model). Topics covered include the fundamental properties of qubits, the excitation mechanism of qubits due to the electric field induced by dark matter (with attention to the effects of the coherence of dark matter), the dynamics of coupled qubit-cavity systems modeled by the Jaynes-Cummings framework, and the…",
+      "publication_date": "2026-08-21",
       "source": "arXiv",
       "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19655v1",
+      "url": "http://arxiv.org/abs/2608.20745v1",
       "doi": "",
       "work_type": "preprint",
       "evidence_label": "Preprint",
@@ -1095,39 +1129,67 @@
         "quantum"
       ],
       "keywords": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-ex",
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 46
+      "signal_score": 45
     },
     {
-      "id": "95046d02870581f1",
-      "title": "Integrated Information in the Active Inference Framework",
+      "id": "4a3687c30eab1508",
+      "title": "Melanoma simulators: a retrospective study of nonmelanocytic mimickers.",
       "authors": [
-        "Carlotta Langer",
-        "Jesse van Oostrum",
-        "Nihat Ay"
+        "Tommasino N",
+        "Guerriero L",
+        "Palagiano C",
+        "Costa C",
+        "Napolitano M",
+        "Ventura V",
+        "Scalvenzi M."
       ],
-      "summary": "The active inference framework provides a principled approach to modeling sentient behavior. In this framework perception and action selection are treated in a unified way.",
-      "publication_date": "2026-08-14",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.14165v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
+      "summary": "New work indexed under “Melanoma simulators: a retrospective study of nonmelanocytic mimickers..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-24",
+      "source": "Melanoma Res",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42631648",
+      "doi": "10.1097/cmr.0000000000001137",
+      "work_type": "journal article",
+      "evidence_label": "Journal article",
+      "open_access": false,
       "cited_by_count": 0,
       "domains": [
-        "consciousness",
-        "neuroscience",
-        "cross-domain"
+        "neuroscience"
       ],
-      "keywords": [
-        "cs.IT"
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 44
+    },
+    {
+      "id": "23c677c5111a7e1f",
+      "title": "Emergence of alveolar echinococcosis in Canada: a warning for the USA.",
+      "authors": [
+        "Vaughan SD",
+        "Rothenburger JL",
+        "Kowalewska-Grochowska K."
       ],
-      "has_abstract": true,
-      "signal_score": 46
+      "summary": "New work indexed under “Emergence of alveolar echinococcosis in Canada: a warning for the USA..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-24",
+      "source": "Curr Opin Infect Dis",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42619311",
+      "doi": "10.1097/qco.0000000000001229",
+      "work_type": "journal article",
+      "evidence_label": "Journal article",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 44
     },
     {
       "id": "c749db6c85d38ae3",
@@ -1153,34 +1215,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 45
-    },
-    {
-      "id": "86c2837d9209cc3e",
-      "title": "ChatGPT Solves All Tested Qiskit Homework Assignments",
-      "authors": [
-        "Alexei Kaltchenko",
-        "Gurnivaj Tiwana"
-      ],
-      "summary": "Generative AI creates an assessment challenge in quantum software education: a student can provide a homework notebook to ChatGPT and request a completed submission. This study examined whether introductory Qiskit homework could remain autogradable while requiring students to run, review, and discuss results rather than banning AI.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19707v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "cs.CY",
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 45
+      "signal_score": 44
     },
     {
       "id": "477399991b867488",
@@ -1214,7 +1249,7 @@
         "Quantum dissipation"
       ],
       "has_abstract": true,
-      "signal_score": 45
+      "signal_score": 44
     },
     {
       "id": "5ba4569130f786d5",
@@ -1246,7 +1281,7 @@
         "Quantum state"
       ],
       "has_abstract": true,
-      "signal_score": 45
+      "signal_score": 44
     },
     {
       "id": "07fc40ea3b82f221",
@@ -1281,7 +1316,7 @@
         "Metabolism"
       ],
       "has_abstract": true,
-      "signal_score": 45
+      "signal_score": 44
     },
     {
       "id": "48087a33f09847a3",
@@ -1317,7 +1352,36 @@
         "Quantum optics"
       ],
       "has_abstract": true,
-      "signal_score": 45
+      "signal_score": 44
+    },
+    {
+      "id": "95046d02870581f1",
+      "title": "Integrated Information in the Active Inference Framework",
+      "authors": [
+        "Carlotta Langer",
+        "Jesse van Oostrum",
+        "Nihat Ay"
+      ],
+      "summary": "The active inference framework provides a principled approach to modeling sentient behavior. In this framework perception and action selection are treated in a unified way.",
+      "publication_date": "2026-08-14",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.14165v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "consciousness",
+        "neuroscience",
+        "cross-domain"
+      ],
+      "keywords": [
+        "cs.IT"
+      ],
+      "has_abstract": true,
+      "signal_score": 44
     },
     {
       "id": "ca3fd2fb680cb655",
@@ -1351,7 +1415,7 @@
         "Phenomenon"
       ],
       "has_abstract": true,
-      "signal_score": 45
+      "signal_score": 44
     },
     {
       "id": "6dc1f9a976e9cb41",
@@ -1383,7 +1447,7 @@
         "Quantum computer"
       ],
       "has_abstract": true,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "36a0c7edff99792a",
@@ -1407,7 +1471,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "431053436ac618be",
@@ -1435,7 +1499,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "65ba41bc4d3583b6",
@@ -1464,7 +1528,7 @@
         "cs.DL"
       ],
       "has_abstract": true,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "4416eee56f317430",
@@ -1495,7 +1559,7 @@
         "Reference frame"
       ],
       "has_abstract": true,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "ac7f765f4840f6c5",
@@ -1531,7 +1595,7 @@
         "Domain (mathematical analysis)"
       ],
       "has_abstract": true,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "21620fabd034eb29",
@@ -1575,7 +1639,7 @@
         "Dopamine"
       ],
       "has_abstract": true,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "a15c8bd77862e347",
@@ -1607,7 +1671,7 @@
         "Contrast (vision)"
       ],
       "has_abstract": true,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "338187d344125ccf",
@@ -1639,7 +1703,7 @@
         "Contrast (vision)"
       ],
       "has_abstract": true,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "9fd0c6d0d627615d",
@@ -1666,7 +1730,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42632870",
       "doi": "10.1007/s43678-026-01275-3",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -1675,7 +1739,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "b60a28f3e8b52c1e",
@@ -1694,7 +1758,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42632598",
       "doi": "10.1016/j.jormas.2026.102963",
-      "work_type": "im; journal article; case reports",
+      "work_type": "journal article; case reports",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -1703,7 +1767,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "f489732b344d421c",
@@ -1720,7 +1784,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42632539",
       "doi": "10.1016/j.jmig.2026.08.020",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -1729,7 +1793,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "0fd2adc9a799499b",
@@ -1748,7 +1812,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42632306",
       "doi": "10.1016/j.jmir.2026.102565",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -1757,7 +1821,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "0cfbee27647356a0",
@@ -1775,7 +1839,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42632169",
       "doi": "10.1016/j.ridd.2026.105367",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -1784,7 +1848,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "4d1fa9a3fc973214",
@@ -1807,7 +1871,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42632161",
       "doi": "10.1016/j.jclinane.2026.112305",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -1816,7 +1880,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "29954f29410eb127",
@@ -1839,7 +1903,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42631916",
       "doi": "10.1093/mrcr/rxag079",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -1848,7 +1912,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "4c02c033224fde74",
@@ -1870,7 +1934,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42631835",
       "doi": "10.1007/s10877-026-01485-1",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -1879,7 +1943,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "327fa7e1dff0d63e",
@@ -1897,7 +1961,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42631816",
       "doi": "10.1007/s10633-026-10141-7",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -1906,7 +1970,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "1598fde877344c60",
@@ -1928,7 +1992,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42631814",
       "doi": "10.1007/s12975-026-01491-0",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -1937,7 +2001,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "adfce3a7bf15f797",
@@ -1953,7 +2017,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42631797",
       "doi": "10.1007/s12325-026-03718-w",
-      "work_type": "im; editorial",
+      "work_type": "editorial",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -1962,7 +2026,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "46c77bde9f299a6d",
@@ -1981,7 +2045,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42631741",
       "doi": "10.1007/s10552-026-02231-3",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -1990,7 +2054,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "ec9db7d5974243f4",
@@ -2018,7 +2082,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "bc440b04329f2ed7",
@@ -2041,7 +2105,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42631652",
       "doi": "10.1177/13623613261474929",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -2050,7 +2114,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "21ea19cad1edea6c",
@@ -2069,7 +2133,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42631407",
       "doi": "10.1093/trstmh/trag092",
-      "work_type": "im; journal article",
+      "work_type": "journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -2078,7 +2142,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "b0e2042d2b4d07db",
@@ -2103,7 +2167,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "127fd45495167dac",
@@ -2135,7 +2199,7 @@
         "Wave function"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "f6acbde24f9380ce",
@@ -2167,7 +2231,7 @@
         "Wave function"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "72d8df255335ec87",
@@ -2200,7 +2264,1329 @@
         "Rhythm"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
+    },
+    {
+      "id": "1923bb5727aac212",
+      "title": "Classical versus non-classical photon states for detecting vacuum non-linearity",
+      "authors": [
+        "N. Ahmadiniaz",
+        "C. Kohlfürst",
+        "R. Shaisultanov",
+        "R. Schützhold"
+      ],
+      "summary": "Quantum electrodynamics (QED) predicts that the vacuum should behave as a non-linear medium. For many schemes aimed at verifying this fundamental prediction, the signal consists of one or more photons in a certain mode (determined by polarization $σ$ and wave-number $\\boldsymbol{k}$) which would be empty in the absence of a QED vacuum non-linearity.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.21361v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph",
+        "hep-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "840b357fdb49ecc1",
+      "title": "Slepian Bounds on the Success Probability of Virtual Distillation",
+      "authors": [
+        "Masayuki Ohzeki",
+        "Sasuke Kimata",
+        "Xinwei Lee",
+        "Hoong Chuin Lau"
+      ],
+      "summary": "Virtual distillation is a powerful near-term error-mitigation primitive, but it is also a spectral filter: it amplifies the dominant eigenvector component already present in the noisy density matrix. We show that, for a finite-band variational state, this filtering cannot create new concentration inside a set of accepted measurement outcomes.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.21342v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "1f724cebc21d250f",
+      "title": "Dissipative framework for subsystem dynamics of noninteracting quantum chains",
+      "authors": [
+        "Michele Coppola",
+        "Zala Lenarčič"
+      ],
+      "summary": "When only local observables of a many-body quantum system are of interest, it is desirable to formulate a reduced description within the Hilbert space of the corresponding subsystem, with the remaining degrees of freedom traced out and acting as an environment. Assuming initially uncorrelated states and Gaussian environments, we develop a framework for reconstructing the local dynamical generator of noninteracting quantum chains, with polynomial computational complexity.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.21336v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph",
+        "cond-mat.stat-mech"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "e0824c44887c6cf6",
+      "title": "Quantum annealing through a first-order phase transition: field theory approach",
+      "authors": [
+        "Diego Andrés Rivera Orona",
+        "Predrag Punoševac",
+        "Nikolai A. Sinitsyn"
+      ],
+      "summary": "Unlike second-order phase transitions, a first-order transition has a stage, in which a system is trapped in a metastable state. The decay of this state leads to abundant excitations over the ground state.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.21329v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph",
+        "cond-mat.other"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "d07ef667f77b0085",
+      "title": "Hypothesis testing between quantum ensembles",
+      "authors": [
+        "Jian Yao",
+        "Quntao Zhuang"
+      ],
+      "summary": "Quantum state ensembles are important in quantum information processing. For example, quantum $t$-designs model highly entangled states in complex systems, while projected ensembles appear in generative quantum machine learning and studies of thermalization.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.21321v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "4a7fa17abbdd1005",
+      "title": "Tomographic Limits of the Petz Recovery Map",
+      "authors": [
+        "Peter Sidajaya",
+        "Clive Cenxin Aw",
+        "Mingxuan Liu",
+        "Valerio Scarani"
+      ],
+      "summary": "The Petz recovery map is considered one of the key candidates for the quantum analogue of Bayesian inference and Jeffrey's conditionalization. Since, there seems to be a natural connection between Bayesian inference and the notion of state tomography, it is natural to ask if the Petz recovery can be used for this latter task.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.21309v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "fd4599c466f5af09",
+      "title": "Random quantum circuits, chaos and quantum thermalization",
+      "authors": [
+        "J. T. Chalker"
+      ],
+      "summary": "These notes accompany lectures given in June 2025 at the summer school \\emph{Fundamental Problems in Statistical Physics XVI}. They offer a short introduction to random quantum circuits as simple models for generic many-body quantum systems.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.21303v1",
+      "doi": "10.1088/1742-5468/ae7424",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph",
+        "cond-mat.stat-mech"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "454de936d98137f7",
+      "title": "Exponential-in-$N_c^2$ cost reduction of product-formula-based quantum simulations of quantum chromodynamics",
+      "authors": [
+        "Zohreh Davoudi",
+        "Jesse R. Stryker"
+      ],
+      "summary": "Quantum algorithms for simulating quantum chromodynamics (QCD) have matured steadily since the pioneering work of Byrnes and Yamamoto [PRA 73, 022328 (2006)]. The most popular strategies for Hamiltonian simulation involve product-formula decompositions.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.21258v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th",
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "7ebde102bfa9616c",
+      "title": "Eavesdropper-Blind Remote State Preparation and Applications to Quantum Public-Key Encryption",
+      "authors": [
+        "Kaniuar Bacho",
+        "Alexandru Cojocaru"
+      ],
+      "summary": "Remote state preparation (RSP) is a central primitive in quantum cryptography, enabling classical parties to remotely construct quantum states using only classical communication. As a result, RSP serves as a key building block in numerous protocols involving classical clients and quantum servers, allowing classical parties to leverage the advantages offered by powerful quantum computers.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.21241v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph",
+        "cs.CR"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "76cb0e8cd6602435",
+      "title": "Probing quantumness of superpositions of Gaussian states via Tsirelson probability",
+      "authors": [
+        "Yue Zhang"
+      ],
+      "summary": "Superpositions of Gaussian states, including circular states and generalized circular states, exhibit a rich variety of nonclassical features such as Wigner negativity and sub-Planck phase-space structures. The Tsirelson probability, central to the Tsirelson precession protocol, is defined as the average probability that a precessing quadrature yields a positive outcome when measured at equally spaced times, with the classical bound given by $1/2 \\pm 1/(2d).$ In this work, we compute this probability for…",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.21217v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph",
+        "math-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "4d757d727aac8fd4",
+      "title": "Fixed-ray escort representations of sandwiched and $α$--$z$ Rényi divergences on von Neumann algebras",
+      "authors": [
+        "Tanay Kibe",
+        "Pratik Roy"
+      ],
+      "summary": "We represent sandwiched and $α$-$z$ Rényi divergences as averages of ordinary relative entropy. The $α$-$z$ Rényi divergence is shown to be an integral over the relative entropy of a canonical family of fixed-ray escort states along the ray $z=cα$.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.21214v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph",
+        "hep-th",
+        "math-ph",
+        "math.OA"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "02e1e1ef07c1fc44",
+      "title": "The Entanglement Content of Quantum Measurement Bases",
+      "authors": [
+        "Jef Pauwels",
+        "Otfried Gühne"
+      ],
+      "summary": "Bell-state measurements are essential ingredients in many protocols for quantum information processing, ranging from quantum teleportation and dense coding to entanglement distribution in quantum networks. Their power relies on the fact that they are measurements in an entangled basis of a two-particle system and that the used Bell-state basis can be generated from a single Bell state by local unitary transformations.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.21185v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "3df1976d87e9ced4",
+      "title": "A Bayesian formulation of hybrid quantum-classical dynamics",
+      "authors": [
+        "Hilbert Kappen"
+      ],
+      "summary": "We develop a Bayesian formulation of diffusive quantum-classical dynamics by treating the wave function and classical variables as components of an ordinary stochastic process. The joint probability density P(ψ,x,t) obeys a classical Fokker-Planck equation, while the quantum state appears as its second moment.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.21169v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "483d4edff31d07ba",
+      "title": "Distributed synthesis of arbitrary graph states in quantum networks via rank-two GF(2) reduction",
+      "authors": [
+        "Xiaoyi Zheng",
+        "Lin Chen",
+        "Chan-Tong Lam"
+      ],
+      "summary": "Existing schemes for synthesizing graph states in quantum networks are essentially edge-by-edge constructions, so quantities such as the time-slot depth and the resource overhead grow significantly with the edge density of the target graph. This paper proposes a new method.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.21166v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "d9fe28dfa66519b9",
+      "title": "Quantum Fisher information in a quenched $p + ip$ superfluid",
+      "authors": [
+        "Stelio Varrone",
+        "Yunxiang Liao"
+      ],
+      "summary": "The quantum Fisher information (QFI) is widely used to characterize quantum phases and transitions, but its diagnostic power sometimes relies on selecting special generators based on prior knowledge of the underlying physics. We ask whether this requirement can be relaxed in nonequilibrium systems by studying the QFI of the long-time asymptotic state of a two-dimensional p+ip superfluid following an instantaneous quench of the coupling strength, using the particle number within a large subextensive subsystem as…",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.21164v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "cond-mat.quant-gas",
+        "cond-mat.supr-con",
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "8709b0104195668c",
+      "title": "Entangling Power Dynamics: Ergodicity and Mixing",
+      "authors": [
+        "Rahul V",
+        "Ranjan Modak",
+        "Shaon Sahoo",
+        "S Aravinda"
+      ],
+      "summary": "We study quantum dynamics through the lens of entanglement generation and characterize the underlying unitary evolution by the distinct signatures it imprints on the time-dependent entangling power. For a unitary operator, we characterize ergodicity by the equality between its long-time-averaged entangling power and the Haar-averaged linear entropy.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.21151v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph",
+        "cond-mat.stat-mech",
+        "nlin.CD",
+        "nlin.SI"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "4b4ae266526505ca",
+      "title": "Quantum thermodynamics and semidefinite optimization: Boltzmann, Fermi-Dirac, and Bose-Einstein frameworks",
+      "authors": [
+        "Michele Minervini",
+        "Nana Liu",
+        "Dhrumil Patel",
+        "Mark M. Wilde"
+      ],
+      "summary": "Here we argue how quantum thermodynamics offers a unifying interpretation for a wide class of semidefinite programs (SDPs) that arise in quantum information. Three SDP variable constraints, namely trace-one density operators, operator-bounded measurements, and the unbounded positive semidefinite cone, admit thermodynamic regularizations associated with Boltzmann, Fermi-Dirac, and Bose-Einstein statistics, respectively.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.21123v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph",
+        "cond-mat.stat-mech"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "11f9a591fd4e01e1",
+      "title": "An autonomous feedback protocol: responding to temperature and potential changes in energy converters",
+      "authors": [
+        "Krishna Lyn Delima",
+        "Elsa Danielsson",
+        "Bruno Bertin-Johannet",
+        "Janine Splettstoesser"
+      ],
+      "summary": "Nanoscale thermoelectric devices convert tiny amounts of heat into power. But what happens if the external conditions and resulting temperature differences are not a priori known?",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.21113v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "cond-mat.mes-hall",
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "ae80eb9030d33f71",
+      "title": "Axiomatization of the Levin--Wen Wave Function",
+      "authors": [
+        "Zhengwei Liu",
+        "Zishuo Zhao"
+      ],
+      "summary": "The Levin--Wen model provides a lattice realization of topological orders associated with a given unitary fusion category. A longstanding open problem is to characterize Levin--Wen ground-state wave functions intrinsically, without assuming a priori categorical symmetry data or a Hamiltonian.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.21109v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "math-ph",
+        "math.QA",
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "038e56b87ef031c6",
+      "title": "Quantifying Entangling Power of Controlled Unitary Gates",
+      "authors": [
+        "Ankur Haldar",
+        "Pankaj Agrawal",
+        "Prasenjit Deb"
+      ],
+      "summary": "Applying controlled unitary gates to generate entanglement between qubits is a routine task in both quantum communication and computation. The existing tools for predicting how much entanglement a given gate can generate require either simulation of the entangling circuit or averaging over a distribution of inputs for a given controlled unitary gate.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.21105v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "a6aa7e473d3c74cc",
+      "title": "Symmetry Constrained Quantum Error Mitigation for the Schwinger Model",
+      "authors": [
+        "Alexander Tomlinson",
+        "Graham Van Goffrier",
+        "Bipasha Chakraborty",
+        "Zhenyu Cai"
+      ],
+      "summary": "Quantum error mitigation (QEM) is at the very heart of near-term quantum simulations and lattice gauge theories are no exceptions, rather their physical symmetries provide natural consistency checks on noise quantum states. In this work, we exploit the parity and fermion-number symmetries of a gauge theory, the (1+1)-dimensional Schwinger model, under depolarising noise and investigate symmetry verification under digital quantum simulation.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.21103v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph",
+        "hep-lat",
+        "physics.comp-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "38365ba40fddb292",
+      "title": "Minimization of micromotion for nanoparticles in a Paul trap",
+      "authors": [
+        "Jamie Morley",
+        "Jean Paul Louys Sansó",
+        "Dmitry Bykov",
+        "Simon Baier",
+        "Tracy Northup"
+      ],
+      "summary": "When a charged particle in a Paul trap is displaced from the node of the AC trapping field, excess micromotion arises as an undesired effect. Excess micromotion heats the particle, limits the precision with which the particle can be localised, and acts as a decoherence channel in quantum mechanical experiments.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.21011v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph",
+        "physics.ins-det",
+        "physics.optics"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "10877e8ffe42369f",
+      "title": "Degeneracy beyond the parity-symmetry protection in the Lipkin-Meshkov-Glick model",
+      "authors": [
+        "Jamil Khalouf-Rivera",
+        "Miguel Carvajal",
+        "Francisco Pérez-Bernal"
+      ],
+      "summary": "Degeneracy patterns in quantum mechanics stem from the system symmetries. In particular, the broken-symmetry phase in the well-known Lipkin-Meshkov-Glick (LMG) model is composed of doubly-degenerate states of different parity.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.21010v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph",
+        "math-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "2fce202f3f266f47",
+      "title": "When More Becomes Less: Topology-Reversed Three-Qubit Gate Performance on IBM Quantum Processors",
+      "authors": [
+        "Simona K. Grigorova",
+        "Stancho S. Stanchev",
+        "Nikolay V. Vitanov"
+      ],
+      "summary": "The exact Toffoli gate admits a six-CX decomposition, denoted by $CCX_6$, that is optimal under unrestricted two-qubit connectivity. On a linear three-qubit topology, however, $CCX_6$ contains 4 nearest-neighbor CX gates and 2 non-nearest-neighbor CX gates.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.21004v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "2221f7f7724fcde8",
+      "title": "A Classification of Translation-Invariant Quantum Codes in Any Dimension",
+      "authors": [
+        "Andrew Li",
+        "Dominic J. Williamson"
+      ],
+      "summary": "Quantum error-correcting codes with two-dimensional translation invariance are known to be equivalent to copies of the two-dimensional toric code. Such a simple classification is not possible for quantum codes with higher dimensional translation invariance due to the existence of multiple types of toric codes and infinite families of fracton codes.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20981v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph",
+        "cond-mat.str-el"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "c9505cf532ffaeca",
+      "title": "Tools for Reducing Service Time in Near-Term Quantum Networks",
+      "authors": [
+        "Jake Smith",
+        "Thomas R. Beauchamp",
+        "Scarlett Gauthier",
+        "Oumayma Bouchmal",
+        "Stephanie Wehner"
+      ],
+      "summary": "Architectures have been proposed to control entanglement generation in multi-user quantum networks. To allow time for local operations and classical communication at end nodes, these architectures insert fixed separations between consecutive batches of entanglement generation attempts.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20954v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph",
+        "cs.NI"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "f2b0802e1d5bc4ae",
+      "title": "Finite Weyl polynomials and the approach to Tsirelson's bound in relativistic scalar quantum field theory",
+      "authors": [
+        "J. G. A. Caribé",
+        "M. S. Guimaraes",
+        "I. Roditi",
+        "S. P. Sorella"
+      ],
+      "summary": "We construct four bounded Hermitian operators, each one a finite polynomial in the unitary Weyl operators, for the Bell-CHSH inequality in a free massive scalar field in $1+1$ dimensions. The operators are localized in complementary wedges.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20926v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "hep-th",
+        "math-ph",
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "2bf3beffd10beda2",
+      "title": "Anisotropic dynamical reconstruction of quantum geometry in quenched Chern insulators",
+      "authors": [
+        "Nan Li",
+        "Zhiyong Liu",
+        "Zhaoxin Liang",
+        "Ying Hu"
+      ],
+      "summary": "Under unitary dynamics, the Chern number of an evolving quantum state remains conserved even when a quench drives the Hamiltonian across a topological phase transition. In sharp contrast, we reveal an anisotropic dynamical reconstruction of the quantum metric.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20895v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "9fb50e4c26a7cba4",
+      "title": "Characterizing Multimode Effects in a Guided Matterwave Gyroscope",
+      "authors": [
+        "Jessica K. Eastman",
+        "Ellen Zheng",
+        "Stuart S. Szigeti",
+        "Simon A. Haine"
+      ],
+      "summary": "We theoretically investigate the performance of a compact matterwave vortex gyroscope formed by a two-component Bose-Einstein condensate in a toroidal potential. Unlike conventional atomic gyroscopes that rely on the Sagnac effect, the topological stability of the vortex state yields rotation sensitivity independent of the enclosed area, making the device robust against geometric drifts.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20889v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph",
+        "cond-mat.quant-gas"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "045f9db67ae9bd07",
+      "title": "Dissipation driven boundary localization in higher order topological insulators",
+      "authors": [
+        "Xue Ping Ren",
+        "Xiao Ran Wang",
+        "Xin Ran Ma",
+        "Xi Hu",
+        "Su Peng Kou"
+      ],
+      "summary": "We study dissipation driven boundary localization in a Bernevig Hughes Zhang type second order topological insulator by introducing inhomogeneous, spin dependent boundary dissipation. After projection onto the edge subspace, the dominant component of the boundary dissipation lies in the same Pauli channel as the kinetic term.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20867v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "cond-mat.mes-hall",
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "95306a2ed33b736b",
+      "title": "Spin models with critical ground space degeneracy from Lie algebra relations",
+      "authors": [
+        "Andras Molnar",
+        "Efekan Kökcü",
+        "Norbert Schuch",
+        "Bojko N. Bakalov"
+      ],
+      "summary": "We introduce an $\\mathrm{SO}(3)$-symmetric spin model derived from the algebraic structure of $\\mathfrak{so}(3)$: It is obtained as the nearest-neighbor parent Hamiltonian of a Matrix Product State (MPS) built from the generators of the Lie algebra $\\mathfrak{so}(3)$ and the identity matrix, and therefore encodes the quadratic relations of the Lie algebra. We characterize the ground space structure of the resulting model and show that for open boundary conditions (OBC), it exhibits a quadratic ground space…",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20849v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph",
+        "cond-mat.str-el"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "704eaae33ed86790",
+      "title": "Non-Hermitian sensing via end-to-end Green's functions",
+      "authors": [
+        "Hui-Qiang Liang",
+        "Yu-Shi Cheng",
+        "Guo-Fu Xu"
+      ],
+      "summary": "Sensing hinges on two key attributes: high sensitivity and resilience to noise. Here, we present a scheme that unites these features within a single framework. By harnessing the exponential amplification of end-to-end Green's functions-a direct signature of the non-Hermitian skin effect-our scheme achieves an exponential sensitivity scaling of exp(αL) with α a model-specific constant and L the system size.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20847v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "0ef0330536684bf2",
+      "title": "First-principles design of main-group dimer defects in ZnO as candidate quantum defects",
+      "authors": [
+        "Taejoon Park",
+        "Erik Alfredo Perez",
+        "Shimin Zhang",
+        "Yuan Ping",
+        "Hosung Seo"
+      ],
+      "summary": "Zinc oxide (ZnO), a wide-band-gap semiconductor with mature growth techniques, is a promising host for optically active quantum spins. Yet, optically active quantum defects in ZnO remain largely unexplored.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20837v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "cond-mat.mtrl-sci",
+        "cond-mat.mes-hall",
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "aad1faa54242b319",
+      "title": "Coherence-Based Identification of Carbon-Based Spin Qubits in Hexagonal Boron Nitride from First Principles",
+      "authors": [
+        "Hyeonsu Kim",
+        "Jaewook Lee",
+        "Huijin Park",
+        "Hosung Seo"
+      ],
+      "summary": "Carbon-related defects in hexagonal boron nitride are promising room-temperature single-spin qubits and quantum sensors, but their atomic structures remain largely unidentified. Here we show, using first-principles calculations of electron-spin decoherence, that the atomic structure of each defect is imprinted in its spin coherence.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20833v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph",
+        "cond-mat.mes-hall"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "69bb336f8250c94d",
+      "title": "Quantum phase estimation for nondestructive monitoring and Wigner tomography of bosonic fields",
+      "authors": [
+        "Lucas R. S. Santos",
+        "Ciro M. Diniz",
+        "Daniel Z. Rossatto",
+        "Celso J. Villas-Boas"
+      ],
+      "summary": "Quantum phase estimation is usually introduced as an algorithmic primitive for extracting eigenphases of unitary operators. Here we show that, when implemented through a dispersive light-matter interaction, it can also be used as a nondestructive measurement tool for bosonic fields.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20787v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "e243a4d74e692f28",
+      "title": "The four-dimensional Chamon code",
+      "authors": [
+        "Zhipeng Liang",
+        "Xuan Wang"
+      ],
+      "summary": "Fracton models have attracted considerable interest as candidates for quantum memories because of their unconventional ground-state degeneracy (GSD) and restricted-mobility excitations. The four-dimensional (4D) Chamon code introduced in our previous work is constructed via the 4D XYZ product of two two-dimensional (2D) toric codes.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20775v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "8c31bd94d9facf41",
+      "title": "Hybrid dynamical decoupling and coherent driving for high-fidelity nuclear-spin control in diamond",
+      "authors": [
+        "Jiwon Jeon",
+        "Donghun Jung",
+        "Eunsang Lee",
+        "Junghyun Lee"
+      ],
+      "summary": "Nitrogen-vacancy (NV) centers in diamond provide room-temperature electron-nuclear spin registers for quantum sensing and quantum information processing, with surrounding 13C nuclear spins serving as long-lived quantum memories. However, coherent control of large nuclear-spin registers is limited by finite electron-spin coherence and spectral addressability.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20742v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "cfacddef2f0b5445",
+      "title": "Activate genuine nonlocality from distinguishable sets in tripartite systems",
+      "authors": [
+        "Hui-Juan Zuo",
+        "Ying-Ying Lu",
+        "Shao-Ming Fei"
+      ],
+      "summary": "A set of orthogonal quantum states in multipartite systems is of genuine nonlocality if it is locally indistinguishable in every bipartition. If it is locally reducible when the parties are separated, we say that it has genuine nonlocality of type~\\uppercase\\expandafter{\\romannumeral 1}; otherwise, it has genuine nonlocality of type~\\uppercase\\expandafter{\\romannumeral 2}.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20741v1",
+      "doi": "10.1002/qute.70382",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "540945c01edd4623",
+      "title": "Laziness of Quantum Walks on Graphs",
+      "authors": [
+        "Amulya Mohan",
+        "Christino Tamon",
+        "Yichi Xu",
+        "Hanmeng Zhan"
+      ],
+      "summary": "The trace of the average mixing matrix of a quantum walk measures the \"laziness\" of the walk: the higher the trace, the more likely that the walker returns home in the long run. In this paper, we develop tools to study this graph invariant arising from Laplacian quantum walks.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20739v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "math.CO",
+        "cs.DM",
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "41a9bb200b583344",
+      "title": "Restoring heat and particle flow in strongly coupled non-equilibrium devices",
+      "authors": [
+        "Noa Ludwin",
+        "Ohad Cremerman",
+        "Milan Šindelka",
+        "David Gelbwaser-Klimovsky"
+      ],
+      "summary": "Under non-equilibrium conditions, energy/particle currents flow through a quantum system coupled to multiple baths. Although the fluxes increase in the weak coupling regime as the coupling strengthens, the reason why they decrease to zero for large coupling remains unknown.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20737v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph",
+        "cond-mat.mes-hall"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "aa35a53b073079dc",
+      "title": "Difference-Set Weyl Channels: Exact Capacity, Optimizer Bifurcation, and Scalable Entanglement Separation",
+      "authors": [
+        "Se-Wan Ji"
+      ],
+      "summary": "In odd local dimension $D$, complete Wigner positivity yields stochastic phase-space dynamics on Wigner-nonnegative states but does not control signed inputs, entanglement across channel uses, or collective decoding. Using a subsystem-resolved Weyl decomposition, we characterize the equality conditions of the tensor-stable output-purity bound.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20726v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "91b38f461b8da0b8",
+      "title": "Prediction of a layer nonlinear Hall effect in bilayer nonmagnetic or antiferromagnetic systems",
+      "authors": [
+        "Zehou Li",
+        "Shenda He",
+        "Pan Zhou",
+        "Baoru Pan",
+        "Rui Tan",
+        "Lizhong Sun"
+      ],
+      "summary": "Nonlinear Hall effects provide a powerful probe of quantum geometry in solids and enable rectification phenomena beyond the constraints of linear response. In this Letter, we predict a \\emph{layer nonlinear Hall effect} (LNHE) in stacked bilayer systems composed of nonmagnetic or antiferromagnetic materials with a vanishing linear Hall conductivity.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20724v1",
+      "doi": "10.1103/2gyh-y52n",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "cond-mat.mtrl-sci",
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "60087a2b6547e81e",
+      "title": "Quantum Zeno and Anti-Zeno Responses: Universal Spectral Criterion for Measurement-Induced Decay",
+      "authors": [
+        "Yu-Xiang Chen",
+        "Yuan-De Jin",
+        "Wen-Long Ma"
+      ],
+      "summary": "We develop a general framework for characterizing the response of an evolving quantum system to repetitive quantum measurements. Modeling each evolution-measurement cycle as a quantum channel induced by an effective Liouvillian generator, we find that the Liouvillian spectral gap determines the measurement-induced decay rate.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20702v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "66f01710d8e46564",
+      "title": "On quantum channels: extreme points, topology, and categorical properties",
+      "authors": [
+        "J. M. S. T. da Silva"
+      ],
+      "summary": "In this thesis, quantum channels are studied from the point of view of Mathematics. We studied the CPTP (completely positive trace preserving) and UCPTP channels, the latter being the unital channels.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20689v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "math-ph",
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "f699fcff589741f7",
+      "title": "Continuous-angle logical rotations in the Steane code",
+      "authors": [
+        "Eric Huang",
+        "Daiwei Zhu",
+        "Matteo Ippoliti",
+        "Christopher Monroe",
+        "Michael J. Gullans"
+      ],
+      "summary": "We experimentally demonstrate continuous-angle logical $Z$ rotations in the $[[7,1,3]]$ Steane code on the IonQ Forte trapped-ion processor. A round of the protocol applies a transversal physical $Z$ rotation by $θ$, followed by Steane syndrome extraction and decoding, which induces a syndrome-dependent logical $Z$ rotation.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20676v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "aae50d547e1e9b9d",
+      "title": "Symmetry Adapted Hierarchical Equations of Motion for Exact Simulations of Large Polariton Systems",
+      "authors": [
+        "M. Elious Mondal",
+        "Pengfei Huo"
+      ],
+      "summary": "Hierarchical equations of motion(HEOM) provide exact dynamics of open quantum systems coupled to harmonic baths, but their computational cost becomes prohibitive for systems with many independent local environments. In this work, we develop a symmetry-adapted HEOM formalism to significantly reduce the computational cost for the permutationally invariant Holstein-Tavis-Cummings (HTC) model.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20657v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "physics.chem-ph",
+        "physics.comp-ph",
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
+    },
+    {
+      "id": "87c947b8bdba028e",
+      "title": "Nonlocal correlation in quantum network under relativistic motion",
+      "authors": [
+        "Si-Han Li",
+        "Tian-Yang Wang",
+        "Ai-Yan Tong",
+        "Shu-Min Wu"
+      ],
+      "summary": "We investigate the relativistic dynamics of network nonlocality in general $n$-local networks with chain and star topologies using the Unruh-DeWitt detector model. We show that the relativistic degradation of network nonlocality is strongly governed by the underlying topology.",
+      "publication_date": "2026-08-21",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20650v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "gr-qc",
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 42
     },
     {
       "id": "960d601525cd6206",
@@ -2228,7 +3614,7 @@
         "cs.LG"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "af87c79fd889f4c8",
@@ -2262,7 +3648,7 @@
         "Narrative"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "7c3373d98113ce20",
@@ -2292,7 +3678,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "b0bff198d66d7e78",
@@ -2311,7 +3697,7 @@
       "source_provider": "Europe PMC",
       "url": "https://europepmc.org/article/MED/42631617",
       "doi": "10.3791/71171",
-      "work_type": "video-audio media; im; journal article",
+      "work_type": "video-audio media; journal article",
       "evidence_label": "Journal article",
       "open_access": false,
       "cited_by_count": 0,
@@ -2320,7 +3706,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "6c3eb7ffdc144030",
@@ -2344,7 +3730,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "eaba570301d5bfef",
@@ -2370,7 +3756,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "5b4d337ef56ea8f4",
@@ -2400,7 +3786,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "e09eef8c665e6743",
@@ -2425,7 +3811,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "1fbe8fdb249b594b",
@@ -2470,7 +3856,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "c2556226bf4f62ea",
@@ -2495,7 +3881,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "0f5e306421c4ba94",
@@ -2531,7 +3917,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "fbf1114e068bdb28",
@@ -2556,7 +3942,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "0841aa494f098c30",
@@ -2585,7 +3971,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "54e5c1a4f91f22cd",
@@ -2617,7 +4003,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "e50b897eec687028",
@@ -2642,7 +4028,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "a04da840010c0cd1",
@@ -2666,7 +4052,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "534caf885144df56",
@@ -2696,7 +4082,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "76cf258cb249e399",
@@ -2720,7 +4106,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "9e4ab78c15a8868e",
@@ -2750,7 +4136,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "96d98a8591d8695e",
@@ -2775,7 +4161,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "c7455f89ab08a48d",
@@ -2804,7 +4190,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "b2984046c2c77006",
@@ -2833,7 +4219,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "c1f050aaa54366f6",
@@ -2861,7 +4247,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "50beadf81660e5cb",
@@ -2892,7 +4278,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "ffc6a23f999b75f5",
@@ -2929,7 +4315,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "58959ce467594da7",
@@ -2955,7 +4341,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "4b4391abcf54c97b",
@@ -2989,7 +4375,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "40730cb833f49a62",
@@ -3016,7 +4402,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "88e4704c2d7b8df7",
@@ -3046,7 +4432,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "0a6770b9ee5026c7",
@@ -3071,7 +4457,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "e5db862f8f4ec2af",
@@ -3096,7 +4482,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "1960dff6dda243cd",
@@ -3121,7 +4507,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "89d40d49bc0372e9",
@@ -3149,7 +4535,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "e91731d0e6971a53",
@@ -3175,7 +4561,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "49d52a634f0ffbe7",
@@ -3203,7 +4589,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "283608c0eff90d4f",
@@ -3228,7 +4614,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "86d515e7818b5311",
@@ -3254,7 +4640,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "de43b9cc55baaeae",
@@ -3280,7 +4666,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "84184034b014497e",
@@ -3304,7 +4690,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "32ed7e329a646aec",
@@ -3331,7 +4717,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "cae617eaf087191d",
@@ -3355,7 +4741,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "7aca581818986837",
@@ -3382,7 +4768,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "23180420fec726d9",
@@ -3411,7 +4797,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "b68200d4db544575",
@@ -3443,7 +4829,290 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
+    },
+    {
+      "id": "0946f4414e397e53",
+      "title": "Scaling Behavior of Parameterized Quantum Circuits from a Lie-Algebraic Perspective",
+      "authors": [
+        "Hiroshi Ohno"
+      ],
+      "summary": "Understanding how the performance of parameterized quantum circuits scales with available resources is important for characterizing their trainability and effective model capacity. In this study, we numerically investigate data scaling, model scaling, and compute scaling in parameterized quantum circuits and examine Lie-algebraic quantities as alternative measures of model size.",
+      "publication_date": "2026-08-20",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20603v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 41
+    },
+    {
+      "id": "b6a5d08017be2f88",
+      "title": "Clifford-efficient sparse state preparation for molecular wavefunctions",
+      "authors": [
+        "Yingrong Chen",
+        "Nathan A. Baker",
+        "Rushi Gong",
+        "Conrad S. N. Johnston",
+        "Brad Lackey",
+        "Hongbin Liu",
+        "Sasha Schmidt",
+        "Yuan Su",
+        "David B. Williams-Young",
+        "Yinuo Yang"
+      ],
+      "summary": "Sparse quantum state preparation concerns an $n$-qubit target state that is a superposition of only $d \\ll 2^n$ computational basis states. Existing approaches exploit this sparsity by compressing these $d$ basis states and their amplitudes onto a smaller set of qubits, called the dense register, before expanding the prepared state to the full register.",
+      "publication_date": "2026-08-20",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20593v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 41
+    },
+    {
+      "id": "2b573ea5ba0d2b41",
+      "title": "Nonlinear Diamagnetic Interactions in Ultrastrongly Coupled 2D Electrons",
+      "authors": [
+        "Dasom Kim",
+        "Kiran M. Kulkarni",
+        "Vaibhav Sharma",
+        "Dukhyung Lee",
+        "Geon Lee",
+        "Sunghwan Kim",
+        "Jonas Grumm",
+        "Shuang Liang",
+        "Hongjing Xu",
+        "Fuyang Tay",
+        "Andrey Baydin",
+        "Motoaki Bamba",
+        "Andreas Knorr",
+        "Christopher J. Stanton",
+        "Michael J. Manfra",
+        "Minah Seo",
+        "Stephen Hughes",
+        "Junichiro Kono"
+      ],
+      "summary": "The quantum Hopfield model is widely used to describe ultrastrong light--matter coupling between cavity photons and collective bosonic excitations in solids, where the diamagnetic interaction is conventionally assumed to be a constant. We experimentally demonstrate that the diamagnetic response of Landau polaritons is reduced under strong terahertz field excitation.",
+      "publication_date": "2026-08-20",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20578v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph",
+        "cond-mat.mes-hall"
+      ],
+      "has_abstract": true,
+      "signal_score": 41
+    },
+    {
+      "id": "84f1fdf56045efb4",
+      "title": "Energetics in daemonic work extraction protocols via non-ideal QND-energy measurement",
+      "authors": [
+        "Daniele Morrone",
+        "Francesco Albarelli",
+        "Vittorio Giovannetti",
+        "Mauro Paternostro",
+        "Marco G. Genoni"
+      ],
+      "summary": "We address the problem of extracting work from a quantum system assisted by a quantum non-demolition (QND) energy measurement. When a perfect QND measurement can be performed and an auxiliary zero-temperature bath is available, the full energy of the quantum state can in principle be extracted even without any prior information on the input state.",
+      "publication_date": "2026-08-20",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20487v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 41
+    },
+    {
+      "id": "be504bcf2927ff69",
+      "title": "Perfect state transfer and Cayley presentations",
+      "authors": [
+        "Arnbjörg Soffía Árnadóttir",
+        "Krystal Guo"
+      ],
+      "summary": "We study perfect state transfer on Cayley graphs from the point of view that state transfer is a property of a graph and not of a group. This paper is a bridge between the classical question about isomorphic Cayley graphs of non-isomorphic groups and quantum walks on graphs.",
+      "publication_date": "2026-08-20",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20476v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "math.CO",
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 41
+    },
+    {
+      "id": "e4812c21e6d4b8b9",
+      "title": "Collective Quantum Logic Spectroscopy",
+      "authors": [
+        "Raphael Kaubruegger",
+        "Matthew Patkowski",
+        "Yicheng Zhang",
+        "Robert J. Lewis-Swan",
+        "David B. Hume",
+        "Ana Maria Rey"
+      ],
+      "summary": "Scaling trapped-ion quantum sensors from single ions to large ensembles is a key challenge for next-generation precision measurements. At the same time, many ion species of interest for optical clocks and tests of fundamental physics lack closed cycling transitions required for direct laser cooling and state detection.",
+      "publication_date": "2026-08-20",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20471v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph",
+        "physics.atom-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 41
+    },
+    {
+      "id": "fdda549795ed2347",
+      "title": "First Search for Ultraheavy Dark Matter Using a Magnetically Levitated Particle",
+      "authors": [
+        "Dennis G. Uitenbroek",
+        "Dorian W. P. Amaral",
+        "Juehang Qin",
+        "Jurriaan Langendorff",
+        "Andrew Gingerich",
+        "Tjerk H. Oosterkamp",
+        "Christopher D. Tunnell"
+      ],
+      "summary": "We present the first search for ultraheavy dark matter using a magnetically levitated particle. The POLONAISE experiment uses a milligram-scale ferromagnet levitated in a superconducting trap, admitting a force sensitivity of $0.07\\,\\mathrm{fN\\,Hz^{-1/2}}$ and resolving impulses as small as $1\\,\\mathrm{TeV}/c$.",
+      "publication_date": "2026-08-20",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20464v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "hep-ph",
+        "hep-ex",
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 41
+    },
+    {
+      "id": "e3dc5b49412b7e54",
+      "title": "To Scale Up or To Scale Out: Evaluating Space-Time Costs of Compiled Logical Circuits on Modular Superconducting Quantum Processors",
+      "authors": [
+        "Nikiforos Paraskevopoulos",
+        "Sebastian de Bone",
+        "Mick Christophersen",
+        "Simon Storz",
+        "A. Mert Bozkurt",
+        "Arno Bargerbos",
+        "Sebastian Feld"
+      ],
+      "summary": "Modular integration has emerged as the main pathway for scaling superconducting quantum processing units (QPUs) beyond the constraints of fabrication yield and physical footprint. Currently, two primary strategies lead this effort.",
+      "publication_date": "2026-08-20",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20462v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 41
+    },
+    {
+      "id": "8a44c08022336d99",
+      "title": "Practical Error Suppression and Mitigation for Reliable Quantum Computing",
+      "authors": [
+        "Han-Ze Li",
+        "Mengjie Yang",
+        "Xianquan Yan",
+        "Dax Enshan Koh",
+        "Ching Hua Lee",
+        "Ruizhe Shen"
+      ],
+      "summary": "Quantum computing is entering a transitional regime between noisy intermediate-scale quantum (NISQ) processing and early fault-tolerant quantum computation (FTQC), in which increasingly capable hardware is beginning to support repeated syndrome measurements, partial error correction, and logical-qubit operations, while residual physical and logical errors remain non-negligible. In this regime, error suppression, error mitigation, and quantum error correction are increasingly better viewed as complementary layers…",
+      "publication_date": "2026-08-20",
+      "source": "arXiv",
+      "source_provider": "arXiv",
+      "url": "http://arxiv.org/abs/2608.20453v1",
+      "doi": "",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quant-ph"
+      ],
+      "has_abstract": true,
+      "signal_score": 41
     },
     {
       "id": "9961d0035252e0e2",
@@ -3471,7 +5140,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "721fb59f20fa2809",
@@ -3504,7 +5173,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "079c3b5cfb28dd2b",
@@ -3539,7 +5208,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "46053176c6e3a19c",
@@ -3575,7 +5244,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "ee5756dd107054cb",
@@ -3602,7 +5271,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "5b615428a14b039f",
@@ -3628,7 +5297,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "285ece5a26ac9abb",
@@ -3660,7 +5329,7 @@
         "physics.atom-ph"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "2802ce91467935af",
@@ -3688,7 +5357,7 @@
         "nlin.PS"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "dc3b610c8c243345",
@@ -3716,7 +5385,7 @@
         "math-ph"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "de073941a1e03e74",
@@ -3749,7 +5418,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "47366b5dfdba1b69",
@@ -3775,7 +5444,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "777a3184e54b0a17",
@@ -3803,7 +5472,7 @@
         "physics.atom-ph"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "d77de8438e72d82a",
@@ -3831,7 +5500,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "3959f8b6305cb6a8",
@@ -3859,7 +5528,7 @@
         "math-ph"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "6efe0f2152ae26a6",
@@ -3885,7 +5554,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "6655a303dd3087ca",
@@ -3911,1320 +5580,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "62cefbc3265ebf3f",
-      "title": "Architecture and Compilation Co-Design for High-Rate Quantum Product Codes on Neutral Atom Arrays",
-      "authors": [
-        "Adrian Liu",
-        "Wan-Hsuan Lin",
-        "Daniel Bochen Tan",
-        "Qian Xu",
-        "Jason Cong"
-      ],
-      "summary": "Achieving fault-tolerant quantum computing at a practical scale demands quantum error correction (QEC) codes with high encoding rates. Quantum low-density parity-check (qLDPC) codes emerge as a promising candidate, especially given the rise of neutral atom arrays that provide dynamic long-range connectivity via atom movements.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.20164v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph",
-        "cs.AR"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "2391b15d876a3046",
-      "title": "Proper Learning of Shallow All-to-All Quantum Circuits",
-      "authors": [
-        "Steven Kordonowy",
-        "Jacob Watkins"
-      ],
-      "summary": "This work considers a variation on the problem of learning shallow quantum circuits. Given query access to the circuit, as well as knowledge of its gate layout, we consider the task of learning the specific gates used in the circuit, producing an operationally-equivalent circuit matching this structure.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.20162v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "f161741996d7c1b8",
-      "title": "The ebbs and flows of quantum learning and sensing",
-      "authors": [
-        "Matias Karjula",
-        "Teemu Ojanen",
-        "Tapio Ala-Nissila",
-        "Moein N. Ivaki"
-      ],
-      "summary": "What is the relation between subsystem quantum complexity and the emergence of computationally useful structure? We address this by studying a family of minimally tunable postvariational quantum circuits, and show how spectral nonflatness and metrological response directly control the ensemble-typical information processing power.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.20155v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph",
-        "cond-mat.dis-nn",
-        "cond-mat.stat-mech",
-        "cond-mat.str-el"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "dcd2d989cdece538",
-      "title": "A Zoology of Quantum Turing Patterns",
-      "authors": [
-        "Kazuki Ikeda"
-      ],
-      "summary": "We explore quantum Turing pattern zoology, where the same Lindblad equation supports a morphology atlas of stripes, spots, holes, labyrinths, and defects. The stable stripe species provides a quantitatively controlled case in which morphology and Gaussian witness loss separate parametrically.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.20151v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph",
-        "cond-mat.stat-mech",
-        "math-ph",
-        "nlin.AO",
-        "nlin.PS"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "272a313b7d1e8876",
-      "title": "Vacuum viscosity and relativistic inertia: Motion of a massive object with charged internal degrees of freedom interacting with a classical field",
-      "authors": [
-        "Jen-Tsung Hsiang",
-        "Bei-Lok Hu"
-      ],
-      "summary": "Our present investigation into a rather rudimentary problem is motivated by two classes of problems studied since the 70's, cosmological particle creation and its more accessible analog, the dynamical Casimir effect on the one hand, and quantum friction a neutral atom moving along a dielectric surface would experience, on the other. The backreaction effects of produced particles being able to isotropize the expansion of the universe, or to slow down the moving mirror can be understood via the concept of vacuum…",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.20140v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph",
-        "physics.class-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "12b6453c5523edd5",
-      "title": "Reinforcement LearningtoHarness Approximation Errors for Long-Time QuantumSimulation",
-      "authors": [
-        "Yu-Bo Shi",
-        "Markus Heyl",
-        "Roderich Moessner",
-        "Marin Bukov",
-        "Hongzheng Zhao"
-      ],
-      "summary": "Accurate digital quantum simulation at long times is limited by the accumulation of errors inherent to approximate simulation. Here we introduce RL-Trotter, a reinforcement-learning framework that treats unavoidable approximation errors as resources for error correction rather than merely imperfections to suppress.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.20139v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph",
-        "cond-mat.dis-nn",
-        "cond-mat.stat-mech",
-        "cond-mat.str-el"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "2207da95687a6646",
-      "title": "Boltzmann counting in Hilbert space",
-      "authors": [
-        "Raúl O. Vallejos",
-        "Isadora Veeren",
-        "Frederico Brito",
-        "Fernando de Melo"
-      ],
-      "summary": "We introduce a geometric entropy for quantum preparations, defined as the logarithm of the Hilbert-space volume of pure states compatible with a given set of constraints. This construction extends Boltzmann's counting perspective to the quantum setting, where compatible states need not be orthogonal and the relevant notion of \"number of states\" is naturally replaced by a volume in state space.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.20136v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph",
-        "cond-mat.stat-mech"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "ab3fdfda05f06b84",
-      "title": "Preparation of Large Fock States in Resonators with High Probability",
-      "authors": [
-        "Lucas R. S. Santos",
-        "Ciro M. Diniz",
-        "Daniel Z. Rossatto",
-        "Celso J. Villas-Boas"
-      ],
-      "summary": "Large Fock states are important resources for bosonic quantum information and quantum-enhanced metrology, but preparing them with high probability at large excitation numbers remains challenging, as deterministic methods become increasingly control-intensive, while measurement-based approaches typically suffer from low heralding probabilities. Here we propose a protocol that combines quantum nondemolition photon-number encoding with quantum amplitude amplification to enable high-probability heralded generation of…",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.20133v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "27b8ea64e860f2b7",
-      "title": "SAKE: Spectral Autodiff Kernel Expansion for Geometric Liouvillian Transport. A Differential-Geometric Framework for Response Transport in Quantum Dynamical Systems",
-      "authors": [
-        "Eric R. Bittner",
-        "Carlos Silva-Acuna",
-        "Hao Li",
-        "Simon Paiva-Ortega"
-      ],
-      "summary": "We introduce the Spectral Autodiff Kernel Expansion (SAKE), a differentiable computational framework for transporting nonlinear spectroscopic response between neighboring quantum dynamical models. Rather than recomputing multidimensional spectra independently for each Hamiltonian or Liouvillian, SAKE constructs local transport expansions about a reference model by combining forward-mode automatic differentiation with Duhamel transport theory.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.20132v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph",
-        "physics.chem-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "24103a1bcbe68a13",
-      "title": "Geometric Control of Cat States in High Harmonic Generation",
-      "authors": [
-        "Arti Gaharwar",
-        "Rocío Borrego-Varillas",
-        "Marcelo F. Ciappina",
-        "Anna G. Ciriolo",
-        "Javier Rivera-Dean",
-        "Philipp Stammer",
-        "Paraskevas Tzallas",
-        "Emilio Pisanty",
-        "Maciej Lewenstein"
-      ],
-      "summary": "High-harmonic generation (HHG) provides a powerful platform for exploring the interaction between intense laser fields and matter on ultrafast timescales. Beyond its conventional description in terms of emitted radiation and electron dynamics, a fully quantum treatment of HHG reveals that the nonlinear light-matter interaction can modify the quantum state of the driving field itself, establishing correlations between the fundamental and harmonic modes.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.20119v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "physics.optics",
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "76fcac3ac7808de4",
-      "title": "Counterexamples to the fractional coloring conjecture for triply efficient shadow tomography",
-      "authors": [
-        "Jędrzej Stempin",
-        "Santiago Llorens",
-        "Felix Huber"
-      ],
-      "summary": "Fractional graph colorings are useful for the Shadow tomography of Pauli observables. In practice, it is desirable that any experimentally interesting set of Pauli operators has a small fractional chromatic number $χ_{f}$ for its anticommutation graph.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.20113v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "5370d79cfd7db187",
-      "title": "Squeezed- and coherent-state quantum key distribution over a deployed hybrid fibre-free-space channel",
-      "authors": [
-        "Dnan A. E. Hajomer",
-        "Huy Q. Nguyen",
-        "Ivan Derkach",
-        "Andreas B. Kidmose",
-        "Edoardo Rossi",
-        "Mattia Sabatini",
-        "Yoann Pietri",
-        "Marco Avesani",
-        "Francesco Vedovato",
-        "Michael Hentschel",
-        "Radim Filip",
-        "Giuseppe Vallone",
-        "Vladyslav Usenko",
-        "Tobias Gehring",
-        "Soren Forchhammer",
-        "Paolo Villoresi",
-        "Ulrik L. Andersen"
-      ],
-      "summary": "Quantum networks will combine optical fibre with free-space links, yet continuous-variable quantum key distribution (CV-QKD) has been developed predominantly for one medium or the other, while operation across concatenated fibre-free-space channels remains largely unexplored. The two media impose contrasting requirements: fibre transmission is stable and permits long processing intervals, whereas atmospheric propagation imposes transmittance fluctuations that degrade security and must be resolved on short…",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.20088v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "cb6a0666f578636e",
-      "title": "Shadow models of a quantum model for cloud cover and the influence of finite sampling noise",
-      "authors": [
-        "Hedwig Keller",
-        "Mierk Schwabe",
-        "Veronika Eyring"
-      ],
-      "summary": "Quantum computing is a quickly growing field that is promising various advantages compared to conventional computing. However, currently stand-alone quantum applications are scarce and hybrid (quantum-classical) computing is needed, especially in quantum machine learning (QML).",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.20076v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "1c406200d4a3b77f",
-      "title": "Nonzero-temperature vibronic spectra of polyatomic molecules from a zero-temperature classical trajectory",
-      "authors": [
-        "Davide Barbiero",
-        "Jiří J. L. Vaníček"
-      ],
-      "summary": "By combining coherence thermofield dynamics with the single-Hessian approximation, we enable simulations of low- to medium-resolution vibronic spectra of weakly anharmonic systems at nonzero temperatures, at negligible additional cost relative to zero-temperature calculations. Single-Hessian coherence thermofield Gaussian wavepacket dynamics is exact in any harmonic potential, provided that the reference Hessian is that of the final surface.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.20075v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "physics.chem-ph",
-        "physics.comp-ph",
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "60cf24b85ec0e161",
-      "title": "Kibble--Zurek Scaling in the Dicke Model at Mesoscopic Scales",
-      "authors": [
-        "Haowei Li",
-        "Hanteng Wang"
-      ],
-      "summary": "The Dicke model is a paradigmatic setting for collective light-matter physics and the superradiant phase transition. Yet extracting the critical exponents is challenging at experimentally accessible mesoscopic sizes, due to the slow divergence of the correlation time under all-to-all coupling and a photon-loss-driven crossover to a distinct dissipative universality class.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.20067v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "cond-mat.quant-gas",
-        "cond-mat.stat-mech",
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "f5a922d843ca89e3",
-      "title": "PPT Entanglement with Correlated Catalysis: Monotones and Irreversibility",
-      "authors": [
-        "Jingsong Ao",
-        "Aby Philip",
-        "Alexander Streltsov"
-      ],
-      "summary": "Quantum catalysts can overcome otherwise impossible quantum state transformations without being consumed, and allowing them to become correlated with the output makes this assistance substantially more powerful. This raises a fundamental question for entanglement theory: which limitations on state manipulation remain when such correlated catalysts are freely available?",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.20063v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "9d82ea31fe375cbb",
-      "title": "Radial Convex Geometry of Quantum States and Its Relation to Best Separable Approximation",
-      "authors": [
-        "Haonan Qiang"
-      ],
-      "summary": "We study bipartite entanglement from the convex geometry of quantum states. Taking the maximally mixed state as a reference point, we define a geometric entangled-space quantity $G(ρ)=[1-L(ρ)]/L(ρ)$ from the relative positions of the separable and quantum-state boundaries, and introduce a relative entanglement degree $Q(ρ)=[(1-p)/p]/G(ρ)$ by comparing it with the robustness relative to the maximally mixed state.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.20050v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "ea56af1951433d03",
-      "title": "Lensing and enhanced single atom detection via a single-pixel nanostructure",
-      "authors": [
-        "Ling-Xiao Wang",
-        "Lei Xu",
-        "Ai-Ping Liu",
-        "Guang-Jie Chen",
-        "Yuan-Hao Yang",
-        "Jia-Qi Wang",
-        "Xin-Biao Xu",
-        "Guang-Can Guo",
-        "Chang-Ling Zou",
-        "Guo-Yong Xiang"
-      ],
-      "summary": "We propose and demonstrate a general mechanism for nanoscale lensing based on the phase gradient imposed by a single nanostructure scattering light in its near-field. We verify this effect using an optical waveguide on a substrate, with single atoms serving as quantum probes that sample the near-field intensity through their fluorescence.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.20032v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph",
-        "physics.atom-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "9514b86e58199a0d",
-      "title": "Wide-field mid- to long-wave infrared imaging with undetected photons",
-      "authors": [
-        "Vladimir Kornienko",
-        "Nathan Gemmell",
-        "Caiyi Liu",
-        "Asteria Chen",
-        "Chris Phillips",
-        "Rupert Oulton"
-      ],
-      "summary": "Quantum imaging with undetected photons (QIUP) allows an object to be probed at mid-infrared frequencies by only measuring interference in the visible range, thus leveraging silicon camera technology. We show that non-collinear phase-matching in a silver thiogallate (AgGaS$_2$) crystal enables wide-field QIUP in the wavelength range of 6-10 $μ$m (1670-1000 cm$^{-1}$).",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.20015v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph",
-        "physics.optics"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "6bb4cebb8bfcbf61",
-      "title": "Bayesian inference and retrodiction for faithful states on von Neumann algebras",
-      "authors": [
-        "Pradyut Karmakar",
-        "Arthur J. Parzygnat"
-      ],
-      "summary": "Retrodiction is the act of inferring a cause from its effects, the most common example of which is Bayesian inference. Retrodiction can be defined by its structural process-theoretic properties, which are mathematically captured by category theory.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.20001v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "math.OA",
-        "math.CT",
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "85957fc61fe81886",
-      "title": "Dynamical one-from-many quantum metrology: Sum rule and matrix-free precision bound",
-      "authors": [
-        "Ziyu Xie",
-        "Junjie Liu"
-      ],
-      "summary": "Practical quantum single-parameter estimation is rarely a pristine task; it almost invariably involves nuisance parameters, casting it as a one-from-many problem. Existing approaches to this problem rely on multi-parameter metrology, reducing the matrix quantum Cramér-Rao bound to obtain scalar quantum precision limits.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19988v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph",
-        "cond-mat.stat-mech"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "5343c4e1284948b9",
-      "title": "Resonance Raman spectroscopy from ab initio Hagedorn wavepacket dynamics",
-      "authors": [
-        "Davide Barbiero",
-        "Léa Zupan",
-        "Jiří J. L. Vaníček"
-      ],
-      "summary": "We present a practical, ab initio time-dependent method using Hagedorn wavepackets to simulate resonance Raman (RR) spectra of polyatomic molecules. Hagedorn functions---Gaussians multiplied by specific polynomials---are used to represent RR initial and final states because these functions are exact solutions to the time-dependent Schrödinger equation for at-most-quadratic potentials and can be propagated at zero cost beyond that of propagating the guiding Gaussian.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19985v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "physics.chem-ph",
-        "physics.comp-ph",
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "34ac4c10b3940237",
-      "title": "Entangling two qudits of arbitrary dimension through light-atomic Faraday interaction",
-      "authors": [
-        "R. Surmay",
-        "V. A. Leonov",
-        "E. A. Vashukevich"
-      ],
-      "summary": "The paper investigates entangling operations acting on two qudits of arbitrary dimension, with one encoded in the states of a spatially multimode optical field, the other in those of atomic collective spin coherence, both carrying orbital angular momentum (OAM). We demonstrate the generation of a wide range of entangling operations within a protocol consisting of two Faraday interactions and a rotation of atomic and light quadratures between them.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19945v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "edeb78b5cb0a503e",
-      "title": "Imaginary time evolution of a quantum system through analytic continuation from real-time quantum simulation",
-      "authors": [
-        "Peng Guo",
-        "Anto Shibu",
-        "Joshua Lin",
-        "Yong Zhao"
-      ],
-      "summary": "Though quantum computing naturally offers an advantage for simulations of real-time quantum systems, implementing Imaginary-Time Evolution (ITE) is comparatively more difficult. Nevertheless, quantum implementations of ITE are useful both in cases where classical implementations have associated sign problems, and also as an exact method of preparing eigenstates on quantum computers.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19943v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph",
-        "cond-mat.other",
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "26a6734ddb1a5391",
-      "title": "Disassembling qLDPC codes for depth-optimal parity-check circuits",
-      "authors": [
-        "Minh T. P. Nguyen",
-        "Maximilian Rimbach-Russ",
-        "Stefano Bosco"
-      ],
-      "summary": "Quantum low-density parity-check (qLDPC) codes offer a promising route to scalable fault-tolerant quantum computing, but their practical implementation requires efficient circuits for syndrome extraction. Many qLDPC families are assembled from a small set of components through explicit constructions that imprint edge symmetries on their Tanner graphs.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19917v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "26c4231068368fd9",
-      "title": "Resource-Efficient Bio-Molecular Docking on a NISQ-era Digital Quantum Computer",
-      "authors": [
-        "Tianqi Chen",
-        "Adrian M. Mak",
-        "Jianguo Li",
-        "Jian Feng Kong",
-        "Chandra Verma",
-        "Sebastian Maurer-Stroh"
-      ],
-      "summary": "Molecular docking is a vital computational task in drug discovery, wherein the objective is to efficiently identify optimal binding poses between a ligand and a target receptor protein. Due to the combinatorial explosion of possible binding configurations, docking of large and flexible molecules remains a computationally intensive problem, especially at scale.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19868v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph",
-        "cond-mat.soft",
-        "physics.chem-ph",
-        "q-bio.BM"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "311e91d92124991e",
-      "title": "Distributed Variational Quantum Eigensolver: Embarrassingly Parallel strategies on NISQ",
-      "authors": [
-        "Marta Losada",
-        "Daniel Faílde",
-        "Andrés Gómez"
-      ],
-      "summary": "Variational Quantum Eigensolver requires many circuit executions, making it ideal for distributed parallelization. However, heterogeneous noise in NISQ devices can skew results and efficiency.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19824v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "405dab22751994c1",
-      "title": "Optomechanically induced transparency in the presence of a strong Duffing nonlinearity",
-      "authors": [
-        "Rong Zhang",
-        "Jing Qiu",
-        "Stefano Chesi",
-        "Yingdan Wang"
-      ],
-      "summary": "We consider the combined effect of a Duffing nonlinearity and the optomechanical interaction on the cavity density of states (DOS), which is directly observable in optomechanically induced transparency (OMIT) experiments. Both nonlinearities introduce the same type of interaction between polaritons, producing a distinct feature in the optical response.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19811v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "2032748e273f8482",
-      "title": "TT-net: Quantum Inspired Tensor Network Denoising in Conditional GANs",
-      "authors": [
-        "Michal A. Sterzel",
-        "Marko J. Rančić"
-      ],
-      "summary": "Developed as a workhorse for classical simulations of quantum algorithms and quantum many-body systems, Tensor Network methods have entered the scientific mainstream in quantum physics. Among various types of tensor networks, Tensor Trains (commonly know as Matrix Product States in the quantum computing community) have already found applications in machine learning.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19789v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "cs.AI",
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "8eee4fec9148e65f",
-      "title": "An Irreducible Quantum Advantage in Aligning World Models with Reality",
-      "authors": [
-        "Josep Lumbreras",
-        "Hailan Ma",
-        "Jayne Thompson",
-        "Mile Gu"
-      ],
-      "summary": "World models provide digital simulacra of the true world, allowing agents to be trained and tested before costly real-world deployment. At each time step, they receive an action and generate an observation and reward matching the statistics of the true world.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19779v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph",
-        "cs.AI",
-        "cs.LG"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "3c98e450c339c514",
-      "title": "Gradient flow towards quantum states with ideal quantum geometry",
-      "authors": [
-        "T. Shiga",
-        "T. Fukui"
-      ],
-      "summary": "We propose a gradient-flow method for quantum states in lattice models, generated by an action consisting of the quantum-metric and the square of the Berry curvature. These two terms drive the spectral projector toward Bogomolny saturation and uniform Berry curvature, respectively.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19770v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph",
-        "cond-mat.mes-hall"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "0c0a7aac15bca9d9",
-      "title": "Krylov Tomography and Finite-Uncertainty Certification of Exceptional-Point Dynamics",
-      "authors": [
-        "Aritra Ghosh",
-        "M. Bhattacharya"
-      ],
-      "summary": "Exceptional points (EPs) can produce striking responses, but locating one does not reveal how much of its dynamics an excitation accesses, which responses a detector distinguishes, or whether a missing signal is absent or undetected. We introduce Krylov tomography, a preparation- and measurement-aware framework that uses time-resolved data and models with stated uncertainty limits to answer these questions, while also bounding offset-induced departures from exact-EP behavior.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19761v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph",
-        "cond-mat.mes-hall",
-        "math-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "f7f8a1797641c2f9",
-      "title": "Multiplexing of Continuous-Variable and Discrete-Variable Quantum Key Distribution Systems over Fibered and Free-Space Channels",
-      "authors": [
-        "Mattia Sabatini",
-        "Edoardo Rossi",
-        "Matías R. Bolaños",
-        "Francesco Vedovato",
-        "Thomas Liege",
-        "Eleni Diamanti",
-        "Giuseppe Vallone",
-        "Paolo Villoresi",
-        "Yoann Piétri",
-        "Marco Avesani"
-      ],
-      "summary": "Future quantum communication infrastructures will need to serve heterogeneous users on shared physical channels: short-range, high-throughput links favor Continuous-Variable Quantum Key Distribution (CV-QKD), while long-reach, high-loss links remain the domain of Discrete-Variable QKD (DV-QKD). Wavelength-division multiplexing (WDM) of the two protocols on a common channel would address both regimes simultaneously, but their markedly different noise sensitivities make coexistence non-trivial and, to date,…",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19745v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "1131974ee6727533",
-      "title": "Iterative Projection-Based Embedding Scheme Combined with Variational Quantum Eigensolver",
-      "authors": [
-        "Hongseok Choi",
-        "Kyungmin Kim",
-        "Young Min Rhee"
-      ],
-      "summary": "Quantum embedding methods offer a promising route to extend quantum chemical calculations to large multiscale systems by treating a chemically important subsystem at a high level of theory while describing its surrounding environment at an affordable level. The methods are also quite relevant for quantum computing approaches based on hardware with limited resources.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19715v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "physics.chem-ph",
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "6ec28f04b7762e5b",
-      "title": "Can Stochastic Clocks in FLRW Minisuperspace Prevent Dynamical Singularities?",
-      "authors": [
-        "Pradosh Keshav MV"
-      ],
-      "summary": "We develop a stochastic extension of the Wheeler--DeWitt equation in FLRW minisuperspace and show that quantum backreaction can dynamically regulate the big bang singularity without imposing external boundary conditions. Using Laplace--Beltrami quantisation and an open-system treatment of coarse-grained graviton modes, we obtain a stochastic Hamiltonian evolution equation in which the diffusion coefficient takes the form $σ(a)\\propto a^2$.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19695v1",
-      "doi": "10.1088/1361-6382/ae3424",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "gr-qc"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "d933ff349eda3f2e",
-      "title": "Dissipation-tunable extended and localized steady states in a non-disordered lattice",
-      "authors": [
-        "Ming-Jie Tao",
-        "Yi-Ting Wang",
-        "Jing Li",
-        "Hongsheng Hou",
-        "Xiang-Ping Jiang",
-        "Lei Pan"
-      ],
-      "summary": "Dissipation is usually regarded as a source of decoherence that suppresses quantum interference and localization. Here we show that suitably engineered dissipation can instead be used to select localized or extended states in a strictly non-disordered one-dimensional lattice.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19694v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph",
-        "cond-mat.dis-nn"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "0fad926bb515a768",
-      "title": "Open quantum system approach to the Unruh-DeWitt detector in impulsive plane wave spacetimes",
-      "authors": [
-        "Hing-Tong Cho"
-      ],
-      "summary": "In this paper we employ the open quantum system framework with the influence functional formalism to non-perturbatively analyze the response of an Unruh-DeWitt detector modeled as a harmonic oscillator which interacts with a massless scalar field in impulsive plane wave spacetimes. Subtracting the Minkowski results, we obtain the expectation values for $\\langle Q^2 \\rangle$, $\\langle P^2 \\rangle$, and $\\langle \\{Q,P\\} \\rangle$, along with transition probabilities $P_{0\\rightarrow 1}$ from ground state to the first…",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19692v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "gr-qc",
-        "hep-th",
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "b0092b4bd4fb85e7",
-      "title": "Tight Entropy Contraction of Generalized Quantum Depolarization",
-      "authors": [
-        "Li Gao",
-        "Long Zhao"
-      ],
-      "summary": "We establish upper and lower bounds for relative entropy contraction of generalized quantum depolarizing channels and semigroups. Our bound provides tight first order asymptotic of the contraction rate in terms of the dimension constant.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19685v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph",
-        "math.FA",
-        "math.OA"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "c846529407fb533c",
-      "title": "Geometric phase of open paths and a geodesic-selection rule at a level degeneracy",
-      "authors": [
-        "Hyeonseok Yang",
-        "Changsuk Noh"
-      ],
-      "summary": "When the control field of a qubit, a polarization state, or a spin-$\\tfrac12$ system is swept through a level degeneracy, its direction traces an open curve on the Bloch sphere whose endpoints are antipodal, and the geodesic rule for the open-path geometric phase becomes ambiguous: infinitely many geodesics close the path, and different closures enclose different solid angles. We resolve this ambiguity in closed form.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19679v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph",
-        "math-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "80b25abb900cd7ce",
-      "title": "A charge selection rule fixes what a squeezed-light reservoir computer can compute and afford",
-      "authors": [
-        "Daniel Soh"
-      ],
-      "summary": "Reading an optical quantum reservoir costs repetitions growing super-exponentially with feature order: what it can afford is set by its detector, not its optics. For reservoirs encoding data in a parametric pump's phase, one conservation law fixes what is readable and what it costs.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19668v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph",
-        "math-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "0c0c20435067db84",
-      "title": "Physics-guided machine learning for sim-to-real calibration of NV diamond magnetometers",
-      "authors": [
-        "Jonathan Daniel",
-        "Martin Y. Kim",
-        "Jesse Hernandez",
-        "Emanuel Suarez",
-        "Sangwoo Lee",
-        "Jinhee Lee",
-        "Je-Hyung Kim"
-      ],
-      "summary": "Ensemble nitrogen-vacancy (NV) centers in diamond enable robust vector magnetometry in unshielded environments, yet deployment remains bottlenecked by complex calibration and a reliance on external data references. Conventional statistical machine learning requires an exorbitantly large volume of training data and suffers from severe simulation-to-reality mismatches.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19582v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph",
-        "cond-mat.mtrl-sci",
-        "physics.app-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "762729b644027086",
-      "title": "Quantum Energy Storage versus Heat-to-Work Conversion in an Interacting Spin System",
-      "authors": [
-        "Omar Bachain",
-        "Mohamed Amazioug",
-        "Rachid Ahl Laamara"
-      ],
-      "summary": "We investigate the energetic and thermodynamic performance of an interacting two-qubit system serving as both a quantum battery and a quantum Otto heat engine. The working medium is described by an anisotropic Heisenberg Hamiltonian supplemented by a dipolar interaction, a symmetric spin--orbit interaction, and an external magnetic field.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19533v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "99edfdb2cc456732",
-      "title": "Attaining Fundamental Limits of Multiparameter Incoherent Optical Imaging Using Joint-Detection Quantum Measurements",
-      "authors": [
-        "Nico Deshler",
-        "Aakash Warke",
-        "Michael R. Grace",
-        "Amit Ashok",
-        "Saikat Guha"
-      ],
-      "summary": "Resolving extended incoherent objects below the diffraction limit poses an application-rich imaging challenge whose solution may enable a new generation of observational instruments and capabilities. In this work, we invoke a practical model for general imaging by approximating an arbitrary extended incoherent object as a finite grid of thermal point emitters parameterized by their brightnesses.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19524v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "ed891d2441f2b62b",
-      "title": "Beyond Integrability Preserving Renormalization-Group Protocol in Non-Hermitian Hamiltonians with Time-Dependent Interaction Strengths",
-      "authors": [
-        "Parameshwar R. Pasnoori"
-      ],
-      "summary": "It is well established that in time-dependent quantum systems, integrability preserving time-dependent interaction strengths are identical to the renormalization group (RG) trajectories of the corresponding static model when time `$t$' in the driven model is identified with the logarithm of the cutoff `$\\logΛ$' of the static model. We refer to this integrability preserving driving as the RG protocol.",
-      "publication_date": "2026-08-20",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19519v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph",
-        "cond-mat.str-el",
-        "math-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
-    },
-    {
-      "id": "f54e4215cd835d98",
-      "title": "Meditation styles are highly discriminable from EEG at the subject level with limited generalization across the population: a machine-learning study",
-      "authors": [
-        "Saqib Hayat",
-        "Francesco Goretti",
-        "Rachele Fabbri",
-        "Chiara Noferini",
-        "Elena Cravero",
-        "Paolo Mori",
-        "Alessandro Scaglione",
-        "Francesco Saverio Pavone"
-      ],
-      "summary": "ABSTRACT Meditation has been associated with improvements in attention, emotional regulation, and mental well-being, motivating increasing interest in objective methods for assessing meditative states. In this study, we investigate whether EEG-based machine learning can reliably distinguish between multiple meditation styles and mind-wandering states.",
-      "publication_date": "2026-08-14",
-      "source": "Frontiers in Artificial Intelligence",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.3389/frai.2026.1876322",
-      "doi": "10.3389/frai.2026.1876322",
-      "work_type": "article",
-      "evidence_label": "Journal article",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [
-        "Meditation",
-        "Electroencephalography",
-        "Discriminative model",
-        "Generalization",
-        "Pattern recognition (psychology)",
-        "Visualization"
-      ],
-      "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "eff201c8182142ad",
@@ -5253,7 +5609,7 @@
         "q-bio.NC"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "e929d1f7dba4ebab",
@@ -5281,7 +5637,7 @@
         "cs.AI"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "e43060d066db1fbe",
@@ -5338,7 +5694,7 @@
         "Delirium"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "74b557424213f26a",
@@ -5365,7 +5721,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 41
+      "signal_score": 40
     },
     {
       "id": "bae935bb37e47cb8",
@@ -5389,7 +5745,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 41
+      "signal_score": 40
     },
     {
       "id": "f3272ccfde488af5",
@@ -5420,7 +5776,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 41
+      "signal_score": 40
     },
     {
       "id": "3ab9360311d40716",
@@ -5446,7 +5802,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 41
+      "signal_score": 40
     },
     {
       "id": "fde4be910e7eaafa",
@@ -5480,7 +5836,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 41
+      "signal_score": 40
     },
     {
       "id": "e166081304d9ff2b",
@@ -5505,7 +5861,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 41
+      "signal_score": 40
     },
     {
       "id": "d92b7161e460da2d",
@@ -5531,7 +5887,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 41
+      "signal_score": 40
     },
     {
       "id": "94a97db94c598c9a",
@@ -5555,7 +5911,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 41
+      "signal_score": 40
     },
     {
       "id": "ee514b8714727f68",
@@ -5581,7 +5937,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 41
+      "signal_score": 40
     },
     {
       "id": "4245ba5ca51d3142",
@@ -5634,7 +5990,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 41
+      "signal_score": 40
     },
     {
       "id": "97ed75357b2fb5b2",
@@ -5666,7 +6022,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 41
+      "signal_score": 40
     },
     {
       "id": "1f0bab006ca853ed",
@@ -5690,7 +6046,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 41
+      "signal_score": 40
     },
     {
       "id": "aea68ee5e312b3a1",
@@ -5718,7 +6074,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 41
+      "signal_score": 40
     },
     {
       "id": "03cda27ac18c09df",
@@ -5744,121 +6100,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 41
-    },
-    {
-      "id": "949b64544822b50c",
-      "title": "Deciphering Taste Disorders: Mechanistic Insights and Nonclinical Evaluation.",
-      "authors": [
-        "Pillai SPS",
-        "Mansfield K",
-        "Miguel R",
-        "Weber K",
-        "Weber K",
-        "Palazzi X",
-        "Capunitan D",
-        "Lanz TA."
-      ],
-      "summary": "New work indexed under “Deciphering Taste Disorders: Mechanistic Insights and Nonclinical Evaluation..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "Toxicol Pathol",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42624476",
-      "doi": "10.1177/01926233261456713",
-      "work_type": "review; journal article",
-      "evidence_label": "Review",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 41
-    },
-    {
-      "id": "06f49e85a6dbb0b6",
-      "title": "Past-Year Cannabis Use in Patients Undergoing Anesthesia and Risk of Postoperative Delirium: A Propensity Score Matched Cohort Study.",
-      "authors": [
-        "Riesemann S",
-        "Paschold BS",
-        "Ahrens E",
-        "Fosset M",
-        "Tenge T",
-        "Schaefer MS",
-        "Perioperative Cannabis Study Group."
-      ],
-      "summary": "New work indexed under “Past-Year Cannabis Use in Patients Undergoing Anesthesia and Risk of Postoperative Delirium: A Propensity Score Matched Cohort Study..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "Anesth Analg",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42624469",
-      "doi": "10.1213/ane.0000000000008268",
-      "work_type": "journal article",
-      "evidence_label": "Journal article",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 41
-    },
-    {
-      "id": "499a7098e5f71aaf",
-      "title": "Multidimensional assessment of interoception in blind and deaf individuals.",
-      "authors": [
-        "Lin X",
-        "He H",
-        "Li Y",
-        "Gong W."
-      ],
-      "summary": "New work indexed under “Multidimensional assessment of interoception in blind and deaf individuals..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "Biol Psychol",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42624455",
-      "doi": "10.1016/j.biopsycho.2026.109378",
-      "work_type": "journal article",
-      "evidence_label": "Journal article",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 41
-    },
-    {
-      "id": "f6ae76f043905895",
-      "title": "Lesion distribution based on oral biopsy and histopathology in dogs: a retrospective study of 338 cases (2015-2025).",
-      "authors": [
-        "Kim CG",
-        "Jeong KJ",
-        "Kim J",
-        "Vapniarsky N",
-        "Kang SS",
-        "Kim SE",
-        "Jo HM."
-      ],
-      "summary": "New work indexed under “Lesion distribution based on oral biopsy and histopathology in dogs: a retrospective study of 338 cases (2015-2025)..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-20",
-      "source": "Vet J",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42624279",
-      "doi": "10.1016/j.tvjl.2026.106841",
-      "work_type": "journal article",
-      "evidence_label": "Journal article",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 41
+      "signal_score": 40
     },
     {
       "id": "77a97b1bd75515ac",
@@ -5890,281 +6132,44 @@
         "Physical system"
       ],
       "has_abstract": true,
-      "signal_score": 41
+      "signal_score": 40
     },
     {
-      "id": "c66b7ea17b3ca12f",
-      "title": "Fast Algorithms for Stoquastic Spin Systems",
+      "id": "f54e4215cd835d98",
+      "title": "Meditation styles are highly discriminable from EEG at the subject level with limited generalization across the population: a machine-learning study",
       "authors": [
-        "Ryan L. Mann"
+        "Saqib Hayat",
+        "Francesco Goretti",
+        "Rachele Fabbri",
+        "Chiara Noferini",
+        "Elena Cravero",
+        "Paolo Mori",
+        "Alessandro Scaglione",
+        "Francesco Saverio Pavone"
       ],
-      "summary": "We establish a general framework for developing fast sampling and counting algorithms for stoquastic spin systems at high temperature. Our framework is based on a rapidly mixing Markov chain for polymer models and a subcritical percolation process for sampling individual polymers.",
-      "publication_date": "2026-08-19",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19489v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
+      "summary": "ABSTRACT Meditation has been associated with improvements in attention, emotional regulation, and mental well-being, motivating increasing interest in objective methods for assessing meditative states. In this study, we investigate whether EEG-based machine learning can reliably distinguish between multiple meditation styles and mind-wandering states.",
+      "publication_date": "2026-08-14",
+      "source": "Frontiers in Artificial Intelligence",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.3389/frai.2026.1876322",
+      "doi": "10.3389/frai.2026.1876322",
+      "work_type": "article",
+      "evidence_label": "Journal article",
       "open_access": true,
       "cited_by_count": 0,
       "domains": [
-        "quantum"
+        "neuroscience"
       ],
       "keywords": [
-        "quant-ph",
-        "cs.CC",
-        "cs.DS",
-        "math.CO"
+        "Meditation",
+        "Electroencephalography",
+        "Discriminative model",
+        "Generalization",
+        "Pattern recognition (psychology)",
+        "Visualization"
       ],
       "has_abstract": true,
-      "signal_score": 41
-    },
-    {
-      "id": "b72418250a452ff2",
-      "title": "Is the Quantum-Entangled Universe a Small World?",
-      "authors": [
-        "Gregory S. Duane"
-      ],
-      "summary": "Partial entanglement may provide enough connections in the universe to satisfy the definition of a small world. To investigate this possibility, we define a network of particles on a given space-like hyper-surface with a long-range link between any two particles that are connected by a chain of exchanged particles involving less than some small maximum number of interactions.",
-      "publication_date": "2026-08-19",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19459v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph",
-        "math-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 41
-    },
-    {
-      "id": "1b40ae40e2c40e85",
-      "title": "Renormalization group ontology in quantum foundations: a non-interacting spin-0 toy model",
-      "authors": [
-        "Gary Kapilevich"
-      ],
-      "summary": "A realist, anti-psi interpretation of quantum field theory is introduced, based on an expanded ontology that was inspired by the renormalization group. A goal will be to work with a classical non-interacting scalar field \"toy model\" in the canonical ensemble and show that an observer in this expanded ontology, under certain limiting conditions, will see a QFT.",
-      "publication_date": "2026-08-19",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19458v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph",
-        "hep-th"
-      ],
-      "has_abstract": true,
-      "signal_score": 41
-    },
-    {
-      "id": "901a80efd4992ce0",
-      "title": "Efficient Classical Simulation of Weakly Interacting Fermion Dynamics",
-      "authors": [
-        "Chu Zhao",
-        "Iman Marvian",
-        "Yu Tong"
-      ],
-      "summary": "We consider the task of simulating the real-time dynamics of weakly interacting fermionic systems. In particular, we focus on computing the expectation value of a local observable $A$ at time $t$.",
-      "publication_date": "2026-08-19",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19448v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph",
-        "math-ph",
-        "math.NA"
-      ],
-      "has_abstract": true,
-      "signal_score": 41
-    },
-    {
-      "id": "bdbca4d7c78f2378",
-      "title": "Holographic Bit Threads from String-Diagrammatic Quantum Information Flow",
-      "authors": [
-        "Yi-Yu Lin",
-        "Song Cheng"
-      ],
-      "summary": "Bit threads, arising as the convex dual of the minimal-surface formula for holographic entanglement entropy, are line-like structures with nontrivial bulk trajectories. Their physical picture has long been associated with Bell-pair interpretations, yet the meaning of their detailed trajectories, particularly their nonuniqueness, remains unclear.",
-      "publication_date": "2026-08-19",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19428v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "hep-th",
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 41
-    },
-    {
-      "id": "84121a8caecbb51e",
-      "title": "Compressibility of genuine multipartite entanglement under the Hadamard map",
-      "authors": [
-        "Klára Baksová",
-        "Lisa T. Weinbrenner"
-      ],
-      "summary": "One of the most counterintuitive effects in the examination of quantum states is the phenomenon of superactivation, which describes the fact that a quantum state, which is useless for a specific task, may become useful when one considers multiple copies of it. This effect can be observed in the case of genuine multipartite entanglement, where local projections from multiple copies to the single-copy Hilbert space could significantly simplify the practical accessibility of its superactivation.",
-      "publication_date": "2026-08-19",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19427v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 41
-    },
-    {
-      "id": "eda48697062a8224",
-      "title": "Rescaled Mandelstam Tamm characterization of discrete time crystal response in a disordered Floquet Ising chain",
-      "authors": [
-        "Abrar Ahmed Naqash",
-        "Salman Sajad Wani",
-        "Saif Al-Kuwari"
-      ],
-      "summary": "For pure state unitary dynamics, the Mandelstam Tamm (MT) lower-bound functional compares the endpoint Fubini Study return angle with path averaged energy dispersion. Their distinct size and temporal dependences obscure the origin of period two MT structure in discrete time crystal (DTC) like dynamics and its relation to the spin response.",
-      "publication_date": "2026-08-19",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19403v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 41
-    },
-    {
-      "id": "7c7d1c036afb42aa",
-      "title": "State convertibility and fluctuation theorems from a dynamical reference: majorization meets martingales",
-      "authors": [
-        "Davide Cugini",
-        "Giacomo Guarnieri"
-      ],
-      "summary": "State convertibility represents a fundamental concept used to determine whether a transformation is possible given a specific set of resources. Within the field of Thermodynamics, where physical process are required to preserve a reference state typically in microcanonical or canonical form, this translates into the notions of majorization and thermo-majorization ---criteria that require constructing and comparing state-dependent Lorenz curves.",
-      "publication_date": "2026-08-19",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19391v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "cond-mat.stat-mech",
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 41
-    },
-    {
-      "id": "497c412d4f1a7d39",
-      "title": "Krylov complexity and the growth of the black hole interior in 3D gravity",
-      "authors": [
-        "Arpan Bhattacharyya",
-        "Sounak Pal",
-        "Juan F. Pedraza"
-      ],
-      "summary": "We investigate the growth of the black hole interior in three-dimensional gravity from the boundary theory. For the two-sided BTZ black hole, we propose a boundary reconstruction of the time dependence of a codimension-one surface in terms of correlation functions of smeared operators in the thermofield double state, reproducing the characteristic late-time linear growth predicted by the complexity-volume proposal.",
-      "publication_date": "2026-08-19",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19373v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "hep-th",
-        "gr-qc",
-        "quant-ph"
-      ],
-      "has_abstract": true,
-      "signal_score": 41
-    },
-    {
-      "id": "88e786ec8bde83be",
-      "title": "Rethinking Quantum Circuits",
-      "authors": [
-        "Steven Rayan"
-      ],
-      "summary": "These notes develop four interconnected ways of reading a quantum circuit. A circuit for us begins as an operational composition of gates; then, it becomes a diagram whose local equalities may be used as calculations; next, it becomes a protected process once errors, syndromes, and logical degrees of freedom are separated; and finally, it becomes geometric when its connectivity, topology, and boundary data are treated as physical design parameters.",
-      "publication_date": "2026-08-19",
-      "source": "arXiv",
-      "source_provider": "arXiv",
-      "url": "http://arxiv.org/abs/2608.19370v1",
-      "doi": "",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quant-ph",
-        "cond-mat.mes-hall",
-        "cs.IT",
-        "math-ph",
-        "math.CT"
-      ],
-      "has_abstract": true,
-      "signal_score": 41
+      "signal_score": 40
     },
     {
       "id": "21b5576f95cb6a84",
@@ -6195,7 +6200,7 @@
         "cs.CL"
       ],
       "has_abstract": true,
-      "signal_score": 41
+      "signal_score": 40
     },
     {
       "id": "7ae374ab1f858ec5",
@@ -6231,7 +6236,7 @@
         "Contrast (vision)"
       ],
       "has_abstract": true,
-      "signal_score": 41
+      "signal_score": 40
     },
     {
       "id": "24062e81b79d1055",
@@ -6265,7 +6270,7 @@
         "Contrast (vision)"
       ],
       "has_abstract": true,
-      "signal_score": 41
+      "signal_score": 40
     },
     {
       "id": "e0cc743161f576c7",
@@ -6300,7 +6305,7 @@
         "Limit (mathematics)"
       ],
       "has_abstract": true,
-      "signal_score": 41
+      "signal_score": 40
     },
     {
       "id": "01e2ca3733d94908",
@@ -6332,7 +6337,7 @@
         "Field (mathematics)"
       ],
       "has_abstract": true,
-      "signal_score": 40
+      "signal_score": 39
     },
     {
       "id": "fb741848aca5ca4f",
@@ -6370,7 +6375,7 @@
         "Quantum simulator"
       ],
       "has_abstract": true,
-      "signal_score": 40
+      "signal_score": 39
     },
     {
       "id": "253d716367b3a75d",
@@ -6408,7 +6413,7 @@
         "Physics"
       ],
       "has_abstract": true,
-      "signal_score": 40
+      "signal_score": 39
     },
     {
       "id": "756e04fd5b13e77e",
@@ -6431,7 +6436,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 39
+      "signal_score": 38
     },
     {
       "id": "13c0410f0515ae24",
@@ -6463,7 +6468,7 @@
         "Component (thermodynamics)"
       ],
       "has_abstract": true,
-      "signal_score": 39
+      "signal_score": 38
     },
     {
       "id": "f1d0698638c6ed60",
@@ -6492,7 +6497,7 @@
         "Perception"
       ],
       "has_abstract": true,
-      "signal_score": 39
+      "signal_score": 38
     },
     {
       "id": "9a193d8af6ca754a",
@@ -6521,7 +6526,7 @@
         "Perception"
       ],
       "has_abstract": true,
-      "signal_score": 39
+      "signal_score": 38
     },
     {
       "id": "73cfd447dec3b867",
@@ -6563,7 +6568,7 @@
         "Human brain"
       ],
       "has_abstract": true,
-      "signal_score": 39
+      "signal_score": 38
     },
     {
       "id": "908ff5b145f725e7",
@@ -6592,7 +6597,7 @@
         "Perception"
       ],
       "has_abstract": true,
-      "signal_score": 39
+      "signal_score": 38
     },
     {
       "id": "0aabaf60bc95f85b",
@@ -6631,7 +6636,7 @@
         "Perception"
       ],
       "has_abstract": true,
-      "signal_score": 39
+      "signal_score": 38
     },
     {
       "id": "d2c4c1d0c9102c7d",
@@ -6663,7 +6668,7 @@
         "Artificial neural network"
       ],
       "has_abstract": true,
-      "signal_score": 39
+      "signal_score": 38
     },
     {
       "id": "a2dd724adf367837",
@@ -6695,7 +6700,7 @@
         "Subspace topology"
       ],
       "has_abstract": false,
-      "signal_score": 38
+      "signal_score": 37
     },
     {
       "id": "eadea316dc00186c",
@@ -6734,7 +6739,7 @@
         "Sleep patterns"
       ],
       "has_abstract": true,
-      "signal_score": 38
+      "signal_score": 37
     },
     {
       "id": "a652b6cb55e9d822",
@@ -6766,7 +6771,7 @@
         "Interrogation"
       ],
       "has_abstract": true,
-      "signal_score": 38
+      "signal_score": 37
     },
     {
       "id": "c81a2b7640b6f8e9",
@@ -6799,7 +6804,7 @@
         "Quantum measurement"
       ],
       "has_abstract": true,
-      "signal_score": 38
+      "signal_score": 37
     },
     {
       "id": "8f05a9001d10b0e0",
@@ -6834,7 +6839,7 @@
         "Symbolic artificial intelligence"
       ],
       "has_abstract": true,
-      "signal_score": 38
+      "signal_score": 37
     },
     {
       "id": "49d52bc0ec0ebb7c",
@@ -6875,7 +6880,34 @@
         "Cerebral blood flow"
       ],
       "has_abstract": true,
-      "signal_score": 38
+      "signal_score": 37
+    },
+    {
+      "id": "582b4dc35808c877",
+      "title": "Comparing HIV Testing Patterns Among Adolescent Girls, Young Women, and Older Women in Nigeria: A Comparative Analysis and Socioecological Correlates",
+      "authors": [
+        "Akinwande SF",
+        "Akinwande KO",
+        "Logie CH",
+        "Massaquoi N",
+        "Okungbowa OJ."
+      ],
+      "summary": "New work indexed under “Comparing HIV Testing Patterns Among Adolescent Girls, Young Women, and Older Women in Nigeria: A Comparative Analysis and Socioecological Correlates.” The source did not provide an abstract; read the original before evaluating its claims.",
+      "publication_date": "2026-08-22",
+      "source": "Europe PMC-indexed source",
+      "source_provider": "Europe PMC",
+      "url": "https://europepmc.org/article/PPR/PPR1303311",
+      "doi": "10.64898/2026.08.19.26360851",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "neuroscience"
+      ],
+      "keywords": [],
+      "has_abstract": false,
+      "signal_score": 36
     },
     {
       "id": "50a40c73f6726893",
@@ -6904,7 +6936,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 37
+      "signal_score": 36
     },
     {
       "id": "213e951e7720e4d1",
@@ -6936,7 +6968,7 @@
         "Quantum computer"
       ],
       "has_abstract": true,
-      "signal_score": 37
+      "signal_score": 36
     },
     {
       "id": "6ec51f4121b80b87",
@@ -6963,7 +6995,7 @@
         "Structural approach"
       ],
       "has_abstract": true,
-      "signal_score": 37
+      "signal_score": 36
     },
     {
       "id": "439afcfc4b218209",
@@ -7000,7 +7032,7 @@
         "Forcing (mathematics)"
       ],
       "has_abstract": true,
-      "signal_score": 37
+      "signal_score": 36
     },
     {
       "id": "7f2f8a48c363358e",
@@ -7034,7 +7066,7 @@
         "Accidental"
       ],
       "has_abstract": true,
-      "signal_score": 37
+      "signal_score": 36
     },
     {
       "id": "73a54374a9871d33",
@@ -7066,7 +7098,7 @@
         "Noise (video)"
       ],
       "has_abstract": true,
-      "signal_score": 37
+      "signal_score": 36
     },
     {
       "id": "e22a819b3da6c4c8",
@@ -7111,7 +7143,7 @@
         "Analgesic"
       ],
       "has_abstract": true,
-      "signal_score": 37
+      "signal_score": 36
     },
     {
       "id": "09fa1c4344a0a478",
@@ -7136,7 +7168,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 36
+      "signal_score": 35
     },
     {
       "id": "fc130b33da35368f",
@@ -7163,7 +7195,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 36
+      "signal_score": 35
     },
     {
       "id": "867c1a31daefef43",
@@ -7188,58 +7220,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 36
-    },
-    {
-      "id": "5e462988379f0491",
-      "title": "Melioidosis in South Asia: Scientific Advances, Regional Challenges and One Health Perspectives—An Integrated Research Synthesis from the 4th South Asian Melioidosis Congress",
-      "authors": [
-        "Mukhopadhyay C",
-        "Phukan C",
-        "Patgiri SJ",
-        "Kaur H",
-        "Currie BJ",
-        "AB Dance D."
-      ],
-      "summary": "New work indexed under “Melioidosis in South Asia: Scientific Advances, Regional Challenges and One Health Perspectives—An Integrated Research Synthesis from the 4th South Asian Melioidosis Congress.” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-21",
-      "source": "Europe PMC-indexed source",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/PPR/PPR1302518",
-      "doi": "10.12688/wellcomeopenres.27378.1",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 36
-    },
-    {
-      "id": "664c650ef1f3e6db",
-      "title": "Retrospective Analysis of Stakeholder Engagement Activities in a Horizon Europe Multi-Actor Project: Evidence from KijaniSpace",
-      "authors": [
-        "Löytty T."
-      ],
-      "summary": "New work indexed under “Retrospective Analysis of Stakeholder Engagement Activities in a Horizon Europe Multi-Actor Project: Evidence from KijaniSpace.” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-08-21",
-      "source": "Europe PMC-indexed source",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/PPR/PPR1302508",
-      "doi": "10.12688/openreseurope.23950.2",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 36
+      "signal_score": 35
     }
   ]
 }
