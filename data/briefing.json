@@ -1,34 +1,34 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "title": "The latest signal",
-  "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Quantum physics, Neuroscience. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
+  "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Neuroscience, Quantum physics. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
     {
       "domain": "consciousness",
       "domain_label": "Consciousness / philosophy",
-      "title": "How do families of relatives with prolonged disorders of consciousness experience care decision-making? A systematic review and thematic synthesis of qualitative research.",
-      "why_it_matters": "New work indexed under “How do families of relatives with prolonged disorders of consciousness experience care decision-making? A systematic review and thematic synthesis of qualitative research..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "url": "https://europepmc.org/article/MED/42628978",
-      "signal_score": 61,
-      "evidence_label": "Review"
-    },
-    {
-      "domain": "quantum",
-      "domain_label": "Quantum physics",
       "title": "Materialism as the Boundary Condition of Idealism-Understanding the Coherence-Modulated Consciousness-Matter Cycle (CMCMC)",
       "why_it_matters": "This paper develops an ontology in which consciousness is fundamental, and materialism is a boundary condition. Elementary particles in matter possess proto‑consciousness comparable to mass, spin, or charge.",
       "url": "https://doi.org/10.38124/ijisrt/26aug160",
-      "signal_score": 57,
+      "signal_score": 56,
       "evidence_label": "Journal article"
     },
     {
       "domain": "neuroscience",
       "domain_label": "Neuroscience",
-      "title": "Advancements in intraoperative monitoring techniques in neurosurgical practice: a systematic review",
-      "why_it_matters": "Abstract Background Intraoperative monitoring (IOM) has become a vital component of contemporary neurosurgery, significantly reducing neurological deficits and improving surgical outcomes. This systematic review aims to evaluate recent advancements in IOM techniques in neurosurgical practice.",
-      "url": "https://doi.org/10.1186/s41984-026-00650-7",
-      "signal_score": 56,
-      "evidence_label": "Review"
+      "title": "Ultrasound-Based Assessment of Gastric Fluid Volume in the Pediatric Population Undergoing Elective Surgery: A Prospective, Randomized, Double-Blind Comparison of Carbohydrate-Rich Clear Fluid Versus Water at One- and Two-Hour Fasting Intervals.",
+      "why_it_matters": "New work indexed under “Ultrasound-Based Assessment of Gastric Fluid Volume in the Pediatric Population Undergoing Elective Surgery: A Prospective, Randomized, Double-Blind Comparison of Carbohydrate-Rich Clear Fluid Versus Water at One- and Two-Hour Fasting Intervals..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "url": "https://europepmc.org/article/MED/42638536",
+      "signal_score": 55,
+      "evidence_label": "Journal article"
+    },
+    {
+      "domain": "quantum",
+      "domain_label": "Quantum physics",
+      "title": "Entanglement-enhanced fluctuation-free daemonic ergotropy with random measurements",
+      "why_it_matters": "Optimized daemonic ergotropy can make entanglement thermodynamically dispensable in measurement-assisted work extraction: for a fixed system marginal, quantum-classical states can reproduce the maximal work obtainable by optimizing the auxiliary measurement. We show that this equivalence is broken when the auxiliary measurement is randomized.",
+      "url": "http://arxiv.org/abs/2608.23372v1",
+      "signal_score": 55,
+      "evidence_label": "Preprint"
     }
   ]
 }
