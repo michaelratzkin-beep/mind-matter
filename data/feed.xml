@@ -4,13 +4,34 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Tue, 25 Aug 2026 13:06:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:10:57 +0000</lastBuildDate>
+    <item>
+      <title>Neuromuscular Blockade Depth and Oculocardiac Reflex in Pediatric Strabismus Surgery: A Randomized Clinical Trial.</title>
+      <link>https://europepmc.org/article/MED/42461097</link>
+      <guid>48025c96353f3743</guid>
+      <description>New work indexed under “Neuromuscular Blockade Depth and Oculocardiac Reflex in Pediatric Strabismus Surgery: A Randomized Clinical Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Certified Fidelity Susceptibility from Classical Shadows</title>
+      <link>http://arxiv.org/abs/2608.24732v1</link>
+      <guid>793a257aea64eef4</guid>
+      <description>Fidelity susceptibility is a useful probe of quantum phase transitions and quantum metrology, but its direct evaluation on a quantum device is challenging. By integrating Krylov-subspace methods with a resolvent-based reformulation, we present a method for certifying fidelity susceptibility using randomized single-copy measurements across repeated ground-state preparations.</description>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Materialism as the Boundary Condition of Idealism-Understanding the Coherence-Modulated Consciousness-Matter Cycle (CMCMC)</title>
       <link>https://doi.org/10.38124/ijisrt/26aug160</link>
       <guid>accc6323c8525ae0</guid>
       <description>This paper develops an ontology in which consciousness is fundamental, and materialism is a boundary condition. Elementary particles in matter possess proto‑consciousness comparable to mass, spin, or charge.</description>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Provable Quantum--Classical Separation for Continuous Gibbs Sampling</title>
+      <link>http://arxiv.org/abs/2608.24527v1</link>
+      <guid>6c76855071a07537</guid>
+      <description>We prove the first quantum--classical separation for a sampling problem over a continuous domain. For a class of Gibbs states $p\propto e^{-βE}$ on the torus $\mathbb{T}^d$ with smooth ($s$-Gevrey) potential and barrier amplitude $α=e^{βΔ}$, where $Δ= \max E-\min E$, every classical algorithm---querying the value, gradient, or any higher-order derivatives of the log-density---requires $Ω(α)$ queries to sample at constant accuracy in total variation distance, while a quantum algorithm based on quantum singular…</description>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ultrasound-Based Assessment of Gastric Fluid Volume in the Pediatric Population Undergoing Elective Surgery: A Prospective, Randomized, Double-Blind Comparison of Carbohydrate-Rich Clear Fluid Versus Water at One- and Two-Hour Fasting Intervals.</title>
@@ -90,27 +111,6 @@
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>A Unified Quantum Neural Network Framework for Hamiltonian Learning and Emulation of Unknown Quantum Systems</title>
-      <link>http://arxiv.org/abs/2608.23025v1</link>
-      <guid>fcb23b7472407f39</guid>
-      <description>Accurate identification of unknown quantum systems is essential for quantum computing, sensing, and control because the Hamiltonian governs quantum state evolution. This work proposes a QNN based framework for black box Hamiltonian learning and quantum system emulation using full density matrix trajectory learning.</description>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Batched and Complete U-Statistics for Trace-Polynomial Estimation from Classical Shadows</title>
-      <link>http://arxiv.org/abs/2608.22962v1</link>
-      <guid>2a8445063a1c8494</guid>
-      <description>We study estimation of the trace polynomial $\operatorname{tr} p(PρP)$ from global classical shadows, where $ρ$ is an unknown quantum state and $P$ is a fixed projector. Disjoint batching and complete U-statistics yield unbiased estimators of the same trace moments, but assign different sample-size factors to the degenerate terms in their Hoeffding decompositions.</description>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Geometry-calibrated equilibrium sensing for inverse design of nonlocal topological photonic lattices</title>
-      <link>http://arxiv.org/abs/2608.22944v1</link>
-      <guid>ef4ab6924953658b</guid>
-      <description>Topological photonic lattices are commonly designed using short-range Hamiltonians, yet realistic nanophotonic structures are governed by geometry- and wavelength-dependent long-range electromagnetic interactions. Here we introduce a geometry-calibrated quantum equilibrium-propagation framework for inference and inverse design in finite nonlocal plasmonic Su-Schrieffer-Heeger lattices.</description>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Beyond the Mirror: Balancing Interaction Modality and Avatar Fidelity in Public 3D Virtual Try-On Systems</title>
       <link>http://arxiv.org/abs/2608.23345v1</link>
       <guid>a9cca362daf6983b</guid>
@@ -132,18 +132,18 @@
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Effect of Continuous Bilateral Erector Spinae Plane Block on Neutrophil-Lymphocyte Ratio in On-Pump CABG: A Prospective Randomized Study.</title>
-      <link>https://europepmc.org/article/MED/42634539</link>
-      <guid>637a29e2cbf33807</guid>
-      <description>New work indexed under “Effect of Continuous Bilateral Erector Spinae Plane Block on Neutrophil-Lymphocyte Ratio in On-Pump CABG: A Prospective Randomized Study..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Culture as a System of Models</title>
+      <link>https://doi.org/10.1177/1354067x261480128</link>
+      <guid>80ead6d68c07a334</guid>
+      <description>The concept of culture appears crucial in human sciences but remains ambiguous, which results in a diversity of its implementation and a multiplicity of approaches to culture itself. I view a good line of inquiry in developing a unified definition of culture that accommodates a number of its interpretations and provides the possibility of harmonizing theories of culture.</description>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Quantum-Inspired Hybrid Neural Networks for Neural Decoding: A Controlled Ablation Study of Learnable Quantum Sidecar Integration</title>
-      <link>http://arxiv.org/abs/2608.22475v1</link>
-      <guid>b09c51dadf9f2a9d</guid>
-      <description>We study parameterized quantum circuits (PQCs) integrated as residual sidecar modules within a ResNet-50 backbone for 31-class neural population decoding---imagined handwriting classification from multi-neuron spike rasters. Under strictly controlled conditions (fixed data splits, seeds, and optimizer), we compare four model variants: baseline, quantum sidecar with frozen input projection, quantum sidecar with backbone-gradient-trained projection, and a measurement-guided variant that aligns angle encodings with…</description>
-      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Scalable Lindblad Noise Learning via Stochastic Tensor-Network Simulation</title>
+      <link>http://arxiv.org/abs/2608.24668v1</link>
+      <guid>a05fde61c3de0937</guid>
+      <description>Learning dissipation rates in large-scale open quantum systems is a major obstacle for near-term quantum technologies, as existing Lindblad estimation methods are typically limited to small system sizes due to the computational complexity of repeatedly solving the Lindblad equation during optimization. Here, we propose a scalable noise-learning framework for Lindblad dissipation rates that combines a stochastic simulation method, the Tensor Jump Method (TJM), with gradient-free optimization of a least-squares…</description>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
