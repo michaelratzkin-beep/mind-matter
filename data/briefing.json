@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "title": "The latest signal",
   "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Neuroscience, Quantum physics. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
@@ -9,7 +9,7 @@
       "title": "Artificial Intelligence and Subtle Phenomena: Theoretical Perspectives on Representation and Reality",
       "why_it_matters": "This paper investigates the possibility that artificial intelligence (AI) systems may not only simulate perceptual functions but participate intentionally or inadvertently in forms of subtle observation that mirror aspects of human consciousness. Bridging neuroscience, affective computing, quantum cognition, and subtle energy theories, we examine whether AI outputs, particularly from large-scale generative models, can influence or interface with non-material dimensions of perception.",
       "url": "https://doi.org/10.56201/ijasmt.vol.12.no5.2026pg62.74",
-      "signal_score": 64,
+      "signal_score": 63,
       "evidence_label": "Journal article"
     },
     {
@@ -18,15 +18,15 @@
       "title": "Exploring Unconscious Mental Abilities Using fMRI and Artificial Intelligence: A Multimodal Neuroimaging Study",
       "why_it_matters": "The unconscious mind remains one of the most elusive frontiers in cognitive neuroscience, shaping perception, emotion, and behavior through neural processes that evade explicit awareness (Marcel, 1983; Goodale & Milner, 1992; Bargh & Chartrand, 1999; Baars, 1988; Kahneman, 2011). Despite substantial behavioral evidence for unconscious cognitive processing (Bechara et al., 1997; Naccache & Dehaene, 2001; Soon et al., 2008; Dijksterhuis et al., 2006), the neural mechanisms underlying these phenomena remain…",
       "url": "https://doi.org/10.47485/2693-2490.1176",
-      "signal_score": 60,
+      "signal_score": 59,
       "evidence_label": "Journal article"
     },
     {
       "domain": "quantum",
       "domain_label": "Quantum physics",
-      "title": "Superextensive learning in quantum reservoirs at the onset of information scrambling",
-      "why_it_matters": "The idea that information processing is optimised near the boundary between order and chaos has emerged as a recurring principle across neuroscience, complex systems, and machine learning. Here we test this hypothesis in quantum many-body systems, numerically simulating two-dimensional Ising networks of up to $N=20$ spins, operated as quantum reservoirs for time-series forecasting.",
-      "url": "http://arxiv.org/abs/2608.25511v1",
+      "title": "Long-time Dynamics of Many-body Open Quantum Systems using Quantum Generating Functions",
+      "why_it_matters": "The interplay between coherent unitary evolution and environment-induced dissipation can give rise to a wide range of non-equilibrium dynamics in open quantum systems, ranging from interesting transport phenomena to dynamical phase transitions. However, accessing such long-time dynamics remains challenging for the existing methods developed for the simulation of many-body open quantum systems.",
+      "url": "http://arxiv.org/abs/2608.27237v1",
       "signal_score": 54,
       "evidence_label": "Preprint"
     }

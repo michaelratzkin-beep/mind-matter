@@ -4,7 +4,7 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Thu, 27 Aug 2026 22:12:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 22:13:43 +0000</lastBuildDate>
     <item>
       <title>Artificial Intelligence and Subtle Phenomena: Theoretical Perspectives on Representation and Reality</title>
       <link>https://doi.org/10.56201/ijasmt.vol.12.no5.2026pg62.74</link>
@@ -20,6 +20,27 @@
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Long-time Dynamics of Many-body Open Quantum Systems using Quantum Generating Functions</title>
+      <link>http://arxiv.org/abs/2608.27237v1</link>
+      <guid>a556fac0144c7b84</guid>
+      <description>The interplay between coherent unitary evolution and environment-induced dissipation can give rise to a wide range of non-equilibrium dynamics in open quantum systems, ranging from interesting transport phenomena to dynamical phase transitions. However, accessing such long-time dynamics remains challenging for the existing methods developed for the simulation of many-body open quantum systems.</description>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum-enhanced ghost imaging recognition via joint optimization of speckle patterns and quantum network parameters</title>
+      <link>http://arxiv.org/abs/2608.26972v1</link>
+      <guid>a461d4b6d6df3f4c</guid>
+      <description>Ghost imaging enables nonlocal image reconstruction and exhibits strong robustness against interference, but achieving high-fidelity recognition at ultra-low sampling rates remains challenging. Quantum machine learning offers a novel approach for efficient feature extraction on noisy medium-scale quantum devices; however, existing methods generally suffer from low recognition accuracy and weak noise resistance.</description>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Strong Coupling of the Mo Mo Stretching Mode to a Locally Confined Stokes Raman Field in Mo2 Molecular Resonators</title>
+      <link>http://arxiv.org/abs/2608.26482v1</link>
+      <guid>b878003abbda8367</guid>
+      <description>Confining optical fields to molecular dimensions is a central objective in nanophotonics and molecular quantum optics. Here, we report strong coupling of the Mo Mo stretching vibration to a locally confined Raman scattering field in quadruply bonded dimolybdenum complexes.</description>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Superior hypogastric nerve block versus spinal anesthesia for early pain control after uterine fibroid embolization: a prospective quasi-randomized comparative study.</title>
       <link>https://europepmc.org/article/MED/42649321</link>
       <guid>4d27dbf125b8a876</guid>
@@ -27,17 +48,10 @@
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Superextensive learning in quantum reservoirs at the onset of information scrambling</title>
-      <link>http://arxiv.org/abs/2608.25511v1</link>
-      <guid>7f9fcc14b75e18ae</guid>
-      <description>The idea that information processing is optimised near the boundary between order and chaos has emerged as a recurring principle across neuroscience, complex systems, and machine learning. Here we test this hypothesis in quantum many-body systems, numerically simulating two-dimensional Ising networks of up to $N=20$ spins, operated as quantum reservoirs for time-series forecasting.</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interpretable Activation-Selection Neural Networks for Symbolic Regression of Parameter-Dependent Hamiltonian Eigenvalues</title>
-      <link>http://arxiv.org/abs/2608.25475v1</link>
-      <guid>511287fa76779f2a</guid>
-      <description>Analytical approximations to eigenvalues of parameter-dependent Hamiltonians can provide physical insight that is not readily apparent from numerical diagonalization alone. Here, we introduce an activation-selection network (ASN), a differentiable symbolic-regression architecture in which each input node learns a sparse combination of predefined analytical functions, and the trained network can be converted directly into an explicit expression.</description>
+      <title>Misunderstanding Convivial Solipsism: the Necessity of a Perspectival Logic</title>
+      <link>http://arxiv.org/abs/2608.26361v1</link>
+      <guid>7a6da46ec474333e</guid>
+      <description>Convivial Solipsism is easily misunderstood. Because it denies the absoluteness of observed events while preserving the universality of quantum mechanics, it invites objections that are often formulated in a classical, non-perspectival language.</description>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -62,25 +76,11 @@
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Certified Fidelity Susceptibility from Classical Shadows</title>
-      <link>http://arxiv.org/abs/2608.24732v1</link>
-      <guid>793a257aea64eef4</guid>
-      <description>Fidelity susceptibility is a useful probe of quantum phase transitions and quantum metrology, but its direct evaluation on a quantum device is challenging. By integrating Krylov-subspace methods with a resolvent-based reformulation, we present a method for certifying fidelity susceptibility using randomized single-copy measurements across repeated ground-state preparations.</description>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Materialism as the Boundary Condition of Idealism-Understanding the Coherence-Modulated Consciousness-Matter Cycle (CMCMC)</title>
       <link>https://doi.org/10.38124/ijisrt/26aug160</link>
       <guid>accc6323c8525ae0</guid>
       <description>This paper develops an ontology in which consciousness is fundamental, and materialism is a boundary condition. Elementary particles in matter possess proto‑consciousness comparable to mass, spin, or charge.</description>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Provable Quantum--Classical Separation for Continuous Gibbs Sampling</title>
-      <link>http://arxiv.org/abs/2608.24527v1</link>
-      <guid>6c76855071a07537</guid>
-      <description>We prove the first quantum--classical separation for a sampling problem over a continuous domain. For a class of Gibbs states $p\propto e^{-βE}$ on the torus $\mathbb{T}^d$ with smooth ($s$-Gevrey) potential and barrier amplitude $α=e^{βΔ}$, where $Δ= \max E-\min E$, every classical algorithm---querying the value, gradient, or any higher-order derivatives of the log-density---requires $Ω(α)$ queries to sample at constant accuracy in total variation distance, while a quantum algorithm based on quantum singular…</description>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Advancements in intraoperative monitoring techniques in neurosurgical practice: a systematic review</title>
@@ -97,11 +97,32 @@
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>A Unified Quantum Neural Network Framework for Hamiltonian Learning and Emulation of Unknown Quantum Systems</title>
+      <link>https://doi.org/10.48550/arxiv.2608.23025</link>
+      <guid>0e3909c750e20ea1</guid>
+      <description>Accurate identification of unknown quantum systems is essential for quantum computing, sensing, and control because the Hamiltonian governs quantum state evolution. This work proposes a QNN based framework for black box Hamiltonian learning and quantum system emulation using full density matrix trajectory learning.</description>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Beyond the Mirror: Balancing Interaction Modality and Avatar Fidelity in Public 3D Virtual Try-On Systems</title>
       <link>http://arxiv.org/abs/2608.23345v1</link>
       <guid>a9cca362daf6983b</guid>
       <description>Virtual Try-On (VTON) systems deployed on large public displays face a dual barrier: the physical strain of mid-air interaction and the social inhibition caused by public self-consciousness. This paper presents a real-time 3D avatar system integrating markerless motion capture with dynamic visual fidelity control to investigate and mitigate both barriers.</description>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evaluating Quantum Kernel Methods for Track-Based Classification in High-Energy Physics</title>
+      <link>http://arxiv.org/abs/2608.27333v1</link>
+      <guid>418f18f019ae28d9</guid>
+      <description>We present a systematic design for large-scale quantum kernel classification, demonstrated through a quantum support vector classifier (QSVC) for particle-track classification using centroid-based CLAS12 drift-chamber features. Each event is encoded into a six-qubit state via a fully entangled ZZFeatureMap, whose fidelities define a quantum kernel within a standard SVM framework.</description>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Interconnects Part I: Strategic Quantum Network Formation</title>
+      <link>http://arxiv.org/abs/2608.26886v1</link>
+      <guid>d3bcb4fa69c44683</guid>
+      <description>The realization of large-scale quantum networks requires more than advances in quantum repeaters, memories, and processors, it requires a framework explaining how heterogeneous quantum technologies evolve from isolated deployments into interconnected infrastructures. While the classical Internet evolved under strong utility incentives associated with resource sharing and communication demands, quantum networking currently lacks dominant applications capable of generating comparable incentives.</description>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A Validated Measurement Protocol for Comparable, Cost-Aware Software Testing Evaluation: A Reproducible Benchmark, an Oracle Sampling-Budget Guarantee, and a Real-Fault Validity Study, Instantiated for Quantum Programs</title>
@@ -118,32 +139,11 @@
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Surpassing Gaussian optimality in multiparameter estimation with indefinite causal order</title>
-      <link>http://arxiv.org/abs/2608.25870v1</link>
-      <guid>5d324b34e87a5512</guid>
-      <description>We identify single-mode Gaussian probes, generated by displacement and squeezing operations on the vacuum state, which are optimal for the simultaneous estimation of displacement and squeezing operations in continuous-variable quantum systems. Importantly, our results reveal that the best precision at a fixed energy is achieved not by an experimentally costly squeezing resource, but rather by redirecting some of the energy towards displacement, thus allowing for more resource-effective operations.</description>
+      <title>Toward an extension of the Constructal Law to sub-macroscopic scales</title>
+      <link>https://doi.org/10.1016/j.icheatmasstransfer.2026.112413</link>
+      <guid>f647501def419d55</guid>
+      <description>Bejan's Constructal Law establishes that finite-size macroscopic systems spontaneously morph their architectures to maximize transport access, yet this thermodynamic imperative remains formally unproven at the quantum scale. Here, we generalize the Constructal Law to open, non-equilibrium quantum systems via a field-theoretic formulation.</description>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A 3D printable device for non-invasive longitudinal neuroimaging in the adult zebrafish.</title>
-      <link>https://europepmc.org/article/MED/42643095</link>
-      <guid>1a0b503d4b9ced6f</guid>
-      <description>New work indexed under “A 3D printable device for non-invasive longitudinal neuroimaging in the adult zebrafish..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Culture as a System of Models</title>
-      <link>https://doi.org/10.1177/1354067x261480128</link>
-      <guid>80ead6d68c07a334</guid>
-      <description>The concept of culture appears crucial in human sciences but remains ambiguous, which results in a diversity of its implementation and a multiplicity of approaches to culture itself. I view a good line of inquiry in developing a unified definition of culture that accommodates a number of its interpretations and provides the possibility of harmonizing theories of culture.</description>
-      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scalable Lindblad Noise Learning via Stochastic Tensor-Network Simulation</title>
-      <link>http://arxiv.org/abs/2608.24668v2</link>
-      <guid>cef8b29bfaab6ff7</guid>
-      <description>Learning dissipation rates in large-scale open quantum systems is a major obstacle for near-term quantum technologies, as existing Lindblad estimation methods are typically limited to small system sizes due to the computational complexity of repeatedly solving the Lindblad equation during optimization. Here, we propose a scalable noise-learning framework for Lindblad dissipation rates that combines a stochastic simulation method, the Tensor Jump Method (TJM), with gradient-free optimization of a least-squares…</description>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
