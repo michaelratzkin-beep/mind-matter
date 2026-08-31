@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "title": "The latest signal",
   "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Neuroscience, Quantum physics. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
@@ -9,7 +9,7 @@
       "title": "Artificial Intelligence and Subtle Phenomena: Theoretical Perspectives on Representation and Reality",
       "why_it_matters": "This paper investigates the possibility that artificial intelligence (AI) systems may not only simulate perceptual functions but participate intentionally or inadvertently in forms of subtle observation that mirror aspects of human consciousness. Bridging neuroscience, affective computing, quantum cognition, and subtle energy theories, we examine whether AI outputs, particularly from large-scale generative models, can influence or interface with non-material dimensions of perception.",
       "url": "https://doi.org/10.56201/ijasmt.vol.12.no5.2026pg62.74",
-      "signal_score": 61,
+      "signal_score": 60,
       "evidence_label": "Journal article"
     },
     {
@@ -18,17 +18,17 @@
       "title": "Exploring Unconscious Mental Abilities Using fMRI and Artificial Intelligence: A Multimodal Neuroimaging Study",
       "why_it_matters": "The unconscious mind remains one of the most elusive frontiers in cognitive neuroscience, shaping perception, emotion, and behavior through neural processes that evade explicit awareness (Marcel, 1983; Goodale & Milner, 1992; Bargh & Chartrand, 1999; Baars, 1988; Kahneman, 2011). Despite substantial behavioral evidence for unconscious cognitive processing (Bechara et al., 1997; Naccache & Dehaene, 2001; Soon et al., 2008; Dijksterhuis et al., 2006), the neural mechanisms underlying these phenomena remain…",
       "url": "https://doi.org/10.47485/2693-2490.1176",
-      "signal_score": 57,
+      "signal_score": 56,
       "evidence_label": "Journal article"
     },
     {
       "domain": "quantum",
       "domain_label": "Quantum physics",
-      "title": "Encoding strategies for quantum enhanced fluid simulations: opportunities and challenges",
-      "why_it_matters": "Abstract Quantum computing has emerged as a powerful potential accelerator for computational fluid dynamics (CFD), but whether this promise can be realized in practice depends on how fluid information is encoded on quantum hardware. This review provides an architecture-agnostic assessment of encoding strategies for quantum-enhanced fluid simulation, focusing on the trade-offs they impose on state preparation, measurement, boundary treatment, nonlinear dynamics, and temporal evolution.",
-      "url": "https://doi.org/10.1088/2058-9565/aea01c",
+      "title": "Learning to Decode Concatenated Quantum Codes with Hierarchical Message Passing",
+      "why_it_matters": "We introduce a neural message-passing framework for decoding general concatenated stabilizer codes. Soft beliefs propagate bidirectionally across concatenation levels, and lightweight neural networks learn only to aggregate incoming messages.",
+      "url": "http://arxiv.org/abs/2608.28571v1",
       "signal_score": 52,
-      "evidence_label": "Other"
+      "evidence_label": "Preprint"
     }
   ]
 }

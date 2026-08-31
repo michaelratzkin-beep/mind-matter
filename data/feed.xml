@@ -4,7 +4,7 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Sun, 30 Aug 2026 16:36:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 19:06:30 +0000</lastBuildDate>
     <item>
       <title>Artificial Intelligence and Subtle Phenomena: Theoretical Perspectives on Representation and Reality</title>
       <link>https://doi.org/10.56201/ijasmt.vol.12.no5.2026pg62.74</link>
@@ -20,6 +20,90 @@
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Healthcare-associated infections: epidemiology, antimicrobial resistance, and infection control challenges: a systematic review.</title>
+      <link>https://europepmc.org/article/MED/42663382</link>
+      <guid>794944001393b4e8</guid>
+      <description>New work indexed under “Healthcare-associated infections: epidemiology, antimicrobial resistance, and infection control challenges: a systematic review..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Glycemic and safety outcomes of the insulin-only bionic pancreas in older adults and individuals with impaired awareness of Hypoglycemia: a post hoc analysis of a randomized pivotal trial.</title>
+      <link>https://europepmc.org/article/MED/42669381</link>
+      <guid>0d5402f254e3d08b</guid>
+      <description>New work indexed under “Glycemic and safety outcomes of the insulin-only bionic pancreas in older adults and individuals with impaired awareness of Hypoglycemia: a post hoc analysis of a randomized pivotal trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Integrating basic body awareness therapy with scoliosis-specific exercise for trunk proprioception in adolescent idiopathic scoliosis: a randomized controlled trial.</title>
+      <link>https://europepmc.org/article/MED/42669092</link>
+      <guid>f1c7a6347f78d672</guid>
+      <description>New work indexed under “Integrating basic body awareness therapy with scoliosis-specific exercise for trunk proprioception in adolescent idiopathic scoliosis: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Impact of high fraction of inspired oxygen before extubation on incidence of postoperative atelectasis in children: a randomized controlled trial.</title>
+      <link>https://europepmc.org/article/MED/42668283</link>
+      <guid>cb8cfdf650b594c9</guid>
+      <description>New work indexed under “Impact of high fraction of inspired oxygen before extubation on incidence of postoperative atelectasis in children: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Retrograde ureteral catheterization in percutaneous nephrolithotomy may be omitted in selected patients: a randomized controlled trial.</title>
+      <link>https://europepmc.org/article/MED/42667381</link>
+      <guid>d22e8ec874cd534d</guid>
+      <description>New work indexed under “Retrograde ureteral catheterization in percutaneous nephrolithotomy may be omitted in selected patients: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lack of Efficacy of Low-Dose Cyclobenzaprine on Electromyographic Activity Related to Sleep Bruxism: A Randomized Crossover Double-Blind Placebo-Controlled Clinical Trial.</title>
+      <link>https://europepmc.org/article/MED/42666102</link>
+      <guid>8f47e1bdfb449f3a</guid>
+      <description>New work indexed under “Lack of Efficacy of Low-Dose Cyclobenzaprine on Electromyographic Activity Related to Sleep Bruxism: A Randomized Crossover Double-Blind Placebo-Controlled Clinical Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Effect of electroencephalography-guided general anesthesia on postoperative delirium : A meta-analysis of randomized controlled trials.</title>
+      <link>https://europepmc.org/article/MED/42663660</link>
+      <guid>98a03fa2de81d5ca</guid>
+      <description>New work indexed under “Effect of electroencephalography-guided general anesthesia on postoperative delirium : A meta-analysis of randomized controlled trials..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spatial spectral narrowing in the corticothalamic neural field model across consciousness states.</title>
+      <link>https://europepmc.org/article/MED/42667420</link>
+      <guid>3395a18a20f93778</guid>
+      <description>New work indexed under “Spatial spectral narrowing in the corticothalamic neural field model across consciousness states..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learning to Decode Concatenated Quantum Codes with Hierarchical Message Passing</title>
+      <link>http://arxiv.org/abs/2608.28571v1</link>
+      <guid>86bc454125212607</guid>
+      <description>We introduce a neural message-passing framework for decoding general concatenated stabilizer codes. Soft beliefs propagate bidirectionally across concatenation levels, and lightweight neural networks learn only to aggregate incoming messages.</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Casimir-electrostatic pull-in in nanoelectromechanical actuators: Differentiable design sensitivities and the damping-dependent collapse boundary</title>
+      <link>http://arxiv.org/abs/2608.28494v1</link>
+      <guid>e5fd5815a50cd979</guid>
+      <description>Nanoelectromechanical actuators operating at sub-100-nm gaps collapse through a pull-in instability set by competing electrostatic and Casimir forces. The quasi-static fold that bounds their safe operating range has been known in closed form for three decades, together with the Casimir ceiling above which no static equilibrium survives, which fixes the smallest gap a given stiffness and area can hold open against the quantum vacuum.</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comparing Classical and Quantum Machine Learning for Regression in High Energy Physics Collision Data</title>
+      <link>http://arxiv.org/abs/2608.28084v1</link>
+      <guid>e433e2b75dcade4e</guid>
+      <description>The classification and regression of particle collision events constitute a persistent computational challenge in experimental high energy physics, where large volumes of simulated data must be processed with both speed and precision. This work carries out a systematic comparison of four classical machine learning architectures, support vector machines (SVM), artificial neural networks (ANN), convolutional neural networks (CNN), and long short-term memory (LSTM) networks against their quantum counterparts: quantum…</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum geometric bounds at finite temperature for one-dimensional chiral systems</title>
+      <link>http://arxiv.org/abs/2608.27944v1</link>
+      <guid>37882864c4b3fa1a</guid>
+      <description>The geometry and topology of quantum states are intimately related at zero temperature through exact bounds that constrain geometric quantities from below by topological invariants. At finite-temperature, however, the analogous relations remain unclear.</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Encoding strategies for quantum enhanced fluid simulations: opportunities and challenges</title>
       <link>https://doi.org/10.1088/2058-9565/aea01c</link>
       <guid>71aadda2bc1eeaa3</guid>
@@ -27,31 +111,24 @@
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Long-time Dynamics of Many-body Open Quantum Systems using Quantum Generating Functions</title>
-      <link>http://arxiv.org/abs/2608.27237v1</link>
-      <guid>a556fac0144c7b84</guid>
-      <description>The interplay between coherent unitary evolution and environment-induced dissipation can give rise to a wide range of non-equilibrium dynamics in open quantum systems, ranging from interesting transport phenomena to dynamical phase transitions. However, accessing such long-time dynamics remains challenging for the existing methods developed for the simulation of many-body open quantum systems.</description>
+      <title>Logical Neural Belief Propagation for Linear-Complexity Decoding of Surface Codes</title>
+      <link>http://arxiv.org/abs/2608.27682v1</link>
+      <guid>becd2512800a3644</guid>
+      <description>Quantum error correction (QEC) requires decoders that achieve high logical accuracy while scaling efficiently with the code length. Belief propagation (BP) is attractive for its linear decoding complexity, but conventional BP decoders often fail to reach sufficient logical accuracy on surface codes.</description>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Quantum-enhanced ghost imaging recognition via joint optimization of speckle patterns and quantum network parameters</title>
-      <link>http://arxiv.org/abs/2608.26972v1</link>
-      <guid>a461d4b6d6df3f4c</guid>
-      <description>Ghost imaging enables nonlocal image reconstruction and exhibits strong robustness against interference, but achieving high-fidelity recognition at ultra-low sampling rates remains challenging. Quantum machine learning offers a novel approach for efficient feature extraction on noisy medium-scale quantum devices; however, existing methods generally suffer from low recognition accuracy and weak noise resistance.</description>
+      <title>Machine Learning-Based Characterisation of the Non-Markovian Dynamics of a Nitrogen-Vacancy Centre</title>
+      <link>http://arxiv.org/abs/2608.27632v1</link>
+      <guid>2c51b9d08353a913</guid>
+      <description>The interaction between a quantum system and its environment can be characterized by the spectral density function: knowing its structure is important for optimizing applications of quantum technologies such as quantum sensing protocols. In this work, we present the first experimental demonstration of a machine learning-based reconstruction of reaction-coordinate spectral density parameters from NV centre Rabi dynamics.</description>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Strong Coupling of the Mo Mo Stretching Mode to a Locally Confined Stokes Raman Field in Mo2 Molecular Resonators</title>
-      <link>http://arxiv.org/abs/2608.26482v1</link>
-      <guid>b878003abbda8367</guid>
-      <description>Confining optical fields to molecular dimensions is a central objective in nanophotonics and molecular quantum optics. Here, we report strong coupling of the Mo Mo stretching vibration to a locally confined Raman scattering field in quadruply bonded dimolybdenum complexes.</description>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Superior hypogastric nerve block versus spinal anesthesia for early pain control after uterine fibroid embolization: a prospective quasi-randomized comparative study.</title>
-      <link>https://europepmc.org/article/MED/42649321</link>
-      <guid>4d27dbf125b8a876</guid>
-      <description>New work indexed under “Superior hypogastric nerve block versus spinal anesthesia for early pain control after uterine fibroid embolization: a prospective quasi-randomized comparative study..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <title>Quantum SEDONet: Spectrally-Embedded Quantum Deep Operator Networks for Partial Differential Equations</title>
+      <link>http://arxiv.org/abs/2608.27626v1</link>
+      <guid>f16dcccfa08c08f9</guid>
+      <description>Quantum DeepONet accelerates neural-operator inference by evaluating an orthogonally parameterized network on a quantum computer, reproducing in ideal simulation the accuracy of its classical counterpart at asymptotically lower inference cost. Its trunk network, however, receives query coordinates with limited spectral structure, requiring the network to learn oscillatory features through its nonlinearities.</description>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -67,83 +144,6 @@
       <guid>7a6da46ec474333e</guid>
       <description>Convivial Solipsism is easily misunderstood. Because it denies the absoluteness of observed events while preserving the universality of quantum mechanics, it invites objections that are often formulated in a classical, non-perspectival language.</description>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Baska Mask versus ProSeal™ Laryngeal Mask Airway for Airway Sealing and Clinical Performance in Gynecologic Laparoscopic Surgery: A randomized trial.</title>
-      <link>https://europepmc.org/article/MED/42648636</link>
-      <guid>bc92b8e31a457a76</guid>
-      <description>New work indexed under “Baska Mask versus ProSeal™ Laryngeal Mask Airway for Airway Sealing and Clinical Performance in Gynecologic Laparoscopic Surgery: A randomized trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aerobic versus Core‑stabilization Training after Caudal Epidural Steroid İnjection for Lumbar Disc Herniation: A Single Blind Parallel Group Randomized Controlled Trial.</title>
-      <link>https://europepmc.org/article/MED/42642811</link>
-      <guid>4d4e53c8c6066845</guid>
-      <description>New work indexed under “Aerobic versus Core‑stabilization Training after Caudal Epidural Steroid İnjection for Lumbar Disc Herniation: A Single Blind Parallel Group Randomized Controlled Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neuromuscular Blockade Depth and Oculocardiac Reflex in Pediatric Strabismus Surgery: A Randomized Clinical Trial.</title>
-      <link>https://europepmc.org/article/MED/42461097</link>
-      <guid>48025c96353f3743</guid>
-      <description>New work indexed under “Neuromuscular Blockade Depth and Oculocardiac Reflex in Pediatric Strabismus Surgery: A Randomized Clinical Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Materialism as the Boundary Condition of Idealism-Understanding the Coherence-Modulated Consciousness-Matter Cycle (CMCMC)</title>
-      <link>https://doi.org/10.38124/ijisrt/26aug160</link>
-      <guid>accc6323c8525ae0</guid>
-      <description>This paper develops an ontology in which consciousness is fundamental, and materialism is a boundary condition. Elementary particles in matter possess proto‑consciousness comparable to mass, spin, or charge.</description>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZEBTS‑SUPER: The New Physics of the 21st Century. χ‑Reality, χ‑Operator Geometry, and the Ontological Reconstruction of Matter, Vacuum, and Consciousness</title>
-      <link>https://doi.org/10.33774/coe-2026-2th4d</link>
-      <guid>b58054e751b11e6b</guid>
-      <description>This monograph introduces ZEBTS‑SUPER, a unified χ‑spectral and χ‑operator‑geometric reconstruction of physical reality. It establishes χ‑Reality as the fundamental ontological structure, defined by 𝑋 𝜒 = ( 𝐺 𝜒 , 𝑆 𝜒 , 𝐴 𝜒 , 𝐶 𝜒 ) , where geometry, spectrum, operators, and consciousness form an inseparable whole.</description>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Unified Quantum Neural Network Framework for Hamiltonian Learning and Emulation of Unknown Quantum Systems</title>
-      <link>https://doi.org/10.48550/arxiv.2608.23025</link>
-      <guid>0e3909c750e20ea1</guid>
-      <description>Accurate identification of unknown quantum systems is essential for quantum computing, sensing, and control because the Hamiltonian governs quantum state evolution. This work proposes a QNN based framework for black box Hamiltonian learning and quantum system emulation using full density matrix trajectory learning.</description>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beyond the Mirror: Balancing Interaction Modality and Avatar Fidelity in Public 3D Virtual Try-On Systems</title>
-      <link>http://arxiv.org/abs/2608.23345v1</link>
-      <guid>a9cca362daf6983b</guid>
-      <description>Virtual Try-On (VTON) systems deployed on large public displays face a dual barrier: the physical strain of mid-air interaction and the social inhibition caused by public self-consciousness. This paper presents a real-time 3D avatar system integrating markerless motion capture with dynamic visual fidelity control to investigate and mitigate both barriers.</description>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can extrinsic methods reveal intrinsic structure? Complementing IIT with QStr</title>
-      <link>https://doi.org/10.48550/arxiv.2608.24928</link>
-      <guid>f44b1e90bb1712d3</guid>
-      <description>Integrated Information Theory (IIT) proposes that all quality is structure: the quality of every experience can be characterized as a phenomenal structure and accounted for as a causal structure. The IIT method can be called intrinsic in that, first, it starts by characterizing the intrinsic structure of a single experience in an absolute sense (not relative to other experiences) and, second, it preserves this intrinsic perspective when accounting for experience in physical terms.</description>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Advancements in intraoperative monitoring techniques in neurosurgical practice: a systematic review</title>
-      <link>https://doi.org/10.1186/s41984-026-00650-7</link>
-      <guid>3158699962b5621b</guid>
-      <description>Abstract Background Intraoperative monitoring (IOM) has become a vital component of contemporary neurosurgery, significantly reducing neurological deficits and improving surgical outcomes. This systematic review aims to evaluate recent advancements in IOM techniques in neurosurgical practice.</description>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Evaluating Quantum Kernel Methods for Track-Based Classification in High-Energy Physics</title>
-      <link>http://arxiv.org/abs/2608.27333v1</link>
-      <guid>418f18f019ae28d9</guid>
-      <description>We present a systematic design for large-scale quantum kernel classification, demonstrated through a quantum support vector classifier (QSVC) for particle-track classification using centroid-based CLAS12 drift-chamber features. Each event is encoded into a six-qubit state via a fully entangled ZZFeatureMap, whose fidelities define a quantum kernel within a standard SVM framework.</description>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quantum Interconnects Part I: Strategic Quantum Network Formation</title>
-      <link>http://arxiv.org/abs/2608.26886v1</link>
-      <guid>d3bcb4fa69c44683</guid>
-      <description>The realization of large-scale quantum networks requires more than advances in quantum repeaters, memories, and processors, it requires a framework explaining how heterogeneous quantum technologies evolve from isolated deployments into interconnected infrastructures. While the classical Internet evolved under strong utility incentives associated with resource sharing and communication demands, quantum networking currently lacks dominant applications capable of generating comparable incentives.</description>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
