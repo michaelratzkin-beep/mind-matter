@@ -4,13 +4,48 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Mon, 31 Aug 2026 19:06:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 16:33:19 +0000</lastBuildDate>
+    <item>
+      <title>Subanesthetic nitrous oxide alters large-scale network organization and insula connectivity during visual stimulation</title>
+      <link>https://doi.org/10.1038/s42003-026-10838-0</link>
+      <guid>f0b6dccd5723376e</guid>
+      <description>Pharmacological agents that alter consciousness, including classic psychedelics and non-classic agents such as nitrous oxide, are known to affect multiple domains of conscious experience, including visual perception. While most neuroimaging studies rely on resting-state data to characterize altered states of consciousness, task-based approaches enable investigation of specific perceptual domains.</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dynamic Global and Local Enhancement of Theta‐Band Functional Networks as Neural Markers of Spinal Cord Stimulation Efficacy in Disorders of Consciousness</title>
+      <link>https://doi.org/10.1002/cns.71128</link>
+      <guid>660ec51c9cdeca39</guid>
+      <description>ABSTRACT Background Spinal cord stimulation (SCS) has emerged as a promising intervention for patients with disorders of consciousness (DoC). However, clinical optimization is hindered by a lack of interpretable prognostic biomarkers, and the neural mechanisms associated with recovery after SCS remain largely elusive.</description>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Artificial Intelligence and Subtle Phenomena: Theoretical Perspectives on Representation and Reality</title>
       <link>https://doi.org/10.56201/ijasmt.vol.12.no5.2026pg62.74</link>
       <guid>51e5e04e9980f2e7</guid>
       <description>This paper investigates the possibility that artificial intelligence (AI) systems may not only simulate perceptual functions but participate intentionally or inadvertently in forms of subtle observation that mirror aspects of human consciousness. Bridging neuroscience, affective computing, quantum cognition, and subtle energy theories, we examine whether AI outputs, particularly from large-scale generative models, can influence or interface with non-material dimensions of perception.</description>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Effectiveness of Caregiver-Mediated Spoken Language Interventions for Children Under Five at Risk of Developmental Language Disorder: A Systematic Review and Meta-Analysis.</title>
+      <link>https://europepmc.org/article/MED/42627285</link>
+      <guid>d3529e0ea6a68ebd</guid>
+      <description>New work indexed under “Effectiveness of Caregiver-Mediated Spoken Language Interventions for Children Under Five at Risk of Developmental Language Disorder: A Systematic Review and Meta-Analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comment on "Virtual Reality Glasses Reduce Patients' Anxiety During Emergency Surgical Procedures Under Local Anesthesia: A Randomized Controlled Clinical Study".</title>
+      <link>https://europepmc.org/article/MED/42618157</link>
+      <guid>47b591fd682d39b1</guid>
+      <description>New work indexed under “Comment on "Virtual Reality Glasses Reduce Patients' Anxiety During Emergency Surgical Procedures Under Local Anesthesia: A Randomized Controlled Clinical Study"..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exact quantum splitting and the structure of finite algebras</title>
+      <link>http://arxiv.org/abs/2608.30340v1</link>
+      <guid>e7a47b5743240123</guid>
+      <description>Berlekamp's algorithm factors a squarefree polynomial $f\in\mathbb{F}_q[x]$ by deterministic linear algebra, reducing the problem to splitting an explicit commutative algebra $B\cong\mathbb{F}_q^r$ into its $r$ simple factors. For large odd $q$, the standard efficient splitting step is randomized, while known derandomizations are conditional on the Extended Riemann Hypothesis.</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Exploring Unconscious Mental Abilities Using fMRI and Artificial Intelligence: A Multimodal Neuroimaging Study</title>
@@ -20,87 +55,73 @@
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Healthcare-associated infections: epidemiology, antimicrobial resistance, and infection control challenges: a systematic review.</title>
-      <link>https://europepmc.org/article/MED/42663382</link>
-      <guid>794944001393b4e8</guid>
-      <description>New work indexed under “Healthcare-associated infections: epidemiology, antimicrobial resistance, and infection control challenges: a systematic review..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <title>Midwives' Climate Change Awareness, Planetary Health Literacy, and Psychological Preparedness for Climate-Related Maternal and Newborn Risks: A Systematic Review.</title>
+      <link>https://europepmc.org/article/MED/42671020</link>
+      <guid>38097eada88be87e</guid>
+      <description>New work indexed under “Midwives' Climate Change Awareness, Planetary Health Literacy, and Psychological Preparedness for Climate-Related Maternal and Newborn Risks: A Systematic Review..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tunable Exceptional Points for Quantum Sensing in a Spin--Orbit-Angular-Momentum Coupled BEC</title>
+      <link>http://arxiv.org/abs/2608.31095v1</link>
+      <guid>c042aeac1e0b6533</guid>
+      <description>Exceptional points (EPs) can induce strongly amplified responses to weak perturbations, but enhanced spectral sensitivity in conventional non-Hermitian systems does not necessarily translate into improved quantum-limited sensing because of the associated gain and loss noise. Here, we investigate a tunable EP sensing platform based on the intrinsic non-Hermitian Bogoliubov dynamics of a spin-orbit-angular-momentum-coupled Bose-Einstein condensate.</description>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Glycemic and safety outcomes of the insulin-only bionic pancreas in older adults and individuals with impaired awareness of Hypoglycemia: a post hoc analysis of a randomized pivotal trial.</title>
-      <link>https://europepmc.org/article/MED/42669381</link>
-      <guid>0d5402f254e3d08b</guid>
-      <description>New work indexed under “Glycemic and safety outcomes of the insulin-only bionic pancreas in older adults and individuals with impaired awareness of Hypoglycemia: a post hoc analysis of a randomized pivotal trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <title>Pathwise Random Hamiltonian Simulation</title>
+      <link>http://arxiv.org/abs/2608.29756v1</link>
+      <guid>b173de4228e6be2a</guid>
+      <description>Randomized product formulas such as qDrift offer a resource-efficient alternative to deterministic Trotter--Suzuki decompositions for Hamiltonian simulation, removing their polynomial dependence on the number of Hamiltonian terms. qDrift, however, is intrinsically limited to first order in the evolution time, so its query complexity remains linear in the inverse of the target accuracy, $1/ε$.</description>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Integrating basic body awareness therapy with scoliosis-specific exercise for trunk proprioception in adolescent idiopathic scoliosis: a randomized controlled trial.</title>
-      <link>https://europepmc.org/article/MED/42669092</link>
-      <guid>f1c7a6347f78d672</guid>
-      <description>New work indexed under “Integrating basic body awareness therapy with scoliosis-specific exercise for trunk proprioception in adolescent idiopathic scoliosis: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Impact of high fraction of inspired oxygen before extubation on incidence of postoperative atelectasis in children: a randomized controlled trial.</title>
-      <link>https://europepmc.org/article/MED/42668283</link>
-      <guid>cb8cfdf650b594c9</guid>
-      <description>New work indexed under “Impact of high fraction of inspired oxygen before extubation on incidence of postoperative atelectasis in children: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <title>Smart Enough to Go Extinct? An Evolutionary Challenge to the Value of General Intelligence and Its Ethical Implications for AGI</title>
+      <link>https://doi.org/10.1007/s13347-026-01176-4</link>
+      <guid>0c9430361cd7e2c0</guid>
+      <description>The pursuit of artificial general intelligence (AGI) rests on a seemingly self-evident premise: that general intelligence, the kind of flexible, domain-general cognitive capacity exemplified by Homo sapiens, is extraordinarily valuable. This paper subjects this premise to critical scrutiny.</description>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Retrograde ureteral catheterization in percutaneous nephrolithotomy may be omitted in selected patients: a randomized controlled trial.</title>
-      <link>https://europepmc.org/article/MED/42667381</link>
-      <guid>d22e8ec874cd534d</guid>
-      <description>New work indexed under “Retrograde ureteral catheterization in percutaneous nephrolithotomy may be omitted in selected patients: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Placebo Analgesia Does Not Generalize From Pain to Interoceptive Abilities: A Preregistered Exploratory Study.</title>
+      <link>https://europepmc.org/article/MED/42667300</link>
+      <guid>bc90baea738c4719</guid>
+      <description>New work indexed under “Placebo Analgesia Does Not Generalize From Pain to Interoceptive Abilities: A Preregistered Exploratory Study..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Lack of Efficacy of Low-Dose Cyclobenzaprine on Electromyographic Activity Related to Sleep Bruxism: A Randomized Crossover Double-Blind Placebo-Controlled Clinical Trial.</title>
-      <link>https://europepmc.org/article/MED/42666102</link>
-      <guid>8f47e1bdfb449f3a</guid>
-      <description>New work indexed under “Lack of Efficacy of Low-Dose Cyclobenzaprine on Electromyographic Activity Related to Sleep Bruxism: A Randomized Crossover Double-Blind Placebo-Controlled Clinical Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Side Effect Management of Immune-related Hepatotoxicity Due to Immune Checkpoint Inhibitors: A Multicenter Study by the Turkish Oncology Group (TOG).</title>
+      <link>https://europepmc.org/article/MED/41972337</link>
+      <guid>d2fc9db5a55d2b53</guid>
+      <description>New work indexed under “Side Effect Management of Immune-related Hepatotoxicity Due to Immune Checkpoint Inhibitors: A Multicenter Study by the Turkish Oncology Group (TOG)..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Effect of electroencephalography-guided general anesthesia on postoperative delirium : A meta-analysis of randomized controlled trials.</title>
-      <link>https://europepmc.org/article/MED/42663660</link>
-      <guid>98a03fa2de81d5ca</guid>
-      <description>New work indexed under “Effect of electroencephalography-guided general anesthesia on postoperative delirium : A meta-analysis of randomized controlled trials..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <title>Cross-Spectral Reservoir Correlations as a Resource for Finite-Time Quantum Otto Engines</title>
+      <link>http://arxiv.org/abs/2608.30496v1</link>
+      <guid>a3e3dd5ea4c41f60</guid>
+      <description>We investigate the thermodynamic consequences of longitudinal-transverse cross-spectral reservoir correlations in a finite-time quantum Otto engine with a two-level working medium. Each reservoir couples through excitation-relaxation and dephasing channels whose fluctuations are characterized by a Hermitian positive-semidefinite spectral-density matrix, with the off-diagonal elements encoding their cross correlations.</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>First-principle predictions of fragmentation functions via quantum computing</title>
+      <link>http://arxiv.org/abs/2608.30375v1</link>
+      <guid>5038379ceffd5a7c</guid>
+      <description>We report on an algorithm to compute fragmentation functions from the first principles Quantum Chromodynamics (QCD) Hamiltonian quantized in Light-Front Gauge, opening a path for digital quantum computers to calculate these longitudinal jet-structure observables. Simulating the behaviour of such computers on a classical cluster (which is memory-limited to about 30 qubits, given the expansive Hilbert spaces of actual quantum computers), we run a demonstration of a heavy-quark leading parton fragmenting into…</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>When to take one box, when to take two: A concrete analysis of Newcomb's problem</title>
+      <link>http://arxiv.org/abs/2608.28825v1</link>
+      <guid>9f2d6e05f9d10395</guid>
+      <description>Fifty-seven years of debate have not led to a consensus on Newcomb's problem. I argue that this failure comes from not viewing the problem in concrete terms, for which common-sense intuitions are clearly applicable.</description>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Spatial spectral narrowing in the corticothalamic neural field model across consciousness states.</title>
-      <link>https://europepmc.org/article/MED/42667420</link>
-      <guid>3395a18a20f93778</guid>
-      <description>New work indexed under “Spatial spectral narrowing in the corticothalamic neural field model across consciousness states..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Learning to Decode Concatenated Quantum Codes with Hierarchical Message Passing</title>
-      <link>http://arxiv.org/abs/2608.28571v1</link>
-      <guid>86bc454125212607</guid>
-      <description>We introduce a neural message-passing framework for decoding general concatenated stabilizer codes. Soft beliefs propagate bidirectionally across concatenation levels, and lightweight neural networks learn only to aggregate incoming messages.</description>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Casimir-electrostatic pull-in in nanoelectromechanical actuators: Differentiable design sensitivities and the damping-dependent collapse boundary</title>
-      <link>http://arxiv.org/abs/2608.28494v1</link>
-      <guid>e5fd5815a50cd979</guid>
-      <description>Nanoelectromechanical actuators operating at sub-100-nm gaps collapse through a pull-in instability set by competing electrostatic and Casimir forces. The quasi-static fold that bounds their safe operating range has been known in closed form for three decades, together with the Casimir ceiling above which no static equilibrium survives, which fixes the smallest gap a given stiffness and area can hold open against the quantum vacuum.</description>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comparing Classical and Quantum Machine Learning for Regression in High Energy Physics Collision Data</title>
-      <link>http://arxiv.org/abs/2608.28084v1</link>
-      <guid>e433e2b75dcade4e</guid>
-      <description>The classification and regression of particle collision events constitute a persistent computational challenge in experimental high energy physics, where large volumes of simulated data must be processed with both speed and precision. This work carries out a systematic comparison of four classical machine learning architectures, support vector machines (SVM), artificial neural networks (ANN), convolutional neural networks (CNN), and long short-term memory (LSTM) networks against their quantum counterparts: quantum…</description>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quantum geometric bounds at finite temperature for one-dimensional chiral systems</title>
-      <link>http://arxiv.org/abs/2608.27944v1</link>
-      <guid>37882864c4b3fa1a</guid>
-      <description>The geometry and topology of quantum states are intimately related at zero temperature through exact bounds that constrain geometric quantities from below by topological invariants. At finite-temperature, however, the analogous relations remain unclear.</description>
+      <title>Discovering Machine Correlates of Consciousness</title>
+      <link>http://arxiv.org/abs/2608.28824v1</link>
+      <guid>fbe109db8e936264</guid>
+      <description>Currently, in biological systems Neural Correlates of Consciousness (NCCs) are characterized in terms of EEG and FMRI signals. Unfortunately, this characterization prevents the transferability of the NCCs concept to machines.</description>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -111,39 +132,18 @@
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Logical Neural Belief Propagation for Linear-Complexity Decoding of Surface Codes</title>
-      <link>http://arxiv.org/abs/2608.27682v1</link>
-      <guid>becd2512800a3644</guid>
-      <description>Quantum error correction (QEC) requires decoders that achieve high logical accuracy while scaling efficiently with the code length. Belief propagation (BP) is attractive for its linear decoding complexity, but conventional BP decoders often fail to reach sufficient logical accuracy on surface codes.</description>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Functional fractionation of large-scale brain networks in the human subcortex.</title>
+      <link>https://europepmc.org/article/MED/42673458</link>
+      <guid>d999ab84b4c14d6d</guid>
+      <description>New work indexed under “Functional fractionation of large-scale brain networks in the human subcortex..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Machine Learning-Based Characterisation of the Non-Markovian Dynamics of a Nitrogen-Vacancy Centre</title>
-      <link>http://arxiv.org/abs/2608.27632v1</link>
-      <guid>2c51b9d08353a913</guid>
-      <description>The interaction between a quantum system and its environment can be characterized by the spectral density function: knowing its structure is important for optimizing applications of quantum technologies such as quantum sensing protocols. In this work, we present the first experimental demonstration of a machine learning-based reconstruction of reaction-coordinate spectral density parameters from NV centre Rabi dynamics.</description>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quantum SEDONet: Spectrally-Embedded Quantum Deep Operator Networks for Partial Differential Equations</title>
-      <link>http://arxiv.org/abs/2608.27626v1</link>
-      <guid>f16dcccfa08c08f9</guid>
-      <description>Quantum DeepONet accelerates neural-operator inference by evaluating an orthogonally parameterized network on a quantum computer, reproducing in ideal simulation the accuracy of its classical counterpart at asymptotically lower inference cost. Its trunk network, however, receives query coordinates with limited spectral structure, requiring the network to learn oscillatory features through its nonlinearities.</description>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quantum computing in finance: a literature review and future directions for trustworthy financial AI</title>
-      <link>https://doi.org/10.3389/frai.2026.1929828</link>
-      <guid>3d9e8542807b343c</guid>
-      <description>The paper provides an integrated literature review of recent scientific publications on quantum computing in finance and identifies promising directions for future research on the subject. The review covers seven thematic areas: portfolio optimization, derivative pricing and stochastic volatility, quantum machine learning for fraud detection and credit risk, insurance and actuarial science, mixed-frequency econometrics, fuzzy-quantum approaches for financial explainability, and security of cryptocurrencies.</description>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Misunderstanding Convivial Solipsism: the Necessity of a Perspectival Logic</title>
-      <link>http://arxiv.org/abs/2608.26361v1</link>
-      <guid>7a6da46ec474333e</guid>
-      <description>Convivial Solipsism is easily misunderstood. Because it denies the absoluteness of observed events while preserving the universality of quantum mechanics, it invites objections that are often formulated in a classical, non-perspectival language.</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Associations between coeliac disease and musculoskeletal conditions: epidemiology and genetic evidence from a large-scale cohort study.</title>
+      <link>https://europepmc.org/article/MED/42671508</link>
+      <guid>3e91627ffd2664af</guid>
+      <description>New work indexed under “Associations between coeliac disease and musculoskeletal conditions: epidemiology and genetic evidence from a large-scale cohort study..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

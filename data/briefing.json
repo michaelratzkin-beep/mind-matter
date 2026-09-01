@@ -1,34 +1,34 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "title": "The latest signal",
   "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Neuroscience, Quantum physics. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
     {
       "domain": "consciousness",
       "domain_label": "Consciousness / philosophy",
-      "title": "Artificial Intelligence and Subtle Phenomena: Theoretical Perspectives on Representation and Reality",
-      "why_it_matters": "This paper investigates the possibility that artificial intelligence (AI) systems may not only simulate perceptual functions but participate intentionally or inadvertently in forms of subtle observation that mirror aspects of human consciousness. Bridging neuroscience, affective computing, quantum cognition, and subtle energy theories, we examine whether AI outputs, particularly from large-scale generative models, can influence or interface with non-material dimensions of perception.",
-      "url": "https://doi.org/10.56201/ijasmt.vol.12.no5.2026pg62.74",
-      "signal_score": 60,
+      "title": "Subanesthetic nitrous oxide alters large-scale network organization and insula connectivity during visual stimulation",
+      "why_it_matters": "Pharmacological agents that alter consciousness, including classic psychedelics and non-classic agents such as nitrous oxide, are known to affect multiple domains of conscious experience, including visual perception. While most neuroimaging studies rely on resting-state data to characterize altered states of consciousness, task-based approaches enable investigation of specific perceptual domains.",
+      "url": "https://doi.org/10.1038/s42003-026-10838-0",
+      "signal_score": 66,
       "evidence_label": "Journal article"
     },
     {
       "domain": "neuroscience",
       "domain_label": "Neuroscience",
-      "title": "Exploring Unconscious Mental Abilities Using fMRI and Artificial Intelligence: A Multimodal Neuroimaging Study",
-      "why_it_matters": "The unconscious mind remains one of the most elusive frontiers in cognitive neuroscience, shaping perception, emotion, and behavior through neural processes that evade explicit awareness (Marcel, 1983; Goodale & Milner, 1992; Bargh & Chartrand, 1999; Baars, 1988; Kahneman, 2011). Despite substantial behavioral evidence for unconscious cognitive processing (Bechara et al., 1997; Naccache & Dehaene, 2001; Soon et al., 2008; Dijksterhuis et al., 2006), the neural mechanisms underlying these phenomena remain…",
-      "url": "https://doi.org/10.47485/2693-2490.1176",
-      "signal_score": 56,
+      "title": "Dynamic Global and Local Enhancement of Theta‐Band Functional Networks as Neural Markers of Spinal Cord Stimulation Efficacy in Disorders of Consciousness",
+      "why_it_matters": "ABSTRACT Background Spinal cord stimulation (SCS) has emerged as a promising intervention for patients with disorders of consciousness (DoC). However, clinical optimization is hindered by a lack of interpretable prognostic biomarkers, and the neural mechanisms associated with recovery after SCS remain largely elusive.",
+      "url": "https://doi.org/10.1002/cns.71128",
+      "signal_score": 59,
       "evidence_label": "Journal article"
     },
     {
       "domain": "quantum",
       "domain_label": "Quantum physics",
-      "title": "Learning to Decode Concatenated Quantum Codes with Hierarchical Message Passing",
-      "why_it_matters": "We introduce a neural message-passing framework for decoding general concatenated stabilizer codes. Soft beliefs propagate bidirectionally across concatenation levels, and lightweight neural networks learn only to aggregate incoming messages.",
-      "url": "http://arxiv.org/abs/2608.28571v1",
-      "signal_score": 52,
-      "evidence_label": "Preprint"
+      "title": "Artificial Intelligence and Subtle Phenomena: Theoretical Perspectives on Representation and Reality",
+      "why_it_matters": "This paper investigates the possibility that artificial intelligence (AI) systems may not only simulate perceptual functions but participate intentionally or inadvertently in forms of subtle observation that mirror aspects of human consciousness. Bridging neuroscience, affective computing, quantum cognition, and subtle energy theories, we examine whether AI outputs, particularly from large-scale generative models, can influence or interface with non-material dimensions of perception.",
+      "url": "https://doi.org/10.56201/ijasmt.vol.12.no5.2026pg62.74",
+      "signal_score": 59,
+      "evidence_label": "Journal article"
     }
   ]
 }
