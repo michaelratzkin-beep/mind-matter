@@ -4,7 +4,7 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 16:33:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 16:29:49 +0000</lastBuildDate>
     <item>
       <title>Subanesthetic nitrous oxide alters large-scale network organization and insula connectivity during visual stimulation</title>
       <link>https://doi.org/10.1038/s42003-026-10838-0</link>
@@ -27,25 +27,11 @@
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Effectiveness of Caregiver-Mediated Spoken Language Interventions for Children Under Five at Risk of Developmental Language Disorder: A Systematic Review and Meta-Analysis.</title>
-      <link>https://europepmc.org/article/MED/42627285</link>
-      <guid>d3529e0ea6a68ebd</guid>
-      <description>New work indexed under “Effectiveness of Caregiver-Mediated Spoken Language Interventions for Children Under Five at Risk of Developmental Language Disorder: A Systematic Review and Meta-Analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <title>Exceptional Points in Photonics: From Non-Hermitian Physics to Applications</title>
+      <link>http://arxiv.org/abs/2609.01239v1</link>
+      <guid>4f69284da56cb093</guid>
+      <description>Open photonic systems provide a versatile platform for non-Hermitian physics, enabling control over complex spectra, transport, and light-matter interactions. Exceptional points (EPs), at which eigenvalues and eigenvectors coalesce and the governing operator becomes defective, play a central role because they combine branch-point spectral topology, nonanalytic perturbative response, and controllable eigenstate conversion.</description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comment on "Virtual Reality Glasses Reduce Patients' Anxiety During Emergency Surgical Procedures Under Local Anesthesia: A Randomized Controlled Clinical Study".</title>
-      <link>https://europepmc.org/article/MED/42618157</link>
-      <guid>47b591fd682d39b1</guid>
-      <description>New work indexed under “Comment on "Virtual Reality Glasses Reduce Patients' Anxiety During Emergency Surgical Procedures Under Local Anesthesia: A Randomized Controlled Clinical Study"..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exact quantum splitting and the structure of finite algebras</title>
-      <link>http://arxiv.org/abs/2608.30340v1</link>
-      <guid>e7a47b5743240123</guid>
-      <description>Berlekamp's algorithm factors a squarefree polynomial $f\in\mathbb{F}_q[x]$ by deterministic linear algebra, reducing the problem to splitting an explicit commutative algebra $B\cong\mathbb{F}_q^r$ into its $r$ simple factors. For large odd $q$, the standard efficient splitting step is randomized, while known derandomizations are conditional on the Extended Riemann Hypothesis.</description>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Exploring Unconscious Mental Abilities Using fMRI and Artificial Intelligence: A Multimodal Neuroimaging Study</title>
@@ -62,18 +48,25 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>A hybrid quantum-classical neural network for learning to route</title>
+      <link>http://arxiv.org/abs/2609.00489v1</link>
+      <guid>2c32af2c7db5a69a</guid>
+      <description>This work studies hybrid quantum-classical neural networks for learning routing heuristics. Specifically, this paper asks whether small quantum neural networks can replace parameter-heavy modules inside a competitive attention-based routing model while maintaining solution quality.</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Entanglement from particle number fluctuations in a second-order topological insulator</title>
+      <link>http://arxiv.org/abs/2609.00239v1</link>
+      <guid>425b7be9291a0cef</guid>
+      <description>Higher-order topological insulators are materials with a bulk energy gap featuring gapless modes at $(d-n)$-dimensional edges, where $n &gt; 1$. Despite this modified bulk-boundary correspondence, their nontrivial topology can nevertheless be observed through the bipartite entanglement spectrum.</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Tunable Exceptional Points for Quantum Sensing in a Spin--Orbit-Angular-Momentum Coupled BEC</title>
       <link>http://arxiv.org/abs/2608.31095v1</link>
       <guid>c042aeac1e0b6533</guid>
       <description>Exceptional points (EPs) can induce strongly amplified responses to weak perturbations, but enhanced spectral sensitivity in conventional non-Hermitian systems does not necessarily translate into improved quantum-limited sensing because of the associated gain and loss noise. Here, we investigate a tunable EP sensing platform based on the intrinsic non-Hermitian Bogoliubov dynamics of a spin-orbit-angular-momentum-coupled Bose-Einstein condensate.</description>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pathwise Random Hamiltonian Simulation</title>
-      <link>http://arxiv.org/abs/2608.29756v1</link>
-      <guid>b173de4228e6be2a</guid>
-      <description>Randomized product formulas such as qDrift offer a resource-efficient alternative to deterministic Trotter--Suzuki decompositions for Hamiltonian simulation, removing their polynomial dependence on the number of Hamiltonian terms. qDrift, however, is intrinsically limited to first order in the evolution time, so its query complexity remains linear in the inverse of the target accuracy, $1/ε$.</description>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Smart Enough to Go Extinct? An Evolutionary Challenge to the Value of General Intelligence and Its Ethical Implications for AGI</title>
@@ -90,24 +83,31 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Side Effect Management of Immune-related Hepatotoxicity Due to Immune Checkpoint Inhibitors: A Multicenter Study by the Turkish Oncology Group (TOG).</title>
-      <link>https://europepmc.org/article/MED/41972337</link>
-      <guid>d2fc9db5a55d2b53</guid>
-      <description>New work indexed under “Side Effect Management of Immune-related Hepatotoxicity Due to Immune Checkpoint Inhibitors: A Multicenter Study by the Turkish Oncology Group (TOG)..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <title>Quantum time-flip beats adaptive metrology: Asymptotic benefit, activation, and unsimulability</title>
+      <link>http://arxiv.org/abs/2609.01175v1</link>
+      <guid>e029376f629fd439</guid>
+      <description>In quantum metrology, adaptive and causal-superposition strategies are proven to be beneficial over parallel schemes for a finite number of channel uses, but their advantages disappear in the asymptotic limit. We show that quantum operations with indefinite time direction, specifically, time-flip (TF)-assisted strategies, referred to as indefinite time-directed metrology (ITDM), can overcome this asymptotic equivalence.</description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cross-Spectral Reservoir Correlations as a Resource for Finite-Time Quantum Otto Engines</title>
-      <link>http://arxiv.org/abs/2608.30496v1</link>
-      <guid>a3e3dd5ea4c41f60</guid>
-      <description>We investigate the thermodynamic consequences of longitudinal-transverse cross-spectral reservoir correlations in a finite-time quantum Otto engine with a two-level working medium. Each reservoir couples through excitation-relaxation and dephasing channels whose fluctuations are characterized by a Hermitian positive-semidefinite spectral-density matrix, with the off-diagonal elements encoding their cross correlations.</description>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Understanding IR singularities in the Loop-Tree Duality</title>
+      <link>http://arxiv.org/abs/2609.00869v1</link>
+      <guid>803e4e1579e41418</guid>
+      <description>One of the main advantages of the Loop-Tree Duality representation of scattering amplitudes is that it makes the origin of infrared and threshold singularities particularly transparent. This talk reviews recent progress in describing how singularities emerge and cancel at the level of scattering and vacuum amplitudes, discusses a novel strategy to efficiently construct finite integrals, and presents a complementary perspective based on encoding the underlying causal and singular structure in terms of qubits and…</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>First-principle predictions of fragmentation functions via quantum computing</title>
-      <link>http://arxiv.org/abs/2608.30375v1</link>
-      <guid>5038379ceffd5a7c</guid>
-      <description>We report on an algorithm to compute fragmentation functions from the first principles Quantum Chromodynamics (QCD) Hamiltonian quantized in Light-Front Gauge, opening a path for digital quantum computers to calculate these longitudinal jet-structure observables. Simulating the behaviour of such computers on a classical cluster (which is memory-limited to about 30 qubits, given the expansive Hilbert spaces of actual quantum computers), we run a demonstration of a heavy-quark leading parton fragmenting into…</description>
+      <title>Ontic and epistemic states in the theory of spacetime-local beables</title>
+      <link>http://arxiv.org/abs/2609.00848v1</link>
+      <guid>c6283014be7d5552</guid>
+      <description>Bell's theorem rules out developing a locally causal theory to describe quantum phenomena. Many take this to imply that any model of quantum entanglement must employ variables (called beables by Bell) which follow nonlocal rules, even though signaling is local.</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spatial correlations of photons interacting via transverse Rydberg blockade</title>
+      <link>http://arxiv.org/abs/2609.00348v1</link>
+      <guid>4306c8ecc4f7bd62</guid>
+      <description>We develop a theory of the transverse spatial dynamics of two interacting photons in a Rydberg nonlinear medium. Extending the well-studied one-dimensional case, we explore both longitudinal and transverse correlations of photons propagating as Rydberg polaritons.</description>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -125,6 +125,13 @@
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Nonlinear Fluctuating Hydrodynamics from Interacting Noisy Quantum Matter</title>
+      <link>http://arxiv.org/abs/2609.00159v1</link>
+      <guid>27207b8eb81a2992</guid>
+      <description>A universal characterization of non-equilibrium steady states in interacting quantum many-body systems remains one of the central challenges of statistical physics. Here, we address this problem for a paradigmatic model of diffusive interacting quantum matter---the boundary-driven XXZ spin chain with bulk dephasing---and derive, directly from its microscopic Lindblad dynamics, an emergent classical Macroscopic Fluctuation Theory (MFT) governing its large-scale fluctuations.</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Encoding strategies for quantum enhanced fluid simulations: opportunities and challenges</title>
       <link>https://doi.org/10.1088/2058-9565/aea01c</link>
       <guid>71aadda2bc1eeaa3</guid>
@@ -132,18 +139,11 @@
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Functional fractionation of large-scale brain networks in the human subcortex.</title>
-      <link>https://europepmc.org/article/MED/42673458</link>
-      <guid>d999ab84b4c14d6d</guid>
-      <description>New work indexed under “Functional fractionation of large-scale brain networks in the human subcortex..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Associations between coeliac disease and musculoskeletal conditions: epidemiology and genetic evidence from a large-scale cohort study.</title>
-      <link>https://europepmc.org/article/MED/42671508</link>
-      <guid>3e91627ffd2664af</guid>
-      <description>New work indexed under “Associations between coeliac disease and musculoskeletal conditions: epidemiology and genetic evidence from a large-scale cohort study..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Separating perception from reasoning in vision-language models: a model-free render ceiling for crystal structures</title>
+      <link>http://arxiv.org/abs/2609.00663v1</link>
+      <guid>8ec4052b99d94ac0</guid>
+      <description>Multimodal evaluations cannot say whether a vision-language model misread an image or misreasoned about it, because every existing method for separating the two places a second model in the loop. We introduce the render ceiling, a model-free reference for benchmarks built by rendering known objects: inverting the frozen cameras and re-solving cross-view correspondence recovers exactly the answer the images support.</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
