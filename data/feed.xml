@@ -4,13 +4,20 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 16:16:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:06:02 +0000</lastBuildDate>
     <item>
       <title>Subanesthetic nitrous oxide alters large-scale network organization and insula connectivity during visual stimulation</title>
       <link>https://doi.org/10.1038/s42003-026-10838-0</link>
       <guid>f0b6dccd5723376e</guid>
       <description>Pharmacological agents that alter consciousness, including classic psychedelics and non-classic agents such as nitrous oxide, are known to affect multiple domains of conscious experience, including visual perception. While most neuroimaging studies rely on resting-state data to characterize altered states of consciousness, task-based approaches enable investigation of specific perceptual domains.</description>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The 0.5 Symmetry: An Information-Theoretic Framework for Fractal Holism and Artificial Sentience</title>
+      <link>https://doi.org/10.71097/ijsat.v17.i3.11542</link>
+      <guid>d5c30c08508322e9</guid>
+      <description>This paper presents a formal information-theoretic reduction of systemic complexity using a foundational conservation equation: Anything = A + B = 1. Departing from classical Newtonian reductionism, we model discrete phenomena—such as atomic structures, genomic sequences, artificial neural networks, and socio-linguistic systems—not as isolated variables, but as localised open subsystems intrinsically entangled with the macroscopic universe.</description>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Tunable topological enhancement of covariant quantum Fisher information via non-Bloch skin effect in non-Hermitian SSH lattices</title>
@@ -55,6 +62,20 @@
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Designing Social Media Health Warnings for Teenagers and Young Adults: A Randomized Clinical Trial.</title>
+      <link>https://europepmc.org/article/MED/42696289</link>
+      <guid>605aadb608c49581</guid>
+      <description>New work indexed under “Designing Social Media Health Warnings for Teenagers and Young Adults: A Randomized Clinical Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Treatment of Shivering during Intrapartum Cesarean Delivery under Epidural Anesthesia: A Randomized Controlled Trial Comparing Dexmedetomidine and Meperidine.</title>
+      <link>https://europepmc.org/article/MED/42695544</link>
+      <guid>cbc7edde25b9746f</guid>
+      <description>New work indexed under “Treatment of Shivering during Intrapartum Cesarean Delivery under Epidural Anesthesia: A Randomized Controlled Trial Comparing Dexmedetomidine and Meperidine..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Esketamine vs. sufentanil for quality of recovery after outpatient gynecological surgery: a randomized clinical trial.</title>
       <link>https://europepmc.org/article/MED/42693883</link>
       <guid>502c49bb973916b8</guid>
@@ -62,32 +83,39 @@
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Efficacy and safety of preoperative intranasal dexmedetomidine in adults: a systematic review and meta-analysis of randomized controlled trials.</title>
-      <link>https://europepmc.org/article/MED/42692256</link>
-      <guid>e95076aee28f1aa3</guid>
-      <description>New work indexed under “Efficacy and safety of preoperative intranasal dexmedetomidine in adults: a systematic review and meta-analysis of randomized controlled trials..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Single-Shot Versus Continuous Interscalene Blockade in Primary Shoulder Arthroplasty: A Systematic Review and Meta-Analysis of Randomized Controlled Trials and Observational Studies.</title>
-      <link>https://europepmc.org/article/MED/42692245</link>
-      <guid>be736b9cd1811e64</guid>
-      <description>New work indexed under “Single-Shot Versus Continuous Interscalene Blockade in Primary Shoulder Arthroplasty: A Systematic Review and Meta-Analysis of Randomized Controlled Trials and Observational Studies..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Remote Ischemic Preconditioning and Survival in Noncardiac Surgery: An Updated Meta-analysis of Randomized Trials.</title>
-      <link>https://europepmc.org/article/MED/42691252</link>
-      <guid>7e563c3ae3b45129</guid>
-      <description>New work indexed under “Remote Ischemic Preconditioning and Survival in Noncardiac Surgery: An Updated Meta-analysis of Randomized Trials..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Artificial Intelligence and Subtle Phenomena: Theoretical Perspectives on Representation and Reality</title>
       <link>https://doi.org/10.56201/ijasmt.vol.12.no5.2026pg62.74</link>
       <guid>51e5e04e9980f2e7</guid>
       <description>This paper investigates the possibility that artificial intelligence (AI) systems may not only simulate perceptual functions but participate intentionally or inadvertently in forms of subtle observation that mirror aspects of human consciousness. Bridging neuroscience, affective computing, quantum cognition, and subtle energy theories, we examine whether AI outputs, particularly from large-scale generative models, can influence or interface with non-material dimensions of perception.</description>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advances in time-independent Hamiltonian simulation algorithms</title>
+      <link>https://doi.org/10.1007/s11704-026-51794-6</link>
+      <guid>6e59de86d592a1fd</guid>
+      <description>Abstract Quantum simulation is a rapidly advancing field poised to revolutionize our understanding of complex quantum systems by harnessing the unique capabilities of quantum computers. In this review, we present a concise overview of key developments in quantum simulation algorithms, with a focus on time-independent digital Hamiltonian simulation of quantum dynamics.</description>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Systematic Review of Qualitative Studies on Meaning-Making and Existential Experiences Among Cancer Survivors.</title>
+      <link>https://europepmc.org/article/MED/42697543</link>
+      <guid>bd8dc4cf42de8da2</guid>
+      <description>New work indexed under “A Systematic Review of Qualitative Studies on Meaning-Making and Existential Experiences Among Cancer Survivors..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trends in the incidence and outcomes of cardiopulmonary resuscitation-induced consciousness in out-of-hospital cardiac arrest: a retrospective study.</title>
+      <link>https://europepmc.org/article/MED/42697466</link>
+      <guid>276c26feb38600ab</guid>
+      <description>New work indexed under “Trends in the incidence and outcomes of cardiopulmonary resuscitation-induced consciousness in out-of-hospital cardiac arrest: a retrospective study..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Metacognition and executive functioning as predictors of functional independence in community-dwelling older adults: a systematic review with bibliometric mapping.</title>
+      <link>https://europepmc.org/article/MED/42696375</link>
+      <guid>a857ad96d78a9e61</guid>
+      <description>New work indexed under “Metacognition and executive functioning as predictors of functional independence in community-dwelling older adults: a systematic review with bibliometric mapping..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ultra-Precise Quantum Projective Designs in Constant Depth</title>
@@ -116,34 +144,6 @@
       <guid>b91634d67785b3c7</guid>
       <description>New work indexed under “Prolonging peripheral ropivacaine nerve block with an in situ-formed hydrogel carrier: randomized controlled trial in an ovine model..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The effect of intravenous dexamethasone in supraclavicular brachial plexus block at Halibet National Referral Hospital, Eritrea 2024-2025: A randomized clinical trial.</title>
-      <link>https://europepmc.org/article/MED/42691058</link>
-      <guid>371189bf407f7399</guid>
-      <description>New work indexed under “The effect of intravenous dexamethasone in supraclavicular brachial plexus block at Halibet National Referral Hospital, Eritrea 2024-2025: A randomized clinical trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The mechanism of fashion consciousness influencing Gen Z's Willingness to continue using slow fashion apparel in a sustainable context.</title>
-      <link>https://europepmc.org/article/MED/42691051</link>
-      <guid>a70c4bdb9bc680e1</guid>
-      <description>New work indexed under “The mechanism of fashion consciousness influencing Gen Z's Willingness to continue using slow fashion apparel in a sustainable context..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Discretization-Aware Fine-Tuning for Quantum Machine Learning with Chemical Foundation Models</title>
-      <link>http://arxiv.org/abs/2609.03220v1</link>
-      <guid>433e4adbec9270d0</guid>
-      <description>A key challenge in practical quantum machine learning (QML), particularly for discriminative tasks such as classification, is the limited capacity of near-term quantum devices to encode high-dimensional classical data into small quantum registers. In optimized basis-encoded (bit-bit) settings, this constraint leads to cross-class collisions, where samples with different labels are mapped to the same discrete bit-string and thus become indistinguishable to any downstream model.</description>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quantum low-density lattice codes</title>
-      <link>http://arxiv.org/abs/2609.03021v1</link>
-      <guid>99b8f6abe7f498a8</guid>
-      <description>Gottesman-Kitaev-Preskill (GKP) codes provide a family of promising schemes for encoding discrete quantum information (qudits) into infinite-dimensional bosonic modes based on mathematical lattices. While such codes, when concatenated with discrete-variable codes, are relatively well studied, the construction and decoding of native GKP codes has largely remained open due to the computationally hard problems encountered.</description>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
