@@ -4,7 +4,7 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 15:06:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 15:23:32 +0000</lastBuildDate>
     <item>
       <title>Subanesthetic nitrous oxide alters large-scale network organization and insula connectivity during visual stimulation</title>
       <link>https://doi.org/10.1038/s42003-026-10838-0</link>
@@ -55,6 +55,13 @@
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Preservation Breast Augmentation Under Sedation Is a Low-Pain Procedure: A Randomized Controlled Trial of Serratus Anterior Plane Block as an Adjunct.</title>
+      <link>https://europepmc.org/article/MED/42700371</link>
+      <guid>b5ce64e14eaff01e</guid>
+      <description>New work indexed under “Preservation Breast Augmentation Under Sedation Is a Low-Pain Procedure: A Randomized Controlled Trial of Serratus Anterior Plane Block as an Adjunct..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Dynamic Global and Local Enhancement of Theta‐Band Functional Networks as Neural Markers of Spinal Cord Stimulation Efficacy in Disorders of Consciousness</title>
       <link>https://doi.org/10.1002/cns.71128</link>
       <guid>660ec51c9cdeca39</guid>
@@ -80,6 +87,20 @@
       <link>https://europepmc.org/article/MED/42693883</link>
       <guid>502c49bb973916b8</guid>
       <description>New work indexed under “Esketamine vs. sufentanil for quality of recovery after outpatient gynecological surgery: a randomized clinical trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Impact of named caps on anesthesia and intensive care team performance: a randomized simulation study.</title>
+      <link>https://europepmc.org/article/MED/42570696</link>
+      <guid>ef433ac5e419a9c0</guid>
+      <description>New work indexed under “Impact of named caps on anesthesia and intensive care team performance: a randomized simulation study..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Single-injection adductor canal block with perineural dexamethasone versus continuous adductor canal catheter for total knee arthroplasty: a randomized controlled trial.</title>
+      <link>https://europepmc.org/article/MED/42242837</link>
+      <guid>b2f430efcf57d0f5</guid>
+      <description>New work indexed under “Single-injection adductor canal block with perineural dexamethasone versus continuous adductor canal catheter for total knee arthroplasty: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -122,27 +143,6 @@
       <link>http://arxiv.org/abs/2609.03925v1</link>
       <guid>073e5be5869c49da</guid>
       <description>Random quantum objects are powerful resources for quantum information processing, yet exact Haar randomness is costly and typically unnecessary. We introduce an explicit sparse commuting circuit ensemble on $n$ qubits that reproduces low-order Haar moments in the stringent relative-error sense.</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Heralded one-, two- and three-photon states from waveguided parametric down-conversion</title>
-      <link>http://arxiv.org/abs/2609.03542v1</link>
-      <guid>5f9c62bb9af4e000</guid>
-      <description>The manifold coincidences and singles counting provides a resource-saving quantum-optics analysis tool, since it is appropriate even in the presence of heavy experimental imperfections. Here, we prepare cross-polarized twin beams in the telecommunication wavelength range via parametric down-conversion in a periodically-poled KTiOPO$_4$ waveguide and herald photon-number states up to three photons.</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inferring Affective Consciousness in an Artificial Agent: A Case Study</title>
-      <link>http://arxiv.org/abs/2609.03883v1</link>
-      <guid>fa07096d39fa8676</guid>
-      <description>Creatures that display 'hedonic place preference behaviour' are thought by many scientists to experience feelings, on the assumption that their attraction to pleasure-producing substances which lack nutritional value (e.g. cocaine, morphine) cannot easily be attributed to unconscious instinctual behaviour.</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prolonging peripheral ropivacaine nerve block with an in situ-formed hydrogel carrier: randomized controlled trial in an ovine model.</title>
-      <link>https://europepmc.org/article/MED/42692532</link>
-      <guid>b91634d67785b3c7</guid>
-      <description>New work indexed under “Prolonging peripheral ropivacaine nerve block with an in situ-formed hydrogel carrier: randomized controlled trial in an ovine model..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
