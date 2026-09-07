@@ -4,7 +4,7 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Sun, 06 Sep 2026 15:23:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 17:43:21 +0000</lastBuildDate>
     <item>
       <title>Subanesthetic nitrous oxide alters large-scale network organization and insula connectivity during visual stimulation</title>
       <link>https://doi.org/10.1038/s42003-026-10838-0</link>
@@ -20,18 +20,18 @@
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Tunable topological enhancement of covariant quantum Fisher information via non-Bloch skin effect in non-Hermitian SSH lattices</title>
-      <link>http://arxiv.org/abs/2609.03421v1</link>
-      <guid>65aac7694773d0b0</guid>
-      <description>The covariant quantum Fisher information (CQFI) has recently been established as the ultimate precision benchmark for pseudo-Hermitian sensors [Phys. Rev. Lett.</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>From chemistry to cognition: the adaptive origins of consciousness under constraint</title>
       <link>https://doi.org/10.3389/fnins.2026.1907922</link>
       <guid>a5068814959c1c55</guid>
       <description>Consciousness is often treated as an evolutionary anomaly, a costly capacity with unclear adaptive origins. Here, cognition and consciousness are distinguished as separate evolutionary lineages, with consciousness arising when an organism must coordinate otherwise distinct regulatory processes to resolve competing demands affecting its own viability.</description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evaluation of Play Distraction and Streamed Video Clips in Alleviating Anxiety Before Oral Premedication Among Pediatric Patients: A Randomized Controlled Trial.</title>
+      <link>https://europepmc.org/article/MED/42702936</link>
+      <guid>1d18c8c96d2f6312</guid>
+      <description>New work indexed under “Evaluation of Play Distraction and Streamed Video Clips in Alleviating Anxiety Before Oral Premedication Among Pediatric Patients: A Randomized Controlled Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>On the edge of awareness: ictal consciousness and psychosis in focal epilepsy</title>
@@ -69,6 +69,34 @@
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>How dipolar interactions structure molecular droplets</title>
+      <link>http://arxiv.org/abs/2609.05344v1</link>
+      <guid>6862e7bda9dc8e74</guid>
+      <description>We investigate how dipolar interactions between microwave-shielded polar molecules structure the self-bound droplets formed under variation of the interaction strength. We identify the transition from droplets to crystals as a finite-size first order transition.</description>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Impact of Data Loss in Postprocessing on Training and Inference of Quantum Neural Networks</title>
+      <link>http://arxiv.org/abs/2609.05060v1</link>
+      <guid>a98516e2b2be85ad</guid>
+      <description>As quantum hardware scales to larger devices, the classical software layers that interface with it must evolve in step. Postprocessing routines developed and tested primarily in simulator settings can encode assumptions that no longer hold on utility-scale devices, leading to data loss that can be difficult to detect from high-level model outputs alone.</description>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neural networks learn to reconstruct multipartite entanglement from quantum marginals</title>
+      <link>http://arxiv.org/abs/2609.04896v1</link>
+      <guid>0e80c6c4ff8abd7b</guid>
+      <description>Different sets of local correlations are not equivalent: some fragments of reduced data uniquely determine a global quantum state, while others leave it ambiguous. The quantum marginal problem asks whether a collection of reduced density matrices uniquely determines a compatible global quantum state.</description>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nitrogen Vacancy Centers in Diamond for Quantum Biosensing: Magnetometry Techniques, Platforms and Applications</title>
+      <link>http://arxiv.org/abs/2609.04733v1</link>
+      <guid>d0e9a610518376ff</guid>
+      <description>Quantum sensing using nitrogen-vacancy (NV) centers in diamond has emerged as a powerful platform for detecting ultra-low magnetic fields under ambient conditions. Owing to their long spin coherence times, optical addressability, and compatibility with aqueous environments, it has found widespread applications in biosensing and bio-imaging.</description>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Designing Social Media Health Warnings for Teenagers and Young Adults: A Randomized Clinical Trial.</title>
       <link>https://europepmc.org/article/MED/42696289</link>
       <guid>605aadb608c49581</guid>
@@ -80,27 +108,6 @@
       <link>https://europepmc.org/article/MED/42695544</link>
       <guid>cbc7edde25b9746f</guid>
       <description>New work indexed under “Treatment of Shivering during Intrapartum Cesarean Delivery under Epidural Anesthesia: A Randomized Controlled Trial Comparing Dexmedetomidine and Meperidine..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Esketamine vs. sufentanil for quality of recovery after outpatient gynecological surgery: a randomized clinical trial.</title>
-      <link>https://europepmc.org/article/MED/42693883</link>
-      <guid>502c49bb973916b8</guid>
-      <description>New work indexed under “Esketamine vs. sufentanil for quality of recovery after outpatient gynecological surgery: a randomized clinical trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Impact of named caps on anesthesia and intensive care team performance: a randomized simulation study.</title>
-      <link>https://europepmc.org/article/MED/42570696</link>
-      <guid>ef433ac5e419a9c0</guid>
-      <description>New work indexed under “Impact of named caps on anesthesia and intensive care team performance: a randomized simulation study..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Single-injection adductor canal block with perineural dexamethasone versus continuous adductor canal catheter for total knee arthroplasty: a randomized controlled trial.</title>
-      <link>https://europepmc.org/article/MED/42242837</link>
-      <guid>b2f430efcf57d0f5</guid>
-      <description>New work indexed under “Single-injection adductor canal block with perineural dexamethasone versus continuous adductor canal catheter for total knee arthroplasty: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -118,6 +125,13 @@
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Environmental Decoherence and Definite Outcomes in Quantum Measurement: Separating Dynamical Explanation from Interpretive Commitment</title>
+      <link>https://doi.org/10.70121/001c.169617</link>
+      <guid>1666302a531281ff</guid>
+      <description>Environmental decoherence is central to contemporary accounts of quantum measurement, yet its relation to definite outcomes remains disputed. This review distinguishes four explanatory demands: interference suppression, preferred-basis selection, operational objectivity, and outcome actualization.</description>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>A Systematic Review of Qualitative Studies on Meaning-Making and Existential Experiences Among Cancer Survivors.</title>
       <link>https://europepmc.org/article/MED/42697543</link>
       <guid>bd8dc4cf42de8da2</guid>
@@ -130,20 +144,6 @@
       <guid>276c26feb38600ab</guid>
       <description>New work indexed under “Trends in the incidence and outcomes of cardiopulmonary resuscitation-induced consciousness in out-of-hospital cardiac arrest: a retrospective study..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metacognition and executive functioning as predictors of functional independence in community-dwelling older adults: a systematic review with bibliometric mapping.</title>
-      <link>https://europepmc.org/article/MED/42696375</link>
-      <guid>a857ad96d78a9e61</guid>
-      <description>New work indexed under “Metacognition and executive functioning as predictors of functional independence in community-dwelling older adults: a systematic review with bibliometric mapping..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ultra-Precise Quantum Projective Designs in Constant Depth</title>
-      <link>http://arxiv.org/abs/2609.03925v1</link>
-      <guid>073e5be5869c49da</guid>
-      <description>Random quantum objects are powerful resources for quantum information processing, yet exact Haar randomness is costly and typically unnecessary. We introduce an explicit sparse commuting circuit ensemble on $n$ qubits that reproduces low-order Haar moments in the stringent relative-error sense.</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
