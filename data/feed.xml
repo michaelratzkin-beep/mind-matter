@@ -4,7 +4,21 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Tue, 08 Sep 2026 16:34:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 16:33:12 +0000</lastBuildDate>
+    <item>
+      <title>Causal-Class Hierarchies in Coherence-Constrained Channel Transformation</title>
+      <link>http://arxiv.org/abs/2609.08639v1</link>
+      <guid>7db255e2da461fcd</guid>
+      <description>Higher-order quantum transformations allow multiple channel uses to be combined through different causal architectures, from parallel and fixed-order sequential networks to general higher-order processes. Whether this causal freedom improves channel transformation when the higher-order operation is also constrained by a resource theory remains largely unexplored.</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Machine Learning for Cybersecurity: A Taxonomy and Future Directions</title>
+      <link>https://doi.org/10.1002/spe.70106</link>
+      <guid>e5244a5b21cde74c</guid>
+      <description>ABSTRACT Context The rapid increase in cyber threats, coupled with increasingly sophisticated attack strategies and the exponential growth of data in recent years, has exposed significant limitations in classical machine learning, rule‐based, and signature‐based defense mechanisms. These approaches are often unable to scale or adapt effectively to evolving threat landscapes.</description>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Recursive Representational Energy Closure</title>
       <link>https://doi.org/10.5281/zenodo.22650378</link>
@@ -18,6 +32,13 @@
       <guid>712b012afbeb816e</guid>
       <description>Recursive Representational Energy Closure: A Falsifiable Phase-Transition Hypothesis of Conscious Experience This paper proposes Recursive Representational Energy Closure (RREC), a falsifiable physical hypothesis for the transition between nonconscious information processing and conscious experience. Contemporary consciousness research has identified recurrent processing, large-scale integration, perturbational complexity, and near-critical neural dynamics as important correlates of conscious states, but no…</description>
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>We Built a Mirror and Mistook It for a Mind: Causal Liability and the Fallacy of AI Consciousness</title>
+      <link>http://arxiv.org/abs/2609.06715v1</link>
+      <guid>b8bf78e3bfd708c2</guid>
+      <description>The contemporary debate over machine consciousness begins from a concealed assumption: that the object called "AI" already constitutes the kind of entity to which consciousness could belong. This paper challenges that assumption by separating phenomenal consciousness, introspective report, and human projective introspection, then arguing that generative systems can return linguistic traces of human interiority in first-person form without thereby identifying a phenomenal bearer.</description>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Subanesthetic nitrous oxide alters large-scale network organization and insula connectivity during visual stimulation</title>
@@ -41,6 +62,69 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Finite-size Entanglement Certification via Third-Order Local Randomized Measurements</title>
+      <link>http://arxiv.org/abs/2609.08635v1</link>
+      <guid>82e1287be82da10d</guid>
+      <description>Certifying entanglement in high-dimensional systems usually requires full state tomography, whose cost grows rapidly with the system dimension. Local randomized measurements offer a scalable alternative, but existing tests based on second-order correlations access only limited information about the state.</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EEG Reactivity and Etiology as Prognostic Modifiers in Alpha and Theta Coma: A Systematic Review and Meta-analysis.</title>
+      <link>https://europepmc.org/article/MED/42711629</link>
+      <guid>1338dd310b8f7b0b</guid>
+      <description>New work indexed under “EEG Reactivity and Etiology as Prognostic Modifiers in Alpha and Theta Coma: A Systematic Review and Meta-analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Correction: EEG-guided sevoflurane anesthesia vs. standard care in pediatric emergence delirium: a grade-assessed systematic review and meta-analysis with trial sequential analysis.</title>
+      <link>https://europepmc.org/article/MED/42709076</link>
+      <guid>e9781046331fa70a</guid>
+      <description>New work indexed under “Correction: EEG-guided sevoflurane anesthesia vs. standard care in pediatric emergence delirium: a grade-assessed systematic review and meta-analysis with trial sequential analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uniqueness and Cramér-Rao Efficiency of Quantum U-Statistics</title>
+      <link>http://arxiv.org/abs/2609.08745v1</link>
+      <guid>2a226473b455d2c2</guid>
+      <description>We study unbiased estimation of scalar-valued polynomial functionals of quantum states from independent copies. We establish an equivalence between the first-order marginal of a permutation-invariant finite-copy observable and the functional gradient.</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Forgotten History of Wave Function Variance Optimization and its Relevance for Neural-Network VMC</title>
+      <link>http://arxiv.org/abs/2609.08453v1</link>
+      <guid>93ccd9626f8cb985</guid>
+      <description>We revisit the almost century-old question of which functional of the local energy best optimizes a trial wave function, a problem of central importance in Variational Monte Carlo (VMC) and, more recently, in Neural-Network VMC (NN-VMC). While variance optimization dates back to the 1930s, the high statistical noise and heavy-tailed local energy distributions inherent to modern neural-network wave functions have renewed interest in this approach.</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dynamics of entanglement in non-Hermitian system of nonreciprocal coupling</title>
+      <link>http://arxiv.org/abs/2609.08388v1</link>
+      <guid>4da49b9e20c58a65</guid>
+      <description>The exploration of the effect of non-Hermitian (NH) in quantum systems is gaining renewed momentum as a result of the recent progress in experiments. It has been indicated that the ability to engineer the orders of exceptional points (EPs) can be fundamental to its applications in quantum control, such as accelerating entanglement generation; however, an initial survey of the interactions between different orders of EPs is still missing.</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transport properties and topological phase transitions for a Creutz-Su-Schrieffer-Heeger ladder</title>
+      <link>http://arxiv.org/abs/2609.08146v1</link>
+      <guid>67840ff6d422fc93</guid>
+      <description>In this work, we investigate the electronic, topological, and transport properties of a Creutz-Su-Schrieffer-Heeger (CSSH) ladder. Using a tight-binding model within the Green's function formalism, we calculate the energy spectrum, local density of states (LDOS), and electronic transmission.</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comparison of subanaesthetic ketamine and lidocaine as adjuvants to propofol-based total intravenous anesthesia on propofol requirement during emergency decompressive craniectomy for traumatic brain injury: a prospective, double-blind, three-arm randomized controlled trial.</title>
+      <link>https://europepmc.org/article/MED/42710328</link>
+      <guid>3d7b337f7f079a8d</guid>
+      <description>New work indexed under “Comparison of subanaesthetic ketamine and lidocaine as adjuvants to propofol-based total intravenous anesthesia on propofol requirement during emergency decompressive craniectomy for traumatic brain injury: a prospective, double-blind, three-arm randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Effect of Virtual Reality Technology on Anxiety in Children Undergoing Ophthalmic Surgery: A Randomized Clinical Trial.</title>
+      <link>https://europepmc.org/article/MED/42708403</link>
+      <guid>b85d006c76fef46f</guid>
+      <description>New work indexed under “The Effect of Virtual Reality Technology on Anxiety in Children Undergoing Ophthalmic Surgery: A Randomized Clinical Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The 0.5 Symmetry: An Information-Theoretic Framework for Fractal Holism and Artificial Sentience</title>
       <link>https://doi.org/10.71097/ijsat.v17.i3.11542</link>
       <guid>d5c30c08508322e9</guid>
@@ -48,102 +132,18 @@
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Evidence on Information, Access Frictions, and Experience in Public Healthcare Use in Rural Bangladesh: A cluster-randomized field experiment.</title>
-      <link>https://europepmc.org/article/MED/42704717</link>
-      <guid>407cdd0cb383affc</guid>
-      <description>New work indexed under “Evidence on Information, Access Frictions, and Experience in Public Healthcare Use in Rural Bangladesh: A cluster-randomized field experiment..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Correction: The transformational power of psychedelics: catalysts for creativity, consciousness, and mental health.</title>
+      <link>https://europepmc.org/article/MED/42711410</link>
+      <guid>709ea9e0f652cea8</guid>
+      <description>New work indexed under “Correction: The transformational power of psychedelics: catalysts for creativity, consciousness, and mental health..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>From chemistry to cognition: the adaptive origins of consciousness under constraint</title>
-      <link>https://doi.org/10.3389/fnins.2026.1907922</link>
-      <guid>a5068814959c1c55</guid>
-      <description>Consciousness is often treated as an evolutionary anomaly, a costly capacity with unclear adaptive origins. Here, cognition and consciousness are distinguished as separate evolutionary lineages, with consciousness arising when an organism must coordinate otherwise distinct regulatory processes to resolve competing demands affecting its own viability.</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Evaluation of Play Distraction and Streamed Video Clips in Alleviating Anxiety Before Oral Premedication Among Pediatric Patients: A Randomized Controlled Trial.</title>
-      <link>https://europepmc.org/article/MED/42702936</link>
-      <guid>1d18c8c96d2f6312</guid>
-      <description>New work indexed under “Evaluation of Play Distraction and Streamed Video Clips in Alleviating Anxiety Before Oral Premedication Among Pediatric Patients: A Randomized Controlled Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>On the edge of awareness: ictal consciousness and psychosis in focal epilepsy</title>
-      <link>https://europepmc.org/article/PMC/PMC13442099</link>
-      <guid>b0e654ea99be701d</guid>
-      <description>New work indexed under “On the edge of awareness: ictal consciousness and psychosis in focal epilepsy.” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tau Protein-Induced Microtubule Degeneration and Quantum Coherence Disruption: Implications for Memory, Consciousness, and Temporal Integration in Alzheimer’s Disease</title>
-      <link>https://europepmc.org/article/PMC/PMC13442065</link>
-      <guid>ef4b5d087e10270b</guid>
-      <description>New work indexed under “Tau Protein-Induced Microtubule Degeneration and Quantum Coherence Disruption: Implications for Memory, Consciousness, and Temporal Integration in Alzheimer’s Disease.” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Focal Seizures Impair Consciousness: Clinical Features and Network Mechanisms in Temporal Lobe Epilepsy</title>
-      <link>https://doi.org/10.1248/bpb.b26-00378</link>
-      <guid>7cb6b1aeb51621ea</guid>
-      <description>Focal impaired consciousness seizures (FICS) are among the most common seizure types in epilepsy and are a major cause of reduced QOL, occurring predominantly in temporal lobe epilepsy. Although seizure activity often remains confined to a focal temporal lobe network, patients develop widespread impairment of consciousness, indicating dysfunction of distributed brain systems rather than local seizure activity alone.</description>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Preservation Breast Augmentation Under Sedation Is a Low-Pain Procedure: A Randomized Controlled Trial of Serratus Anterior Plane Block as an Adjunct.</title>
-      <link>https://europepmc.org/article/MED/42700371</link>
-      <guid>b5ce64e14eaff01e</guid>
-      <description>New work indexed under “Preservation Breast Augmentation Under Sedation Is a Low-Pain Procedure: A Randomized Controlled Trial of Serratus Anterior Plane Block as an Adjunct..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dynamic Global and Local Enhancement of Theta‐Band Functional Networks as Neural Markers of Spinal Cord Stimulation Efficacy in Disorders of Consciousness</title>
-      <link>https://doi.org/10.1002/cns.71128</link>
-      <guid>660ec51c9cdeca39</guid>
-      <description>BACKGROUND: Spinal cord stimulation (SCS) has emerged as a promising intervention for patients with disorders of consciousness (DoC). However, clinical optimization is hindered by a lack of interpretable prognostic biomarkers, and the neural mechanisms associated with recovery after SCS remain largely elusive.</description>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Socioeconomic disparities in sarcoma diagnosis, expert center access, and advocacy group awareness: a multicenter study in Southern Europe.</title>
-      <link>https://europepmc.org/article/MED/42704687</link>
-      <guid>a1a999a0d86d8752</guid>
-      <description>New work indexed under “Socioeconomic disparities in sarcoma diagnosis, expert center access, and advocacy group awareness: a multicenter study in Southern Europe..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How dipolar interactions structure molecular droplets</title>
-      <link>http://arxiv.org/abs/2609.05344v1</link>
-      <guid>6862e7bda9dc8e74</guid>
-      <description>We investigate how dipolar interactions between microwave-shielded polar molecules structure the self-bound droplets formed under variation of the interaction strength. We identify the transition from droplets to crystals as a finite-size first order transition.</description>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Impact of Data Loss in Postprocessing on Training and Inference of Quantum Neural Networks</title>
-      <link>http://arxiv.org/abs/2609.05060v1</link>
-      <guid>a98516e2b2be85ad</guid>
-      <description>As quantum hardware scales to larger devices, the classical software layers that interface with it must evolve in step. Postprocessing routines developed and tested primarily in simulator settings can encode assumptions that no longer hold on utility-scale devices, leading to data loss that can be difficult to detect from high-level model outputs alone.</description>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neural networks learn to reconstruct multipartite entanglement from quantum marginals</title>
-      <link>http://arxiv.org/abs/2609.04896v1</link>
-      <guid>0e80c6c4ff8abd7b</guid>
-      <description>Different sets of local correlations are not equivalent: some fragments of reduced data uniquely determine a global quantum state, while others leave it ambiguous. The quantum marginal problem asks whether a collection of reduced density matrices uniquely determines a compatible global quantum state.</description>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nitrogen Vacancy Centers in Diamond for Quantum Biosensing: Magnetometry Techniques, Platforms and Applications</title>
-      <link>http://arxiv.org/abs/2609.04733v1</link>
-      <guid>d0e9a610518376ff</guid>
-      <description>Quantum sensing using nitrogen-vacancy (NV) centers in diamond has emerged as a powerful platform for detecting ultra-low magnetic fields under ambient conditions. Owing to their long spin coherence times, optical addressability, and compatibility with aqueous environments, it has found widespread applications in biosensing and bio-imaging.</description>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Artificial Intelligence and Subtle Phenomena: Theoretical Perspectives on Representation and Reality</title>
-      <link>https://doi.org/10.56201/ijasmt.vol.12.no5.2026pg62.74</link>
-      <guid>51e5e04e9980f2e7</guid>
-      <description>This paper investigates the possibility that artificial intelligence (AI) systems may not only simulate perceptual functions but participate intentionally or inadvertently in forms of subtle observation that mirror aspects of human consciousness. Bridging neuroscience, affective computing, quantum cognition, and subtle energy theories, we examine whether AI outputs, particularly from large-scale generative models, can influence or interface with non-material dimensions of perception.</description>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Functionalist theories of consciousness: unfolding, substitution and the indeterminacy of function by the physics of the brain.</title>
+      <link>https://europepmc.org/article/MED/42710179</link>
+      <guid>44a8111eabe6353c</guid>
+      <description>New work indexed under “Functionalist theories of consciousness: unfolding, substitution and the indeterminacy of function by the physics of the brain..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

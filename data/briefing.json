@@ -1,34 +1,34 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "title": "The latest signal",
-  "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Neuroscience, Quantum physics. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
+  "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Quantum physics, Neuroscience. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
     {
       "domain": "consciousness",
       "domain_label": "Consciousness / philosophy",
-      "title": "Recursive Representational Energy Closure",
-      "why_it_matters": "Recursive Representational Energy Closure: A Falsifiable Phase-Transition Hypothesis of Conscious Experience This paper proposes Recursive Representational Energy Closure (RREC), a falsifiable physical hypothesis for the transition between nonconscious information processing and conscious experience. Contemporary consciousness research has identified recurrent processing, large-scale integration, perturbational complexity, and near-critical neural dynamics as important correlates of conscious states, but no…",
-      "url": "https://doi.org/10.5281/zenodo.22650378",
-      "signal_score": 60,
-      "evidence_label": "Preprint"
-    },
-    {
-      "domain": "neuroscience",
-      "domain_label": "Neuroscience",
-      "title": "Recursive Representational Energy Closure",
-      "why_it_matters": "Recursive Representational Energy Closure: A Falsifiable Phase-Transition Hypothesis of Conscious Experience This paper proposes Recursive Representational Energy Closure (RREC), a falsifiable physical hypothesis for the transition between nonconscious information processing and conscious experience. Contemporary consciousness research has identified recurrent processing, large-scale integration, perturbational complexity, and near-critical neural dynamics as important correlates of conscious states, but no…",
-      "url": "https://doi.org/10.5281/zenodo.22650377",
+      "title": "Causal-Class Hierarchies in Coherence-Constrained Channel Transformation",
+      "why_it_matters": "Higher-order quantum transformations allow multiple channel uses to be combined through different causal architectures, from parallel and fixed-order sequential networks to general higher-order processes. Whether this causal freedom improves channel transformation when the higher-order operation is also constrained by a resource theory remains largely unexplored.",
+      "url": "http://arxiv.org/abs/2609.08639v1",
       "signal_score": 60,
       "evidence_label": "Preprint"
     },
     {
       "domain": "quantum",
       "domain_label": "Quantum physics",
-      "title": "The 0.5 Symmetry: An Information-Theoretic Framework for Fractal Holism and Artificial Sentience",
-      "why_it_matters": "This paper presents a formal information-theoretic reduction of systemic complexity using a foundational conservation equation: Anything = A + B = 1. Departing from classical Newtonian reductionism, we model discrete phenomena—such as atomic structures, genomic sequences, artificial neural networks, and socio-linguistic systems—not as isolated variables, but as localised open subsystems intrinsically entangled with the macroscopic universe.",
-      "url": "https://doi.org/10.71097/ijsat.v17.i3.11542",
-      "signal_score": 55,
+      "title": "Quantum Machine Learning for Cybersecurity: A Taxonomy and Future Directions",
+      "why_it_matters": "ABSTRACT Context The rapid increase in cyber threats, coupled with increasingly sophisticated attack strategies and the exponential growth of data in recent years, has exposed significant limitations in classical machine learning, rule‐based, and signature‐based defense mechanisms. These approaches are often unable to scale or adapt effectively to evolving threat landscapes.",
+      "url": "https://doi.org/10.1002/spe.70106",
+      "signal_score": 59,
       "evidence_label": "Journal article"
+    },
+    {
+      "domain": "neuroscience",
+      "domain_label": "Neuroscience",
+      "title": "Recursive Representational Energy Closure",
+      "why_it_matters": "Recursive Representational Energy Closure: A Falsifiable Phase-Transition Hypothesis of Conscious Experience This paper proposes Recursive Representational Energy Closure (RREC), a falsifiable physical hypothesis for the transition between nonconscious information processing and conscious experience. Contemporary consciousness research has identified recurrent processing, large-scale integration, perturbational complexity, and near-critical neural dynamics as important correlates of conscious states, but no…",
+      "url": "https://doi.org/10.5281/zenodo.22650378",
+      "signal_score": 59,
+      "evidence_label": "Preprint"
     }
   ]
 }
