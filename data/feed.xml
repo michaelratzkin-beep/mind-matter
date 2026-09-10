@@ -4,13 +4,13 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Wed, 09 Sep 2026 16:33:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 16:19:20 +0000</lastBuildDate>
     <item>
-      <title>Causal-Class Hierarchies in Coherence-Constrained Channel Transformation</title>
-      <link>http://arxiv.org/abs/2609.08639v1</link>
-      <guid>7db255e2da461fcd</guid>
-      <description>Higher-order quantum transformations allow multiple channel uses to be combined through different causal architectures, from parallel and fixed-order sequential networks to general higher-order processes. Whether this causal freedom improves channel transformation when the higher-order operation is also constrained by a resource theory remains largely unexplored.</description>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <title>What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry</title>
+      <link>https://doi.org/10.5281/zenodo.18817683</link>
+      <guid>21a9fa0291fa9d51</guid>
+      <description>Abstract: Physicalism's most common implicit defense against consciousness-first frameworks is the appeal to causal closure: if every physical event has a sufficient physical cause, there is no work for consciousness to do. Does physics deliver that closure?</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Machine Learning for Cybersecurity: A Taxonomy and Future Directions</title>
@@ -62,11 +62,46 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Finite-size Entanglement Certification via Third-Order Local Randomized Measurements</title>
-      <link>http://arxiv.org/abs/2609.08635v1</link>
-      <guid>82e1287be82da10d</guid>
-      <description>Certifying entanglement in high-dimensional systems usually requires full state tomography, whose cost grows rapidly with the system dimension. Local randomized measurements offer a scalable alternative, but existing tests based on second-order correlations access only limited information about the state.</description>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Anomalous Phenomena and Consciousness: A Diagnostic Stress Test of Explanatory Frameworks</title>
+      <link>https://doi.org/10.5281/zenodo.18394581</link>
+      <guid>6e1a48ae6ffa985e</guid>
+      <description>Abstract: Contested phenomena — from psychedelics to mediumship — have resisted clean integration into physicalist frameworks for decades. The resistance is not coincidental; it is diagnostic.</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coherent advantage in the computational expressivity of excitonic networks</title>
+      <link>http://arxiv.org/abs/2609.10448v1</link>
+      <guid>ec573de8c196416f</guid>
+      <description>The rising energy consumption of AI has generated interest in physical systems as alternative substrates for trainable computation. Recent experimental advances have enabled precise control over the couplings between molecular chromophores, which give rise to coherent excitation dynamics.</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Direct Cultivation of Entangled $|CS\rangle$ Magic States</title>
+      <link>http://arxiv.org/abs/2609.09993v1</link>
+      <guid>839908b38daa2024</guid>
+      <description>Magic-state cultivation has so far focused mainly on single-qubit non-Clifford resources. We develop a direct cultivation architecture for the entangled state $|CS\rangle=CS|++\rangle$.</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fidelity-Aware Scheduling of Quantum Circuits on Multi-QPU Systems</title>
+      <link>http://arxiv.org/abs/2609.09980v1</link>
+      <guid>e6c3d96bc6a1c992</guid>
+      <description>High Performance Computing-Quantum Computing (HPCQC) platforms expose multiple Quantum Processing Units (QPUs) that may differ in size, topology, native gates, and noise characteristics. For current noisy devices, errors compound along the compiled circuits quickly, and minimizing them, that is, maximizing the circuits' execution fidelity, is essential for reliable results.</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enhancing Pauli Correlation Encoding for quantum optimization via systematic expressivity analysis</title>
+      <link>http://arxiv.org/abs/2609.09718v1</link>
+      <guid>e5d24f796b502d30</guid>
+      <description>Quantum approaches for combinatorial optimization problems have attracted considerable attention in recent years. Among these approaches, Pauli Correlation Encoding (PCE) has emerged as a promising framework for quantum devices with limited qubit resources because it embeds optimization variables in expectation values of Pauli strings.</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comparison of total versus ideal body weight-based remimazolam dosing for sedation in overweight and obese patients undergoing knee arthroplasty under spinal anesthesia: a randomized controlled trial.</title>
+      <link>https://europepmc.org/article/MED/42712184</link>
+      <guid>7db507a274a8f867</guid>
+      <description>New work indexed under “Comparison of total versus ideal body weight-based remimazolam dosing for sedation in overweight and obese patients undergoing knee arthroplasty under spinal anesthesia: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>EEG Reactivity and Etiology as Prognostic Modifiers in Alpha and Theta Coma: A Systematic Review and Meta-analysis.</title>
@@ -76,52 +111,31 @@
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Correction: EEG-guided sevoflurane anesthesia vs. standard care in pediatric emergence delirium: a grade-assessed systematic review and meta-analysis with trial sequential analysis.</title>
-      <link>https://europepmc.org/article/MED/42709076</link>
-      <guid>e9781046331fa70a</guid>
-      <description>New work indexed under “Correction: EEG-guided sevoflurane anesthesia vs. standard care in pediatric emergence delirium: a grade-assessed systematic review and meta-analysis with trial sequential analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <title>Self Fragmentation and Position Imbalance: Consciousness Structure Analysis on schizophrenia in Chinese New Generation Patients.</title>
+      <link>https://europepmc.org/article/MED/42715136</link>
+      <guid>7648e84e4a452529</guid>
+      <description>New work indexed under “Self Fragmentation and Position Imbalance: Consciousness Structure Analysis on schizophrenia in Chinese New Generation Patients..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A systematic review on mental health issues in adults with newly diagnosed epilepsy.</title>
+      <link>https://europepmc.org/article/MED/42714928</link>
+      <guid>cdcd3097346490d2</guid>
+      <description>New work indexed under “A systematic review on mental health issues in adults with newly diagnosed epilepsy..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Temperature-induced effective topology in many-body ultracold atomic quantum systems</title>
+      <link>http://arxiv.org/abs/2609.09463v1</link>
+      <guid>9f3b76b23f825133</guid>
+      <description>Ultracold atomic quantum systems offer an unprecedentedly powerful platform for exploring interacting symmetry-protected topological phases. Here, we show that their characteristic control over temperature provides a resource for engineering effective topological regimes with no zero-temperature counterpart.</description>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Uniqueness and Cramér-Rao Efficiency of Quantum U-Statistics</title>
-      <link>http://arxiv.org/abs/2609.08745v1</link>
-      <guid>2a226473b455d2c2</guid>
-      <description>We study unbiased estimation of scalar-valued polynomial functionals of quantum states from independent copies. We establish an equivalence between the first-order marginal of a permutation-invariant finite-copy observable and the functional gradient.</description>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Forgotten History of Wave Function Variance Optimization and its Relevance for Neural-Network VMC</title>
-      <link>http://arxiv.org/abs/2609.08453v1</link>
-      <guid>93ccd9626f8cb985</guid>
-      <description>We revisit the almost century-old question of which functional of the local energy best optimizes a trial wave function, a problem of central importance in Variational Monte Carlo (VMC) and, more recently, in Neural-Network VMC (NN-VMC). While variance optimization dates back to the 1930s, the high statistical noise and heavy-tailed local energy distributions inherent to modern neural-network wave functions have renewed interest in this approach.</description>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dynamics of entanglement in non-Hermitian system of nonreciprocal coupling</title>
-      <link>http://arxiv.org/abs/2609.08388v1</link>
-      <guid>4da49b9e20c58a65</guid>
-      <description>The exploration of the effect of non-Hermitian (NH) in quantum systems is gaining renewed momentum as a result of the recent progress in experiments. It has been indicated that the ability to engineer the orders of exceptional points (EPs) can be fundamental to its applications in quantum control, such as accelerating entanglement generation; however, an initial survey of the interactions between different orders of EPs is still missing.</description>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Transport properties and topological phase transitions for a Creutz-Su-Schrieffer-Heeger ladder</title>
-      <link>http://arxiv.org/abs/2609.08146v1</link>
-      <guid>67840ff6d422fc93</guid>
-      <description>In this work, we investigate the electronic, topological, and transport properties of a Creutz-Su-Schrieffer-Heeger (CSSH) ladder. Using a tight-binding model within the Green's function formalism, we calculate the energy spectrum, local density of states (LDOS), and electronic transmission.</description>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comparison of subanaesthetic ketamine and lidocaine as adjuvants to propofol-based total intravenous anesthesia on propofol requirement during emergency decompressive craniectomy for traumatic brain injury: a prospective, double-blind, three-arm randomized controlled trial.</title>
-      <link>https://europepmc.org/article/MED/42710328</link>
-      <guid>3d7b337f7f079a8d</guid>
-      <description>New work indexed under “Comparison of subanaesthetic ketamine and lidocaine as adjuvants to propofol-based total intravenous anesthesia on propofol requirement during emergency decompressive craniectomy for traumatic brain injury: a prospective, double-blind, three-arm randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Effect of Virtual Reality Technology on Anxiety in Children Undergoing Ophthalmic Surgery: A Randomized Clinical Trial.</title>
-      <link>https://europepmc.org/article/MED/42708403</link>
-      <guid>b85d006c76fef46f</guid>
-      <description>New work indexed under “The Effect of Virtual Reality Technology on Anxiety in Children Undergoing Ophthalmic Surgery: A Randomized Clinical Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <title>Comparison of a Modified Regimen of Prophylactic Phenylephrine Boluses Versus Variable Rate Infusion During Elective Cesarean Delivery Under Spinal Anesthesia: A Noninferiority Randomized Double-Blind Study.</title>
+      <link>https://europepmc.org/article/MED/42714861</link>
+      <guid>a56c055e69e50e36</guid>
+      <description>New work indexed under “Comparison of a Modified Regimen of Prophylactic Phenylephrine Boluses Versus Variable Rate Infusion During Elective Cesarean Delivery Under Spinal Anesthesia: A Noninferiority Randomized Double-Blind Study..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -130,20 +144,6 @@
       <guid>d5c30c08508322e9</guid>
       <description>This paper presents a formal information-theoretic reduction of systemic complexity using a foundational conservation equation: Anything = A + B = 1. Departing from classical Newtonian reductionism, we model discrete phenomena—such as atomic structures, genomic sequences, artificial neural networks, and socio-linguistic systems—not as isolated variables, but as localised open subsystems intrinsically entangled with the macroscopic universe.</description>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Correction: The transformational power of psychedelics: catalysts for creativity, consciousness, and mental health.</title>
-      <link>https://europepmc.org/article/MED/42711410</link>
-      <guid>709ea9e0f652cea8</guid>
-      <description>New work indexed under “Correction: The transformational power of psychedelics: catalysts for creativity, consciousness, and mental health..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Functionalist theories of consciousness: unfolding, substitution and the indeterminacy of function by the physics of the brain.</title>
-      <link>https://europepmc.org/article/MED/42710179</link>
-      <guid>44a8111eabe6353c</guid>
-      <description>New work indexed under “Functionalist theories of consciousness: unfolding, substitution and the indeterminacy of function by the physics of the brain..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
