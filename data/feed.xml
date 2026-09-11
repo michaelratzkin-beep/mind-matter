@@ -4,7 +4,7 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Thu, 10 Sep 2026 16:19:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 16:23:05 +0000</lastBuildDate>
     <item>
       <title>What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry</title>
       <link>https://doi.org/10.5281/zenodo.18817683</link>
@@ -13,10 +13,24 @@
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>From detection to decision: a conceptual framework of uncertainty migration in disorders of consciousness</title>
+      <link>https://doi.org/10.3389/fneur.2026.1940448</link>
+      <guid>f72c842341a49056</guid>
+      <description>Accurate assessment of consciousness in patients with disorders of consciousness (DoC) remains a longstanding challenge in neurocritical care and neurorehabilitation. Although standardized behavioral assessments continue to serve as the clinical foundation for diagnosis, their reliance on overt behavioral responses may underestimate residual consciousness in a subset of patients.</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Quantum Machine Learning for Cybersecurity: A Taxonomy and Future Directions</title>
       <link>https://doi.org/10.1002/spe.70106</link>
       <guid>e5244a5b21cde74c</guid>
       <description>ABSTRACT Context The rapid increase in cyber threats, coupled with increasingly sophisticated attack strategies and the exponential growth of data in recent years, has exposed significant limitations in classical machine learning, rule‐based, and signature‐based defense mechanisms. These approaches are often unable to scale or adapt effectively to evolving threat landscapes.</description>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trends in Quantum Key Distribution Technologies: A Systematic Review of Protocols, Network Architectures, and Deployment Challenges</title>
+      <link>https://doi.org/10.70917/ijcisim-2026-5587</link>
+      <guid>5180c215fd66bdf2</guid>
+      <description>The emergence of the Quantum computing technologies is imposing greater threats on the existing cryptographic algorithms that rely heavily on the mathematical problems, creating a growing demand for quantum safe Communication. Even though Quantum Key Distribution (QKD) is a theoretically proven secure key exchange method against quantum attacks, it also faces several deployment challenges like scalability, cost, and interoperability limitations.</description>
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -41,11 +55,60 @@
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>From graphs to qubits: a critical review of quantum graph neural networks</title>
+      <link>https://doi.org/10.1007/s00521-026-12428-x</link>
+      <guid>28ef7c728b6e3d0d</guid>
+      <description>Abstract Quantum Graph Neural Networks represent a novel fusion of quantum computing and Graph Neural Networks, aimed at overcoming the computational and scalability challenges inherent in classical models that are powerful tools for analyzing data with complex relational structures but suffer from limitations such as high computational complexity and over-smoothing in large-scale applications. Quantum computing, leveraging principles like superposition and entanglement, offers a pathway to enhanced computational…</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Subanesthetic nitrous oxide alters large-scale network organization and insula connectivity during visual stimulation</title>
       <link>https://doi.org/10.1038/s42003-026-10838-0</link>
       <guid>f0b6dccd5723376e</guid>
       <description>Pharmacological agents that alter consciousness, including classic psychedelics and non-classic agents such as nitrous oxide, are known to affect multiple domains of conscious experience, including visual perception. While most neuroimaging studies rely on resting-state data to characterize altered states of consciousness, task-based approaches enable investigation of specific perceptual domains.</description>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Certifying Adversarial Robustness of Quantum Classifiers under Known-Readout Query Access</title>
+      <link>http://arxiv.org/abs/2609.11637v1</link>
+      <guid>b89b56acb36ed09f</guid>
+      <description>A quantum classifier assigns labels by evolving an input quantum state and measuring the output, so repeated executions reveal only a distribution over labels. We study certified adversarial robustness for such classifiers under known-readout query access (KRQA), where an evaluator can prepare inputs, knows the quantum measurement, and observes finite-shot outcomes but cannot inspect the internal evolution, parameters, or gradients.</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Analytic Structure to Quantum Complexity: Walsh-Pauli Representations of Continuum Operators</title>
+      <link>http://arxiv.org/abs/2609.11350v1</link>
+      <guid>9b6fad1e68c2cfb6</guid>
+      <description>How does continuum operator structure appear in a finite qubit register? We address this question for analytic functions of diagonal operators represented in a binary basis, focusing on the Jordan--Lee--Preskill (JLP) momentum operator, by developing an operator-level generating-function framework for their Walsh-Pauli spectra.</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Virtual quantum neural networks</title>
+      <link>http://arxiv.org/abs/2609.11327v1</link>
+      <guid>3059d0ac0dbd1082</guid>
+      <description>Quantum neural networks are a prominent model of quantum machine learning. Their training consists in the minimization of a given loss function over a parametrized family of quantum circuits, mathematically described by unitary operators, or, more generally, completely positive linear maps.</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coherent Floquet quantum reservoirs for molecular property prediction</title>
+      <link>http://arxiv.org/abs/2609.11071v1</link>
+      <guid>ab79428255c33c52</guid>
+      <description>Quantum reservoir computing (QRC) uses quantum dynamics to represent input histories for prediction through a trained classical readout. Discrete time crystals (DTCs) exhibit robust subharmonic responses under periodic driving, and previous work has used their dynamics to construct DTC-QRC.</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Double-Blinded Randomized Trial Comparing Dexamethasone to Ondansetron as the First-Line Antiemetic After Cesarean Delivery.</title>
+      <link>https://europepmc.org/article/MED/42721472</link>
+      <guid>feeb62f42c88d582</guid>
+      <description>New work indexed under “A Double-Blinded Randomized Trial Comparing Dexamethasone to Ondansetron as the First-Line Antiemetic After Cesarean Delivery..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stress reduction based on awareness for women affected by disasters: a randomized controlled trial.</title>
+      <link>https://europepmc.org/article/MED/42720252</link>
+      <guid>8a3057247b438777</guid>
+      <description>New work indexed under “Stress reduction based on awareness for women affected by disasters: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Towards ‘humane’ shrimp slaughter: A review of current knowledge gaps and methodological challenges for Penaeus vannamei</title>
@@ -62,81 +125,18 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Stigma and discrimination among children affected by leprosy: a systematic review of a skin-related neglected tropical disease.</title>
+      <link>https://europepmc.org/article/MED/42717844</link>
+      <guid>f3d87235bec2bcfe</guid>
+      <description>New work indexed under “Stigma and discrimination among children affected by leprosy: a systematic review of a skin-related neglected tropical disease..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Anomalous Phenomena and Consciousness: A Diagnostic Stress Test of Explanatory Frameworks</title>
       <link>https://doi.org/10.5281/zenodo.18394581</link>
       <guid>6e1a48ae6ffa985e</guid>
       <description>Abstract: Contested phenomena — from psychedelics to mediumship — have resisted clean integration into physicalist frameworks for decades. The resistance is not coincidental; it is diagnostic.</description>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coherent advantage in the computational expressivity of excitonic networks</title>
-      <link>http://arxiv.org/abs/2609.10448v1</link>
-      <guid>ec573de8c196416f</guid>
-      <description>The rising energy consumption of AI has generated interest in physical systems as alternative substrates for trainable computation. Recent experimental advances have enabled precise control over the couplings between molecular chromophores, which give rise to coherent excitation dynamics.</description>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Direct Cultivation of Entangled $|CS\rangle$ Magic States</title>
-      <link>http://arxiv.org/abs/2609.09993v1</link>
-      <guid>839908b38daa2024</guid>
-      <description>Magic-state cultivation has so far focused mainly on single-qubit non-Clifford resources. We develop a direct cultivation architecture for the entangled state $|CS\rangle=CS|++\rangle$.</description>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fidelity-Aware Scheduling of Quantum Circuits on Multi-QPU Systems</title>
-      <link>http://arxiv.org/abs/2609.09980v1</link>
-      <guid>e6c3d96bc6a1c992</guid>
-      <description>High Performance Computing-Quantum Computing (HPCQC) platforms expose multiple Quantum Processing Units (QPUs) that may differ in size, topology, native gates, and noise characteristics. For current noisy devices, errors compound along the compiled circuits quickly, and minimizing them, that is, maximizing the circuits' execution fidelity, is essential for reliable results.</description>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Enhancing Pauli Correlation Encoding for quantum optimization via systematic expressivity analysis</title>
-      <link>http://arxiv.org/abs/2609.09718v1</link>
-      <guid>e5d24f796b502d30</guid>
-      <description>Quantum approaches for combinatorial optimization problems have attracted considerable attention in recent years. Among these approaches, Pauli Correlation Encoding (PCE) has emerged as a promising framework for quantum devices with limited qubit resources because it embeds optimization variables in expectation values of Pauli strings.</description>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comparison of total versus ideal body weight-based remimazolam dosing for sedation in overweight and obese patients undergoing knee arthroplasty under spinal anesthesia: a randomized controlled trial.</title>
-      <link>https://europepmc.org/article/MED/42712184</link>
-      <guid>7db507a274a8f867</guid>
-      <description>New work indexed under “Comparison of total versus ideal body weight-based remimazolam dosing for sedation in overweight and obese patients undergoing knee arthroplasty under spinal anesthesia: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>EEG Reactivity and Etiology as Prognostic Modifiers in Alpha and Theta Coma: A Systematic Review and Meta-analysis.</title>
-      <link>https://europepmc.org/article/MED/42711629</link>
-      <guid>1338dd310b8f7b0b</guid>
-      <description>New work indexed under “EEG Reactivity and Etiology as Prognostic Modifiers in Alpha and Theta Coma: A Systematic Review and Meta-analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Self Fragmentation and Position Imbalance: Consciousness Structure Analysis on schizophrenia in Chinese New Generation Patients.</title>
-      <link>https://europepmc.org/article/MED/42715136</link>
-      <guid>7648e84e4a452529</guid>
-      <description>New work indexed under “Self Fragmentation and Position Imbalance: Consciousness Structure Analysis on schizophrenia in Chinese New Generation Patients..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A systematic review on mental health issues in adults with newly diagnosed epilepsy.</title>
-      <link>https://europepmc.org/article/MED/42714928</link>
-      <guid>cdcd3097346490d2</guid>
-      <description>New work indexed under “A systematic review on mental health issues in adults with newly diagnosed epilepsy..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Temperature-induced effective topology in many-body ultracold atomic quantum systems</title>
-      <link>http://arxiv.org/abs/2609.09463v1</link>
-      <guid>9f3b76b23f825133</guid>
-      <description>Ultracold atomic quantum systems offer an unprecedentedly powerful platform for exploring interacting symmetry-protected topological phases. Here, we show that their characteristic control over temperature provides a resource for engineering effective topological regimes with no zero-temperature counterpart.</description>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comparison of a Modified Regimen of Prophylactic Phenylephrine Boluses Versus Variable Rate Infusion During Elective Cesarean Delivery Under Spinal Anesthesia: A Noninferiority Randomized Double-Blind Study.</title>
-      <link>https://europepmc.org/article/MED/42714861</link>
-      <guid>a56c055e69e50e36</guid>
-      <description>New work indexed under “Comparison of a Modified Regimen of Prophylactic Phenylephrine Boluses Versus Variable Rate Infusion During Elective Cesarean Delivery Under Spinal Anesthesia: A Noninferiority Randomized Double-Blind Study..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The 0.5 Symmetry: An Information-Theoretic Framework for Fractal Holism and Artificial Sentience</title>

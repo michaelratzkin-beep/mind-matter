@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "title": "The latest signal",
-  "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Quantum physics, Neuroscience. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
+  "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Neuroscience, Quantum physics. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
     {
       "domain": "consciousness",
@@ -9,8 +9,17 @@
       "title": "What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry",
       "why_it_matters": "Abstract: Physicalism's most common implicit defense against consciousness-first frameworks is the appeal to causal closure: if every physical event has a sufficient physical cause, there is no work for consciousness to do. Does physics deliver that closure?",
       "url": "https://doi.org/10.5281/zenodo.18817683",
-      "signal_score": 60,
+      "signal_score": 59,
       "evidence_label": "Preprint"
+    },
+    {
+      "domain": "neuroscience",
+      "domain_label": "Neuroscience",
+      "title": "From detection to decision: a conceptual framework of uncertainty migration in disorders of consciousness",
+      "why_it_matters": "Accurate assessment of consciousness in patients with disorders of consciousness (DoC) remains a longstanding challenge in neurocritical care and neurorehabilitation. Although standardized behavioral assessments continue to serve as the clinical foundation for diagnosis, their reliance on overt behavioral responses may underestimate residual consciousness in a subset of patients.",
+      "url": "https://doi.org/10.3389/fneur.2026.1940448",
+      "signal_score": 59,
+      "evidence_label": "Journal article"
     },
     {
       "domain": "quantum",
@@ -18,17 +27,8 @@
       "title": "Quantum Machine Learning for Cybersecurity: A Taxonomy and Future Directions",
       "why_it_matters": "ABSTRACT Context The rapid increase in cyber threats, coupled with increasingly sophisticated attack strategies and the exponential growth of data in recent years, has exposed significant limitations in classical machine learning, rule‐based, and signature‐based defense mechanisms. These approaches are often unable to scale or adapt effectively to evolving threat landscapes.",
       "url": "https://doi.org/10.1002/spe.70106",
-      "signal_score": 58,
+      "signal_score": 57,
       "evidence_label": "Journal article"
-    },
-    {
-      "domain": "neuroscience",
-      "domain_label": "Neuroscience",
-      "title": "Recursive Representational Energy Closure",
-      "why_it_matters": "Recursive Representational Energy Closure: A Falsifiable Phase-Transition Hypothesis of Conscious Experience This paper proposes Recursive Representational Energy Closure (RREC), a falsifiable physical hypothesis for the transition between nonconscious information processing and conscious experience. Contemporary consciousness research has identified recurrent processing, large-scale integration, perturbational complexity, and near-critical neural dynamics as important correlates of conscious states, but no…",
-      "url": "https://doi.org/10.5281/zenodo.22650378",
-      "signal_score": 58,
-      "evidence_label": "Preprint"
     }
   ]
 }
