@@ -4,7 +4,7 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Fri, 11 Sep 2026 16:23:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 15:27:50 +0000</lastBuildDate>
     <item>
       <title>What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry</title>
       <link>https://doi.org/10.5281/zenodo.18817683</link>
@@ -118,13 +118,6 @@
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Neural Circuit Mechanisms of Disorders of Consciousness and Potential Therapeutic Targets of Brain Stimulation</title>
-      <link>https://doi.org/10.1002/cns.71037</link>
-      <guid>72d9a75bd3b05417</guid>
-      <description>BACKGROUND: Disorders of consciousness (DoC) lack an integrated framework to guide neuromodulation. This review updates three hierarchical frameworks-ARAS, mesocircuit, and ICNs-and maps therapeutic targets within each.</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Stigma and discrimination among children affected by leprosy: a systematic review of a skin-related neglected tropical disease.</title>
       <link>https://europepmc.org/article/MED/42717844</link>
       <guid>f3d87235bec2bcfe</guid>
@@ -139,11 +132,18 @@
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The 0.5 Symmetry: An Information-Theoretic Framework for Fractal Holism and Artificial Sentience</title>
-      <link>https://doi.org/10.71097/ijsat.v17.i3.11542</link>
-      <guid>d5c30c08508322e9</guid>
-      <description>This paper presents a formal information-theoretic reduction of systemic complexity using a foundational conservation equation: Anything = A + B = 1. Departing from classical Newtonian reductionism, we model discrete phenomena—such as atomic structures, genomic sequences, artificial neural networks, and socio-linguistic systems—not as isolated variables, but as localised open subsystems intrinsically entangled with the macroscopic universe.</description>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Neural Circuit Mechanisms of Disorders of Consciousness and Potential Therapeutic Targets of Brain Stimulation</title>
+      <link>https://doi.org/10.1002/cns.71037</link>
+      <guid>72d9a75bd3b05417</guid>
+      <description>BACKGROUND: Disorders of consciousness (DoC) lack an integrated framework to guide neuromodulation. This review updates three hierarchical frameworks-ARAS, mesocircuit, and ICNs-and maps therapeutic targets within each.</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Feasibility of Mobile Single-Lead Electrocardiogram Screening for Atrial Fibrillation: Multicenter Cross-Sectional Study.</title>
+      <link>https://europepmc.org/article/MED/42721301</link>
+      <guid>c433d51b95fb9a1b</guid>
+      <description>New work indexed under “Feasibility of Mobile Single-Lead Electrocardiogram Screening for Atrial Fibrillation: Multicenter Cross-Sectional Study..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
