@@ -4,7 +4,14 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Sat, 12 Sep 2026 15:27:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 16:10:04 +0000</lastBuildDate>
+    <item>
+      <title>Topological integration and segregation of the conscious connectome as biomarkers for state, behavior, and prognosis</title>
+      <link>https://doi.org/10.1038/s43856-026-01870-6</link>
+      <guid>8f308c7cf9d544b9</guid>
+      <description>Consciousness is hypothesized to emerge from a sophisticated balance between functional integration and segregation across large-scale brain networks. However, how these topological properties are disrupted in disorders of consciousness (DoC), and whether they can predict long-term recovery, remain to be established.</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry</title>
       <link>https://doi.org/10.5281/zenodo.18817683</link>
@@ -34,6 +41,13 @@
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Convergent functional connectivity alterations in ADHD revealed by EEG: A systematic review across methods, states and spatial scales</title>
+      <link>https://doi.org/10.1016/j.neubiorev.2026.106949</link>
+      <guid>266d956970c88221</guid>
+      <description>Functional brain connectivity (FC) research in attention-deficit/hyperactivity disorder (ADHD) has been dominated by functional magnetic resonance imaging (fMRI). However, electroencephalography (EEG) offers a more clinically accessible alternative with lower cost, easier in-practice implementation, and better temporal resolution.</description>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Recursive Representational Energy Closure</title>
       <link>https://doi.org/10.5281/zenodo.22650378</link>
       <guid>ca78ae67bff6e096</guid>
@@ -46,13 +60,6 @@
       <guid>712b012afbeb816e</guid>
       <description>Recursive Representational Energy Closure: A Falsifiable Phase-Transition Hypothesis of Conscious Experience This paper proposes Recursive Representational Energy Closure (RREC), a falsifiable physical hypothesis for the transition between nonconscious information processing and conscious experience. Contemporary consciousness research has identified recurrent processing, large-scale integration, perturbational complexity, and near-critical neural dynamics as important correlates of conscious states, but no…</description>
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>We Built a Mirror and Mistook It for a Mind: Causal Liability and the Fallacy of AI Consciousness</title>
-      <link>http://arxiv.org/abs/2609.06715v1</link>
-      <guid>b8bf78e3bfd708c2</guid>
-      <description>The contemporary debate over machine consciousness begins from a concealed assumption: that the object called "AI" already constitutes the kind of entity to which consciousness could belong. This paper challenges that assumption by separating phenomenal consciousness, introspective report, and human projective introspection, then arguing that generative systems can return linguistic traces of human interiority in first-person form without thereby identifying a phenomenal bearer.</description>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>From graphs to qubits: a critical review of quantum graph neural networks</title>
@@ -69,45 +76,10 @@
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Certifying Adversarial Robustness of Quantum Classifiers under Known-Readout Query Access</title>
-      <link>http://arxiv.org/abs/2609.11637v1</link>
-      <guid>b89b56acb36ed09f</guid>
-      <description>A quantum classifier assigns labels by evolving an input quantum state and measuring the output, so repeated executions reveal only a distribution over labels. We study certified adversarial robustness for such classifiers under known-readout query access (KRQA), where an evaluator can prepare inputs, knows the quantum measurement, and observes finite-shot outcomes but cannot inspect the internal evolution, parameters, or gradients.</description>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Analytic Structure to Quantum Complexity: Walsh-Pauli Representations of Continuum Operators</title>
-      <link>http://arxiv.org/abs/2609.11350v1</link>
-      <guid>9b6fad1e68c2cfb6</guid>
-      <description>How does continuum operator structure appear in a finite qubit register? We address this question for analytic functions of diagonal operators represented in a binary basis, focusing on the Jordan--Lee--Preskill (JLP) momentum operator, by developing an operator-level generating-function framework for their Walsh-Pauli spectra.</description>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Virtual quantum neural networks</title>
-      <link>http://arxiv.org/abs/2609.11327v1</link>
-      <guid>3059d0ac0dbd1082</guid>
-      <description>Quantum neural networks are a prominent model of quantum machine learning. Their training consists in the minimization of a given loss function over a parametrized family of quantum circuits, mathematically described by unitary operators, or, more generally, completely positive linear maps.</description>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coherent Floquet quantum reservoirs for molecular property prediction</title>
-      <link>http://arxiv.org/abs/2609.11071v1</link>
-      <guid>ab79428255c33c52</guid>
-      <description>Quantum reservoir computing (QRC) uses quantum dynamics to represent input histories for prediction through a trained classical readout. Discrete time crystals (DTCs) exhibit robust subharmonic responses under periodic driving, and previous work has used their dynamics to construct DTC-QRC.</description>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Double-Blinded Randomized Trial Comparing Dexamethasone to Ondansetron as the First-Line Antiemetic After Cesarean Delivery.</title>
-      <link>https://europepmc.org/article/MED/42721472</link>
-      <guid>feeb62f42c88d582</guid>
-      <description>New work indexed under “A Double-Blinded Randomized Trial Comparing Dexamethasone to Ondansetron as the First-Line Antiemetic After Cesarean Delivery..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stress reduction based on awareness for women affected by disasters: a randomized controlled trial.</title>
-      <link>https://europepmc.org/article/MED/42720252</link>
-      <guid>8a3057247b438777</guid>
-      <description>New work indexed under “Stress reduction based on awareness for women affected by disasters: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <title>Does the MEM Model Explain the "Hard Problem" of Phenomenal Consciousness?</title>
+      <link>https://doi.org/10.32388/bfdt0t</link>
+      <guid>e1a2b55345d7cf46</guid>
+      <description>This article addresses David Chalmers's hard problem of consciousness by asking why information processing is accompanied by a subjective 'what it is like'. Its point of departure is the distinction between intelligence and phenomenal consciousness: the achievements of contemporary artificial intelligence show that reasoning, planning, language, and the accurate description of emotions do not yet constitute evidence of feeling.</description>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -116,13 +88,6 @@
       <guid>4b732cd6f630eff6</guid>
       <description>Penaeus vannamei has become the most widely farmed aquatic species worldwide, yet the methods used for its stunning and slaughter remain poorly documented and largely unvalidated scientifically. Growing regulatory attention to decapod sentience calls for a critical assessment of current slaughter practices and of the indicators available to evaluate them.</description>
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stigma and discrimination among children affected by leprosy: a systematic review of a skin-related neglected tropical disease.</title>
-      <link>https://europepmc.org/article/MED/42717844</link>
-      <guid>f3d87235bec2bcfe</guid>
-      <description>New work indexed under “Stigma and discrimination among children affected by leprosy: a systematic review of a skin-related neglected tropical disease..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Anomalous Phenomena and Consciousness: A Diagnostic Stress Test of Explanatory Frameworks</title>
@@ -139,11 +104,46 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Feasibility of Mobile Single-Lead Electrocardiogram Screening for Atrial Fibrillation: Multicenter Cross-Sectional Study.</title>
-      <link>https://europepmc.org/article/MED/42721301</link>
-      <guid>c433d51b95fb9a1b</guid>
-      <description>New work indexed under “Feasibility of Mobile Single-Lead Electrocardiogram Screening for Atrial Fibrillation: Multicenter Cross-Sectional Study..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Quantified convergence of general homodyne measurements with applications to continuous variable quantum computing</title>
+      <link>https://doi.org/10.1088/1751-8121/aea45c</link>
+      <guid>d64d47d757172504</guid>
+      <description>Abstract In [Physical Review A 112 #063708 (2025)] we introduced broadband pulsed (BBP) homodyne measurements as a generalization of standard pulsed homodyne quadrature measurements. BBP can take advantage of detectors such as calorimeters that have the potential for high efficiency over a broad spectral range.</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The 0.5 Symmetry: An Information-Theoretic Framework for Fractal Holism and Artificial Sentience</title>
+      <link>https://doi.org/10.71097/ijsat.v17.i3.11542</link>
+      <guid>d5c30c08508322e9</guid>
+      <description>This paper presents a formal information-theoretic reduction of systemic complexity using a foundational conservation equation: Anything = A + B = 1. Departing from classical Newtonian reductionism, we model discrete phenomena—such as atomic structures, genomic sequences, artificial neural networks, and socio-linguistic systems—not as isolated variables, but as localised open subsystems intrinsically entangled with the macroscopic universe.</description>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>From chemistry to cognition: the adaptive origins of consciousness under constraint</title>
+      <link>https://doi.org/10.3389/fnins.2026.1907922</link>
+      <guid>a5068814959c1c55</guid>
+      <description>Consciousness is often treated as an evolutionary anomaly, a costly capacity with unclear adaptive origins. Here, cognition and consciousness are distinguished as separate evolutionary lineages, with consciousness arising when an organism must coordinate otherwise distinct regulatory processes to resolve competing demands affecting its own viability.</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Supreme Yoga and the Science of Suggestion: Bridging the Yoga Vasistha and Modern Hypnotherapy Through Consciousness, Narrative, and Neuroscience</title>
+      <link>https://doi.org/10.68220/whf.2026.001</link>
+      <guid>bb063a27c11ae5cc</guid>
+      <description>The Yoga Vasistha (Moksopaya), among the most psychologically sophisticated works of Indian philosophy, teaches that experienced worlds are mind-made, that latent impressions (vasana) sustain suffering, that disciplined imagination (bhavana) and self-effort can dissolve them, and that liberation is available in life (jivanmukti). Modern hypnotherapy - whose founding doctrine of suggestion entered Europe through the Goa-born Abbe Faria, whose largest early clinical corpus was produced in Bengal, and whose first…</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Focal Seizures Impair Consciousness: Clinical Features and Network Mechanisms in Temporal Lobe Epilepsy</title>
+      <link>https://doi.org/10.1248/bpb.b26-00378</link>
+      <guid>7cb6b1aeb51621ea</guid>
+      <description>Focal impaired consciousness seizures (FICS) are among the most common seizure types in epilepsy and are a major cause of reduced QOL, occurring predominantly in temporal lobe epilepsy. Although seizure activity often remains confined to a focal temporal lobe network, patients develop widespread impairment of consciousness, indicating dysfunction of distributed brain systems rather than local seizure activity alone.</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Acute lysergic acid diethylamide induces a time-dependent shift toward hippocampal control of default mode network reorganization</title>
+      <link>https://doi.org/10.64898/2026.09.03.748807</link>
+      <guid>5c4b6fcb3cbbc356</guid>
+      <description>Abstract Background Classical psychedelics induce profound changes in brain function, yet the temporal organization of these effects remains incompletely understood. Methods We investigated the effects of acute lysergic acid diethylamide (LSD) on large-scale brain connectivity in nine male Long–Evans rats using resting-state functional magnetic resonance imaging.</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
