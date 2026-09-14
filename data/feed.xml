@@ -4,13 +4,27 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Sun, 13 Sep 2026 16:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 18:03:26 +0000</lastBuildDate>
     <item>
       <title>Topological integration and segregation of the conscious connectome as biomarkers for state, behavior, and prognosis</title>
       <link>https://doi.org/10.1038/s43856-026-01870-6</link>
       <guid>8f308c7cf9d544b9</guid>
       <description>Consciousness is hypothesized to emerge from a sophisticated balance between functional integration and segregation across large-scale brain networks. However, how these topological properties are disrupted in disorders of consciousness (DoC), and whether they can predict long-term recovery, remain to be established.</description>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Review of Quantum Machine Learning Integration in Modern Computing</title>
+      <link>https://doi.org/10.36548/rrrj.2026.2.005</link>
+      <guid>654ef2ad35cfbe9f</guid>
+      <description>Quantum Machine Learning (QML) is a new multidisciplinary field that exploits the computational power of quantum computing for machine learning problems. Current research provides an overview of important QML algorithms, such as Quantum Support Vector Machines (QSVM), Quantum Neural Networks (QNN), Variational Quantum Eigensolvers (VQE), Quantum Approximate Optimization Algorithm (QAOA), and hybrid quantumclassical computing techniques, which have recently become more popular owing to hardware constraints in the…</description>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assessing consciousness by near-nerve electrostimulation in intensive rehabilitation</title>
+      <link>https://doi.org/10.1088/1741-2552/aea645</link>
+      <guid>066d53cf17d48d02</guid>
+      <description>OBJECTIVE: Consciousness diagnosis in prolonged disorders of consciousness (pDoC) relies on the Coma Recovery Scale-Revised (CRS-R), yet consciousness or its potential for recovery may escape behavioural detection. We tested whether Near-Nerve Stimulation (NNS) of the median nerve, compared to standard Surface Cutaneous Stimulation (SCS), could provide an EEG-based marker of consciousness and its recovery, by specifically eliciting sensory responses.</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry</title>
@@ -25,6 +39,27 @@
       <guid>f72c842341a49056</guid>
       <description>Accurate assessment of consciousness in patients with disorders of consciousness (DoC) remains a longstanding challenge in neurocritical care and neurorehabilitation. Although standardized behavioral assessments continue to serve as the clinical foundation for diagnosis, their reliance on overt behavioral responses may underestimate residual consciousness in a subset of patients.</description>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inspiratory Muscle Training Before Total Joint Arthroplasty to Improve Postoperative Outcomes: Protocol for a Randomized Controlled Trial.</title>
+      <link>https://europepmc.org/article/MED/42726784</link>
+      <guid>e06022389f31467e</guid>
+      <description>New work indexed under “Inspiratory Muscle Training Before Total Joint Arthroplasty to Improve Postoperative Outcomes: Protocol for a Randomized Controlled Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Etiologic spectrum and in-hospital mortality of altered level of consciousness in the emergency department: a single-center retrospective observational study.</title>
+      <link>https://europepmc.org/article/MED/42734033</link>
+      <guid>c8a9c31dcde5a0c7</guid>
+      <description>New work indexed under “Etiologic spectrum and in-hospital mortality of altered level of consciousness in the emergency department: a single-center retrospective observational study..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Kafka's &lt;i&gt;Metamorphosis&lt;/i&gt; reveals about consciousness without communication.</title>
+      <link>https://europepmc.org/article/MED/42729945</link>
+      <guid>b7533e4b720e51b9</guid>
+      <description>New work indexed under “What Kafka's &lt;i&gt;Metamorphosis&lt;/i&gt; reveals about consciousness without communication..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Machine Learning for Cybersecurity: A Taxonomy and Future Directions</title>
@@ -62,11 +97,39 @@
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Soft Silicone Foam Dressing for Preventing Intraoperative Pressure Injuries: A Randomized Controlled Trial.</title>
+      <link>https://europepmc.org/article/MED/42730741</link>
+      <guid>5cebe9b02149fa57</guid>
+      <description>New work indexed under “Soft Silicone Foam Dressing for Preventing Intraoperative Pressure Injuries: A Randomized Controlled Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Effect of Intraoperative Hemispheric Synchronized Sounds on Depth of Anesthesia and Postoperative Pain in Children Undergoing Infraumbilical Surgery: A Double-Blinded Randomized Controlled Trial.</title>
+      <link>https://europepmc.org/article/MED/42730594</link>
+      <guid>0a317a2b41b63ce3</guid>
+      <description>New work indexed under “Effect of Intraoperative Hemispheric Synchronized Sounds on Depth of Anesthesia and Postoperative Pain in Children Undergoing Infraumbilical Surgery: A Double-Blinded Randomized Controlled Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>From graphs to qubits: a critical review of quantum graph neural networks</title>
       <link>https://doi.org/10.1007/s00521-026-12428-x</link>
       <guid>28ef7c728b6e3d0d</guid>
       <description>Abstract Quantum Graph Neural Networks represent a novel fusion of quantum computing and Graph Neural Networks, aimed at overcoming the computational and scalability challenges inherent in classical models that are powerful tools for analyzing data with complex relational structures but suffer from limitations such as high computational complexity and over-smoothing in large-scale applications. Quantum computing, leveraging principles like superposition and entanglement, offers a pathway to enhanced computational…</description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Caudal versus penile block and urethrocutaneous fistula formation following hypospadias repair in children &lt;2 years: a multicenter randomized clinical trial.</title>
+      <link>https://europepmc.org/article/MED/42727983</link>
+      <guid>01495057e6df2a32</guid>
+      <description>New work indexed under “Caudal versus penile block and urethrocutaneous fistula formation following hypospadias repair in children &lt;2 years: a multicenter randomized clinical trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intoxication and other subjective effects of preanesthetic opioids in surgical patients: A randomized controlled trial.</title>
+      <link>https://europepmc.org/article/MED/42727585</link>
+      <guid>8a971bc7c5aabbba</guid>
+      <description>New work indexed under “Intoxication and other subjective effects of preanesthetic opioids in surgical patients: A randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Subanesthetic nitrous oxide alters large-scale network organization and insula connectivity during visual stimulation</title>
@@ -76,74 +139,11 @@
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Does the MEM Model Explain the "Hard Problem" of Phenomenal Consciousness?</title>
-      <link>https://doi.org/10.32388/bfdt0t</link>
-      <guid>e1a2b55345d7cf46</guid>
-      <description>This article addresses David Chalmers's hard problem of consciousness by asking why information processing is accompanied by a subjective 'what it is like'. Its point of departure is the distinction between intelligence and phenomenal consciousness: the achievements of contemporary artificial intelligence show that reasoning, planning, language, and the accurate description of emotions do not yet constitute evidence of feeling.</description>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Towards ‘humane’ shrimp slaughter: A review of current knowledge gaps and methodological challenges for Penaeus vannamei</title>
-      <link>https://doi.org/10.32942/x2wd63</link>
-      <guid>4b732cd6f630eff6</guid>
-      <description>Penaeus vannamei has become the most widely farmed aquatic species worldwide, yet the methods used for its stunning and slaughter remain poorly documented and largely unvalidated scientifically. Growing regulatory attention to decapod sentience calls for a critical assessment of current slaughter practices and of the indicators available to evaluate them.</description>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anomalous Phenomena and Consciousness: A Diagnostic Stress Test of Explanatory Frameworks</title>
-      <link>https://doi.org/10.5281/zenodo.18394581</link>
-      <guid>6e1a48ae6ffa985e</guid>
-      <description>Abstract: Contested phenomena — from psychedelics to mediumship — have resisted clean integration into physicalist frameworks for decades. The resistance is not coincidental; it is diagnostic.</description>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neural Circuit Mechanisms of Disorders of Consciousness and Potential Therapeutic Targets of Brain Stimulation</title>
-      <link>https://doi.org/10.1002/cns.71037</link>
-      <guid>72d9a75bd3b05417</guid>
-      <description>BACKGROUND: Disorders of consciousness (DoC) lack an integrated framework to guide neuromodulation. This review updates three hierarchical frameworks-ARAS, mesocircuit, and ICNs-and maps therapeutic targets within each.</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quantified convergence of general homodyne measurements with applications to continuous variable quantum computing</title>
-      <link>https://doi.org/10.1088/1751-8121/aea45c</link>
-      <guid>d64d47d757172504</guid>
-      <description>Abstract In [Physical Review A 112 #063708 (2025)] we introduced broadband pulsed (BBP) homodyne measurements as a generalization of standard pulsed homodyne quadrature measurements. BBP can take advantage of detectors such as calorimeters that have the potential for high efficiency over a broad spectral range.</description>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The 0.5 Symmetry: An Information-Theoretic Framework for Fractal Holism and Artificial Sentience</title>
-      <link>https://doi.org/10.71097/ijsat.v17.i3.11542</link>
-      <guid>d5c30c08508322e9</guid>
-      <description>This paper presents a formal information-theoretic reduction of systemic complexity using a foundational conservation equation: Anything = A + B = 1. Departing from classical Newtonian reductionism, we model discrete phenomena—such as atomic structures, genomic sequences, artificial neural networks, and socio-linguistic systems—not as isolated variables, but as localised open subsystems intrinsically entangled with the macroscopic universe.</description>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>From chemistry to cognition: the adaptive origins of consciousness under constraint</title>
-      <link>https://doi.org/10.3389/fnins.2026.1907922</link>
-      <guid>a5068814959c1c55</guid>
-      <description>Consciousness is often treated as an evolutionary anomaly, a costly capacity with unclear adaptive origins. Here, cognition and consciousness are distinguished as separate evolutionary lineages, with consciousness arising when an organism must coordinate otherwise distinct regulatory processes to resolve competing demands affecting its own viability.</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Supreme Yoga and the Science of Suggestion: Bridging the Yoga Vasistha and Modern Hypnotherapy Through Consciousness, Narrative, and Neuroscience</title>
-      <link>https://doi.org/10.68220/whf.2026.001</link>
-      <guid>bb063a27c11ae5cc</guid>
-      <description>The Yoga Vasistha (Moksopaya), among the most psychologically sophisticated works of Indian philosophy, teaches that experienced worlds are mind-made, that latent impressions (vasana) sustain suffering, that disciplined imagination (bhavana) and self-effort can dissolve them, and that liberation is available in life (jivanmukti). Modern hypnotherapy - whose founding doctrine of suggestion entered Europe through the Goa-born Abbe Faria, whose largest early clinical corpus was produced in Bengal, and whose first…</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Focal Seizures Impair Consciousness: Clinical Features and Network Mechanisms in Temporal Lobe Epilepsy</title>
-      <link>https://doi.org/10.1248/bpb.b26-00378</link>
-      <guid>7cb6b1aeb51621ea</guid>
-      <description>Focal impaired consciousness seizures (FICS) are among the most common seizure types in epilepsy and are a major cause of reduced QOL, occurring predominantly in temporal lobe epilepsy. Although seizure activity often remains confined to a focal temporal lobe network, patients develop widespread impairment of consciousness, indicating dysfunction of distributed brain systems rather than local seizure activity alone.</description>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Acute lysergic acid diethylamide induces a time-dependent shift toward hippocampal control of default mode network reorganization</title>
-      <link>https://doi.org/10.64898/2026.09.03.748807</link>
-      <guid>5c4b6fcb3cbbc356</guid>
-      <description>Abstract Background Classical psychedelics induce profound changes in brain function, yet the temporal organization of these effects remains incompletely understood. Methods We investigated the effects of acute lysergic acid diethylamide (LSD) on large-scale brain connectivity in nine male Long–Evans rats using resting-state functional magnetic resonance imaging.</description>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Majorana constellations: A geometric lens on multipartite entanglement and geometric phases</title>
+      <link>https://doi.org/10.1088/1402-4896/aea65c</link>
+      <guid>e824fdbd463d63fd</guid>
+      <description>Abstract The Majorana stellar representation maps a pure spin-S state to 2S points on a sphere. This review develops it with entanglement as the organising principle, and two objects recur throughout: the constellation, and the permanent of the Gram matrix of its stars.</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
