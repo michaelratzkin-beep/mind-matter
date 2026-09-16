@@ -4,7 +4,14 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Tue, 15 Sep 2026 16:51:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 16:46:13 +0000</lastBuildDate>
+    <item>
+      <title>The effect of multimodal sensory therapy in consciousness improvement in patients with acquired brain injury: a systematic review and meta-analysis.</title>
+      <link>https://europepmc.org/article/MED/42741930</link>
+      <guid>73345d763bb402f4</guid>
+      <description>New work indexed under “The effect of multimodal sensory therapy in consciousness improvement in patients with acquired brain injury: a systematic review and meta-analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Topological integration and segregation of the conscious connectome as biomarkers for state, behavior, and prognosis</title>
       <link>https://doi.org/10.1038/s43856-026-01870-6</link>
@@ -25,6 +32,48 @@
       <guid>066d53cf17d48d02</guid>
       <description>OBJECTIVE: Consciousness diagnosis in prolonged disorders of consciousness (pDoC) relies on the Coma Recovery Scale-Revised (CRS-R), yet consciousness or its potential for recovery may escape behavioural detection. We tested whether Near-Nerve Stimulation (NNS) of the median nerve, compared to standard Surface Cutaneous Stimulation (SCS), could provide an EEG-based marker of consciousness and its recovery, by specifically eliciting sensory responses.</description>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improved Separations between Quantum and Classical Communication Complexity of Total Functions</title>
+      <link>http://arxiv.org/abs/2609.16726v1</link>
+      <guid>71373b7bd1db8768</guid>
+      <description>We refine Gavinsky's framework (arXiv:2608.18784) for exponential separations between quantum and randomized communication complexity of total functions and obtain larger separations: polylogarithmic quantum communication versus $\tildeΩ(\sqrt n)$ randomized communication with two quantum messages, and versus $Ω(n^{1-\varepsilon})$ for every fixed $0&lt;\varepsilon&lt;1$ with more quantum messages.</description>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nonlinear electron-phonon interactions from first principles</title>
+      <link>http://arxiv.org/abs/2609.17433v1</link>
+      <guid>c5fa60960e0772e2</guid>
+      <description>Electron-phonon interactions underpin a variety of phenomena, ranging from transport and superconductivity to polarons and ultrafast carrier dynamics. Despite being one of the most intensely studied subjects in condensed matter physics, research on electron-phonon physics mostly focused on linear, first-order couplings.</description>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exact solutions of nonreciprocal Su-Schrieffer-Heeger model with domain walls</title>
+      <link>http://arxiv.org/abs/2609.17378v1</link>
+      <guid>6eabd1435a847ac7</guid>
+      <description>We investigate domain-wall physics in a non-Hermitian Su-Schrieffer-Heeger model featuring the non-Hermitian skin effect and its higher-dimensional extensions, focusing on analytical eigenstate solutions under open boundary conditions. By gluing two Su-Schrieffer-Heeger chains with inverted coupling ratios together, we identify two distinct interface geometries, and derive closed-form quantization conditions for the complex wave number and wave functions using symmetry-based ansatzes.</description>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adaptive Relational Learning on Multi-instance Quantum Data with Photonic Processors</title>
+      <link>http://arxiv.org/abs/2609.17352v1</link>
+      <guid>5a4e5195fe138c74</guid>
+      <description>Loading multiple quantum states in parallel into a quantum machine learning (QML) model can unlock learning tasks where key information resides in the \emph{relations} between states rather than in individual states. We introduce an adaptive relational learning framework for such multi-instance quantum data that accesses pairwise and higher-order relations.</description>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phase-stable voltage bias for Josephson photonics devices</title>
+      <link>http://arxiv.org/abs/2609.17165v1</link>
+      <guid>683f39a63af361c5</guid>
+      <description>Parametric interactions are foundational to superconducting quantum technologies, yet conventional microwave-driven pumping introduces parasitic Kerr nonlinearities and higher-order harmonics that limit device performance. Josephson Photonics (JP) avoids these parasitics by utilizing dc-biased junctions but has remained constrained by high phase noise and the absence of a stable phase reference.</description>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Development of a Physics-Informed Neural Framework, MEOWN, for Rapid Prediction of Muon Stopping Sites in Crystalline Materials, for understanding Quantum Magnet employing Muon Spectroscopy</title>
+      <link>http://arxiv.org/abs/2609.17063v1</link>
+      <guid>a6654abf0bd1d935</guid>
+      <description>Muon-spin rotation/relaxation is one of the most powerful microscopic probes for understanding magnetic order, spin dynamics, superconductivity, and complex magnetic phases in emerging quantum materials. Quantitative interpretation depends critically on the accurate identification of the muon stopping site, a problem traditionally addressed using density functional theory-based structural relaxation.</description>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Willingness to use long-acting injectable HIV pre-exposure prophylaxis (PrEP) among men who have sex with men: A meta-analysis.</title>
@@ -90,60 +139,11 @@
       <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>What Kafka's &lt;i&gt;Metamorphosis&lt;/i&gt; reveals about consciousness without communication.</title>
-      <link>https://europepmc.org/article/MED/42729945</link>
-      <guid>b7533e4b720e51b9</guid>
-      <description>New work indexed under “What Kafka's &lt;i&gt;Metamorphosis&lt;/i&gt; reveals about consciousness without communication..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Quantum Machine Learning for Cybersecurity: A Taxonomy and Future Directions</title>
       <link>https://doi.org/10.1002/spe.70106</link>
       <guid>e5244a5b21cde74c</guid>
       <description>ABSTRACT Context The rapid increase in cyber threats, coupled with increasingly sophisticated attack strategies and the exponential growth of data in recent years, has exposed significant limitations in classical machine learning, rule‐based, and signature‐based defense mechanisms. These approaches are often unable to scale or adapt effectively to evolving threat landscapes.</description>
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trends in Quantum Key Distribution Technologies: A Systematic Review of Protocols, Network Architectures, and Deployment Challenges</title>
-      <link>https://doi.org/10.70917/ijcisim-2026-5587</link>
-      <guid>5180c215fd66bdf2</guid>
-      <description>The emergence of the Quantum computing technologies is imposing greater threats on the existing cryptographic algorithms that rely heavily on the mathematical problems, creating a growing demand for quantum safe Communication. Even though Quantum Key Distribution (QKD) is a theoretically proven secure key exchange method against quantum attacks, it also faces several deployment challenges like scalability, cost, and interoperability limitations.</description>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Convergent functional connectivity alterations in ADHD revealed by EEG: A systematic review across methods, states and spatial scales</title>
-      <link>https://doi.org/10.1016/j.neubiorev.2026.106949</link>
-      <guid>266d956970c88221</guid>
-      <description>Functional brain connectivity (FC) research in attention-deficit/hyperactivity disorder (ADHD) has been dominated by functional magnetic resonance imaging (fMRI). However, electroencephalography (EEG) offers a more clinically accessible alternative with lower cost, easier in-practice implementation, and better temporal resolution.</description>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Recursive Representational Energy Closure</title>
-      <link>https://doi.org/10.5281/zenodo.22650378</link>
-      <guid>ca78ae67bff6e096</guid>
-      <description>Recursive Representational Energy Closure: A Falsifiable Phase-Transition Hypothesis of Conscious Experience This paper proposes Recursive Representational Energy Closure (RREC), a falsifiable physical hypothesis for the transition between nonconscious information processing and conscious experience. Contemporary consciousness research has identified recurrent processing, large-scale integration, perturbational complexity, and near-critical neural dynamics as important correlates of conscious states, but no…</description>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Recursive Representational Energy Closure</title>
-      <link>https://doi.org/10.5281/zenodo.22650377</link>
-      <guid>712b012afbeb816e</guid>
-      <description>Recursive Representational Energy Closure: A Falsifiable Phase-Transition Hypothesis of Conscious Experience This paper proposes Recursive Representational Energy Closure (RREC), a falsifiable physical hypothesis for the transition between nonconscious information processing and conscious experience. Contemporary consciousness research has identified recurrent processing, large-scale integration, perturbational complexity, and near-critical neural dynamics as important correlates of conscious states, but no…</description>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Consciousness as an entropic phenomenon: from viruses to planetary intelligence in light of the Acta Universi hypothesis</title>
-      <link>https://doi.org/10.24108/preprints-3116358</link>
-      <guid>38da7f47c0d38164</guid>
-      <description>Abstract (English) This paper develops a unified ontological theory of consciousness within the Acta Universi (AU) hypothesis. Consciousness is defined as the generation of coherent thought-forms that create irreversible entropic records in the universal archive .</description>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Soft Silicone Foam Dressing for Preventing Intraoperative Pressure Injuries: A Randomized Controlled Trial.</title>
-      <link>https://europepmc.org/article/MED/42730741</link>
-      <guid>5cebe9b02149fa57</guid>
-      <description>New work indexed under “Soft Silicone Foam Dressing for Preventing Intraoperative Pressure Injuries: A Randomized Controlled Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,15 +1,24 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "title": "The latest signal",
-  "overview": "Today’s index contains 238 recent records. The strongest signals span Consciousness / philosophy, Quantum physics, Neuroscience. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
+  "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Neuroscience, Quantum physics. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
     {
       "domain": "consciousness",
       "domain_label": "Consciousness / philosophy",
+      "title": "The effect of multimodal sensory therapy in consciousness improvement in patients with acquired brain injury: a systematic review and meta-analysis.",
+      "why_it_matters": "New work indexed under “The effect of multimodal sensory therapy in consciousness improvement in patients with acquired brain injury: a systematic review and meta-analysis..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "url": "https://europepmc.org/article/MED/42741930",
+      "signal_score": 65,
+      "evidence_label": "Review"
+    },
+    {
+      "domain": "neuroscience",
+      "domain_label": "Neuroscience",
       "title": "Topological integration and segregation of the conscious connectome as biomarkers for state, behavior, and prognosis",
       "why_it_matters": "Consciousness is hypothesized to emerge from a sophisticated balance between functional integration and segregation across large-scale brain networks. However, how these topological properties are disrupted in disorders of consciousness (DoC), and whether they can predict long-term recovery, remain to be established.",
       "url": "https://doi.org/10.1038/s43856-026-01870-6",
-      "signal_score": 62,
+      "signal_score": 61,
       "evidence_label": "Journal article"
     },
     {
@@ -18,16 +27,7 @@
       "title": "Review of Quantum Machine Learning Integration in Modern Computing",
       "why_it_matters": "Quantum Machine Learning (QML) is a new multidisciplinary field that exploits the computational power of quantum computing for machine learning problems. Current research provides an overview of important QML algorithms, such as Quantum Support Vector Machines (QSVM), Quantum Neural Networks (QNN), Variational Quantum Eigensolvers (VQE), Quantum Approximate Optimization Algorithm (QAOA), and hybrid quantumclassical computing techniques, which have recently become more popular owing to hardware constraints in the…",
       "url": "https://doi.org/10.36548/rrrj.2026.2.005",
-      "signal_score": 61,
-      "evidence_label": "Journal article"
-    },
-    {
-      "domain": "neuroscience",
-      "domain_label": "Neuroscience",
-      "title": "Assessing consciousness by near-nerve electrostimulation in intensive rehabilitation",
-      "why_it_matters": "OBJECTIVE: Consciousness diagnosis in prolonged disorders of consciousness (pDoC) relies on the Coma Recovery Scale-Revised (CRS-R), yet consciousness or its potential for recovery may escape behavioural detection. We tested whether Near-Nerve Stimulation (NNS) of the median nerve, compared to standard Surface Cutaneous Stimulation (SCS), could provide an EEG-based marker of consciousness and its recovery, by specifically eliciting sensory responses.",
-      "url": "https://doi.org/10.1088/1741-2552/aea645",
-      "signal_score": 57,
+      "signal_score": 60,
       "evidence_label": "Journal article"
     }
   ]
