@@ -4,7 +4,7 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Sat, 19 Sep 2026 15:49:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 15:58:33 +0000</lastBuildDate>
     <item>
       <title>Hitting and missing on consciousness</title>
       <link>https://doi.org/10.1111/pcn.70136</link>
@@ -20,13 +20,6 @@
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Topological integration and segregation of the conscious connectome as biomarkers for state, behavior, and prognosis</title>
-      <link>https://doi.org/10.1038/s43856-026-01870-6</link>
-      <guid>8f308c7cf9d544b9</guid>
-      <description>Consciousness is hypothesized to emerge from a sophisticated balance between functional integration and segregation across large-scale brain networks. However, how these topological properties are disrupted in disorders of consciousness (DoC), and whether they can predict long-term recovery, remain to be established.</description>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Review of Quantum Machine Learning Integration in Modern Computing</title>
       <link>https://doi.org/10.36548/rrrj.2026.2.005</link>
       <guid>654ef2ad35cfbe9f</guid>
@@ -34,10 +27,24 @@
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Topological integration and segregation of the conscious connectome as biomarkers for state, behavior, and prognosis</title>
+      <link>https://doi.org/10.1038/s43856-026-01870-6</link>
+      <guid>8f308c7cf9d544b9</guid>
+      <description>Consciousness is hypothesized to emerge from a sophisticated balance between functional integration and segregation across large-scale brain networks. However, how these topological properties are disrupted in disorders of consciousness (DoC), and whether they can predict long-term recovery, remain to be established.</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Comparing the preservation effects of various treatments on mangoes: systematic review and network-meta-analysis.</title>
       <link>https://europepmc.org/article/MED/42758094</link>
       <guid>ac8624192b3b73df</guid>
       <description>New work indexed under “Comparing the preservation effects of various treatments on mangoes: systematic review and network-meta-analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A boon or a bane? Demystifying employee AI awareness (AIA): A systematic review and future research agenda.</title>
+      <link>https://europepmc.org/article/MED/42759255</link>
+      <guid>b2df3f6622f7790e</guid>
+      <description>New work indexed under “A boon or a bane? Demystifying employee AI awareness (AIA): A systematic review and future research agenda..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -90,13 +97,6 @@
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>BIS Versus End-tidal Anaesthetic Gas Concentration-guided General Anaesthesia for Prevention of Intraoperative Awareness in Elective Surgery: A Randomised Controlled Trial</title>
-      <link>https://doi.org/10.1177/09727531261477576</link>
-      <guid>e328ac392f4d8946</guid>
-      <description>Background: Awareness during general anaesthesia (GA) is a rare but serious complication, affecting 0.15%-0.2% of patients, with potential psychological consequences such as post-traumatic stress disorder (PTSD). Bispectral index (BIS) monitoring, which uses electroencephalography (EEG)-derived metrics to assess anaesthesia depth, has shown promise in reducing intraoperative awareness, though its universal adoption remains limited due to mixed evidence.</description>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Quantum Machine Learning for Cybersecurity: A Taxonomy and Future Directions</title>
       <link>https://doi.org/10.1002/spe.70106</link>
       <guid>e5244a5b21cde74c</guid>
@@ -125,6 +125,13 @@
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>BIS Versus End-tidal Anaesthetic Gas Concentration-guided General Anaesthesia for Prevention of Intraoperative Awareness in Elective Surgery: A Randomised Controlled Trial</title>
+      <link>https://doi.org/10.1177/09727531261477576</link>
+      <guid>e328ac392f4d8946</guid>
+      <description>Background: Awareness during general anaesthesia (GA) is a rare but serious complication, affecting 0.15%-0.2% of patients, with potential psychological consequences such as post-traumatic stress disorder (PTSD). Bispectral index (BIS) monitoring, which uses electroencephalography (EEG)-derived metrics to assess anaesthesia depth, has shown promise in reducing intraoperative awareness, though its universal adoption remains limited due to mixed evidence.</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry</title>
       <link>https://doi.org/10.5281/zenodo.18817683</link>
       <guid>21a9fa0291fa9d51</guid>
@@ -137,13 +144,6 @@
       <guid>f72c842341a49056</guid>
       <description>Accurate assessment of consciousness in patients with disorders of consciousness (DoC) remains a longstanding challenge in neurocritical care and neurorehabilitation. Although standardized behavioral assessments continue to serve as the clinical foundation for diagnosis, their reliance on overt behavioral responses may underestimate residual consciousness in a subset of patients.</description>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>General versus neuraxial anesthesia and postoperative pneumonia after hip fracture surgery in older adults: a systematic review and meta-analysis</title>
-      <link>https://europepmc.org/article/PPR/PPR1321953</link>
-      <guid>9b5d74127154506c</guid>
-      <description>New work indexed under “General versus neuraxial anesthesia and postoperative pneumonia after hip fracture surgery in older adults: a systematic review and meta-analysis.” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
