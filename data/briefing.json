@@ -1,24 +1,24 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "title": "The latest signal",
   "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Neuroscience, Quantum physics. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
     {
       "domain": "consciousness",
       "domain_label": "Consciousness / philosophy",
-      "title": "Hitting and missing on consciousness",
-      "why_it_matters": "Disturbances of conscious experience are central features of many psychiatric and mental health disorders. Experimental studies of conscious perception are therefore increasingly cited in clinical and translational work under the assumption that they identify neural mechanisms specific to subjective experience.",
-      "url": "https://doi.org/10.1111/pcn.70136",
-      "signal_score": 58,
+      "title": "Immediate large-scale cortical network changes following acupuncture in patients with disorders of consciousness: a resting-state fNIRS study",
+      "why_it_matters": "Introduction Disorders of consciousness (DOC) involve severe disruption of large-scale brain networks. This study investigated immediate cortical network changes following acupuncture in patients with DOC using functional near-infrared spectroscopy (fNIRS).",
+      "url": "https://doi.org/10.3389/fnins.2026.1917107",
+      "signal_score": 64,
       "evidence_label": "Journal article"
     },
     {
       "domain": "neuroscience",
       "domain_label": "Neuroscience",
-      "title": "Multimodal biomarkers of response to transcutaneous auricular vagus nerve stimulation in disorders of consciousness: a study protocol",
-      "why_it_matters": "Patients with disorders of consciousness (DOC) have limited options for arousal-promoting interventions. Transcutaneous auricular vagus nerve stimulation (taVNS), a non-invasive neuromodulation technique, has shown potential to improve conscious behaviors in a subset of patients with DOC.",
-      "url": "https://doi.org/10.3389/fnhum.2026.1868162",
-      "signal_score": 57,
+      "title": "Emergent flow theory: autonomic coherence as a gain parameter for the temporal architecture of conscious integration",
+      "why_it_matters": "Contemporary neuroscientific theories of consciousness—including Global Neuronal Workspace Theory (GNW), Integrated Information Theory (IIT), and the Predictive Processing/Free Energy Principle (PP/FEP)—have not formalized autonomic and neuromodulatory state as explicit dynamic control parameters within models of conscious integration. This gap constitutes the explanatory niche addressed by the Emergent Flow Theory (EFT).",
+      "url": "https://doi.org/10.3389/fnint.2026.1841714",
+      "signal_score": 58,
       "evidence_label": "Journal article"
     },
     {
@@ -27,7 +27,7 @@
       "title": "Review of Quantum Machine Learning Integration in Modern Computing",
       "why_it_matters": "Quantum Machine Learning (QML) is a new multidisciplinary field that exploits the computational power of quantum computing for machine learning problems. Current research provides an overview of important QML algorithms, such as Quantum Support Vector Machines (QSVM), Quantum Neural Networks (QNN), Variational Quantum Eigensolvers (VQE), Quantum Approximate Optimization Algorithm (QAOA), and hybrid quantumclassical computing techniques, which have recently become more popular owing to hardware constraints in the…",
       "url": "https://doi.org/10.36548/rrrj.2026.2.005",
-      "signal_score": 56,
+      "signal_score": 55,
       "evidence_label": "Journal article"
     }
   ]
