@@ -1,24 +1,24 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "title": "The latest signal",
   "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Neuroscience, Quantum physics. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
     {
       "domain": "consciousness",
       "domain_label": "Consciousness / philosophy",
-      "title": "Immediate large-scale cortical network changes following acupuncture in patients with disorders of consciousness: a resting-state fNIRS study",
-      "why_it_matters": "Introduction Disorders of consciousness (DOC) involve severe disruption of large-scale brain networks. This study investigated immediate cortical network changes following acupuncture in patients with DOC using functional near-infrared spectroscopy (fNIRS).",
-      "url": "https://doi.org/10.3389/fnins.2026.1917107",
+      "title": "Electroencephalography as a biomarker of brain function in domestic ruminants: a systematic review and critical appraisal",
+      "why_it_matters": "BACKGROUND: Electroencephalography (EEG) has been extensively used to investigate cortical activity in ruminants under physiological, pathological, and experimental conditions. Its applications range from the assessment of consciousness and nociception to experimental models of hypoxia-ischemia, neurodevelopment, pain, anesthesia, and neurological disorders.",
+      "url": "https://doi.org/10.1016/j.rvsc.2026.106392",
       "signal_score": 63,
-      "evidence_label": "Journal article"
+      "evidence_label": "Review"
     },
     {
       "domain": "neuroscience",
       "domain_label": "Neuroscience",
-      "title": "Dexmedetomidine vs. midazolam at single low doses for opioid and muscle relaxant-free anesthesia in pediatric dentistry: a randomized control trial",
-      "why_it_matters": "New work indexed under “Dexmedetomidine vs. midazolam at single low doses for opioid and muscle relaxant-free anesthesia in pediatric dentistry: a randomized control trial.” The source did not provide an abstract; read the original before evaluating its claims.",
-      "url": "https://europepmc.org/article/PMC/PMC13590737",
-      "signal_score": 58,
+      "title": "Immediate large-scale cortical network changes following acupuncture in patients with disorders of consciousness: a resting-state fNIRS study",
+      "why_it_matters": "Introduction Disorders of consciousness (DOC) involve severe disruption of large-scale brain networks. This study investigated immediate cortical network changes following acupuncture in patients with DOC using functional near-infrared spectroscopy (fNIRS).",
+      "url": "https://doi.org/10.3389/fnins.2026.1917107",
+      "signal_score": 62,
       "evidence_label": "Journal article"
     },
     {
@@ -27,7 +27,7 @@
       "title": "Review of Quantum Machine Learning Integration in Modern Computing",
       "why_it_matters": "Quantum Machine Learning (QML) is a new multidisciplinary field that exploits the computational power of quantum computing for machine learning problems. Current research provides an overview of important QML algorithms, such as Quantum Support Vector Machines (QSVM), Quantum Neural Networks (QNN), Variational Quantum Eigensolvers (VQE), Quantum Approximate Optimization Algorithm (QAOA), and hybrid quantumclassical computing techniques, which have recently become more popular owing to hardware constraints in the…",
       "url": "https://doi.org/10.36548/rrrj.2026.2.005",
-      "signal_score": 54,
+      "signal_score": 52,
       "evidence_label": "Journal article"
     }
   ]
