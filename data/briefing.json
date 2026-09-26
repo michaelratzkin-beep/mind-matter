@@ -1,15 +1,24 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "title": "The latest signal",
-  "overview": "Today’s index contains 239 recent records. The strongest signals span Consciousness / philosophy, Neuroscience, Quantum physics. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
+  "overview": "Today’s index contains 238 recent records. The strongest signals span Quantum physics, Consciousness / philosophy, Neuroscience. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
+    {
+      "domain": "quantum",
+      "domain_label": "Quantum physics",
+      "title": "Quantum neuromorphic computing: harnessing noise and adaptation for scalable quantum processors",
+      "why_it_matters": "The von Neumann bottleneck and qubit fragility limit scalable computation. This review article synthesizes recent progress in a bio-inspired quantum approach that treats noise, dissipation, and dynamics as resources, drawing from neuroscience, neuromorphic design, and quantum biology.",
+      "url": "https://doi.org/10.1007/s10791-026-10415-3",
+      "signal_score": 62,
+      "evidence_label": "Journal article"
+    },
     {
       "domain": "consciousness",
       "domain_label": "Consciousness / philosophy",
       "title": "Immediate large-scale cortical network changes following acupuncture in patients with disorders of consciousness: a resting-state fNIRS study",
       "why_it_matters": "Introduction Disorders of consciousness (DOC) involve severe disruption of large-scale brain networks. This study investigated immediate cortical network changes following acupuncture in patients with DOC using functional near-infrared spectroscopy (fNIRS).",
       "url": "https://doi.org/10.3389/fnins.2026.1917107",
-      "signal_score": 60,
+      "signal_score": 59,
       "evidence_label": "Journal article"
     },
     {
@@ -18,17 +27,8 @@
       "title": "Electroencephalography as a biomarker of brain function in domestic ruminants: a systematic review and critical appraisal",
       "why_it_matters": "BACKGROUND: Electroencephalography (EEG) has been extensively used to investigate cortical activity in ruminants under physiological, pathological, and experimental conditions. Its applications range from the assessment of consciousness and nociception to experimental models of hypoxia-ischemia, neurodevelopment, pain, anesthesia, and neurological disorders.",
       "url": "https://doi.org/10.1016/j.rvsc.2026.106392",
-      "signal_score": 60,
+      "signal_score": 59,
       "evidence_label": "Review"
-    },
-    {
-      "domain": "quantum",
-      "domain_label": "Quantum physics",
-      "title": "The Thermodynamic and Recursive Architecture of Universal Modular Dynamics: From Meta-Law Fixed Points to Emergent Spacetime, Particle Hierarchies, and Non-Geometric Phase Transitions",
-      "why_it_matters": "We develop a comprehensive, mathematically closed, and self-consistent formal framework for Universal Modular Dynamics (UMD), establishing a paradigm shift wherein physical reality emerges as a stable, recursive fixed-point projection (Ω⋆ = H(Ω⋆)) of higher-order meta-law dynamics driven by a meta-time parameter (T) operating on a pre-physical possibility space. Rather than treating spacetime, quantum fields, or cosmological constants as fundamental primitives, we derive the continuous Riemannian spacetime metric…",
-      "url": "https://doi.org/10.24108/preprints-3116458",
-      "signal_score": 53,
-      "evidence_label": "Preprint"
     }
   ]
 }
