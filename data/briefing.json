@@ -1,15 +1,24 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "title": "The latest signal",
-  "overview": "Today’s index contains 238 recent records. The strongest signals span Quantum physics, Consciousness / philosophy, Neuroscience. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
+  "overview": "Today’s index contains 240 recent records. The strongest signals span Neuroscience, Quantum physics, Consciousness / philosophy. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
+    {
+      "domain": "neuroscience",
+      "domain_label": "Neuroscience",
+      "title": "Virtual Reality Hypnosis: The Effectiveness of Virtual Reality Combined with Hypnotic Suggestions, a Systematic Review and Meta-Analysis",
+      "why_it_matters": "Virtual reality (VR) is increasingly used to support physical and mental health interventions. Recently, VR combined with hypnotic suggestions, termed virtual reality hypnosis (VRH), has emerged as a promising approach across clinical and non-clinical settings.",
+      "url": "https://doi.org/10.1080/10447318.2026.2728932",
+      "signal_score": 61,
+      "evidence_label": "Review"
+    },
     {
       "domain": "quantum",
       "domain_label": "Quantum physics",
       "title": "Quantum neuromorphic computing: harnessing noise and adaptation for scalable quantum processors",
       "why_it_matters": "The von Neumann bottleneck and qubit fragility limit scalable computation. This review article synthesizes recent progress in a bio-inspired quantum approach that treats noise, dissipation, and dynamics as resources, drawing from neuroscience, neuromorphic design, and quantum biology.",
       "url": "https://doi.org/10.1007/s10791-026-10415-3",
-      "signal_score": 62,
+      "signal_score": 61,
       "evidence_label": "Journal article"
     },
     {
@@ -18,17 +27,8 @@
       "title": "Immediate large-scale cortical network changes following acupuncture in patients with disorders of consciousness: a resting-state fNIRS study",
       "why_it_matters": "Introduction Disorders of consciousness (DOC) involve severe disruption of large-scale brain networks. This study investigated immediate cortical network changes following acupuncture in patients with DOC using functional near-infrared spectroscopy (fNIRS).",
       "url": "https://doi.org/10.3389/fnins.2026.1917107",
-      "signal_score": 59,
+      "signal_score": 58,
       "evidence_label": "Journal article"
-    },
-    {
-      "domain": "neuroscience",
-      "domain_label": "Neuroscience",
-      "title": "Electroencephalography as a biomarker of brain function in domestic ruminants: a systematic review and critical appraisal",
-      "why_it_matters": "BACKGROUND: Electroencephalography (EEG) has been extensively used to investigate cortical activity in ruminants under physiological, pathological, and experimental conditions. Its applications range from the assessment of consciousness and nociception to experimental models of hypoxia-ischemia, neurodevelopment, pain, anesthesia, and neurological disorders.",
-      "url": "https://doi.org/10.1016/j.rvsc.2026.106392",
-      "signal_score": 59,
-      "evidence_label": "Review"
     }
   ]
 }
