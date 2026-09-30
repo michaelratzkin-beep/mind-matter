@@ -4,7 +4,7 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Tue, 29 Sep 2026 18:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 17:59:02 +0000</lastBuildDate>
     <item>
       <title>Virtual Reality Hypnosis: The Effectiveness of Virtual Reality Combined with Hypnotic Suggestions, a Systematic Review and Meta-Analysis</title>
       <link>https://doi.org/10.1080/10447318.2026.2728932</link>
@@ -20,25 +20,11 @@
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>AwarenessBench: Assessing Cognitive Capabilities of Language Models</title>
-      <link>http://arxiv.org/abs/2609.35409v1</link>
-      <guid>68eb182747adc8e0</guid>
-      <description>As language models (LMs) exhibit increasingly consciousness-like behaviors, evaluating their cognitive abilities becomes essential. We introduce AwarenessBench, the first comprehensive benchmark for assessing the cognitive abilities of LMs in four dimensions: metacognition, self-awareness, social awareness, and situational awareness, covering 15 cognitive functions and 14,381 samples.</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Security policies in quantum computing: a systematic review of literature</title>
       <link>https://doi.org/10.1007/s10791-026-10596-x</link>
       <guid>56964ef9097b6a46</guid>
       <description>Abstract The rapid evolution of quantum computing introduces significant challenges for information security, particularly in governance, risk management, and the resilience of existing cryptographic mechanisms. This research reports the results of a systematic literature review (SLR) conducted following PRISMA guidelines, based on 56 peer-reviewed journal articles published between 2015 and 2025.</description>
       <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deep Learning Methods in Neuroscience: From Modeling Molecular Mechanisms to Classifying States of Consciousness</title>
-      <link>http://arxiv.org/abs/2609.35372v1</link>
-      <guid>739be293a975b4ad</guid>
-      <description>A critical analysis of contemporary approaches to the study of conscious states. The review focuses on methods of classification, clustering, modeling of brain states under anesthesia and identification of measurable neurobiological characteristics of brain function.</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Analysis of Antibiotic Resistance Patterns and Distribution of &lt;i&gt;Staphylococcus aureus&lt;/i&gt; in the Middle East: A Systematic Review and Meta-Analysis.</title>
@@ -55,13 +41,6 @@
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>A Spiking Neural Network Model of Elementary Self-Consciousness via Endogenous Default Mode Network Dynamics</title>
-      <link>http://arxiv.org/abs/2609.29984v1</link>
-      <guid>a02c4debd700318c</guid>
-      <description>Understanding the neurobiological mechanisms underlying self-referential cognition and baseline self-consciousness remains a fundamental challenge in computational neuroscience. In this work, we propose a large-scale computational model incorporating a 10,000-neuron spiking neural network (SNN) based on Izhikevich dynamics.</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Electroencephalography as a biomarker of brain function in domestic ruminants: a systematic review and critical appraisal</title>
       <link>https://doi.org/10.1016/j.rvsc.2026.106392</link>
       <guid>073c4bd696c5af78</guid>
@@ -74,41 +53,6 @@
       <guid>fa11b8f8399b1fef</guid>
       <description>Introduction Disorders of consciousness (DOC) involve severe disruption of large-scale brain networks. This study investigated immediate cortical network changes following acupuncture in patients with DOC using functional near-infrared spectroscopy (fNIRS).</description>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fourier-Geometric Circuit Design for Gate and Entanglement Placement in Quantum Neural Networks</title>
-      <link>http://arxiv.org/abs/2609.35489v1</link>
-      <guid>9a3ce9fe18e3934f</guid>
-      <description>The output of a parameterized quantum circuit (PQC) can be expressed as a finite Fourier series whose accessible frequencies are fixed by the data-encoding gates. While the encoder determines which frequencies can appear, the corresponding Fourier coefficients depend on how the trainable and entangling gates are arranged.</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Classical Bound on the Fisher Information Rate of a Dephasing-Enhanced Quantum Neuron</title>
-      <link>http://arxiv.org/abs/2609.35076v1</link>
-      <guid>fb2f3729cbacdccc</guid>
-      <description>Dephasing can sharpen the activation of a dissipative quantum neuron, but a stationary response does not determine how much input information its output delivers per unit time. For a single qubit with partial-reset updates at rate $ν$, we derive the threshold response bandwidth and the exact local Fisher information rate of the complete record from repeated projective readouts, including their backaction.</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Simulation-Based Quantum System Inference with Neural Posterior Estimation</title>
-      <link>http://arxiv.org/abs/2609.34995v1</link>
-      <guid>08780890e47c1429</guid>
-      <description>Models of quantum systems faithfully map system parameters to observations, but the inverse problem of parameter inference from measurement data presents a fundamental challenge: computationally intractable likelihoods due to an exponentially large Hilbert space. Here, we introduce simulation-based quantum system inference, a unified, likelihood-free framework that learns parameter posteriors directly from classical simulation data.</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>From cacophony to hierarchy: a principled framework for assessing AI consciousness</title>
-      <link>http://arxiv.org/abs/2609.35618v1</link>
-      <guid>e2c46351607c76aa</guid>
-      <description>The question of AI consciousness is one of the most urgent pre-emptive problems in philosophy and computer science, yet progress is hampered by a cacophony of competing theories that often talk past each other. Separating the hard problem from the mapping problem allows the deepest metaphysical disagreements to be set aside: granting that experience supervenes on a system's organisation, the tractable question becomes at which grain of description that supervenience base sits.</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Towards a full-stack functionalist theory of consciousness: Identifying its functional profile</title>
-      <link>http://arxiv.org/abs/2609.33366v1</link>
-      <guid>a33a578e94d149ca</guid>
-      <description>If consciousness is functional, a basic question is what awareness of a content actually changes in how a system operates on it. We ask, for a particular content X and mental or bodily process Y, whether awareness of X changes whether, or how well, X can be used in process Y.</description>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Emergency Department Procedural Sedation Versus Operating-Theater General Anesthesia for Closed Reduction of Pediatric Forearm Fractures: A Systematic Review</title>
@@ -144,6 +88,62 @@
       <guid>e4c64c5fe2d3f157</guid>
       <description>New work indexed under “Assessment and Treatment of Acute Low Back Pain (ALBP): A Systematic Review..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Re-evaluating impaired consciousness in temporal lobe epilepsy: The role of language dominance and network reorganization.</title>
+      <link>https://europepmc.org/article/MED/42799557</link>
+      <guid>f21bf86e92b8ba67</guid>
+      <description>New work indexed under “Re-evaluating impaired consciousness in temporal lobe epilepsy: The role of language dominance and network reorganization..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Effectiveness and safety of ultrasound-guided quadratus lumborum block combined with low-dose spinal anesthesia &lt;i&gt;versus&lt;/i&gt; general anesthesia in percutaneous nephrolithotomy: a randomized controlled trial.</title>
+      <link>https://europepmc.org/article/MED/42803673</link>
+      <guid>14afa1c3ebbc706e</guid>
+      <description>New work indexed under “Effectiveness and safety of ultrasound-guided quadratus lumborum block combined with low-dose spinal anesthesia &lt;i&gt;versus&lt;/i&gt; general anesthesia in percutaneous nephrolithotomy: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Prospective Randomized Study Comparing Intubating Conditions With and Without Priming With Rocuronium.</title>
+      <link>https://europepmc.org/article/MED/42798218</link>
+      <guid>cdc06350caec45d1</guid>
+      <description>New work indexed under “A Prospective Randomized Study Comparing Intubating Conditions With and Without Priming With Rocuronium..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Communication-efficient distributed inverse Quantum Fourier Transform</title>
+      <link>https://doi.org/10.1016/j.future.2026.108815</link>
+      <guid>5f2bb3bf2f3f9527</guid>
+      <description>The scalability of quantum computing is currently limited by physical, technological, and architectural constraints that hinder the integration of a large number of qubits within a single quantum processor. Distributed quantum computing (DQC) has therefore emerged as a viable alternative, aiming to interconnect multiple smaller quantum processing units (QPUs) to jointly operate on a global quantum state.</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A hybrid quantum–classical learning architecture for noise-aware inference in distributed systems</title>
+      <link>https://doi.org/10.1080/21642583.2026.2738372</link>
+      <guid>24245e00436be994</guid>
+      <description>This paper presents Q-INTEL, a hybrid quantum–classical architecture for noise-aware inference in distributed cyber-physical systems. It integrates classical feature processing, variational quantum circuits (VQCs), classical optimisation, and edge–cloud orchestration within a five-layer pipeline.</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nasir684/QCID-II: Paper-8 FINAL: QCID-VIII From Nothing to Everything — A Constraint-Based Foundation of Physics v1.4 — QCID = Quantum Constraint Induced Decoherence — OCTOLOGY COMPLETE</title>
+      <link>https://doi.org/10.5281/zenodo.22948160</link>
+      <guid>0b4d7e8e9f88ff17</guid>
+      <description>QCID-VIII: From Nothing to Everything — A Constraint-Based Foundation of Physics Version 1.4 | September 2026 Author: Nasir Khan, Independent Researcher, Wana, South Waziristan, Pakistan | nasirk684@gmail.com | ORCID: 0009-0002-6006-0796 Files Included: QCID-VIII_final.pdf | FINAL v1.4 | Sep 2026 QCID_VII_The_Observer_and_the_Arrow_of_Time_Memory_as_the_mechanism_of_Irreversibility.pdf | v1.0 Sep 8 2026 All Papers 1-6 previous Concept DOI: 10.5281/zenodo.22896411 | Dataset DOI: 10.5281/zenodo.22581218 | License:…</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nasir684/QCID-II: Paper-8 FINAL: QCID-VIII From Nothing to Everything — A Constraint-Based Foundation of Physics v1.4 — QCID = Quantum Constraint Induced Decoherence — OCTOLOGY COMPLETE</title>
+      <link>https://doi.org/10.5281/zenodo.22935946</link>
+      <guid>7514d1c6a3101822</guid>
+      <description>QCID-VIII: From Nothing to Everything — A Constraint-Based Foundation of Physics Version 1.4 | September 2026 Author: Nasir Khan, Independent Researcher, Wana, South Waziristan, Pakistan | nasirk684@gmail.com | ORCID: 0009-0002-6006-0796 Files Included: QCID-VIII_final.pdf | FINAL v1.4 | Sep 2026 QCID_VII_The_Observer_and_the_Arrow_of_Time_Memory_as_the_mechanism_of_Irreversibility.pdf | v1.0 Sep 8 2026 All Papers 1-6 previous Concept DOI: 10.5281/zenodo.22896411 | Dataset DOI: 10.5281/zenodo.22581218 | License:…</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A longitudinal analysis of the clinical practice of ketamine assisted psychotherapy with adolescents and young adults</title>
+      <link>https://doi.org/10.3389/fpsyt.2026.1886833</link>
+      <guid>204dde3618140818</guid>
+      <description>Introduction Ketamine Assisted Psychotherapy (KAP) is a developing modality with broad impact on humans suffering with a variety of emotional and relationship difficulties that encompass many diagnostic entities. Our application of KAP has extended to and included the treatment of adolescents and young adults in a family therapy format.</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

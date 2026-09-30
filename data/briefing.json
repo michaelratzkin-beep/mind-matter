@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "title": "The latest signal",
   "overview": "Today’s index contains 240 recent records. The strongest signals span Neuroscience, Quantum physics, Consciousness / philosophy. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
@@ -9,7 +9,7 @@
       "title": "Virtual Reality Hypnosis: The Effectiveness of Virtual Reality Combined with Hypnotic Suggestions, a Systematic Review and Meta-Analysis",
       "why_it_matters": "Virtual reality (VR) is increasingly used to support physical and mental health interventions. Recently, VR combined with hypnotic suggestions, termed virtual reality hypnosis (VRH), has emerged as a promising approach across clinical and non-clinical settings.",
       "url": "https://doi.org/10.1080/10447318.2026.2728932",
-      "signal_score": 59,
+      "signal_score": 58,
       "evidence_label": "Review"
     },
     {
@@ -18,17 +18,17 @@
       "title": "Quantum neuromorphic computing: harnessing noise and adaptation for scalable quantum processors",
       "why_it_matters": "The von Neumann bottleneck and qubit fragility limit scalable computation. This review article synthesizes recent progress in a bio-inspired quantum approach that treats noise, dissipation, and dynamics as resources, drawing from neuroscience, neuromorphic design, and quantum biology.",
       "url": "https://doi.org/10.1007/s10791-026-10415-3",
-      "signal_score": 59,
+      "signal_score": 58,
       "evidence_label": "Journal article"
     },
     {
       "domain": "consciousness",
       "domain_label": "Consciousness / philosophy",
-      "title": "AwarenessBench: Assessing Cognitive Capabilities of Language Models",
-      "why_it_matters": "As language models (LMs) exhibit increasingly consciousness-like behaviors, evaluating their cognitive abilities becomes essential. We introduce AwarenessBench, the first comprehensive benchmark for assessing the cognitive abilities of LMs in four dimensions: metacognition, self-awareness, social awareness, and situational awareness, covering 15 cognitive functions and 14,381 samples.",
-      "url": "http://arxiv.org/abs/2609.35409v1",
-      "signal_score": 58,
-      "evidence_label": "Preprint"
+      "title": "The Ātma-Wave Life Cycle Framework: Bridging Vedāntic Metaphysics, Modern Physics, and State Transitions of Consciousness",
+      "why_it_matters": "Purpose: To develop a conceptual framework that integrates classical Indian metaphysics (Vedanta) with modern physics (Wave-Particle Duality) and digital/post-biological existence, utilizing high-level cognitive research skills: Analysis, Comparison, Evaluation, Interpretation, and Synthesis. This ground breaking research provides a Conceptual Framework Integrating Indian Philosophy (Dvaita & Advaita), Consciousness Studies, Physics, and Digital Reality.",
+      "url": "https://doi.org/10.64818/pijpl.3107.4634.0058",
+      "signal_score": 55,
+      "evidence_label": "Journal article"
     }
   ]
 }
