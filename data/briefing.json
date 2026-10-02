@@ -1,15 +1,15 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "title": "The latest signal",
   "overview": "Today’s index contains 240 recent records. The strongest signals span Neuroscience, Consciousness / philosophy, Quantum physics. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
     {
       "domain": "neuroscience",
       "domain_label": "Neuroscience",
-      "title": "Early Analgesia for the Management of Acute Pancreatitis: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
-      "why_it_matters": "New work indexed under “Early Analgesia for the Management of Acute Pancreatitis: A Systematic Review and Meta-Analysis of Randomized Controlled Trials..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "url": "https://europepmc.org/article/MED/42153651",
-      "signal_score": 59,
+      "title": "Reducing Peripheral Intravenous Catheter Use in Adult Acute Care: A Systematic Review.",
+      "why_it_matters": "New work indexed under “Reducing Peripheral Intravenous Catheter Use in Adult Acute Care: A Systematic Review..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "url": "https://europepmc.org/article/MED/42806455",
+      "signal_score": 56,
       "evidence_label": "Review"
     },
     {
@@ -18,7 +18,7 @@
       "title": "Impact of a Specialized Care Pathway for ICU Patients With Disorders of Consciousness: Observational Insights From an Expert Center.",
       "why_it_matters": "New work indexed under “Impact of a Specialized Care Pathway for ICU Patients With Disorders of Consciousness: Observational Insights From an Expert Center..” The source did not provide an abstract; read the original before evaluating its claims.",
       "url": "https://europepmc.org/article/MED/42799324",
-      "signal_score": 57,
+      "signal_score": 56,
       "evidence_label": "Journal article"
     },
     {
@@ -27,7 +27,7 @@
       "title": "Quantum neuromorphic computing: harnessing noise and adaptation for scalable quantum processors",
       "why_it_matters": "The von Neumann bottleneck and qubit fragility limit scalable computation. This review article synthesizes recent progress in a bio-inspired quantum approach that treats noise, dissipation, and dynamics as resources, drawing from neuroscience, neuromorphic design, and quantum biology.",
       "url": "https://doi.org/10.1007/s10791-026-10415-3",
-      "signal_score": 57,
+      "signal_score": 56,
       "evidence_label": "Journal article"
     }
   ]

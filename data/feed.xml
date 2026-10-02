@@ -4,14 +4,7 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Thu, 01 Oct 2026 18:23:12 +0000</lastBuildDate>
-    <item>
-      <title>Early Analgesia for the Management of Acute Pancreatitis: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.</title>
-      <link>https://europepmc.org/article/MED/42153651</link>
-      <guid>26d8c2a668bd30d2</guid>
-      <description>New work indexed under “Early Analgesia for the Management of Acute Pancreatitis: A Systematic Review and Meta-Analysis of Randomized Controlled Trials..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 Oct 2026 17:49:23 +0000</lastBuildDate>
     <item>
       <title>Reducing Peripheral Intravenous Catheter Use in Adult Acute Care: A Systematic Review.</title>
       <link>https://europepmc.org/article/MED/42806455</link>
@@ -41,10 +34,24 @@
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Correction: EEG-guided sevoflurane anesthesia vs. standard care in pediatric emergence delirium: a grade-assessed systematic review and meta-analysis with trial sequential analysis.</title>
-      <link>https://europepmc.org/article/MED/42709076</link>
-      <guid>e9781046331fa70a</guid>
-      <description>New work indexed under “Correction: EEG-guided sevoflurane anesthesia vs. standard care in pediatric emergence delirium: a grade-assessed systematic review and meta-analysis with trial sequential analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <title>A computational phase diagram for the transverse field Ising model</title>
+      <link>http://arxiv.org/abs/2610.02079v1</link>
+      <guid>3e802c88e47c65c7</guid>
+      <description>We study the transverse field Ising model, defined by the Hamiltonian $H =\frac{1}{2}\sum_{i, j\in [n]} J_{ij} Z_i Z_j +\sum_{i=1}^n h_i^z Z_i + η\sum_{i} X_i$ where $J $ is the symmetric interaction matrix, and $η$ is the transverse field strength. Let $Δ(J)=λ_{\max}(J)-λ_{\min}(J)$ be the spectral width of $J.$ When the inverse temperature $β\geq0$ satisfies $Δ(J)\cdot\frac{\tanh(βη)}η\leq1$, we give a randomized classical algorithm that approximates the partition function $Z(β)=\operatorname{Tr}(e^{-βH})$ to a…</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trapdoored Clifford Operators and Applications</title>
+      <link>http://arxiv.org/abs/2610.01848v1</link>
+      <guid>64bbe70ebe2671ca</guid>
+      <description>Random Clifford operators have numerous applications in quantum computing, including randomized benchmarking, classical shadows, and quantum authentication. However, sampling and implementing uniformly random $n$-qubit Clifford incur near-quadratic complexity due to the size of Clifford group.</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ultrasound-Guided Dorsal Penile Nerve Block Reduces Perioperative Opioid Requirements in Pediatric Circumcision: A Systematic Review and Meta-Analysis.</title>
+      <link>https://europepmc.org/article/MED/42820467</link>
+      <guid>9f9054f1ac861fff</guid>
+      <description>New work indexed under “Ultrasound-Guided Dorsal Penile Nerve Block Reduces Perioperative Opioid Requirements in Pediatric Circumcision: A Systematic Review and Meta-Analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -62,25 +69,46 @@
       <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Efficacy of Erector Spinae Plane Block Versus Subcostal Transversus Abdominis Plane Block in Laparoscopic Nephrectomy: A Randomized Clinical Trial.</title>
-      <link>https://europepmc.org/article/MED/42145106</link>
-      <guid>f6ed5a1091b00fd2</guid>
-      <description>New work indexed under “The Efficacy of Erector Spinae Plane Block Versus Subcostal Transversus Abdominis Plane Block in Laparoscopic Nephrectomy: A Randomized Clinical Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <title>Spiking neural networks for streaming qubit readout</title>
+      <link>http://arxiv.org/abs/2610.02129v1</link>
+      <guid>095196ec02baca22</guid>
+      <description>Fast and accurate qubit-state assignment is essential for feedback, calibration, and error correction in quantum processors. In superconducting platforms, frequency-multiplexed readout makes this task intrinsically multivariate as measured traces can encode crosstalk, qubit-state relaxation events, and other transient nonidealities that are not fully captured by conventional matched filtering.</description>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Improved quantum volume estimation with transducers and amortized quantum walks</title>
-      <link>http://arxiv.org/abs/2609.40217v1</link>
-      <guid>137f32f2386541b0</guid>
-      <description>The volume estimation problem is a classic task in computational geometry. The development of randomized algorithms for this problem spurred the development of many influential algorithmic techniques related to Markov Chain Monte Carlo and simulated annealing, and the problem connects to several important geometrical results, like the recently-resolved KLS conjecture.</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Superintegrability of a resonant ghostly tri-Hamiltonian model: polynomial first integrals and transcendental completion</title>
+      <link>http://arxiv.org/abs/2610.01901v1</link>
+      <guid>3bf81200c226b77b</guid>
+      <description>We study classical and quantum superintegrability of a resonant three-dimensional Hamiltonian with indefinite kinetic energy and three Poisson descriptions of the same flow. Besides three commuting quadratic Hamiltonians, the polynomial first-integral ring contains two primitive degree-four generators, $I_4^{\rm o}$ and $I_4^{\rm e}$, of odd and even momentum parity.</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Quantum Advantage of Permutation-Invariant Functions in Communication Complexity</title>
-      <link>http://arxiv.org/abs/2609.40116v1</link>
-      <guid>4625924f6eae045d</guid>
-      <description>We study how symmetry constrains quantum advantage in two-party communication complexity. For partial functions over any fixed alphabet of size $q$ that are invariant under simultaneous coordinate permutations, we prove that public-coin randomized and entanglement-assisted quantum communication complexities satisfy $R^{\mathrm{pub}}(f)=O_q(Q^{\ast}(f)^2\log n)$, where $n$ is the input length.</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Fourier Symmetrization for Geometric Quantum Machine Learning</title>
+      <link>http://arxiv.org/abs/2610.01874v1</link>
+      <guid>fc05fc44b4cb3937</guid>
+      <description>Geometric quantum machine learning incorporates symmetry into quantum models, but how symmetry shapes their expressivity and guides effective model design remains insufficiently understood. We address this question through the Fourier representation of quantum Fourier models (QFMs).</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Code-Agnostic Graph Neural Network Decoder from the Detection Error Model</title>
+      <link>http://arxiv.org/abs/2610.01683v1</link>
+      <guid>2eec88e0a2cb3376</guid>
+      <description>We present POLYMECHANON, a graph neural network (GNN) decoder for quantum error correction whose only input is the detection error model (DEM) of a quantum code under a given noise model. We represent the DEM as a tripartite graph of detectors, error mechanisms and logical observables, where every input feature is computed by using the quantum code as data rather than design choice.</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Can Analogy Tell Us About Artificial Consciousness?</title>
+      <link>http://arxiv.org/abs/2610.01002v1</link>
+      <guid>9e85732a157b6bfa</guid>
+      <description>Who or what is conscious? Because subjective experience is directly accessible only in the first person, judgments about consciousness in other entities depend partly on analogy.</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Impact of tranexamic acid on visualization in full endoscopic spine surgery: a randomized controlled trial.</title>
+      <link>https://europepmc.org/article/MED/42822046</link>
+      <guid>8451432d79641d80</guid>
+      <description>New work indexed under “Impact of tranexamic acid on visualization in full endoscopic spine surgery: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Deep Learning Methods in Neuroscience: From Modeling Molecular Mechanisms to Classifying States of Consciousness</title>
@@ -90,18 +118,11 @@
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>What Is Consciousness, Really?: Maybe our understanding of the concept itself is fundamentally wrong.</title>
-      <link>https://europepmc.org/article/MED/42742437</link>
-      <guid>31eba5bf15d895b3</guid>
-      <description>New work indexed under “What Is Consciousness, Really?: Maybe our understanding of the concept itself is fundamentally wrong..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <title>Impact of Regional Anesthesia on the Incidence and Detection of Acute Compartment Syndrome: A Systematic Review.</title>
+      <link>https://europepmc.org/article/MED/42821790</link>
+      <guid>701dc03932c76e09</guid>
+      <description>New work indexed under “Impact of Regional Anesthesia on the Incidence and Detection of Acute Compartment Syndrome: A Systematic Review..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Structure of Higher-Order Quantum Resources with an Application to Coherence</title>
-      <link>http://arxiv.org/abs/2609.40186v1</link>
-      <guid>a8c3acd7af001e97</guid>
-      <description>We develop a general framework for higher-order quantum resources that treats the resourcefulness of quantum states, channels, and supermaps (also called processes) in a unified manner. By generalizing well-established concepts from resource theories of states and channels, we introduce and study supermap resource monotones and supermap distillation and dilution.</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Present After Presence: Subtraction, Givenness, and the Structure of Being-There</title>
@@ -123,27 +144,6 @@
       <guid>3b5bd5eef8af3fbc</guid>
       <description>Understanding the neurobiological mechanisms underlying self-referential cognition and baseline self-consciousness remains a fundamental challenge in computational neuroscience. In this work, we propose a large-scale computational model incorporating a 10,000-neuron spiking neural network (SNN) based on Izhikevich dynamics.</description>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Electroencephalography as a biomarker of brain function in domestic ruminants: a systematic review and critical appraisal</title>
-      <link>https://doi.org/10.1016/j.rvsc.2026.106392</link>
-      <guid>073c4bd696c5af78</guid>
-      <description>BACKGROUND: Electroencephalography (EEG) has been extensively used to investigate cortical activity in ruminants under physiological, pathological, and experimental conditions. Its applications range from the assessment of consciousness and nociception to experimental models of hypoxia-ischemia, neurodevelopment, pain, anesthesia, and neurological disorders.</description>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Does Global Neuronal Workspace Theory Explain Phenomenal Consciousness? The Motivated Emotional Mind Challenge</title>
-      <link>http://arxiv.org/abs/2609.38495v1</link>
-      <guid>4650a2a22868c74d</guid>
-      <description>Global Neuronal Workspace Theory (GNWT) is one of the most extensively developed empirical research programmes on access consciousness. By contrast, the Motivated Emotional Mind (MEM) model proposes an embodied, semi-hierarchical associative memory in which representational selection, action, recurrent reconstruction of modality-specific fields, interoception, and valence form a single functional cycle.</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Immediate large-scale cortical network changes following acupuncture in patients with disorders of consciousness: a resting-state fNIRS study</title>
-      <link>https://doi.org/10.3389/fnins.2026.1917107</link>
-      <guid>fa11b8f8399b1fef</guid>
-      <description>Introduction Disorders of consciousness (DOC) involve severe disruption of large-scale brain networks. This study investigated immediate cortical network changes following acupuncture in patients with DOC using functional near-infrared spectroscopy (fNIRS).</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
