@@ -1,24 +1,24 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "title": "The latest signal",
   "overview": "Today’s index contains 240 recent records. The strongest signals span Neuroscience, Consciousness / philosophy, Quantum physics. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
     {
       "domain": "neuroscience",
       "domain_label": "Neuroscience",
-      "title": "Reducing Peripheral Intravenous Catheter Use in Adult Acute Care: A Systematic Review.",
-      "why_it_matters": "New work indexed under “Reducing Peripheral Intravenous Catheter Use in Adult Acute Care: A Systematic Review..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "url": "https://europepmc.org/article/MED/42806455",
-      "signal_score": 56,
+      "title": "Recovery Kinetics and Postoperative Outcomes of Propofol-Based Total Intravenous Anesthesia Versus Sevoflurane in Ambulatory Surgery: A Systematic Review and Meta-Analysis of Randomized Studies.",
+      "why_it_matters": "New work indexed under “Recovery Kinetics and Postoperative Outcomes of Propofol-Based Total Intravenous Anesthesia Versus Sevoflurane in Ambulatory Surgery: A Systematic Review and Meta-Analysis of Randomized Studies..” The source did not provide an abstract; read the original before evaluating its claims.",
+      "url": "https://europepmc.org/article/MED/42824539",
+      "signal_score": 57,
       "evidence_label": "Review"
     },
     {
       "domain": "consciousness",
       "domain_label": "Consciousness / philosophy",
-      "title": "Impact of a Specialized Care Pathway for ICU Patients With Disorders of Consciousness: Observational Insights From an Expert Center.",
-      "why_it_matters": "New work indexed under “Impact of a Specialized Care Pathway for ICU Patients With Disorders of Consciousness: Observational Insights From an Expert Center..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "url": "https://europepmc.org/article/MED/42799324",
-      "signal_score": 56,
+      "title": "Anomalous Luminous Phenomena, Plasma Consciousness, and The Quantum Vacuum: Towards a Unified Framework for Interactive Plasma Phenomena, Non-Local Information Transfer, and the Physics of Consciousness",
+      "why_it_matters": "Anomalous luminous phenomena (ALP) — long-duration plasma spheroids documented most systematically at Hessdalen, Norway — exhibit physical properties that conventional plasma physics cannot adequately explain such as sustained self-confinement for tens of minutes, periodic pulsation, multi-chromatic emission, and a documented responsiveness to laser stimulation bearing the hallmarks of an intelligent reaction rather than a passive optical interaction. This paper proposes a unified conceptual and partially…",
+      "url": "https://doi.org/10.31275/20264037",
+      "signal_score": 57,
       "evidence_label": "Journal article"
     },
     {
@@ -27,7 +27,7 @@
       "title": "Quantum neuromorphic computing: harnessing noise and adaptation for scalable quantum processors",
       "why_it_matters": "The von Neumann bottleneck and qubit fragility limit scalable computation. This review article synthesizes recent progress in a bio-inspired quantum approach that treats noise, dissipation, and dynamics as resources, drawing from neuroscience, neuromorphic design, and quantum biology.",
       "url": "https://doi.org/10.1007/s10791-026-10415-3",
-      "signal_score": 56,
+      "signal_score": 55,
       "evidence_label": "Journal article"
     }
   ]
