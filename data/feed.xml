@@ -4,7 +4,28 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Sat, 03 Oct 2026 16:10:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 16:49:26 +0000</lastBuildDate>
+    <item>
+      <title>HD-tACS at 40 Hz Improves Consciousness and Brain Connectivity in Prolonged Disorders of Consciousness: A Randomized Sham-Controlled Clinical Trial.</title>
+      <link>https://europepmc.org/article/MED/42829016</link>
+      <guid>261cb8acc47f16dd</guid>
+      <description>New work indexed under “HD-tACS at 40 Hz Improves Consciousness and Brain Connectivity in Prolonged Disorders of Consciousness: A Randomized Sham-Controlled Clinical Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can artificial systems become conscious?—Recursive embodied closure as an integrative framework</title>
+      <link>https://doi.org/10.3389/fpsyg.2026.1950309</link>
+      <guid>e802221fdb43df84</guid>
+      <description>Recent advances in artificial intelligence, connectomics, and computational neuroscience increasingly raise the question of whether artificial systems—or even pure computer simulations—could become conscious. Contemporary theories emphasize embodiment, predictive processing, homeostatic regulation, and continuous interaction between cognition, body, and environment rather than isolated computation.</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Toward quantum-informed addiction medicine: Coherence, entangled-photon imaging, and a theranostic hypothesis</title>
+      <link>https://doi.org/10.1016/j.pbiomolbio.2026.101958</link>
+      <guid>f5ac4d142b2812a6</guid>
+      <description>BACKGROUND: Quantum biology has shown that selected biological processes depend on quantum effects, including coherence, tunnelling, and spin-dependent reactions. In parallel, quantum imaging now uses entangled photons to extract biological information at low photon flux.</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Recovery Kinetics and Postoperative Outcomes of Propofol-Based Total Intravenous Anesthesia Versus Sevoflurane in Ambulatory Surgery: A Systematic Review and Meta-Analysis of Randomized Studies.</title>
       <link>https://europepmc.org/article/MED/42824539</link>
@@ -34,6 +55,27 @@
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Psychedelics and disorders of consciousness: a new frontier in neurotherapeutics.</title>
+      <link>https://europepmc.org/article/MED/42829371</link>
+      <guid>4104c573186290f1</guid>
+      <description>New work indexed under “Psychedelics and disorders of consciousness: a new frontier in neurotherapeutics..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Does ageing increase vulnerability to hypoglycaemia and hyperglycaemia? A systematic review of physiological and cognitive responses.</title>
+      <link>https://europepmc.org/article/MED/42829186</link>
+      <guid>a414b8c7adfee010</guid>
+      <description>New work indexed under “Does ageing increase vulnerability to hypoglycaemia and hyperglycaemia? A systematic review of physiological and cognitive responses..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gut bacteria and their metabolites may influence our decisions, intelligence, cognition, and consciousness.</title>
+      <link>https://europepmc.org/article/MED/42828728</link>
+      <guid>e33262209915e7ef</guid>
+      <description>New work indexed under “Gut bacteria and their metabolites may influence our decisions, intelligence, cognition, and consciousness..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Consciousness and Physical Function in Prolonged Disorders of Consciousness in Japan: A Cross-sectional Comparison by Rehabilitation Status.</title>
       <link>https://europepmc.org/article/MED/42825293</link>
       <guid>85ce41574139eb62</guid>
@@ -59,13 +101,6 @@
       <link>http://arxiv.org/abs/2610.01848v1</link>
       <guid>64bbe70ebe2671ca</guid>
       <description>Random Clifford operators have numerous applications in quantum computing, including randomized benchmarking, classical shadows, and quantum authentication. However, sampling and implementing uniformly random $n$-qubit Clifford incur near-quadratic complexity due to the size of Clifford group.</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ultrasound-Guided Dorsal Penile Nerve Block Reduces Perioperative Opioid Requirements in Pediatric Circumcision: A Systematic Review and Meta-Analysis.</title>
-      <link>https://europepmc.org/article/MED/42820467</link>
-      <guid>9f9054f1ac861fff</guid>
-      <description>New work indexed under “Ultrasound-Guided Dorsal Penile Nerve Block Reduces Perioperative Opioid Requirements in Pediatric Circumcision: A Systematic Review and Meta-Analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -108,41 +143,6 @@
       <link>http://arxiv.org/abs/2610.02129v1</link>
       <guid>095196ec02baca22</guid>
       <description>Fast and accurate qubit-state assignment is essential for feedback, calibration, and error correction in quantum processors. In superconducting platforms, frequency-multiplexed readout makes this task intrinsically multivariate as measured traces can encode crosstalk, qubit-state relaxation events, and other transient nonidealities that are not fully captured by conventional matched filtering.</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Superintegrability of a resonant ghostly tri-Hamiltonian model: polynomial first integrals and transcendental completion</title>
-      <link>http://arxiv.org/abs/2610.01901v1</link>
-      <guid>3bf81200c226b77b</guid>
-      <description>We study classical and quantum superintegrability of a resonant three-dimensional Hamiltonian with indefinite kinetic energy and three Poisson descriptions of the same flow. Besides three commuting quadratic Hamiltonians, the polynomial first-integral ring contains two primitive degree-four generators, $I_4^{\rm o}$ and $I_4^{\rm e}$, of odd and even momentum parity.</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fourier Symmetrization for Geometric Quantum Machine Learning</title>
-      <link>http://arxiv.org/abs/2610.01874v1</link>
-      <guid>fc05fc44b4cb3937</guid>
-      <description>Geometric quantum machine learning incorporates symmetry into quantum models, but how symmetry shapes their expressivity and guides effective model design remains insufficiently understood. We address this question through the Fourier representation of quantum Fourier models (QFMs).</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Code-Agnostic Graph Neural Network Decoder from the Detection Error Model</title>
-      <link>http://arxiv.org/abs/2610.01683v1</link>
-      <guid>2eec88e0a2cb3376</guid>
-      <description>We present POLYMECHANON, a graph neural network (GNN) decoder for quantum error correction whose only input is the detection error model (DEM) of a quantum code under a given noise model. We represent the DEM as a tripartite graph of detectors, error mechanisms and logical observables, where every input feature is computed by using the quantum code as data rather than design choice.</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Can Analogy Tell Us About Artificial Consciousness?</title>
-      <link>http://arxiv.org/abs/2610.01002v1</link>
-      <guid>9e85732a157b6bfa</guid>
-      <description>Who or what is conscious? Because subjective experience is directly accessible only in the first person, judgments about consciousness in other entities depend partly on analogy.</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Impact of tranexamic acid on visualization in full endoscopic spine surgery: a randomized controlled trial.</title>
-      <link>https://europepmc.org/article/MED/42822046</link>
-      <guid>8451432d79641d80</guid>
-      <description>New work indexed under “Impact of tranexamic acid on visualization in full endoscopic spine surgery: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
