@@ -4,13 +4,27 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Sun, 04 Oct 2026 16:49:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:17:44 +0000</lastBuildDate>
     <item>
       <title>HD-tACS at 40 Hz Improves Consciousness and Brain Connectivity in Prolonged Disorders of Consciousness: A Randomized Sham-Controlled Clinical Trial.</title>
       <link>https://europepmc.org/article/MED/42829016</link>
       <guid>261cb8acc47f16dd</guid>
       <description>New work indexed under “HD-tACS at 40 Hz Improves Consciousness and Brain Connectivity in Prolonged Disorders of Consciousness: A Randomized Sham-Controlled Clinical Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Haar Wavelet Transform methods applications and hardware realizations in quantum computing</title>
+      <link>https://doi.org/10.1007/s42452-026-09469-1</link>
+      <guid>617963b4178231a1</guid>
+      <description>Abstract Quantum Haar Wavelet Transform (QHWT) methods connect multiresolution analysis with quantum information processing through reversible averaging and differencing operations that can be implemented with comparatively compact circuits. Their localized basis functions, real-valued binary structure, and compatibility with hierarchical state representations make them attractive for resource-constrained quantum processing.</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Complexity separations for optimal matchgate-Clifford synthesis</title>
+      <link>http://arxiv.org/abs/2610.06768v1</link>
+      <guid>09b4d162e8c40595</guid>
+      <description>Clifford and matchgate circuits are canonical families of classically simulable quantum circuits. Their intersection, the matchgate-Clifford group, plays an important role in randomized fermionic protocols and in matchgate synthesis.</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Can artificial systems become conscious?—Recursive embodied closure as an integrative framework</title>
@@ -27,11 +41,32 @@
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Recovery Kinetics and Postoperative Outcomes of Propofol-Based Total Intravenous Anesthesia Versus Sevoflurane in Ambulatory Surgery: A Systematic Review and Meta-Analysis of Randomized Studies.</title>
-      <link>https://europepmc.org/article/MED/42824539</link>
-      <guid>5970febb61370619</guid>
-      <description>New work indexed under “Recovery Kinetics and Postoperative Outcomes of Propofol-Based Total Intravenous Anesthesia Versus Sevoflurane in Ambulatory Surgery: A Systematic Review and Meta-Analysis of Randomized Studies..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Boundary-accessible work in a collision-charged topological quantum battery</title>
+      <link>http://arxiv.org/abs/2610.06849v1</link>
+      <guid>adf04b7ce328002e</guid>
+      <description>Quantum batteries store energy in nonequilibrium quantum states. The ergotropy sets the work extractable by an arbitrary global unitary, but a device usually exchanges energy through a single local port.</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CV-QAOA: Efficient Low-Depth Quantum Optimization of Continuous Variables</title>
+      <link>http://arxiv.org/abs/2610.06815v1</link>
+      <guid>89e5c53ee42a4745</guid>
+      <description>We study a Continuous-Variable Quantum Approximate Optimization Algorithm (CV-QAOA) for high-dimensional continuous optimization. Our formulation extends an earlier CV-QAOA proposal with a variationally optimized initial state and recovers the convergence guarantees of Quantum Hamiltonian Descent (QHD) in the high-depth limit.</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Measurement-free Preparation of Surface-Code States with Digital-Analog Counterdiabatic Drivings</title>
+      <link>http://arxiv.org/abs/2610.06697v1</link>
+      <guid>c9379cd951b06ca9</guid>
+      <description>Preparing stabilizer-code states with shallow circuits is an important primitive for near-term quantum error correction in superconducting circuits, where logical-state initialization requires four-body stabilizer correlations from native one- and two-body controls. We introduce a digital-analog method for the preparation of surface-code ground-state manifolds.</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Consciousness and Physical Function in Prolonged Disorders of Consciousness in Japan: A Cross-sectional Comparison by Rehabilitation Status.</title>
+      <link>https://europepmc.org/article/MED/42825293</link>
+      <guid>85ce41574139eb62</guid>
+      <description>New work indexed under “Consciousness and Physical Function in Prolonged Disorders of Consciousness in Japan: A Cross-sectional Comparison by Rehabilitation Status..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Anomalous Luminous Phenomena, Plasma Consciousness, and The Quantum Vacuum: Towards a Unified Framework for Interactive Plasma Phenomena, Non-Local Information Transfer, and the Physics of Consciousness</title>
@@ -39,20 +74,6 @@
       <guid>82120cd628943e27</guid>
       <description>Anomalous luminous phenomena (ALP) — long-duration plasma spheroids documented most systematically at Hessdalen, Norway — exhibit physical properties that conventional plasma physics cannot adequately explain such as sustained self-confinement for tens of minutes, periodic pulsation, multi-chromatic emission, and a documented responsiveness to laser stimulation bearing the hallmarks of an intelligent reaction rather than a passive optical interaction. This paper proposes a unified conceptual and partially…</description>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Virtual Reality Hypnosis: The Effectiveness of Virtual Reality Combined with Hypnotic Suggestions, a Systematic Review and Meta-Analysis</title>
-      <link>https://doi.org/10.1080/10447318.2026.2728932</link>
-      <guid>08b42081b12509d1</guid>
-      <description>Virtual reality (VR) is increasingly used to support physical and mental health interventions. Recently, VR combined with hypnotic suggestions, termed virtual reality hypnosis (VRH), has emerged as a promising approach across clinical and non-clinical settings.</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quantum neuromorphic computing: harnessing noise and adaptation for scalable quantum processors</title>
-      <link>https://doi.org/10.1007/s10791-026-10415-3</link>
-      <guid>f99849d9978be41e</guid>
-      <description>The von Neumann bottleneck and qubit fragility limit scalable computation. This review article synthesizes recent progress in a bio-inspired quantum approach that treats noise, dissipation, and dynamics as resources, drawing from neuroscience, neuromorphic design, and quantum biology.</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Psychedelics and disorders of consciousness: a new frontier in neurotherapeutics.</title>
@@ -76,11 +97,11 @@
       <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Consciousness and Physical Function in Prolonged Disorders of Consciousness in Japan: A Cross-sectional Comparison by Rehabilitation Status.</title>
-      <link>https://europepmc.org/article/MED/42825293</link>
-      <guid>85ce41574139eb62</guid>
-      <description>New work indexed under “Consciousness and Physical Function in Prolonged Disorders of Consciousness in Japan: A Cross-sectional Comparison by Rehabilitation Status..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <title>MEM as an Extension of Recurrent Processing Theory: Toward a Motivational Account of Consciousness</title>
+      <link>http://arxiv.org/abs/2610.04057v1</link>
+      <guid>2aa55880fe3f948e</guid>
+      <description>Victor Lamme's Recurrent Processing Theory (RPT) proposes that the feedforward sweep (FFS) can extract and categorize visual features unconsciously, while conscious vision emerges through recurrent processing and feedback interactions across representational levels. The Motivated Emotional Mind (MEM) model, developed by Wiesław L.</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Intravenous Dexamethasone Prolongs Opioid-Free Analgesia After Pediatric Hand Surgery: A Randomized Triple-Blind Trial.</title>
@@ -90,20 +111,6 @@
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>A computational phase diagram for the transverse field Ising model</title>
-      <link>http://arxiv.org/abs/2610.02079v1</link>
-      <guid>3e802c88e47c65c7</guid>
-      <description>We study the transverse field Ising model, defined by the Hamiltonian $H =\frac{1}{2}\sum_{i, j\in [n]} J_{ij} Z_i Z_j +\sum_{i=1}^n h_i^z Z_i + η\sum_{i} X_i$ where $J $ is the symmetric interaction matrix, and $η$ is the transverse field strength. Let $Δ(J)=λ_{\max}(J)-λ_{\min}(J)$ be the spectral width of $J.$ When the inverse temperature $β\geq0$ satisfies $Δ(J)\cdot\frac{\tanh(βη)}η\leq1$, we give a randomized classical algorithm that approximates the partition function $Z(β)=\operatorname{Tr}(e^{-βH})$ to a…</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trapdoored Clifford Operators and Applications</title>
-      <link>http://arxiv.org/abs/2610.01848v1</link>
-      <guid>64bbe70ebe2671ca</guid>
-      <description>Random Clifford operators have numerous applications in quantum computing, including randomized benchmarking, classical shadows, and quantum authentication. However, sampling and implementing uniformly random $n$-qubit Clifford incur near-quadratic complexity due to the size of Clifford group.</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>AwarenessBench: Assessing Cognitive Capabilities of Language Models</title>
       <link>http://arxiv.org/abs/2609.35409v1</link>
       <guid>68eb182747adc8e0</guid>
@@ -111,39 +118,32 @@
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Security policies in quantum computing: a systematic review of literature</title>
-      <link>https://doi.org/10.1007/s10791-026-10596-x</link>
-      <guid>56964ef9097b6a46</guid>
-      <description>Abstract The rapid evolution of quantum computing introduces significant challenges for information security, particularly in governance, risk management, and the resilience of existing cryptographic mechanisms. This research reports the results of a systematic literature review (SLR) conducted following PRISMA guidelines, based on 56 peer-reviewed journal articles published between 2015 and 2025.</description>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Virtual Reality Hypnosis: The Effectiveness of Virtual Reality Combined with Hypnotic Suggestions, a Systematic Review and Meta-Analysis</title>
+      <link>https://doi.org/10.1080/10447318.2026.2728932</link>
+      <guid>08b42081b12509d1</guid>
+      <description>Virtual reality (VR) is increasingly used to support physical and mental health interventions. Recently, VR combined with hypnotic suggestions, termed virtual reality hypnosis (VRH), has emerged as a promising approach across clinical and non-clinical settings.</description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>"Emergent Causality Through Decoherence: A Hypothesis"</title>
-      <link>https://doi.org/10.5281/zenodo.22979430</link>
-      <guid>d6da772845486be4</guid>
-      <description>Emergent Causality Through Decoherence An imaginary hypothesis, not a theory. What if causality were not fundamental? What if it emerged, like temperature, from the degree of decoherence in a system?</description>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Quantum neuromorphic computing: harnessing noise and adaptation for scalable quantum processors</title>
+      <link>https://doi.org/10.1007/s10791-026-10415-3</link>
+      <guid>f99849d9978be41e</guid>
+      <description>The von Neumann bottleneck and qubit fragility limit scalable computation. This review article synthesizes recent progress in a bio-inspired quantum approach that treats noise, dissipation, and dynamics as resources, drawing from neuroscience, neuromorphic design, and quantum biology.</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>"Emergent Causality Through Decoherence: A Hypothesis"</title>
-      <link>https://doi.org/10.5281/zenodo.22979431</link>
-      <guid>c2a773c092e17de3</guid>
-      <description>Emergent Causality Through Decoherence An imaginary hypothesis, not a theory. What if causality were not fundamental? What if it emerged, like temperature, from the degree of decoherence in a system?</description>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Quantum statistical learning theory: concepts, regimes, and open problems</title>
+      <link>https://doi.org/10.1007/s11128-026-05356-1</link>
+      <guid>fed7888fd40bc648</guid>
+      <description>Statistical learning theory provides the mathematical foundations for understanding generalization from finite data. As quantum computing and quantum machine learning continue to develop, there is increasing interest in whether analogous principles can be formulated for learning settings involving quantum data, quantum models, or quantum computation.</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>So there is no false consciousness in egalitarian societies?</title>
-      <link>https://europepmc.org/article/MED/42825730</link>
-      <guid>ca33698c911f801b</guid>
-      <description>New work indexed under “So there is no false consciousness in egalitarian societies?.” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spiking neural networks for streaming qubit readout</title>
-      <link>http://arxiv.org/abs/2610.02129v1</link>
-      <guid>095196ec02baca22</guid>
-      <description>Fast and accurate qubit-state assignment is essential for feedback, calibration, and error correction in quantum processors. In superconducting platforms, frequency-multiplexed readout makes this task intrinsically multivariate as measured traces can encode crosstalk, qubit-state relaxation events, and other transient nonidealities that are not fully captured by conventional matched filtering.</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Characterizing Photonic Partial Distinguishability Through Gram Matrix Tomography</title>
+      <link>http://arxiv.org/abs/2610.06736v1</link>
+      <guid>62158a40d0cecf85</guid>
+      <description>Partial distinguishability affects multiphoton interference, which is central to large-scale photonic experiments such as Boson Sampling and to applications of multiphoton states across quantum technologies. Characterizing the internal degrees of freedom responsible for this behavior is challenging: in many scenarios they cannot be accessed directly and even their dimension or physical nature may be unknown \emph{a priori}.</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

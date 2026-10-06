@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-06",
   "title": "The latest signal",
-  "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Neuroscience, Quantum physics. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
+  "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Quantum physics, Neuroscience. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
     {
       "domain": "consciousness",
@@ -9,7 +9,16 @@
       "title": "HD-tACS at 40 Hz Improves Consciousness and Brain Connectivity in Prolonged Disorders of Consciousness: A Randomized Sham-Controlled Clinical Trial.",
       "why_it_matters": "New work indexed under “HD-tACS at 40 Hz Improves Consciousness and Brain Connectivity in Prolonged Disorders of Consciousness: A Randomized Sham-Controlled Clinical Trial..” The source did not provide an abstract; read the original before evaluating its claims.",
       "url": "https://europepmc.org/article/MED/42829016",
-      "signal_score": 64,
+      "signal_score": 62,
+      "evidence_label": "Journal article"
+    },
+    {
+      "domain": "quantum",
+      "domain_label": "Quantum physics",
+      "title": "Quantum Haar Wavelet Transform methods applications and hardware realizations in quantum computing",
+      "why_it_matters": "Abstract Quantum Haar Wavelet Transform (QHWT) methods connect multiresolution analysis with quantum information processing through reversible averaging and differencing operations that can be implemented with comparatively compact circuits. Their localized basis functions, real-valued binary structure, and compatibility with hierarchical state representations make them attractive for resource-constrained quantum processing.",
+      "url": "https://doi.org/10.1007/s42452-026-09469-1",
+      "signal_score": 57,
       "evidence_label": "Journal article"
     },
     {
@@ -18,16 +27,7 @@
       "title": "Can artificial systems become conscious?—Recursive embodied closure as an integrative framework",
       "why_it_matters": "Recent advances in artificial intelligence, connectomics, and computational neuroscience increasingly raise the question of whether artificial systems—or even pure computer simulations—could become conscious. Contemporary theories emphasize embodiment, predictive processing, homeostatic regulation, and continuous interaction between cognition, body, and environment rather than isolated computation.",
       "url": "https://doi.org/10.3389/fpsyg.2026.1950309",
-      "signal_score": 57,
-      "evidence_label": "Journal article"
-    },
-    {
-      "domain": "quantum",
-      "domain_label": "Quantum physics",
-      "title": "Toward quantum-informed addiction medicine: Coherence, entangled-photon imaging, and a theranostic hypothesis",
-      "why_it_matters": "BACKGROUND: Quantum biology has shown that selected biological processes depend on quantum effects, including coherence, tunnelling, and spin-dependent reactions. In parallel, quantum imaging now uses entangled photons to extract biological information at low photon flux.",
-      "url": "https://doi.org/10.1016/j.pbiomolbio.2026.101958",
-      "signal_score": 57,
+      "signal_score": 55,
       "evidence_label": "Journal article"
     }
   ]
