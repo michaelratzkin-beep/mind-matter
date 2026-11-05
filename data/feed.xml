@@ -4,146 +4,146 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Tue, 06 Oct 2026 18:17:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 18:18:36 +0000</lastBuildDate>
     <item>
-      <title>HD-tACS at 40 Hz Improves Consciousness and Brain Connectivity in Prolonged Disorders of Consciousness: A Randomized Sham-Controlled Clinical Trial.</title>
-      <link>https://europepmc.org/article/MED/42829016</link>
-      <guid>261cb8acc47f16dd</guid>
-      <description>New work indexed under “HD-tACS at 40 Hz Improves Consciousness and Brain Connectivity in Prolonged Disorders of Consciousness: A Randomized Sham-Controlled Clinical Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Effects of auditory sensory stimulation on consciousness and physiological parameters among individuals with disorders of consciousness: a systematic review and meta-analysis</title>
+      <link>https://doi.org/10.3389/fnins.2026.1879145</link>
+      <guid>47222f2d66b422c1</guid>
+      <description>Objective To systematically evaluate the effects of auditory sensory stimulation (SS) on consciousness levels and physiological parameters in patients with disorders of consciousness (DOC). Furthermore, this study aimed to explore intervention characteristics based on the frequency, intensity, time, and type (FITT) framework that may influence treatment effects and to investigate potential sources of between-study heterogeneity.</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Quantum Haar Wavelet Transform methods applications and hardware realizations in quantum computing</title>
-      <link>https://doi.org/10.1007/s42452-026-09469-1</link>
-      <guid>617963b4178231a1</guid>
-      <description>Abstract Quantum Haar Wavelet Transform (QHWT) methods connect multiresolution analysis with quantum information processing through reversible averaging and differencing operations that can be implemented with comparatively compact circuits. Their localized basis functions, real-valued binary structure, and compatibility with hierarchical state representations make them attractive for resource-constrained quantum processing.</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Hardware Demonstration of Neural-Surrogated Quantum-Enhanced MCMC for Large-Scale Constrained Boltzmann Sampling</title>
+      <link>http://arxiv.org/abs/2611.05883v1</link>
+      <guid>a49b27ac4bc966a2</guid>
+      <description>Neural-surrogated quantum-enhanced Markov chain Monte Carlo (QeMCMC) uses neural networks trained on samples from the quantum approximate optimization algorithm (QAOA) to accelerate Boltzmann sampling. A divide-and-conquer strategy extends this approach to larger systems, but independently optimizing QAOA parameters for each subproblem is costly.</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Complexity separations for optimal matchgate-Clifford synthesis</title>
-      <link>http://arxiv.org/abs/2610.06768v1</link>
-      <guid>09b4d162e8c40595</guid>
-      <description>Clifford and matchgate circuits are canonical families of classically simulable quantum circuits. Their intersection, the matchgate-Clifford group, plays an important role in randomized fermionic protocols and in matchgate synthesis.</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Ontology-constrained multi-LLM scoring of hypothesis support in the predictive processing literature</title>
+      <link>https://doi.org/10.1038/s41598-026-77038-y</link>
+      <guid>bc94c7612edf1b84</guid>
+      <description>Abstract Fragmentation is common in interdisciplinary fields with diverse methods and theoretical commitments. Predictive coding neuroscience is a clear example: its literature spans computational theory, electrophysiology, imaging, behavior, and modeling, creating a synthesis problem that conventional meta-analysis cannot easily resolve.</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Can artificial systems become conscious?—Recursive embodied closure as an integrative framework</title>
-      <link>https://doi.org/10.3389/fpsyg.2026.1950309</link>
-      <guid>e802221fdb43df84</guid>
-      <description>Recent advances in artificial intelligence, connectomics, and computational neuroscience increasingly raise the question of whether artificial systems—or even pure computer simulations—could become conscious. Contemporary theories emphasize embodiment, predictive processing, homeostatic regulation, and continuous interaction between cognition, body, and environment rather than isolated computation.</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <title>The Association Between Chronic Obstructive Pulmonary Disease and Postoperative Delirium: A Systematic Review and Meta-Analysis</title>
+      <link>https://doi.org/10.2147/copd.s644864</link>
+      <guid>351b31d949d5ab5d</guid>
+      <description>Background: Postoperative delirium (POD) is a frequent and serious complication following surgery, particularly in high-risk patients such as those with chronic obstructive pulmonary disease (COPD). The relationship between COPD and the development of POD remains unclear, with existing studies providing inconsistent findings.</description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Toward quantum-informed addiction medicine: Coherence, entangled-photon imaging, and a theranostic hypothesis</title>
-      <link>https://doi.org/10.1016/j.pbiomolbio.2026.101958</link>
-      <guid>f5ac4d142b2812a6</guid>
-      <description>BACKGROUND: Quantum biology has shown that selected biological processes depend on quantum effects, including coherence, tunnelling, and spin-dependent reactions. In parallel, quantum imaging now uses entangled photons to extract biological information at low photon flux.</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Digital engineering for quantum communication networks: A systematic review of models, simulators, and testbeds</title>
+      <link>https://doi.org/10.1016/j.dte.2026.100149</link>
+      <guid>8c9de82228b9baa2</guid>
+      <description>Research on quantum communication networks has grown rapidly in recent years, driven by progress in quantum devices, simulators, and experimental testbeds. As these systems become more complex, there is increasing interest in digital methods that can support analysis, prediction, and performance assessment without relying exclusively on physical experimentation.</description>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Boundary-accessible work in a collision-charged topological quantum battery</title>
-      <link>http://arxiv.org/abs/2610.06849v1</link>
-      <guid>adf04b7ce328002e</guid>
-      <description>Quantum batteries store energy in nonequilibrium quantum states. The ergotropy sets the work extractable by an arbitrary global unitary, but a device usually exchanges energy through a single local port.</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Quantum Computing for Entanglement Asymmetry and the Quantum Mpemba Effect in Field Theory</title>
+      <link>http://arxiv.org/abs/2611.05987v1</link>
+      <guid>24d5d1306c7960cd</guid>
+      <description>We construct a quantum measurement protocol for estimating the Rényi entanglement asymmetry, which quantifies symmetry breaking at the level of a subsystem and provides a probe of the quantum Mpemba effect. The protocol combines the SWAP test with a charge-resolving procedure based on randomized symmetry rotations.</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CV-QAOA: Efficient Low-Depth Quantum Optimization of Continuous Variables</title>
-      <link>http://arxiv.org/abs/2610.06815v1</link>
-      <guid>89e5c53ee42a4745</guid>
-      <description>We study a Continuous-Variable Quantum Approximate Optimization Algorithm (CV-QAOA) for high-dimensional continuous optimization. Our formulation extends an earlier CV-QAOA proposal with a variationally optimized initial state and recovers the convergence guarantees of Quantum Hamiltonian Descent (QHD) in the high-depth limit.</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Discovering correlated error mechanisms: data-driven augmentation of detector error models improving decoding</title>
+      <link>http://arxiv.org/abs/2611.06605v1</link>
+      <guid>0535d09e38d06ebb</guid>
+      <description>Accurate decoder priors are essential for high-performance quantum error correction. Theoretical noise models inevitably omit physically relevant error mechanisms, most notably correlated errors, which appear consistently in experimental error budgets yet are absent from standard models.</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Measurement-free Preparation of Surface-Code States with Digital-Analog Counterdiabatic Drivings</title>
-      <link>http://arxiv.org/abs/2610.06697v1</link>
-      <guid>c9379cd951b06ca9</guid>
-      <description>Preparing stabilizer-code states with shallow circuits is an important primitive for near-term quantum error correction in superconducting circuits, where logical-state initialization requires four-body stabilizer correlations from native one- and two-body controls. We introduce a digital-analog method for the preparation of surface-code ground-state manifolds.</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Thermodynamics-Informed Learning Captures Hierarchical Hydrogen-Bond Networks in Deep Eutectic Solvents</title>
+      <link>http://arxiv.org/abs/2611.06590v1</link>
+      <guid>f75252dd991fdbdc</guid>
+      <description>Deep eutectic solvents (DESs) offer a tunable platform for lignocellulose refining, but their solvation behavior depends on multicomponent hydrogen-bond networks rather than individual constituent properties. We develop TiNN, a thermodynamics-informed neural network that hierarchically represents HBA-HBD association and solute accommodation through a learned free-energy pathway.</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Consciousness and Physical Function in Prolonged Disorders of Consciousness in Japan: A Cross-sectional Comparison by Rehabilitation Status.</title>
-      <link>https://europepmc.org/article/MED/42825293</link>
-      <guid>85ce41574139eb62</guid>
-      <description>New work indexed under “Consciousness and Physical Function in Prolonged Disorders of Consciousness in Japan: A Cross-sectional Comparison by Rehabilitation Status..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Constraining Lorentz Invariance Violation via Precision Atomic Spectroscopy</title>
+      <link>http://arxiv.org/abs/2611.06392v1</link>
+      <guid>ab5beba05a7dcf23</guid>
+      <description>This paper investigates Lorentz violation arising from quantum gravity effects in electronic and muonic hydrogen atoms. The violation is modeled through a modified dispersion relation parameterized by a dimensionless coefficient $ξ$ and suppressed by the Planck scale.</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Anomalous Luminous Phenomena, Plasma Consciousness, and The Quantum Vacuum: Towards a Unified Framework for Interactive Plasma Phenomena, Non-Local Information Transfer, and the Physics of Consciousness</title>
-      <link>https://doi.org/10.31275/20264037</link>
-      <guid>82120cd628943e27</guid>
-      <description>Anomalous luminous phenomena (ALP) — long-duration plasma spheroids documented most systematically at Hessdalen, Norway — exhibit physical properties that conventional plasma physics cannot adequately explain such as sustained self-confinement for tens of minutes, periodic pulsation, multi-chromatic emission, and a documented responsiveness to laser stimulation bearing the hallmarks of an intelligent reaction rather than a passive optical interaction. This paper proposes a unified conceptual and partially…</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Emergent Incompressibility in Polariton Condensates for Scalable XY Spin Simulation</title>
+      <link>http://arxiv.org/abs/2611.05782v1</link>
+      <guid>5d9a30e456bfda1c</guid>
+      <description>Driven-dissipative polariton networks offer a powerful analog platform for simulating continuous-spin Hamiltonians. However, their practical scalability is fundamentally limited by amplitude-phase coupling and metastable trapping in highly frustrated energy landscapes.</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Psychedelics and disorders of consciousness: a new frontier in neurotherapeutics.</title>
-      <link>https://europepmc.org/article/MED/42829371</link>
-      <guid>4104c573186290f1</guid>
-      <description>New work indexed under “Psychedelics and disorders of consciousness: a new frontier in neurotherapeutics..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Time-Division Multiplexing: The Operational Rhythm and Temporal Organization Layer of Digital Life</title>
+      <link>http://arxiv.org/abs/2611.06603v1</link>
+      <guid>bd582558d34d3a62</guid>
+      <description>Continual agents must handle urgent interaction while retaining alternatives, replaying errors, and committing safe long-term changes. A previous digital-life framework distinguishes online (busy) and offline (idle) channels, but leaves open whether these are separate programs or phases of a common process and how their operations should be ordered.</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Does ageing increase vulnerability to hypoglycaemia and hyperglycaemia? A systematic review of physiological and cognitive responses.</title>
-      <link>https://europepmc.org/article/MED/42829186</link>
-      <guid>a414b8c7adfee010</guid>
-      <description>New work indexed under “Does ageing increase vulnerability to hypoglycaemia and hyperglycaemia? A systematic review of physiological and cognitive responses..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <title>The consciousness-first commitment of integrated information theory.</title>
+      <link>https://europepmc.org/article/MED/42974390</link>
+      <guid>928d5bddeadcf2dd</guid>
+      <description>New work indexed under “The consciousness-first commitment of integrated information theory..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Gut bacteria and their metabolites may influence our decisions, intelligence, cognition, and consciousness.</title>
-      <link>https://europepmc.org/article/MED/42828728</link>
-      <guid>e33262209915e7ef</guid>
-      <description>New work indexed under “Gut bacteria and their metabolites may influence our decisions, intelligence, cognition, and consciousness..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Overcoming essentialism: evaluation of theories of consciousness by the lawful regularities they predict.</title>
+      <link>https://europepmc.org/article/MED/42974117</link>
+      <guid>e8b57260b507dea0</guid>
+      <description>New work indexed under “Overcoming essentialism: evaluation of theories of consciousness by the lawful regularities they predict..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MEM as an Extension of Recurrent Processing Theory: Toward a Motivational Account of Consciousness</title>
-      <link>http://arxiv.org/abs/2610.04057v1</link>
-      <guid>2aa55880fe3f948e</guid>
-      <description>Victor Lamme's Recurrent Processing Theory (RPT) proposes that the feedforward sweep (FFS) can extract and categorize visual features unconsciously, while conscious vision emerges through recurrent processing and feedback interactions across representational levels. The Motivated Emotional Mind (MEM) model, developed by Wiesław L.</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Practical limitations on robustness and scalability of quantum Internet</title>
+      <link>https://doi.org/10.1007/s11128-026-05312-z</link>
+      <guid>dec3f8004747ab3a</guid>
+      <description>Abstract The realization of a desirably functional quantum Internet is hindered by fundamental and practical challenges such as high loss during transmission of quantum systems, decoherence due to interaction with the environment, and fragility of quantum states under measurement. We study the implications of these constraints by analyzing the limitations on the scaling and robustness of the quantum Internet.</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Intravenous Dexamethasone Prolongs Opioid-Free Analgesia After Pediatric Hand Surgery: A Randomized Triple-Blind Trial.</title>
-      <link>https://europepmc.org/article/MED/42826054</link>
-      <guid>bdba35445cbf602b</guid>
-      <description>New work indexed under “Intravenous Dexamethasone Prolongs Opioid-Free Analgesia After Pediatric Hand Surgery: A Randomized Triple-Blind Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Common phenomenal and neural substrate geometry in visual motion perception</title>
+      <link>https://doi.org/10.1016/j.neuroimage.2026.122313</link>
+      <guid>c7746b9982fe5dc0</guid>
+      <description>Abstract What is a possible physical substrate of the qualitative aspects of consciousness (qualia)? Answering this question is a central goal of consciousness research. Due to their subjective and ineffable nature, finding a quantitative way to characterise qualia from verbal description has thus far proven elusive.</description>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>AwarenessBench: Assessing Cognitive Capabilities of Language Models</title>
-      <link>http://arxiv.org/abs/2609.35409v1</link>
-      <guid>68eb182747adc8e0</guid>
-      <description>As language models (LMs) exhibit increasingly consciousness-like behaviors, evaluating their cognitive abilities becomes essential. We introduce AwarenessBench, the first comprehensive benchmark for assessing the cognitive abilities of LMs in four dimensions: metacognition, self-awareness, social awareness, and situational awareness, covering 15 cognitive functions and 14,381 samples.</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Quantum machine learning for quantitative finance</title>
+      <link>https://doi.org/10.1088/2058-9565/aeb8ed</link>
+      <guid>80cf704b281e5d4a</guid>
+      <description>Abstract Machine learning (ML) and quantum ML (QML) have gained significant importance, as they offer powerful tools for tackling complex computational problems across various domains. An overview of QML’s uses in quantitative finance is presented here.</description>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Virtual Reality Hypnosis: The Effectiveness of Virtual Reality Combined with Hypnotic Suggestions, a Systematic Review and Meta-Analysis</title>
-      <link>https://doi.org/10.1080/10447318.2026.2728932</link>
-      <guid>08b42081b12509d1</guid>
-      <description>Virtual reality (VR) is increasingly used to support physical and mental health interventions. Recently, VR combined with hypnotic suggestions, termed virtual reality hypnosis (VRH), has emerged as a promising approach across clinical and non-clinical settings.</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Attention Renders Sensory Contents into Conscious State via Content-invariant Frontal-Posterior Coupling in Humans</title>
+      <link>https://doi.org/10.21203/rs.3.rs-10945410/v1</link>
+      <guid>e60b4f1897e2ce89</guid>
+      <description>Abstract Although attention promotes conscious perception, how it does so remains unclear. Human neuroimaging research has richly characterized attentional modulation upon visual processing, yet it remains unclear which of its components act as precursors of consciousness, which constitute consciousness itself, and which merely reflect post-perceptual, response-related operations.</description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Quantum neuromorphic computing: harnessing noise and adaptation for scalable quantum processors</title>
-      <link>https://doi.org/10.1007/s10791-026-10415-3</link>
-      <guid>f99849d9978be41e</guid>
-      <description>The von Neumann bottleneck and qubit fragility limit scalable computation. This review article synthesizes recent progress in a bio-inspired quantum approach that treats noise, dissipation, and dynamics as resources, drawing from neuroscience, neuromorphic design, and quantum biology.</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <title>OUCH: Objective, Uniform, Controlled Haptic Stimulation for Automated Neurological Assessment</title>
+      <link>http://arxiv.org/abs/2611.05741v1</link>
+      <guid>25fdbbd466da106e</guid>
+      <description>Motor responses evoked by noxious stimulation are used to assess neurological function in hospitalized patients with disorders of consciousness. In standard bedside assessments, these stimuli are applied manually, resulting in substantial variation in force, duration, frequency, and location.</description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Quantum statistical learning theory: concepts, regimes, and open problems</title>
-      <link>https://doi.org/10.1007/s11128-026-05356-1</link>
-      <guid>fed7888fd40bc648</guid>
-      <description>Statistical learning theory provides the mathematical foundations for understanding generalization from finite data. As quantum computing and quantum machine learning continue to develop, there is increasing interest in whether analogous principles can be formulated for learning settings involving quantum data, quantum models, or quantum computation.</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Primary intraosseous anesthesia versus inferior alveolar nerve block for mandibular teeth with symptomatic irreversible pulpitis: a systematic review and meta-analysis.</title>
+      <link>https://europepmc.org/article/MED/42971464</link>
+      <guid>37f1c92c609fcdf9</guid>
+      <description>New work indexed under “Primary intraosseous anesthesia versus inferior alveolar nerve block for mandibular teeth with symptomatic irreversible pulpitis: a systematic review and meta-analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Characterizing Photonic Partial Distinguishability Through Gram Matrix Tomography</title>
-      <link>http://arxiv.org/abs/2610.06736v1</link>
-      <guid>62158a40d0cecf85</guid>
-      <description>Partial distinguishability affects multiphoton interference, which is central to large-scale photonic experiments such as Boson Sampling and to applications of multiphoton states across quantum technologies. Characterizing the internal degrees of freedom responsible for this behavior is challenging: in many scenarios they cannot be accessed directly and even their dimension or physical nature may be unknown \emph{a priori}.</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <title>The Spontaneous Disentanglement Hypothesis and Causality</title>
+      <link>https://doi.org/10.1002/qute.70526</link>
+      <guid>b1a0ca15d41550c5</guid>
+      <description>ABSTRACT The hypothesis that disentanglement spontaneously occurs in quantum systems is motivated by some outstanding issues in the foundations of quantum mechanics. However, for some cases, spontaneous disentanglement enables the violation of the causality principle.</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
