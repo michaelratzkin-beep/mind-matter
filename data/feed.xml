@@ -4,7 +4,7 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Thu, 05 Nov 2026 19:52:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 19:17:05 +0000</lastBuildDate>
     <item>
       <title>Effects of auditory sensory stimulation on consciousness and physiological parameters among individuals with disorders of consciousness: a systematic review and meta-analysis</title>
       <link>https://doi.org/10.3389/fnins.2026.1879145</link>
@@ -13,10 +13,38 @@
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Hardware Demonstration of Neural-Surrogated Quantum-Enhanced MCMC for Large-Scale Constrained Boltzmann Sampling</title>
-      <link>http://arxiv.org/abs/2611.05883v1</link>
-      <guid>a49b27ac4bc966a2</guid>
-      <description>Neural-surrogated quantum-enhanced Markov chain Monte Carlo (QeMCMC) uses neural networks trained on samples from the quantum approximate optimization algorithm (QAOA) to accelerate Boltzmann sampling. A divide-and-conquer strategy extends this approach to larger systems, but independently optimizing QAOA parameters for each subproblem is costly.</description>
+      <title>Quantum tomography of fermion pairs in e + e − collisions: Longitudinal beam polarization effects</title>
+      <link>https://doi.org/10.1103/l5x9-z6zh</link>
+      <guid>15e55ab61d326824</guid>
+      <description>We present a quantum tomography study of fermion pair production at future $e^+e^-$ colliders, emphasizing how longitudinal beam polarization controls the two-qubit spin density matrix. We study the processes $e^+ e^- \to t\bar{t},\ e^+e^-\to μ^+μ^-$ and Bhabha scattering $e^+e^-\to e^+e^-$, representing the mass threshold behavior, the $Z$ pole resonance and the $s/t$-channel interplay.</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Causality Without Determinism</title>
+      <link>https://doi.org/10.67291/fvth8832</link>
+      <guid>a13c483be0893929</guid>
+      <description>SHA-256 of the PDF of this edition: a020d0c88b545a3e11c8557342162cdbb15a020d2c2361de3c361029e1cee264</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information</title>
+      <link>http://arxiv.org/abs/2611.08469v1</link>
+      <guid>ed2e8f7d360af732</guid>
+      <description>Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, not what it outputs. Experiments see that law only through finite, partial and noisy interventions.</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Machine Learning</title>
+      <link>https://doi.org/10.1201/9781042002818</link>
+      <guid>aab880ad1cce09e3</guid>
+      <description>Quantum machine learning (QML) has emerged as a rapidly developing field at the intersection of quantum computing, artificial intelligence, and data science. As quantum hardware and algorithms continue to advance, there is a growing need for a rigorous and accessible text that explains how quantum principles can be used to design, analyze, and implement machine learning models.</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Decoding sequence auditory expectations for clinical diagnostic and prognostic assessment of prolonged disorders of consciousness</title>
+      <link>https://doi.org/10.1088/1741-2552/aebdcf</link>
+      <guid>7dc4e2c37ba437e8</guid>
+      <description>OBJECTIVE: Electroencephalogram (EEG) features are important objective markers for diagnostic and prognostic evaluation of prolonged disorders of consciousness (DOC). However, task-based EEG paradigms are limited by mismatches between task demands and patients' residual awareness, as well as the limited individual assessment capacity of machine-learning-based detection frameworks.</description>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -34,6 +62,13 @@
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Measurement-informed dynamical decoupling for fidelity preservation on large-scale quantum processors</title>
+      <link>https://doi.org/10.1103/jp17-mvpr</link>
+      <guid>ee5734e88afa82c8</guid>
+      <description>Dynamical decoupling (DD) is a key technique for suppressing decoherence and preserving the performance of quantum algorithms. We introduce a measurement-based DD (MDD) protocol that determines control unitary gates from partial measurements of noisy subsystems, with measurement overhead scaling linearly with the number of subsystems.</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Digital engineering for quantum communication networks: A systematic review of models, simulators, and testbeds</title>
       <link>https://doi.org/10.1016/j.dte.2026.100149</link>
       <guid>8c9de82228b9baa2</guid>
@@ -41,38 +76,45 @@
       <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Quantum Computing for Entanglement Asymmetry and the Quantum Mpemba Effect in Field Theory</title>
-      <link>http://arxiv.org/abs/2611.05987v1</link>
-      <guid>24d5d1306c7960cd</guid>
-      <description>We construct a quantum measurement protocol for estimating the Rényi entanglement asymmetry, which quantifies symmetry breaking at the level of a subsystem and provides a probe of the quantum Mpemba effect. The protocol combines the SWAP test with a charge-resolving procedure based on randomized symmetry rotations.</description>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <title>DiffSequence-Q: Diffusion Design with Quantum Assistance for Biologically Active Proteins</title>
+      <link>http://arxiv.org/abs/2611.08434v1</link>
+      <guid>f35a2ced915f914d</guid>
+      <description>Designing protein sequences that satisfy both secondary structure requirements and solubility targets remains challenging. We present DiffSequence-Q, a hybrid multinomial diffusion model conditioned on secondary structure at each residue and a continuous solubility target.</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Discovering correlated error mechanisms: data-driven augmentation of detector error models improving decoding</title>
-      <link>http://arxiv.org/abs/2611.06605v1</link>
-      <guid>0535d09e38d06ebb</guid>
-      <description>Accurate decoder priors are essential for high-performance quantum error correction. Theoretical noise models inevitably omit physically relevant error mechanisms, most notably correlated errors, which appear consistently in experimental error budgets yet are absent from standard models.</description>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Quantum Fourier integration of decay rates at next-to-leading order</title>
+      <link>http://arxiv.org/abs/2611.08204v1</link>
+      <guid>e8e45250501ef088</guid>
+      <description>We discuss the use of quantum neural networks (QNNs) as a tool for integrating decay rates at next-to-leading order (NLO) in perturbation theory. Data-encoding quantum circuits admit a truncated Fourier-series representation, enabling a trained QNN to approximate a target integrand and provide the coefficients subsequently integrated with Quantum Fourier Iterative Amplitude Estimation (QFIAE).</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Thermodynamics-Informed Learning Captures Hierarchical Hydrogen-Bond Networks in Deep Eutectic Solvents</title>
-      <link>http://arxiv.org/abs/2611.06590v1</link>
-      <guid>f75252dd991fdbdc</guid>
-      <description>Deep eutectic solvents (DESs) offer a tunable platform for lignocellulose refining, but their solvation behavior depends on multicomponent hydrogen-bond networks rather than individual constituent properties. We develop TiNN, a thermodynamics-informed neural network that hierarchically represents HBA-HBD association and solute accommodation through a learned free-energy pathway.</description>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Accelerating Quantum-Classical Auxiliary-Field Quantum Monte Carlo with Shadow-Trained Neural Quantum States</title>
+      <link>http://arxiv.org/abs/2611.08129v1</link>
+      <guid>0e0121ceca818358</guid>
+      <description>Quantum-classical auxiliary-field quantum Monte Carlo (QC-AFQMC) uses a trial state prepared on a quantum computer to improve the accuracy of the classical AFQMC algorithm. State-of-the-art QC-AFQMC represents this state with matchgate shadows, so every trial-walker overlap and local energy must be averaged over many snapshots, making this classical computation a bottleneck.</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Constraining Lorentz Invariance Violation via Precision Atomic Spectroscopy</title>
-      <link>http://arxiv.org/abs/2611.06392v1</link>
-      <guid>ab5beba05a7dcf23</guid>
-      <description>This paper investigates Lorentz violation arising from quantum gravity effects in electronic and muonic hydrogen atoms. The violation is modeled through a modified dispersion relation parameterized by a dimensionless coefficient $ξ$ and suppressed by the Planck scale.</description>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Approaching quantum limits in sub-Rayleigh resolution using phase modulation optimization</title>
+      <link>http://arxiv.org/abs/2611.08034v1</link>
+      <guid>a34d114cd035b1a2</guid>
+      <description>Spatial-mode demultiplexing (SPADE) has made significant progress in incoherent optical imaging and has been implemented through various experimental approaches. Holography-based SPADE is widely used in proof-of-principle experiments because of its low cost, stable optical arrangement, and ease of implementation.</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Emergent Incompressibility in Polariton Condensates for Scalable XY Spin Simulation</title>
-      <link>http://arxiv.org/abs/2611.05782v1</link>
-      <guid>5d9a30e456bfda1c</guid>
-      <description>Driven-dissipative polariton networks offer a powerful analog platform for simulating continuous-spin Hamiltonians. However, their practical scalability is fundamentally limited by amplitude-phase coupling and metastable trapping in highly frustrated energy landscapes.</description>
+      <title>Higher-order topological quantum battery</title>
+      <link>http://arxiv.org/abs/2611.07401v1</link>
+      <guid>4c06e54a2d40b060</guid>
+      <description>A quantum battery is a next-generation energy-storage device that exploits genuinely quantum properties such as superposition and coherence. We propose a second-order topological quantum battery coupled to a photonic crystal described by the breathing-Kagome model, where optical loss is present on all lattice sites while nonlinear gains are introduced selectively at the output sites.</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dithered Belief Propagation for Real-Time Quantum Memory Decoding</title>
+      <link>http://arxiv.org/abs/2611.07144v1</link>
+      <guid>f833e68582760b3b</guid>
+      <description>We introduce dithered belief-propagation decoding for circuit-level quantum memory to mitigate the oscillations and trapping behavior that limit standard belief-propagation (BP) decoders for qLDPC codes. Our approach combines a quantum-adapted sign-flip mechanism with chained randomized prior perturbation.</description>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -97,53 +139,11 @@
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Practical limitations on robustness and scalability of quantum Internet</title>
-      <link>https://doi.org/10.1007/s11128-026-05312-z</link>
-      <guid>dec3f8004747ab3a</guid>
-      <description>Abstract The realization of a desirably functional quantum Internet is hindered by fundamental and practical challenges such as high loss during transmission of quantum systems, decoherence due to interaction with the environment, and fragility of quantum states under measurement. We study the implications of these constraints by analyzing the limitations on the scaling and robustness of the quantum Internet.</description>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Common phenomenal and neural substrate geometry in visual motion perception</title>
-      <link>https://doi.org/10.1016/j.neuroimage.2026.122313</link>
-      <guid>c7746b9982fe5dc0</guid>
-      <description>Abstract What is a possible physical substrate of the qualitative aspects of consciousness (qualia)? Answering this question is a central goal of consciousness research. Due to their subjective and ineffable nature, finding a quantitative way to characterise qualia from verbal description has thus far proven elusive.</description>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quantum machine learning for quantitative finance</title>
-      <link>https://doi.org/10.1088/2058-9565/aeb8ed</link>
-      <guid>80cf704b281e5d4a</guid>
-      <description>Abstract Machine learning (ML) and quantum ML (QML) have gained significant importance, as they offer powerful tools for tackling complex computational problems across various domains. An overview of QML’s uses in quantitative finance is presented here.</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attention Renders Sensory Contents into Conscious State via Content-invariant Frontal-Posterior Coupling in Humans</title>
-      <link>https://doi.org/10.21203/rs.3.rs-10945410/v1</link>
-      <guid>e60b4f1897e2ce89</guid>
-      <description>Abstract Although attention promotes conscious perception, how it does so remains unclear. Human neuroimaging research has richly characterized attentional modulation upon visual processing, yet it remains unclear which of its components act as precursors of consciousness, which constitute consciousness itself, and which merely reflect post-perceptual, response-related operations.</description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OUCH: Objective, Uniform, Controlled Haptic Stimulation for Automated Neurological Assessment</title>
-      <link>http://arxiv.org/abs/2611.05741v1</link>
-      <guid>25fdbbd466da106e</guid>
-      <description>Motor responses evoked by noxious stimulation are used to assess neurological function in hospitalized patients with disorders of consciousness. In standard bedside assessments, these stimuli are applied manually, resulting in substantial variation in force, duration, frequency, and location.</description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Primary intraosseous anesthesia versus inferior alveolar nerve block for mandibular teeth with symptomatic irreversible pulpitis: a systematic review and meta-analysis.</title>
-      <link>https://europepmc.org/article/MED/42971464</link>
-      <guid>37f1c92c609fcdf9</guid>
-      <description>New work indexed under “Primary intraosseous anesthesia versus inferior alveolar nerve block for mandibular teeth with symptomatic irreversible pulpitis: a systematic review and meta-analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Spontaneous Disentanglement Hypothesis and Causality</title>
-      <link>https://doi.org/10.1002/qute.70526</link>
-      <guid>b1a0ca15d41550c5</guid>
-      <description>ABSTRACT The hypothesis that disentanglement spontaneously occurs in quantum systems is motivated by some outstanding issues in the foundations of quantum mechanics. However, for some cases, spontaneous disentanglement enables the violation of the causality principle.</description>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <title>The Basis of Physics</title>
+      <link>https://doi.org/10.67291/whom6253</link>
+      <guid>9467ac8333bf45a2</guid>
+      <description>SHA-256 of the PDF of this edition: d98c4ea149242b657268f72b3f888c3bb8bf449e37b82c90ff6724489071b5a0</description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "title": "The latest signal",
   "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Quantum physics, Neuroscience. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
@@ -9,26 +9,26 @@
       "title": "Effects of auditory sensory stimulation on consciousness and physiological parameters among individuals with disorders of consciousness: a systematic review and meta-analysis",
       "why_it_matters": "Objective To systematically evaluate the effects of auditory sensory stimulation (SS) on consciousness levels and physiological parameters in patients with disorders of consciousness (DOC). Furthermore, this study aimed to explore intervention characteristics based on the frequency, intensity, time, and type (FITT) framework that may influence treatment effects and to investigate potential sources of between-study heterogeneity.",
       "url": "https://doi.org/10.3389/fnins.2026.1879145",
-      "signal_score": 65,
+      "signal_score": 64,
       "evidence_label": "Review"
     },
     {
       "domain": "quantum",
       "domain_label": "Quantum physics",
-      "title": "Hardware Demonstration of Neural-Surrogated Quantum-Enhanced MCMC for Large-Scale Constrained Boltzmann Sampling",
-      "why_it_matters": "Neural-surrogated quantum-enhanced Markov chain Monte Carlo (QeMCMC) uses neural networks trained on samples from the quantum approximate optimization algorithm (QAOA) to accelerate Boltzmann sampling. A divide-and-conquer strategy extends this approach to larger systems, but independently optimizing QAOA parameters for each subproblem is costly.",
-      "url": "http://arxiv.org/abs/2611.05883v1",
-      "signal_score": 60,
-      "evidence_label": "Preprint"
+      "title": "Quantum tomography of fermion pairs in e + e − collisions: Longitudinal beam polarization effects",
+      "why_it_matters": "We present a quantum tomography study of fermion pair production at future $e^+e^-$ colliders, emphasizing how longitudinal beam polarization controls the two-qubit spin density matrix. We study the processes $e^+ e^- \\to t\\bar{t},\\ e^+e^-\\to μ^+μ^-$ and Bhabha scattering $e^+e^-\\to e^+e^-$, representing the mass threshold behavior, the $Z$ pole resonance and the $s/t$-channel interplay.",
+      "url": "https://doi.org/10.1103/l5x9-z6zh",
+      "signal_score": 63,
+      "evidence_label": "Journal article"
     },
     {
       "domain": "neuroscience",
       "domain_label": "Neuroscience",
-      "title": "Ontology-constrained multi-LLM scoring of hypothesis support in the predictive processing literature",
-      "why_it_matters": "Abstract Fragmentation is common in interdisciplinary fields with diverse methods and theoretical commitments. Predictive coding neuroscience is a clear example: its literature spans computational theory, electrophysiology, imaging, behavior, and modeling, creating a synthesis problem that conventional meta-analysis cannot easily resolve.",
-      "url": "https://doi.org/10.1038/s41598-026-77038-y",
+      "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
+      "why_it_matters": "Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, not what it outputs. Experiments see that law only through finite, partial and noisy interventions.",
+      "url": "http://arxiv.org/abs/2611.08469v1",
       "signal_score": 60,
-      "evidence_label": "Journal article"
+      "evidence_label": "Preprint"
     }
   ]
 }
