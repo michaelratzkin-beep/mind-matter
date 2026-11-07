@@ -1,25 +1,25 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "title": "The latest signal",
-  "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Quantum physics, Neuroscience. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
+  "overview": "Today’s index contains 240 recent records. The strongest signals span Quantum physics, Consciousness / philosophy, Neuroscience. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
-    {
-      "domain": "consciousness",
-      "domain_label": "Consciousness / philosophy",
-      "title": "Effects of auditory sensory stimulation on consciousness and physiological parameters among individuals with disorders of consciousness: a systematic review and meta-analysis",
-      "why_it_matters": "Objective To systematically evaluate the effects of auditory sensory stimulation (SS) on consciousness levels and physiological parameters in patients with disorders of consciousness (DOC). Furthermore, this study aimed to explore intervention characteristics based on the frequency, intensity, time, and type (FITT) framework that may influence treatment effects and to investigate potential sources of between-study heterogeneity.",
-      "url": "https://doi.org/10.3389/fnins.2026.1879145",
-      "signal_score": 64,
-      "evidence_label": "Review"
-    },
     {
       "domain": "quantum",
       "domain_label": "Quantum physics",
       "title": "Quantum tomography of fermion pairs in e + e − collisions: Longitudinal beam polarization effects",
       "why_it_matters": "We present a quantum tomography study of fermion pair production at future $e^+e^-$ colliders, emphasizing how longitudinal beam polarization controls the two-qubit spin density matrix. We study the processes $e^+ e^- \\to t\\bar{t},\\ e^+e^-\\to μ^+μ^-$ and Bhabha scattering $e^+e^-\\to e^+e^-$, representing the mass threshold behavior, the $Z$ pole resonance and the $s/t$-channel interplay.",
       "url": "https://doi.org/10.1103/l5x9-z6zh",
-      "signal_score": 63,
+      "signal_score": 71,
       "evidence_label": "Journal article"
+    },
+    {
+      "domain": "consciousness",
+      "domain_label": "Consciousness / philosophy",
+      "title": "Effects of auditory sensory stimulation on consciousness and physiological parameters among individuals with disorders of consciousness: a systematic review and meta-analysis",
+      "why_it_matters": "Objective To systematically evaluate the effects of auditory sensory stimulation (SS) on consciousness levels and physiological parameters in patients with disorders of consciousness (DOC). Furthermore, this study aimed to explore intervention characteristics based on the frequency, intensity, time, and type (FITT) framework that may influence treatment effects and to investigate potential sources of between-study heterogeneity.",
+      "url": "https://doi.org/10.3389/fnins.2026.1879145",
+      "signal_score": 62,
+      "evidence_label": "Review"
     },
     {
       "domain": "neuroscience",
@@ -27,7 +27,7 @@
       "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
       "why_it_matters": "Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, not what it outputs. Experiments see that law only through finite, partial and noisy interventions.",
       "url": "http://arxiv.org/abs/2611.08469v1",
-      "signal_score": 60,
+      "signal_score": 59,
       "evidence_label": "Preprint"
     }
   ]

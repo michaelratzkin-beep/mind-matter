@@ -4,7 +4,14 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Fri, 06 Nov 2026 19:17:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 17:43:14 +0000</lastBuildDate>
+    <item>
+      <title>Quantum tomography of fermion pairs in e + e − collisions: Longitudinal beam polarization effects</title>
+      <link>https://doi.org/10.1103/l5x9-z6zh</link>
+      <guid>15e55ab61d326824</guid>
+      <description>We present a quantum tomography study of fermion pair production at future $e^+e^-$ colliders, emphasizing how longitudinal beam polarization controls the two-qubit spin density matrix. We study the processes $e^+ e^- \to t\bar{t},\ e^+e^-\to μ^+μ^-$ and Bhabha scattering $e^+e^-\to e^+e^-$, representing the mass threshold behavior, the $Z$ pole resonance and the $s/t$-channel interplay.</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Effects of auditory sensory stimulation on consciousness and physiological parameters among individuals with disorders of consciousness: a systematic review and meta-analysis</title>
       <link>https://doi.org/10.3389/fnins.2026.1879145</link>
@@ -13,10 +20,10 @@
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Quantum tomography of fermion pairs in e + e − collisions: Longitudinal beam polarization effects</title>
-      <link>https://doi.org/10.1103/l5x9-z6zh</link>
-      <guid>15e55ab61d326824</guid>
-      <description>We present a quantum tomography study of fermion pair production at future $e^+e^-$ colliders, emphasizing how longitudinal beam polarization controls the two-qubit spin density matrix. We study the processes $e^+ e^- \to t\bar{t},\ e^+e^-\to μ^+μ^-$ and Bhabha scattering $e^+e^-\to e^+e^-$, representing the mass threshold behavior, the $Z$ pole resonance and the $s/t$-channel interplay.</description>
+      <title>Measurement-informed dynamical decoupling for fidelity preservation on large-scale quantum processors</title>
+      <link>https://doi.org/10.1103/jp17-mvpr</link>
+      <guid>ee5734e88afa82c8</guid>
+      <description>Dynamical decoupling (DD) is a key technique for suppressing decoherence and preserving the performance of quantum algorithms. We introduce a measurement-based DD (MDD) protocol that determines control unitary gates from partial measurements of noisy subsystems, with measurement overhead scaling linearly with the number of subsystems.</description>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -32,6 +39,20 @@
       <guid>ed2e8f7d360af732</guid>
       <description>Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, not what it outputs. Experiments see that law only through finite, partial and noisy interventions.</description>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Physical predictions in closed quantum gravity</title>
+      <link>https://doi.org/10.1007/jhep11(2026)030</link>
+      <guid>95cf26a870b7a09e</guid>
+      <description>A bstract Recent developments in gravitational path integrals indicate that the nonperturbative physical Hilbert space of a closed universe is one-dimensional within each superselection sector. This raises a basic puzzle: how can a unique quantum-gravity state give rise to semiclassical physics, measurement outcomes, and classical probabilities?</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum algorithms</title>
+      <link>https://doi.org/10.1201/9781003536390-4</link>
+      <guid>a1be64b8c8340312</guid>
+      <description>This chapter highlights quantum algorithms as a gate-based computational framework that exploits superposition, entanglement, and phase-coherent interference to realize demonstrable complexity reductions on selected problems. It begins by formally distinguishing quantum algorithms from classical deterministic and randomized computation through reversible unitary evolution, oracle-based problem access, and the measurement constraint that collapses quantum state information, thereby motivating amplitude-engineering…</description>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Machine Learning</title>
@@ -62,18 +83,39 @@
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Measurement-informed dynamical decoupling for fidelity preservation on large-scale quantum processors</title>
-      <link>https://doi.org/10.1103/jp17-mvpr</link>
-      <guid>ee5734e88afa82c8</guid>
-      <description>Dynamical decoupling (DD) is a key technique for suppressing decoherence and preserving the performance of quantum algorithms. We introduce a measurement-based DD (MDD) protocol that determines control unitary gates from partial measurements of noisy subsystems, with measurement overhead scaling linearly with the number of subsystems.</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Digital engineering for quantum communication networks: A systematic review of models, simulators, and testbeds</title>
       <link>https://doi.org/10.1016/j.dte.2026.100149</link>
       <guid>8c9de82228b9baa2</guid>
       <description>Research on quantum communication networks has grown rapidly in recent years, driven by progress in quantum devices, simulators, and experimental testbeds. As these systems become more complex, there is increasing interest in digital methods that can support analysis, prediction, and performance assessment without relying exclusively on physical experimentation.</description>
       <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Common phenomenal and neural substrate geometry in visual motion perception</title>
+      <link>https://doi.org/10.1016/j.neuroimage.2026.122313</link>
+      <guid>c7746b9982fe5dc0</guid>
+      <description>Abstract What is a possible physical substrate of the qualitative aspects of consciousness (qualia)? Answering this question is a central goal of consciousness research. Due to their subjective and ineffable nature, finding a quantitative way to characterise qualia from verbal description has thus far proven elusive.</description>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How many labels can a biological oscillator carry? A quality-factor screen for proposed information carriers</title>
+      <link>https://doi.org/10.1016/j.biosystems.2026.106004</link>
+      <guid>9fc79b4690035914</guid>
+      <description>How many distinguishable labels can a biological oscillator carry? Proposals invoking collective vibrational modes, endogenous electromagnetic fields, microtubule excitations and oscillatory phase codes are each debated on grounds particular to themselves, with no shared standard for comparison.</description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Practical limitations on robustness and scalability of quantum Internet</title>
+      <link>https://doi.org/10.1007/s11128-026-05312-z</link>
+      <guid>dec3f8004747ab3a</guid>
+      <description>Abstract The realization of a desirably functional quantum Internet is hindered by fundamental and practical challenges such as high loss during transmission of quantum systems, decoherence due to interaction with the environment, and fragility of quantum states under measurement. We study the implications of these constraints by analyzing the limitations on the scaling and robustness of the quantum Internet.</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Parameter-Shift Rules for Gradients in Boson Sampling Experiments</title>
+      <link>https://doi.org/10.1088/2058-9565/aebe63</link>
+      <guid>99d6124410793d78</guid>
+      <description>Abstract Using a robust photon loss model for photonic quantum experiments, we derive $n-$th order parameter-shift rules for computing gradients of Fock boson sampling transition probabilities where $n$ photons are sent into a lossy interferometer. We also show that one cannot naturally generalize this gradient recipe to the case of Gaussian boson sampling.</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>DiffSequence-Q: Diffusion Design with Quantum Assistance for Biologically Active Proteins</title>
@@ -102,48 +144,6 @@
       <guid>a34d114cd035b1a2</guid>
       <description>Spatial-mode demultiplexing (SPADE) has made significant progress in incoherent optical imaging and has been implemented through various experimental approaches. Holography-based SPADE is widely used in proof-of-principle experiments because of its low cost, stable optical arrangement, and ease of implementation.</description>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Higher-order topological quantum battery</title>
-      <link>http://arxiv.org/abs/2611.07401v1</link>
-      <guid>4c06e54a2d40b060</guid>
-      <description>A quantum battery is a next-generation energy-storage device that exploits genuinely quantum properties such as superposition and coherence. We propose a second-order topological quantum battery coupled to a photonic crystal described by the breathing-Kagome model, where optical loss is present on all lattice sites while nonlinear gains are introduced selectively at the output sites.</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dithered Belief Propagation for Real-Time Quantum Memory Decoding</title>
-      <link>http://arxiv.org/abs/2611.07144v1</link>
-      <guid>f833e68582760b3b</guid>
-      <description>We introduce dithered belief-propagation decoding for circuit-level quantum memory to mitigate the oscillations and trapping behavior that limit standard belief-propagation (BP) decoders for qLDPC codes. Our approach combines a quantum-adapted sign-flip mechanism with chained randomized prior perturbation.</description>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Time-Division Multiplexing: The Operational Rhythm and Temporal Organization Layer of Digital Life</title>
-      <link>http://arxiv.org/abs/2611.06603v1</link>
-      <guid>bd582558d34d3a62</guid>
-      <description>Continual agents must handle urgent interaction while retaining alternatives, replaying errors, and committing safe long-term changes. A previous digital-life framework distinguishes online (busy) and offline (idle) channels, but leaves open whether these are separate programs or phases of a common process and how their operations should be ordered.</description>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The consciousness-first commitment of integrated information theory.</title>
-      <link>https://europepmc.org/article/MED/42974390</link>
-      <guid>928d5bddeadcf2dd</guid>
-      <description>New work indexed under “The consciousness-first commitment of integrated information theory..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Overcoming essentialism: evaluation of theories of consciousness by the lawful regularities they predict.</title>
-      <link>https://europepmc.org/article/MED/42974117</link>
-      <guid>e8b57260b507dea0</guid>
-      <description>New work indexed under “Overcoming essentialism: evaluation of theories of consciousness by the lawful regularities they predict..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Basis of Physics</title>
-      <link>https://doi.org/10.67291/whom6253</link>
-      <guid>9467ac8333bf45a2</guid>
-      <description>SHA-256 of the PDF of this edition: d98c4ea149242b657268f72b3f888c3bb8bf449e37b82c90ff6724489071b5a0</description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
