@@ -4,7 +4,7 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Sat, 07 Nov 2026 17:43:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 17:53:11 +0000</lastBuildDate>
     <item>
       <title>Quantum tomography of fermion pairs in e + e − collisions: Longitudinal beam polarization effects</title>
       <link>https://doi.org/10.1103/l5x9-z6zh</link>
@@ -97,6 +97,13 @@
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>From William James's Transmission Theory to the Ben-Yehudah Transducer Model: Consciousness Beyond the Brain and the Question of Biological Reception</title>
+      <link>https://doi.org/10.5281/zenodo.24040760</link>
+      <guid>0caa3184c0238c7f</guid>
+      <description>From William James's Transmission Theory to the Ben-Yehudah Transducer Model: Consciousness Beyond the Brain and the Question of Biological Reception This scientific, historical, and theoretical manuscript examines the relationship between William James's transmission hypothesis of consciousness and Yeshayahu Ben-Yehudah's independent investigation of SOURCE CONSCIOUSNESS, biological reception, and the Ben-Yehudah Transducer Model. The investigation begins with James's 1898 publication, Human Immortality: Two…</description>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How many labels can a biological oscillator carry? A quality-factor screen for proposed information carriers</title>
       <link>https://doi.org/10.1016/j.biosystems.2026.106004</link>
       <guid>9fc79b4690035914</guid>
@@ -109,13 +116,6 @@
       <guid>dec3f8004747ab3a</guid>
       <description>Abstract The realization of a desirably functional quantum Internet is hindered by fundamental and practical challenges such as high loss during transmission of quantum systems, decoherence due to interaction with the environment, and fragility of quantum states under measurement. We study the implications of these constraints by analyzing the limitations on the scaling and robustness of the quantum Internet.</description>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Parameter-Shift Rules for Gradients in Boson Sampling Experiments</title>
-      <link>https://doi.org/10.1088/2058-9565/aebe63</link>
-      <guid>99d6124410793d78</guid>
-      <description>Abstract Using a robust photon loss model for photonic quantum experiments, we derive $n-$th order parameter-shift rules for computing gradients of Fock boson sampling transition probabilities where $n$ photons are sent into a lossy interferometer. We also show that one cannot naturally generalize this gradient recipe to the case of Gaussian boson sampling.</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>DiffSequence-Q: Diffusion Design with Quantum Assistance for Biologically Active Proteins</title>
