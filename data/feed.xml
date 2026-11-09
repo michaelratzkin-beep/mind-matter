@@ -4,7 +4,7 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Sun, 08 Nov 2026 17:53:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 22:15:05 +0000</lastBuildDate>
     <item>
       <title>Quantum tomography of fermion pairs in e + e − collisions: Longitudinal beam polarization effects</title>
       <link>https://doi.org/10.1103/l5x9-z6zh</link>
@@ -27,11 +27,18 @@
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Causality Without Determinism</title>
-      <link>https://doi.org/10.67291/fvth8832</link>
-      <guid>a13c483be0893929</guid>
-      <description>SHA-256 of the PDF of this edition: a020d0c88b545a3e11c8557342162cdbb15a020d2c2361de3c361029e1cee264</description>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Evaluation of Quantum Machine Learning Models for Network Anomaly Detection</title>
+      <link>http://arxiv.org/abs/2611.09253v1</link>
+      <guid>c3873f6c341ce4cf</guid>
+      <description>The proliferation of Internet-connected devices has intensified the risk of large-scale network intrusions, necessitating more advanced detection methodologies for the post quantum era. This work presents, to the best of our knowledge, a com- prehensive investigation of quantum machine learning (QML) for anomaly detection on the BoT-IoT dataset, a widely adopted benchmark for IoT security.</description>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Efficacy and safety of conscious/deep sedation versus general anesthesia in pulsed field ablation for atrial fibrillation: a systematic review and meta-analysis</title>
+      <link>https://europepmc.org/article/PMC/PMC13741799</link>
+      <guid>cb01d0e239703c41</guid>
+      <description>New work indexed under “Efficacy and safety of conscious/deep sedation versus general anesthesia in pulsed field ablation for atrial fibrillation: a systematic review and meta-analysis.” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information</title>
@@ -45,6 +52,13 @@
       <link>https://doi.org/10.1007/jhep11(2026)030</link>
       <guid>95cf26a870b7a09e</guid>
       <description>A bstract Recent developments in gravitational path integrals indicate that the nonperturbative physical Hilbert space of a closed universe is one-dimensional within each superselection sector. This raises a basic puzzle: how can a unique quantum-gravity state give rise to semiclassical physics, measurement outcomes, and classical probabilities?</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Causality Without Determinism</title>
+      <link>https://doi.org/10.67291/fvth8832</link>
+      <guid>a13c483be0893929</guid>
+      <description>SHA-256 of the PDF of this edition: a020d0c88b545a3e11c8557342162cdbb15a020d2c2361de3c361029e1cee264</description>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -104,6 +118,20 @@
       <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Optimal Separations Between Randomized and Quantum Query Complexity under Permutation Symmetry</title>
+      <link>http://arxiv.org/abs/2611.08919v1</link>
+      <guid>841da9f3d93b17ab</guid>
+      <description>A function $f:\cD\subseteq A^N\to\{0,1\}$ is \emph{permutation-invariant} if every permutation of its input positions preserves both its domain and its value. We study how this symmetry limits quantum speedups.</description>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comparison of Spinal Anesthesia Against General Anesthesia for Surgical Management of Hip Fracture Patients: A Meta-Analysis of Randomized Controlled Trials.</title>
+      <link>https://europepmc.org/article/MED/42993132</link>
+      <guid>aa6141994e7e4fa8</guid>
+      <description>New work indexed under “Comparison of Spinal Anesthesia Against General Anesthesia for Surgical Management of Hip Fracture Patients: A Meta-Analysis of Randomized Controlled Trials..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How many labels can a biological oscillator carry? A quality-factor screen for proposed information carriers</title>
       <link>https://doi.org/10.1016/j.biosystems.2026.106004</link>
       <guid>9fc79b4690035914</guid>
@@ -116,34 +144,6 @@
       <guid>dec3f8004747ab3a</guid>
       <description>Abstract The realization of a desirably functional quantum Internet is hindered by fundamental and practical challenges such as high loss during transmission of quantum systems, decoherence due to interaction with the environment, and fragility of quantum states under measurement. We study the implications of these constraints by analyzing the limitations on the scaling and robustness of the quantum Internet.</description>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DiffSequence-Q: Diffusion Design with Quantum Assistance for Biologically Active Proteins</title>
-      <link>http://arxiv.org/abs/2611.08434v1</link>
-      <guid>f35a2ced915f914d</guid>
-      <description>Designing protein sequences that satisfy both secondary structure requirements and solubility targets remains challenging. We present DiffSequence-Q, a hybrid multinomial diffusion model conditioned on secondary structure at each residue and a continuous solubility target.</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quantum Fourier integration of decay rates at next-to-leading order</title>
-      <link>http://arxiv.org/abs/2611.08204v1</link>
-      <guid>e8e45250501ef088</guid>
-      <description>We discuss the use of quantum neural networks (QNNs) as a tool for integrating decay rates at next-to-leading order (NLO) in perturbation theory. Data-encoding quantum circuits admit a truncated Fourier-series representation, enabling a trained QNN to approximate a target integrand and provide the coefficients subsequently integrated with Quantum Fourier Iterative Amplitude Estimation (QFIAE).</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Accelerating Quantum-Classical Auxiliary-Field Quantum Monte Carlo with Shadow-Trained Neural Quantum States</title>
-      <link>http://arxiv.org/abs/2611.08129v1</link>
-      <guid>0e0121ceca818358</guid>
-      <description>Quantum-classical auxiliary-field quantum Monte Carlo (QC-AFQMC) uses a trial state prepared on a quantum computer to improve the accuracy of the classical AFQMC algorithm. State-of-the-art QC-AFQMC represents this state with matchgate shadows, so every trial-walker overlap and local energy must be averaged over many snapshots, making this classical computation a bottleneck.</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Approaching quantum limits in sub-Rayleigh resolution using phase modulation optimization</title>
-      <link>http://arxiv.org/abs/2611.08034v1</link>
-      <guid>a34d114cd035b1a2</guid>
-      <description>Spatial-mode demultiplexing (SPADE) has made significant progress in incoherent optical imaging and has been implemented through various experimental approaches. Holography-based SPADE is widely used in proof-of-principle experiments because of its low cost, stable optical arrangement, and ease of implementation.</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

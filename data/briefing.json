@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "title": "The latest signal",
   "overview": "Today’s index contains 240 recent records. The strongest signals span Quantum physics, Consciousness / philosophy, Neuroscience. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
@@ -9,7 +9,7 @@
       "title": "Quantum tomography of fermion pairs in e + e − collisions: Longitudinal beam polarization effects",
       "why_it_matters": "We present a quantum tomography study of fermion pair production at future $e^+e^-$ colliders, emphasizing how longitudinal beam polarization controls the two-qubit spin density matrix. We study the processes $e^+ e^- \\to t\\bar{t},\\ e^+e^-\\to μ^+μ^-$ and Bhabha scattering $e^+e^-\\to e^+e^-$, representing the mass threshold behavior, the $Z$ pole resonance and the $s/t$-channel interplay.",
       "url": "https://doi.org/10.1103/l5x9-z6zh",
-      "signal_score": 70,
+      "signal_score": 69,
       "evidence_label": "Journal article"
     },
     {
@@ -18,15 +18,15 @@
       "title": "Effects of auditory sensory stimulation on consciousness and physiological parameters among individuals with disorders of consciousness: a systematic review and meta-analysis",
       "why_it_matters": "Objective To systematically evaluate the effects of auditory sensory stimulation (SS) on consciousness levels and physiological parameters in patients with disorders of consciousness (DOC). Furthermore, this study aimed to explore intervention characteristics based on the frequency, intensity, time, and type (FITT) framework that may influence treatment effects and to investigate potential sources of between-study heterogeneity.",
       "url": "https://doi.org/10.3389/fnins.2026.1879145",
-      "signal_score": 61,
+      "signal_score": 60,
       "evidence_label": "Review"
     },
     {
       "domain": "neuroscience",
       "domain_label": "Neuroscience",
-      "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
-      "why_it_matters": "Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, not what it outputs. Experiments see that law only through finite, partial and noisy interventions.",
-      "url": "http://arxiv.org/abs/2611.08469v1",
+      "title": "Evaluation of Quantum Machine Learning Models for Network Anomaly Detection",
+      "why_it_matters": "The proliferation of Internet-connected devices has intensified the risk of large-scale network intrusions, necessitating more advanced detection methodologies for the post quantum era. This work presents, to the best of our knowledge, a com- prehensive investigation of quantum machine learning (QML) for anomaly detection on the BoT-IoT dataset, a widely adopted benchmark for IoT security.",
+      "url": "http://arxiv.org/abs/2611.09253v1",
       "signal_score": 58,
       "evidence_label": "Preprint"
     }
