@@ -4,7 +4,7 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Mon, 09 Nov 2026 22:15:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 19:38:38 +0000</lastBuildDate>
     <item>
       <title>Quantum tomography of fermion pairs in e + e − collisions: Longitudinal beam polarization effects</title>
       <link>https://doi.org/10.1103/l5x9-z6zh</link>
@@ -20,6 +20,13 @@
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Ontology-constrained multi-LLM scoring of hypothesis support in the predictive processing literature</title>
+      <link>https://doi.org/10.1038/s41598-026-77038-y</link>
+      <guid>bc94c7612edf1b84</guid>
+      <description>Abstract Fragmentation is common in interdisciplinary fields with diverse methods and theoretical commitments. Predictive coding neuroscience is a clear example: its literature spans computational theory, electrophysiology, imaging, behavior, and modeling, creating a synthesis problem that conventional meta-analysis cannot easily resolve.</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Measurement-informed dynamical decoupling for fidelity preservation on large-scale quantum processors</title>
       <link>https://doi.org/10.1103/jp17-mvpr</link>
       <guid>ee5734e88afa82c8</guid>
@@ -27,18 +34,18 @@
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Evaluation of Quantum Machine Learning Models for Network Anomaly Detection</title>
-      <link>http://arxiv.org/abs/2611.09253v1</link>
-      <guid>c3873f6c341ce4cf</guid>
-      <description>The proliferation of Internet-connected devices has intensified the risk of large-scale network intrusions, necessitating more advanced detection methodologies for the post quantum era. This work presents, to the best of our knowledge, a com- prehensive investigation of quantum machine learning (QML) for anomaly detection on the BoT-IoT dataset, a widely adopted benchmark for IoT security.</description>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Efficacy and safety of conscious/deep sedation versus general anesthesia in pulsed field ablation for atrial fibrillation: a systematic review and meta-analysis</title>
       <link>https://europepmc.org/article/PMC/PMC13741799</link>
       <guid>cb01d0e239703c41</guid>
       <description>New work indexed under “Efficacy and safety of conscious/deep sedation versus general anesthesia in pulsed field ablation for atrial fibrillation: a systematic review and meta-analysis.” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How many labels can a biological oscillator carry? A quality-factor screen for proposed information carriers</title>
+      <link>https://doi.org/10.1016/j.biosystems.2026.106004</link>
+      <guid>9fc79b4690035914</guid>
+      <description>How many distinguishable labels can a biological oscillator carry? Proposals invoking collective vibrational modes, endogenous electromagnetic fields, microtubule excitations and oscillatory phase codes are each debated on grounds particular to themselves, with no shared standard for comparison.</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information</title>
@@ -83,11 +90,11 @@
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ontology-constrained multi-LLM scoring of hypothesis support in the predictive processing literature</title>
-      <link>https://doi.org/10.1038/s41598-026-77038-y</link>
-      <guid>bc94c7612edf1b84</guid>
-      <description>Abstract Fragmentation is common in interdisciplinary fields with diverse methods and theoretical commitments. Predictive coding neuroscience is a clear example: its literature spans computational theory, electrophysiology, imaging, behavior, and modeling, creating a synthesis problem that conventional meta-analysis cannot easily resolve.</description>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Qualiaphobic artificial neural networks (and why to build them)</title>
+      <link>http://arxiv.org/abs/2611.12809v1</link>
+      <guid>fc3bf537bf5b0798</guid>
+      <description>This paper introduces qualiaphobic AI: artificial neural network architectures that are hostile to theories of consciousness. I show that qualiaphobia can be well-justified by knowledge about theories of consciousness, like when such theories are trivial or unfalsifiable or contradicted by overwhelming scientific evidence.</description>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Association Between Chronic Obstructive Pulmonary Disease and Postoperative Delirium: A Systematic Review and Meta-Analysis</title>
@@ -104,11 +111,25 @@
       <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Practical limitations on robustness and scalability of quantum Internet</title>
+      <link>https://doi.org/10.1007/s11128-026-05312-z</link>
+      <guid>dec3f8004747ab3a</guid>
+      <description>Abstract The realization of a desirably functional quantum Internet is hindered by fundamental and practical challenges such as high loss during transmission of quantum systems, decoherence due to interaction with the environment, and fragility of quantum states under measurement. We study the implications of these constraints by analyzing the limitations on the scaling and robustness of the quantum Internet.</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Common phenomenal and neural substrate geometry in visual motion perception</title>
       <link>https://doi.org/10.1016/j.neuroimage.2026.122313</link>
       <guid>c7746b9982fe5dc0</guid>
       <description>Abstract What is a possible physical substrate of the qualitative aspects of consciousness (qualia)? Answering this question is a central goal of consciousness research. Due to their subjective and ineffable nature, finding a quantitative way to characterise qualia from verbal description has thus far proven elusive.</description>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>One Bit, Many Records: Information Replication in Quantum Many-Body Dynamics</title>
+      <link>http://arxiv.org/abs/2611.11446v1</link>
+      <guid>8d5661add7d921d4</guid>
+      <description>Information replication occurs when a single locally encoded classical bit becomes simultaneously readable across extensively many disjoint regions of a quantum many-body system. Here we identify dynamical selection as a mechanism for generating these records, whereby an unperturbed nonthermal reference remains locally recognizable while its locally perturbed counterpart spreads and relaxes under the same Hamiltonian.</description>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>From William James's Transmission Theory to the Ben-Yehudah Transducer Model: Consciousness Beyond the Brain and the Question of Biological Reception</title>
@@ -118,32 +139,11 @@
       <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Optimal Separations Between Randomized and Quantum Query Complexity under Permutation Symmetry</title>
-      <link>http://arxiv.org/abs/2611.08919v1</link>
-      <guid>841da9f3d93b17ab</guid>
-      <description>A function $f:\cD\subseteq A^N\to\{0,1\}$ is \emph{permutation-invariant} if every permutation of its input positions preserves both its domain and its value. We study how this symmetry limits quantum speedups.</description>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Comparison of Spinal Anesthesia Against General Anesthesia for Surgical Management of Hip Fracture Patients: A Meta-Analysis of Randomized Controlled Trials.</title>
       <link>https://europepmc.org/article/MED/42993132</link>
       <guid>aa6141994e7e4fa8</guid>
       <description>New work indexed under “Comparison of Spinal Anesthesia Against General Anesthesia for Surgical Management of Hip Fracture Patients: A Meta-Analysis of Randomized Controlled Trials..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How many labels can a biological oscillator carry? A quality-factor screen for proposed information carriers</title>
-      <link>https://doi.org/10.1016/j.biosystems.2026.106004</link>
-      <guid>9fc79b4690035914</guid>
-      <description>How many distinguishable labels can a biological oscillator carry? Proposals invoking collective vibrational modes, endogenous electromagnetic fields, microtubule excitations and oscillatory phase codes are each debated on grounds particular to themselves, with no shared standard for comparison.</description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Practical limitations on robustness and scalability of quantum Internet</title>
-      <link>https://doi.org/10.1007/s11128-026-05312-z</link>
-      <guid>dec3f8004747ab3a</guid>
-      <description>Abstract The realization of a desirably functional quantum Internet is hindered by fundamental and practical challenges such as high loss during transmission of quantum systems, decoherence due to interaction with the environment, and fragility of quantum states under measurement. We study the implications of these constraints by analyzing the limitations on the scaling and robustness of the quantum Internet.</description>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
