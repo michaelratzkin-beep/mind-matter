@@ -4,7 +4,7 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Thu, 12 Nov 2026 19:50:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 19:34:26 +0000</lastBuildDate>
     <item>
       <title>Effects of auditory sensory stimulation on consciousness and physiological parameters among individuals with disorders of consciousness: a systematic review and meta-analysis</title>
       <link>https://europepmc.org/article/PMC/PMC13751540</link>
@@ -18,6 +18,34 @@
       <guid>15e55ab61d326824</guid>
       <description>We present a quantum tomography study of fermion pair production at future $e^+e^-$ colliders, emphasizing how longitudinal beam polarization controls the two-qubit spin density matrix. We study the processes $e^+ e^- \to t\bar{t},\ e^+e^-\to μ^+μ^-$ and Bhabha scattering $e^+e^-\to e^+e^-$, representing the mass threshold behavior, the $Z$ pole resonance and the $s/t$-channel interplay.</description>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>100 ± Δ t years of quantum uncertainty: From origins to modern insights</title>
+      <link>https://doi.org/10.1103/tv7g-jcnk</link>
+      <guid>f8496c700cf1b3a6</guid>
+      <description>Heisenberg's uncertainty principle is a cornerstone of quantum mechanics, marking a decisive departure from classical physics. Conceived almost a century ago through a thought experiment showing that measuring an electron's position inevitably disturbs its momentum, it began as a deceptively simple idea that sparked countless studies and grew into the rich research field it is today.</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Therapeutic communication: avoidance of negative influences and application of beneficial suggestions in anesthesia and intensive care, emergency, and pain medicine</title>
+      <link>https://doi.org/10.3389/fmed.2026.1974360</link>
+      <guid>2febd7cbfb0a1b16</guid>
+      <description>In anesthesia, and in emergency and intensive care medicine a “therapeutic communication” with the patient is needed that exceeds mere information exchange and that supports patient and treatment. First, ever-present nocebo effects and negative suggestions must be avoided or neutralized.</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Causality Without Determinism: Free Will, Measurement and Mind</title>
+      <link>https://doi.org/10.67291/fvth8832</link>
+      <guid>a13c483be0893929</guid>
+      <description>SHA-256 of the PDF of this edition: a020d0c88b545a3e11c8557342162cdbb15a020d2c2361de3c361029e1cee264</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Body in memory: the role of bodily self-consciousness in episodic memory and autonoetic consciousness</title>
+      <link>https://doi.org/10.1098/rstb.2025.0167</link>
+      <guid>d91518bf99aa2ee0</guid>
+      <description>Episodic memory (EM) enables the conscious recollection of personally experienced events, including contextual features such as visual, auditory and emotional details. However, the role of bodily signals has been largely neglected in EM, although the observer's body provides a rich bodily context during the encoding, storage and recall of events, and has recently been associated with a bodily form of self-consciousness (bodily self-consciousness; BSC).</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Does Total Knowledge Mute Emotion? A Thought Experiment using Large Language Models</title>
@@ -58,15 +86,8 @@
       <title>Effects of auditory sensory stimulation on consciousness and physiological parameters among individuals with disorders of consciousness: a systematic review and meta-analysis</title>
       <link>https://doi.org/10.3389/fnins.2026.1879145</link>
       <guid>47222f2d66b422c1</guid>
-      <description>Objective To systematically evaluate the effects of auditory sensory stimulation (SS) on consciousness levels and physiological parameters in patients with disorders of consciousness (DOC). Furthermore, this study aimed to explore intervention characteristics based on the frequency, intensity, time, and type (FITT) framework that may influence treatment effects and to investigate potential sources of between-study heterogeneity.</description>
+      <description>Objective: To systematically evaluate the effects of auditory sensory stimulation (SS) on consciousness levels and physiological parameters in patients with disorders of consciousness (DOC). Furthermore, this study aimed to explore intervention characteristics based on the frequency, intensity, time, and type (FITT) framework that may influence treatment effects and to investigate potential sources of between-study heterogeneity.</description>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Intravenous Paracetamol for Perioperative Shivering Prophylaxis in Patients Undergoing Spinal Anesthesia: A Prospective, Randomized, Double-Blind Controlled Trial.</title>
-      <link>https://europepmc.org/article/MED/43011396</link>
-      <guid>b269695d5683f186</guid>
-      <description>New work indexed under “Intravenous Paracetamol for Perioperative Shivering Prophylaxis in Patients Undergoing Spinal Anesthesia: A Prospective, Randomized, Double-Blind Controlled Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ontology-constrained multi-LLM scoring of hypothesis support in the predictive processing literature</title>
@@ -74,6 +95,41 @@
       <guid>bc94c7612edf1b84</guid>
       <description>Fragmentation is common in interdisciplinary fields with diverse methods and theoretical commitments. Predictive coding neuroscience is a clear example: its literature spans computational theory, electrophysiology, imaging, behavior, and modeling, creating a synthesis problem that conventional meta-analysis cannot easily resolve.</description>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Long-lived light-driven bimagnons at finite momentum in NiO</title>
+      <link>http://arxiv.org/abs/2611.17335v1</link>
+      <guid>4c05f2cf0cf3a8f6</guid>
+      <description>Light can manipulate magnetic order and its excitations on ultrafast timescales, including through resonantly driven phonons. In antiferromagnets, light can also create correlated magnon pairs, or bimagnons.</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Generalized ladder operators and construction of families of superintegrable systems with Painlevé VI</title>
+      <link>http://arxiv.org/abs/2611.17117v1</link>
+      <guid>6a5849a9ba40fb87</guid>
+      <description>We study quantum Hamiltonians whose separated angular component is expressed through a generic Painlevé VI transcendent. We construct generalized ladder operators for one-dimensional Schrödinger operators with a quadratic spectral variable.</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ergodicity breaking for data classification in a dissipative Ising model with competing two- and four-body interactions</title>
+      <link>http://arxiv.org/abs/2611.17036v1</link>
+      <guid>f1392aacddc80cc5</guid>
+      <description>We explore the close relationship between the processing of data and the dynamics of interacting many-body systems. For example, certain classes of quantum neural networks can be mapped onto dissipative quantum Ising models whose evolution is described by a Lindblad master equation.</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learning to control and predict light-driven electron-phonon dynamics</title>
+      <link>http://arxiv.org/abs/2611.16780v1</link>
+      <guid>7abc81dfa6031d22</guid>
+      <description>Driving lattice vibrations provides a direct route to manipulating electronic correlations through nonlinear electron-phonon coupling. Finding suitable driving fields, however, requires control over the coupled dynamics beyond a simple choice of pulse amplitude and frequency.</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Training quantum neural networks one job at a time</title>
+      <link>http://arxiv.org/abs/2611.16365v1</link>
+      <guid>dd4c4705e5a829ca</guid>
+      <description>When a quantum processor is reached through a cloud queue, a variational algorithm pays for every round trip, and a single round trip can carry many circuits. The classical optimizer therefore decides how much is learned per job, not only per shot.</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Topical 15% trichloroacetic acid versus silver nitrate cauterization in the management of idiopathic childhood epistaxis: a prospective randomized clinical trial.</title>
@@ -88,62 +144,6 @@
       <guid>ee5734e88afa82c8</guid>
       <description>Dynamical decoupling (DD) is a key technique for suppressing decoherence and preserving the performance of quantum algorithms. We introduce a measurement-based DD (MDD) protocol that determines control unitary gates from partial measurements of noisy subsystems, with measurement overhead scaling linearly with the number of subsystems.</description>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Impacts of ultra-processed food warning labels on product perceptions and behavioral intentions among Latino adults: A randomized trial.</title>
-      <link>https://europepmc.org/article/MED/43014457</link>
-      <guid>e661b9c5e894f5b1</guid>
-      <description>New work indexed under “Impacts of ultra-processed food warning labels on product perceptions and behavioral intentions among Latino adults: A randomized trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How many labels can a biological oscillator carry? A quality-factor screen for proposed information carriers</title>
-      <link>https://doi.org/10.1016/j.biosystems.2026.106004</link>
-      <guid>9fc79b4690035914</guid>
-      <description>How many distinguishable labels can a biological oscillator carry? Proposals invoking collective vibrational modes, endogenous electromagnetic fields, microtubule excitations and oscillatory phase codes are each debated on grounds particular to themselves, with no shared standard for comparison.</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information</title>
-      <link>http://arxiv.org/abs/2611.08469v1</link>
-      <guid>ed2e8f7d360af732</guid>
-      <description>Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, not what it outputs. Experiments see that law only through finite, partial and noisy interventions.</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Causality Without Determinism: Free Will, Measurement and Mind</title>
-      <link>https://doi.org/10.67291/fvth8832</link>
-      <guid>a13c483be0893929</guid>
-      <description>SHA-256 of the PDF of this edition: a020d0c88b545a3e11c8557342162cdbb15a020d2c2361de3c361029e1cee264</description>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Emotional awareness in children and adolescents with functional somatic disorders: a systematic review.</title>
-      <link>https://europepmc.org/article/MED/43013413</link>
-      <guid>59d49a19e3b4e3ca</guid>
-      <description>New work indexed under “Emotional awareness in children and adolescents with functional somatic disorders: a systematic review..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>In Reply: Weight-scaled remimazolam induction: dose, delivery rate, and time to loss of consciousness.</title>
-      <link>https://europepmc.org/article/MED/43012944</link>
-      <guid>e20b549849b765f9</guid>
-      <description>New work indexed under “In Reply: Weight-scaled remimazolam induction: dose, delivery rate, and time to loss of consciousness..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weight-scaled remimazolam induction: dose, delivery rate, and time to loss of consciousness.</title>
-      <link>https://europepmc.org/article/MED/43012942</link>
-      <guid>18cb2a8fa2e5291c</guid>
-      <description>New work indexed under “Weight-scaled remimazolam induction: dose, delivery rate, and time to loss of consciousness..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Invariance can prevent overfitting and shortcut learning in Quantum Neural Networks</title>
-      <link>http://arxiv.org/abs/2611.14368v1</link>
-      <guid>4ec36e9958605e84</guid>
-      <description>Many image classification tasks have labels that are unchanged by rotations and reflections. Equivariant quantum neural networks incorporate such symmetries by design, but the specific benefit of symmetry is difficult to isolate.</description>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

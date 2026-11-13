@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "title": "The latest signal",
   "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Quantum physics, Neuroscience. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
@@ -9,7 +9,7 @@
       "title": "Effects of auditory sensory stimulation on consciousness and physiological parameters among individuals with disorders of consciousness: a systematic review and meta-analysis",
       "why_it_matters": "New work indexed under “Effects of auditory sensory stimulation on consciousness and physiological parameters among individuals with disorders of consciousness: a systematic review and meta-analysis.” The source did not provide an abstract; read the original before evaluating its claims.",
       "url": "https://europepmc.org/article/PMC/PMC13751540",
-      "signal_score": 69,
+      "signal_score": 68,
       "evidence_label": "Review"
     },
     {
@@ -18,16 +18,16 @@
       "title": "Quantum tomography of fermion pairs in e + e − collisions: Longitudinal beam polarization effects",
       "why_it_matters": "We present a quantum tomography study of fermion pair production at future $e^+e^-$ colliders, emphasizing how longitudinal beam polarization controls the two-qubit spin density matrix. We study the processes $e^+ e^- \\to t\\bar{t},\\ e^+e^-\\to μ^+μ^-$ and Bhabha scattering $e^+e^-\\to e^+e^-$, representing the mass threshold behavior, the $Z$ pole resonance and the $s/t$-channel interplay.",
       "url": "https://doi.org/10.1103/l5x9-z6zh",
-      "signal_score": 66,
+      "signal_score": 65,
       "evidence_label": "Journal article"
     },
     {
       "domain": "neuroscience",
       "domain_label": "Neuroscience",
-      "title": "Does Total Knowledge Mute Emotion? A Thought Experiment using Large Language Models",
-      "why_it_matters": "Abstract This paper examines whether comprehensive knowledge acquisition attenuates emotional experience through a thought experiment that uses large language models (LLMs). We propose that LLMs, which possess extensive propositional knowledge yet lack phenomenal consciousness, serve as philosophical instruments for isolating the knowledge variable from other cognitive attributes.",
-      "url": "https://doi.org/10.1007/s10516-026-09822-4",
-      "signal_score": 58,
+      "title": "Therapeutic communication: avoidance of negative influences and application of beneficial suggestions in anesthesia and intensive care, emergency, and pain medicine",
+      "why_it_matters": "In anesthesia, and in emergency and intensive care medicine a “therapeutic communication” with the patient is needed that exceeds mere information exchange and that supports patient and treatment. First, ever-present nocebo effects and negative suggestions must be avoided or neutralized.",
+      "url": "https://doi.org/10.3389/fmed.2026.1974360",
+      "signal_score": 59,
       "evidence_label": "Journal article"
     }
   ]
