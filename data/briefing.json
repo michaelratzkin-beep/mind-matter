@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "title": "The latest signal",
   "overview": "Today’s index contains 240 recent records. The strongest signals span Quantum physics, Consciousness / philosophy, Neuroscience. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
@@ -9,26 +9,26 @@
       "title": "Quantum tomography of fermion pairs in e + e − collisions: Longitudinal beam polarization effects",
       "why_it_matters": "We present a quantum tomography study of fermion pair production at future $e^+e^-$ colliders, emphasizing how longitudinal beam polarization controls the two-qubit spin density matrix. We study the processes $e^+ e^- \\to t\\bar{t},\\ e^+e^-\\to μ^+μ^-$ and Bhabha scattering $e^+e^-\\to e^+e^-$, representing the mass threshold behavior, the $Z$ pole resonance and the $s/t$-channel interplay.",
       "url": "https://doi.org/10.1103/l5x9-z6zh",
-      "signal_score": 62,
+      "signal_score": 61,
       "evidence_label": "Journal article"
     },
     {
       "domain": "consciousness",
       "domain_label": "Consciousness / philosophy",
-      "title": "Body in memory: the role of bodily self-consciousness in episodic memory and autonoetic consciousness",
-      "why_it_matters": "Episodic memory (EM) enables the conscious recollection of personally experienced events, including contextual features such as visual, auditory and emotional details. However, the role of bodily signals has been largely neglected in EM, although the observer's body provides a rich bodily context during the encoding, storage and recall of events, and has recently been associated with a bodily form of self-consciousness (bodily self-consciousness; BSC).",
-      "url": "https://doi.org/10.1098/rstb.2025.0167",
-      "signal_score": 58,
-      "evidence_label": "Review"
+      "title": "Nambu’s Dynamics, Strings, and Gravitized Quantum Theory",
+      "why_it_matters": "In this article, we present a new view on string theory that is rooted in quantum foundations extended to the domain of quantum gravity in the form of gravitized quantum theory, in which the canonical probability measure captured by the Born rule of quantum theory, turns out to be dynamical and contextual. We claim that this gravitization of quantum theory is the essence of string theory.",
+      "url": "https://doi.org/10.3390/particles9040106",
+      "signal_score": 60,
+      "evidence_label": "Journal article"
     },
     {
       "domain": "neuroscience",
       "domain_label": "Neuroscience",
-      "title": "Mind your head: Entropic Brain, irruption theory and the intelligibility problem",
-      "why_it_matters": "Abstract The entropic brain hypothesis (EBH) and irruption theory (IT) are two recent frameworks to investigate consciousness by examining neural entropy. While they differ in their theoretical commitments, both aim to advance neuroscientific investigations of consciousness without succumbing to the intelligibility problem: the impossibility for scientific inquiries to provide intelligible access to subjective experience.",
-      "url": "https://doi.org/10.1007/s11097-026-10227-2",
-      "signal_score": 57,
-      "evidence_label": "Journal article"
+      "title": "Benchmarking memory and nonlinear processing capacity of quantum recurrent neural networks for time series prediction",
+      "why_it_matters": "Quantum machine learning has emerged as a promising approach to time series prediction. While quantum reservoir computing has been widely explored for this setting, variational quantum models tailored to sequential data remain comparatively understudied, largely because they are difficult to train.",
+      "url": "http://arxiv.org/abs/2611.21552v1",
+      "signal_score": 58,
+      "evidence_label": "Preprint"
     }
   ]
 }

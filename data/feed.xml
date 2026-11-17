@@ -4,13 +4,27 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Mon, 16 Nov 2026 21:55:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 20:47:28 +0000</lastBuildDate>
     <item>
       <title>Quantum tomography of fermion pairs in e + e − collisions: Longitudinal beam polarization effects</title>
       <link>https://doi.org/10.1103/l5x9-z6zh</link>
       <guid>15e55ab61d326824</guid>
       <description>We present a quantum tomography study of fermion pair production at future $e^+e^-$ colliders, emphasizing how longitudinal beam polarization controls the two-qubit spin density matrix. We study the processes $e^+ e^- \to t\bar{t},\ e^+e^-\to μ^+μ^-$ and Bhabha scattering $e^+e^-\to e^+e^-$, representing the mass threshold behavior, the $Z$ pole resonance and the $s/t$-channel interplay.</description>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nambu’s Dynamics, Strings, and Gravitized Quantum Theory</title>
+      <link>https://doi.org/10.3390/particles9040106</link>
+      <guid>223182aed305973c</guid>
+      <description>In this article, we present a new view on string theory that is rooted in quantum foundations extended to the domain of quantum gravity in the form of gravitized quantum theory, in which the canonical probability measure captured by the Born rule of quantum theory, turns out to be dynamical and contextual. We claim that this gravitization of quantum theory is the essence of string theory.</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Benchmarking memory and nonlinear processing capacity of quantum recurrent neural networks for time series prediction</title>
+      <link>http://arxiv.org/abs/2611.21552v1</link>
+      <guid>7d415a3c19f0e7b8</guid>
+      <description>Quantum machine learning has emerged as a promising approach to time series prediction. While quantum reservoir computing has been widely explored for this setting, variational quantum models tailored to sequential data remain comparatively understudied, largely because they are difficult to train.</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Body in memory: the role of bodily self-consciousness in episodic memory and autonoetic consciousness</title>
@@ -41,11 +55,67 @@
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Separations Between Randomized and Exact Quantum Query Complexity for Boolean Functions</title>
+      <link>http://arxiv.org/abs/2611.21189v1</link>
+      <guid>8867c93cd310ed9f</guid>
+      <description>We construct a family of total Boolean functions $F_{\mathrm{tot}}$ whose randomized and exact quantum query complexities satisfy $R(F_{\mathrm{tot}}) \ge Q_E(F_{\mathrm{tot}})^{2-o(1)}$. Chiruvella, Kayal, Mittal, Paraashar, and Saurabh (2026) also obtained a nearly quadratic separation for total functions in the query model by a different method.</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Randomized routing: ruling out classical networks without trusting source independence</title>
+      <link>http://arxiv.org/abs/2611.20866v1</link>
+      <guid>10f556123f0a30d9</guid>
+      <description>Network nonlocality without inputs assumes that the sources are independent, but no data can test this, since one classical source feeding all parties reproduces any correlation. Here we propose a randomized routing strategy: a source is duplicated, and the two parties it connects choose at random which copy to read.</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sugammadex versus neostigmine in adults aged 60 years and older undergoing surgery: a systematic review and meta-analysis of postoperative recovery and clinical outcomes.</title>
+      <link>https://europepmc.org/article/MED/43039077</link>
+      <guid>5a293821199aab83</guid>
+      <description>New work indexed under “Sugammadex versus neostigmine in adults aged 60 years and older undergoing surgery: a systematic review and meta-analysis of postoperative recovery and clinical outcomes..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Atrial Fibrillation Screening-to-Anticoagulation Pathways in Low- and Middle-Income Countries: A Systematic Review and Meta-Analysis.</title>
+      <link>https://europepmc.org/article/MED/43038801</link>
+      <guid>b3bef2ddba869f9a</guid>
+      <description>New work indexed under “Atrial Fibrillation Screening-to-Anticoagulation Pathways in Low- and Middle-Income Countries: A Systematic Review and Meta-Analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reply to: Comment On "General Versus Non-General Anesthesia in Endovascular Treatment for Posterior Circulation Stroke: A Systematic Review and Meta-Analysis".</title>
+      <link>https://europepmc.org/article/MED/43037721</link>
+      <guid>aab475f07edb954e</guid>
+      <description>New work indexed under “Reply to: Comment On "General Versus Non-General Anesthesia in Endovascular Treatment for Posterior Circulation Stroke: A Systematic Review and Meta-Analysis"..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Therapeutic communication: avoidance of negative influences and application of beneficial suggestions in anesthesia and intensive care, emergency, and pain medicine</title>
       <link>https://doi.org/10.3389/fmed.2026.1974360</link>
       <guid>2febd7cbfb0a1b16</guid>
       <description>In anesthesia, and in emergency and intensive care medicine a “therapeutic communication” with the patient is needed that exceeds mere information exchange and that supports patient and treatment. First, ever-present nocebo effects and negative suggestions must be avoided or neutralized.</description>
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Conversing with a Conversational Agent: A Real Conversation, Not a Simulated One</title>
+      <link>http://arxiv.org/abs/2611.20826v1</link>
+      <guid>d80b6542941c3ec8</guid>
+      <description>The claim that interactions with artificial conversational agents merely simulate human conversation rests on a philosophical distinction between reproducing the observable features of an activity and actually performing it. Although this distinction is appropriate for certain physical phenomena, its application to linguistic and symbolic activities is far less straightforward.</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Correspondence on "Opioid-free versus opioid-based anesthesia for quality of recovery following laparoscopic hysterectomy: a randomized controlled non-inferiority trial".</title>
+      <link>https://europepmc.org/article/MED/43039073</link>
+      <guid>a85812e0686b9502</guid>
+      <description>New work indexed under “Correspondence on "Opioid-free versus opioid-based anesthesia for quality of recovery following laparoscopic hysterectomy: a randomized controlled non-inferiority trial"..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Innovative mHealth intervention providing sustained anticipatory guidance (zero cavity): Design, validation, user perception and effectiveness - A randomized controlled trial protocol.</title>
+      <link>https://europepmc.org/article/MED/43038214</link>
+      <guid>c1245c45bb2e8645</guid>
+      <description>New work indexed under “Innovative mHealth intervention providing sustained anticipatory guidance (zero cavity): Design, validation, user perception and effectiveness - A randomized controlled trial protocol..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Expanded States of Consciousness as a Framework for Understanding End-of-Life Experiences in Practice.</title>
@@ -55,18 +125,11 @@
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Acute postoperative pain in surgical patients with cognitive impairment: A systematic review and meta-analysis.</title>
-      <link>https://europepmc.org/article/MED/43033844</link>
-      <guid>ac095dcc5ff1e8c3</guid>
-      <description>New work indexed under “Acute postoperative pain in surgical patients with cognitive impairment: A systematic review and meta-analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Emergence Delirium and Agitation in Older Adults After General Anesthesia: A Systematic Review, Meta-Analysis, and Evidence Map of Incidence and Perioperative Risk Factors.</title>
-      <link>https://europepmc.org/article/MED/43033169</link>
-      <guid>f7fa7b45ae2dca32</guid>
-      <description>New work indexed under “Emergence Delirium and Agitation in Older Adults After General Anesthesia: A Systematic Review, Meta-Analysis, and Evidence Map of Incidence and Perioperative Risk Factors..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Actualization and the Quantum Mechanical Universe: Dissolving the Gap</title>
+      <link>https://doi.org/10.5281/zenodo.24248374</link>
+      <guid>141c5545b7d338c3</guid>
+      <description>The actualization gap—the apparent discontinuity between the classical probability distribution delivered by decoherence and the single definite outcome that appears in experience—has been treated in the foundations literature as an outstanding problem in the physics of quantum measurement. This paper argues that the gap is not a physical problem and admits no physical solution.</description>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Does Total Knowledge Mute Emotion? A Thought Experiment using Large Language Models</title>
@@ -76,74 +139,11 @@
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Variant Foramina of the Orbital Apex: Osteological Evaluation and Systematic Review.</title>
-      <link>https://europepmc.org/article/MED/43035925</link>
-      <guid>87ce56726c593bc3</guid>
-      <description>New work indexed under “Variant Foramina of the Orbital Apex: Osteological Evaluation and Systematic Review..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spin-adapted sample-based quantum diagonalization with randomized time evolution</title>
-      <link>http://arxiv.org/abs/2611.18071v1</link>
-      <guid>fbc1064975c9aa22</guid>
-      <description>Quantum algorithms based on the classical post-processing of measurement samples have emerged as effective and robust methods to approximate low-energy wavefunctions of many-body quantum systems on present-day and early-fault-tolerant quantum devices. This paper introduces a generic framework for enforcing spin symmetry within these approaches.</description>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adjunctive Oral Olanzapine for the Prevention of Postoperative Nausea and Vomiting in Adults: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.</title>
-      <link>https://europepmc.org/article/MED/43034685</link>
-      <guid>a5d78c7ca20f0481</guid>
-      <description>New work indexed under “Adjunctive Oral Olanzapine for the Prevention of Postoperative Nausea and Vomiting in Adults: A Systematic Review and Meta-Analysis of Randomized Controlled Trials..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Unquantized Arena: A Structural Diagnosis of Quantum Gravity and the Measurement Problem</title>
       <link>https://doi.org/10.67291/oeig2350</link>
       <guid>2ea2120bb8afdfbd</guid>
       <description>SHA-256 of the PDF of this edition: afd86a39b337cb1b0e20cf261c89b4c95e655618a5595cba5e15fae7b23daa5d This edition replaces the edition registered on 1 November 2026, whose PDF has SHA-256 5875c1ba206438703dd16560f96cd12fb12709cbd94d071c22e0ebb9354ee343.</description>
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Effects of auditory sensory stimulation on consciousness and physiological parameters among individuals with disorders of consciousness: a systematic review and meta-analysis</title>
-      <link>https://doi.org/10.3389/fnins.2026.1879145</link>
-      <guid>47222f2d66b422c1</guid>
-      <description>Objective: To systematically evaluate the effects of auditory sensory stimulation (SS) on consciousness levels and physiological parameters in patients with disorders of consciousness (DOC). Furthermore, this study aimed to explore intervention characteristics based on the frequency, intensity, time, and type (FITT) framework that may influence treatment effects and to investigate potential sources of between-study heterogeneity.</description>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Quantum Brain to Quantum Mind: The Ontological Promotion Gap in Quantum-Biological Theories of Consciousness.</title>
-      <link>https://europepmc.org/article/MED/43034008</link>
-      <guid>7da6f17920c363a2</guid>
-      <description>New work indexed under “From Quantum Brain to Quantum Mind: The Ontological Promotion Gap in Quantum-Biological Theories of Consciousness..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Formalizing consciousness: a comparative mathematical analysis of leading theories.</title>
-      <link>https://europepmc.org/article/MED/43033222</link>
-      <guid>082d5cbf3c03121c</guid>
-      <description>New work indexed under “Formalizing consciousness: a comparative mathematical analysis of leading theories..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Risks and medico-legal aspects of pediatric tonsillectomy: a comprehensive and systematic review.</title>
-      <link>https://europepmc.org/article/MED/43026354</link>
-      <guid>29d01eac49926123</guid>
-      <description>New work indexed under “Risks and medico-legal aspects of pediatric tonsillectomy: a comprehensive and systematic review..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Data re-uploading in Quantum Reservoir Computing</title>
-      <link>http://arxiv.org/abs/2611.17913v1</link>
-      <guid>9588a95abc1ebf4b</guid>
-      <description>Data re-uploading enhances the learnable function space of parameterized quantum circuits and has become standard practice in circuit-based \ac{qml}. Its role in quantum reservoir computing, however, remains largely unexplored.</description>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Effectiveness of an early reading intervention for young children with intellectual disabilities who need or use augmentative and alternative communication on trajectories of decoding and sight word recognition: Study protocol for a cluster-randomized controlled factorial trial.</title>
-      <link>https://europepmc.org/article/MED/43025215</link>
-      <guid>3b2b972f147af468</guid>
-      <description>New work indexed under “Effectiveness of an early reading intervention for young children with intellectual disabilities who need or use augmentative and alternative communication on trajectories of decoding and sight word recognition: Study protocol for a cluster-randomized controlled factorial trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
