@@ -4,7 +4,14 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Wed, 18 Nov 2026 20:24:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 20:28:05 +0000</lastBuildDate>
+    <item>
+      <title>Tunable spectral correlations of highly multimode visible light via broadband quantum frequency conversion</title>
+      <link>https://doi.org/10.1126/sciadv.aeh8616</link>
+      <guid>e6070fa6357a013d</guid>
+      <description>Multimode squeezed states of light are a resource for achieving quantum advantage in computing and sensing, where spatial or temporal modes have been the experimental norm. In our experiments, we generated highly frequency-multimode infrared quantum light and showed how adiabatic frequency conversion can be used to convert the quantum state to visible wavelengths while concurrently manipulating the joint spectrum by realizing a configurable many-port frequency-domain beamsplitter unitary transformation.</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>A Transdisciplinary Science of Information within the Organogram of Consciousness</title>
       <link>https://doi.org/10.37547/tajas/volume08issue11-03</link>
@@ -13,10 +20,17 @@
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Multimodal Coma Stimulation to Improve Arousal and Physical Function in Patients with Traumatic Brain Injury</title>
+      <link>https://doi.org/10.12691/ajnr-14-3-2</link>
+      <guid>df4a477d55ab2d77</guid>
+      <description>Background: Impaired consciousness is one of the most serious complications following Traumatic Brain Injury (TBI). Sensory deprivation may delay neural recovery and worsen patient outcomes.</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Quantum tomography of fermion pairs in e + e − collisions: Longitudinal beam polarization effects</title>
       <link>https://doi.org/10.1103/l5x9-z6zh</link>
       <guid>15e55ab61d326824</guid>
-      <description>We present a quantum tomography study of fermion pair production at future $e^+e^-$ colliders, emphasizing how longitudinal beam polarization controls the two-qubit spin density matrix. We study the processes $e^+ e^- \to t\bar{t},\ e^+e^-\to μ^+μ^-$ and Bhabha scattering $e^+e^-\to e^+e^-$, representing the mass threshold behavior, the $Z$ pole resonance and the $s/t$-channel interplay.</description>
+      <description>We present a quantum tomography study of fermion pair production at future e + e − colliders, emphasizing how longitudinal beam polarization controls the two-qubit spin density matrix. We study the processes e + e − → t t ‾ , e + e − → μ + μ − and Bhabha scattering e + e − → e + e − , representing the mass threshold behavior, the Z pole resonance and the s / t -channel interplay.</description>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -27,6 +41,13 @@
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Causality Without Determinism: Free Will, Measurement and Mind</title>
+      <link>https://doi.org/10.67291/fvth8832</link>
+      <guid>a13c483be0893929</guid>
+      <description>SHA-256 of the PDF of this edition: 62a1117115cf70814a37699e041d480c56b8a87f6fa9a3b604a1f6ea7c49be98 This edition replaces the edition registered on 5 November 2026, whose PDF has SHA-256 a020d0c88b545a3e11c8557342162cdbb15a020d2c2361de3c361029e1cee264.</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Body in memory: the role of bodily self-consciousness in episodic memory and autonoetic consciousness</title>
       <link>https://doi.org/10.1098/rstb.2025.0167</link>
       <guid>d91518bf99aa2ee0</guid>
@@ -34,11 +55,53 @@
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Causality Without Determinism: Free Will, Measurement and Mind</title>
-      <link>https://doi.org/10.67291/fvth8832</link>
-      <guid>a13c483be0893929</guid>
-      <description>SHA-256 of the PDF of this edition: a020d0c88b545a3e11c8557342162cdbb15a020d2c2361de3c361029e1cee264</description>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <title>CREST: A Hardware-Aware GNN-Based Framework for High-Fidelity and Robust Superconducting Quantum Compilation</title>
+      <link>http://arxiv.org/abs/2611.24886v1</link>
+      <guid>e321e0fd77f3e3c1</guid>
+      <description>Quantum compilation on superconducting processors requires selecting a connected execution region whose topology and calibrated properties suit the input circuit. This choice constrains subsequent routing and influences the noise encountered during execution, yet aggregate hardware-quality metrics alone may not reliably predict the execution fidelity of a given circuit.</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Soft Mixture of Quantum Experts for Hybrid Quantum-Classical Learning</title>
+      <link>http://arxiv.org/abs/2611.24798v1</link>
+      <guid>ef6d28f04fc2ea48</guid>
+      <description>Quantum Machine Learning (QML) has attracted increasing interest as a possible route to construct feature representations that are difficult to reproduce with classical models. However, near-term QML architectures based on trainable parametrized quantum circuits remain affected by limited hardware resources, noise, and severe optimization difficulties such as barren plateaus.</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A provably efficient classical algorithm for simulating OTOC$^{(1)}$ in 1D</title>
+      <link>http://arxiv.org/abs/2611.24640v1</link>
+      <guid>ab16b9f7a6ff6dd2</guid>
+      <description>Out-of-time-order correlators (OTOCs) are quantities of broad interest in many-body physics due to their connection with information scrambling and quantum chaos. Recently, estimating higher-order OTOCs in random quantum circuits was proposed as a promising avenue for quantum advantage, yet the classical hardness of this task remains poorly understood.</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spontaneous emission of atomic systems near metallic and semiconducting atomic chains</title>
+      <link>http://arxiv.org/abs/2611.24358v1</link>
+      <guid>50a2bd76d851a5dd</guid>
+      <description>We investigate the spontaneous emission of a quantum emitter placed near finite atomic chains described by the Su-Schrieffer-Heeger model. By tuning the chain from a metallic to a semiconducting character through dimerization, we analyze how the electronic structure of an atomic-scale scatterer, together with the illumination profile, determines the strength, bandwidth, and spatial structure of the spontaneous emission enhancement.</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gradient Blindness in Adaptive Architecture Search for IQP Born Machines</title>
+      <link>http://arxiv.org/abs/2611.24174v1</link>
+      <guid>7212508e733d0d49</guid>
+      <description>Instantaneous quantum polynomial (IQP) Born machines learn a probability distribution from data with a circuit of commuting gates that a classical computer trains at hundreds of qubits. Adaptive algorithms grow a sparse circuit from a small seed by adding in every round the candidate gates with the largest loss gradient.</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Annealing with a Quantum Neural Network: Width of Annealing Matters</title>
+      <link>http://arxiv.org/abs/2611.24089v1</link>
+      <guid>a55bcab8ce53741f</guid>
+      <description>Quantum annealing is a promising quantum algorithm for dealing with computationally hard optimization problems. Currently available hardware can implement the algorithm for a significant class of Hamiltonian problems.</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comparison of Laryngeal Mask Airway Protector and Intubating Laryngeal Mask Airway for Ease of Fiber-optic-guided Tracheal Intubation in Adult Patients: A 1-year Hospital-based Randomized Controlled Trial.</title>
+      <link>https://europepmc.org/article/MED/43049159</link>
+      <guid>77fad29dba0f4bcc</guid>
+      <description>New work indexed under “Comparison of Laryngeal Mask Airway Protector and Intubating Laryngeal Mask Airway for Ease of Fiber-optic-guided Tracheal Intubation in Adult Patients: A 1-year Hospital-based Randomized Controlled Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Mind your head: Entropic Brain, irruption theory and the intelligibility problem</title>
@@ -51,14 +114,21 @@
       <title>100 ± Δ t years of quantum uncertainty: From origins to modern insights</title>
       <link>https://doi.org/10.1103/tv7g-jcnk</link>
       <guid>f8496c700cf1b3a6</guid>
-      <description>Heisenberg's uncertainty principle is a cornerstone of quantum mechanics, marking a decisive departure from classical physics. Conceived almost a century ago through a thought experiment showing that measuring an electron's position inevitably disturbs its momentum, it began as a deceptively simple idea that sparked countless studies and grew into the rich research field it is today.</description>
+      <description>Heisenberg’s uncertainty principle is a cornerstone of quantum mechanics, marking a decisive departure from classical physics. Conceived almost a century ago through a thought experiment showing that measuring an electron’s position inevitably disturbs its momentum, it began as a deceptively simple idea that sparked countless studies and grew into the rich research field it is today.</description>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Optimizing interference zeros for finite-pulse transmission in waveguide quantum electrodynamics</title>
-      <link>http://arxiv.org/abs/2611.22358v1</link>
-      <guid>31f254a798246761</guid>
-      <description>A photon pulse occupies a range of frequencies, so suppressing reflection at its carrier need not minimize the error of the transmitted pulse. We study two separated emitters coupled to a common waveguide at several contact points.</description>
+      <title>Body Image Health Promotion in Early Childhood: Randomised Controlled Trial of Body Blocks.</title>
+      <link>https://europepmc.org/article/MED/43046971</link>
+      <guid>b599127b7b91f53e</guid>
+      <description>New work indexed under “Body Image Health Promotion in Early Childhood: Randomised Controlled Trial of Body Blocks..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Supra-Inguinal Fascia Iliaca Block Versus Iliohypogastric-Ilioinguinal Block During Transcatheter Aortic Valve Implantation (TAVI) Under Conscious Sedation: A Patient- and Outcome Assessor-Blinded Randomized Trial.</title>
+      <link>https://europepmc.org/article/MED/43048488</link>
+      <guid>8e15aacbc1c4675a</guid>
+      <description>New work indexed under “Supra-Inguinal Fascia Iliaca Block Versus Iliohypogastric-Ilioinguinal Block During Transcatheter Aortic Valve Implantation (TAVI) Under Conscious Sedation: A Patient- and Outcome Assessor-Blinded Randomized Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -74,76 +144,6 @@
       <guid>62e46e674b2d9752</guid>
       <description>New work indexed under “Effects of lowering inspired oxygen fraction during anesthesia emergence on immediate postoperative loss of lung aeration assessed by ultrasonography: a multicentre randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Therapeutic communication: avoidance of negative influences and application of beneficial suggestions in anesthesia and intensive care, emergency, and pain medicine</title>
-      <link>https://doi.org/10.3389/fmed.2026.1974360</link>
-      <guid>2febd7cbfb0a1b16</guid>
-      <description>In anesthesia, and in emergency and intensive care medicine a “therapeutic communication” with the patient is needed that exceeds mere information exchange and that supports patient and treatment. First, ever-present nocebo effects and negative suggestions must be avoided or neutralized.</description>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Early visual experience contributes to the calibration of higher-order body representations</title>
-      <link>https://doi.org/10.64898/2026.11.11.766044</link>
-      <guid>d5e64b4c1b424142</guid>
-      <description>Higher-order body representations, including representations of body shape and size, play an important role in maintaining perceptual constancy in touch. However, whether the development of these representations depends on early visual experience remains unclear.</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Conversing with a Conversational Agent: A Real Conversation, Not a Simulated One</title>
-      <link>http://arxiv.org/abs/2611.20826v1</link>
-      <guid>d80b6542941c3ec8</guid>
-      <description>The claim that interactions with artificial conversational agents merely simulate human conversation rests on a philosophical distinction between reproducing the observable features of an activity and actually performing it. Although this distinction is appropriate for certain physical phenomena, its application to linguistic and symbolic activities is far less straightforward.</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Clinical and hematological characterization and carrier status awareness in a colombian cohort of sickle cell trait: a multicenter study.</title>
-      <link>https://europepmc.org/article/MED/43045880</link>
-      <guid>77346f905b797d0a</guid>
-      <description>New work indexed under “Clinical and hematological characterization and carrier status awareness in a colombian cohort of sickle cell trait: a multicenter study..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trends of delayed healthcare access in ocular injuries: a multicenter study in community hospitals, Central Thailand.</title>
-      <link>https://europepmc.org/article/MED/42959650</link>
-      <guid>bfd6836f280ad65d</guid>
-      <description>New work indexed under “Trends of delayed healthcare access in ocular injuries: a multicenter study in community hospitals, Central Thailand..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Noetics, a New but Old Understanding of Mind and Reality</title>
-      <link>https://doi.org/10.33422/jarss.v9i3.1955</link>
-      <guid>2cf075203c4291cc</guid>
-      <description>Noetics is examined here as an interdisciplinary approach to how lived experience becomes a knowledge claim and informs action. This narrative review brings historical philosophy into dialogue with cognitive science, contemporary theories of consciousness, contemplative traditions, and artificial intelligence.</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Actualization and the Quantum Mechanical Universe: Dissolving the Gap</title>
-      <link>https://doi.org/10.5281/zenodo.24248374</link>
-      <guid>141c5545b7d338c3</guid>
-      <description>The actualization gap—the apparent discontinuity between the classical probability distribution delivered by decoherence and the single definite outcome that appears in experience—has been treated in the foundations literature as an outstanding problem in the physics of quantum measurement. This paper argues that the gap is not a physical problem and admits no physical solution.</description>
-      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Does Total Knowledge Mute Emotion? A Thought Experiment using Large Language Models</title>
-      <link>https://doi.org/10.1007/s10516-026-09822-4</link>
-      <guid>b8bb3d3ace3b52e8</guid>
-      <description>Abstract This paper examines whether comprehensive knowledge acquisition attenuates emotional experience through a thought experiment that uses large language models (LLMs). We propose that LLMs, which possess extensive propositional knowledge yet lack phenomenal consciousness, serve as philosophical instruments for isolating the knowledge variable from other cognitive attributes.</description>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Virtual reality as a neural state-modulating technology: EEG complexity during VR gameplay versus VR gameplay viewing</title>
-      <link>https://doi.org/10.1016/j.chbr.2026.101446</link>
-      <guid>284626bd06a7f72b</guid>
-      <description>Pharmacological agents and brain stimulation can modulate conscious states, but offer limited control over the structure of the experience itself. Virtual reality (VR) can alter subjective experience while allowing its structure to be experimentally controlled.</description>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Unquantized Arena: A Structural Diagnosis of Quantum Gravity and the Measurement Problem</title>
-      <link>https://doi.org/10.67291/oeig2350</link>
-      <guid>2ea2120bb8afdfbd</guid>
-      <description>SHA-256 of the PDF of this edition: afd86a39b337cb1b0e20cf261c89b4c95e655618a5595cba5e15fae7b23daa5d This edition replaces the edition registered on 1 November 2026, whose PDF has SHA-256 5875c1ba206438703dd16560f96cd12fb12709cbd94d071c22e0ebb9354ee343.</description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
