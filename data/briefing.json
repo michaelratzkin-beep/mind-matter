@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "title": "The latest signal",
   "overview": "Today’s index contains 240 recent records. The strongest signals span Quantum physics, Consciousness / philosophy, Neuroscience. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
     {
       "domain": "quantum",
       "domain_label": "Quantum physics",
-      "title": "Tunable spectral correlations of highly multimode visible light via broadband quantum frequency conversion",
-      "why_it_matters": "Multimode squeezed states of light are a resource for achieving quantum advantage in computing and sensing, where spatial or temporal modes have been the experimental norm. In our experiments, we generated highly frequency-multimode infrared quantum light and showed how adiabatic frequency conversion can be used to convert the quantum state to visible wavelengths while concurrently manipulating the joint spectrum by realizing a configurable many-port frequency-domain beamsplitter unitary transformation.",
-      "url": "https://doi.org/10.1126/sciadv.aeh8616",
-      "signal_score": 66,
-      "evidence_label": "Journal article"
+      "title": "High-Accuracy Neural-Network Quantum States via Randomized Real-Time Dynamics",
+      "why_it_matters": "Neural-network quantum states (NQSs) exhibit a disparity in converging to the ground state during energy minimization: while the energy converges quadratically with the error in the variational wave function, other observables converge only linearly, which limits the accuracy of physical predictions. Here we show how to close this gap by introducing a new algorithm that improves the accuracy of NQSs.",
+      "url": "http://arxiv.org/abs/2611.26587v1",
+      "signal_score": 65,
+      "evidence_label": "Preprint"
     },
     {
       "domain": "consciousness",
       "domain_label": "Consciousness / philosophy",
-      "title": "A Transdisciplinary Science of Information within the Organogram of Consciousness",
-      "why_it_matters": "Information transcends the traditional disciplines of physics, psychology, cosmology, and biology, yet remains connected to them through Zero-Point Energy. Although the origins of space, time, and matter are known, the when and how of Information’s emergence remain elusive.",
-      "url": "https://doi.org/10.37547/tajas/volume08issue11-03",
-      "signal_score": 59,
-      "evidence_label": "Journal article"
+      "title": "Does the Workspace Do the Work? A Causal Protocol for Verifying Global-Workspace Computation in a Language Model",
+      "why_it_matters": "Global Workspace Theory (GWT), a leading theory of consciousness, holds that information becomes conscious when it is broadcast to specialized processes that use it. Building a workspace into a network does not reveal what the trained network computes with it: a module that reports an answer may have combined a broadcast message with its own knowledge, or merely forwarded an answer computed elsewhere, and task accuracy and ablation cannot tell these apart.",
+      "url": "http://arxiv.org/abs/2611.26018v1",
+      "signal_score": 60,
+      "evidence_label": "Preprint"
     },
     {
       "domain": "neuroscience",
       "domain_label": "Neuroscience",
-      "title": "Multimodal Coma Stimulation to Improve Arousal and Physical Function in Patients with Traumatic Brain Injury",
-      "why_it_matters": "Background: Impaired consciousness is one of the most serious complications following Traumatic Brain Injury (TBI). Sensory deprivation may delay neural recovery and worsen patient outcomes.",
-      "url": "https://doi.org/10.12691/ajnr-14-3-2",
-      "signal_score": 59,
+      "title": "Alpha coherence is a network signature of cognitive recovery from disorders of consciousness",
+      "why_it_matters": "New work indexed under “Alpha coherence is a network signature of cognitive recovery from disorders of consciousness.” The source did not provide an abstract; read the original before evaluating its claims.",
+      "url": "https://doi.org/10.1016/j.cortex.2026.11.009",
+      "signal_score": 60,
       "evidence_label": "Journal article"
     }
   ]

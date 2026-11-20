@@ -4,13 +4,41 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Thu, 19 Nov 2026 20:28:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 20:00:49 +0000</lastBuildDate>
+    <item>
+      <title>High-Accuracy Neural-Network Quantum States via Randomized Real-Time Dynamics</title>
+      <link>http://arxiv.org/abs/2611.26587v1</link>
+      <guid>d6cfd27b8a483a42</guid>
+      <description>Neural-network quantum states (NQSs) exhibit a disparity in converging to the ground state during energy minimization: while the energy converges quadratically with the error in the variational wave function, other observables converge only linearly, which limits the accuracy of physical predictions. Here we show how to close this gap by introducing a new algorithm that improves the accuracy of NQSs.</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Tunable spectral correlations of highly multimode visible light via broadband quantum frequency conversion</title>
       <link>https://doi.org/10.1126/sciadv.aeh8616</link>
       <guid>e6070fa6357a013d</guid>
       <description>Multimode squeezed states of light are a resource for achieving quantum advantage in computing and sensing, where spatial or temporal modes have been the experimental norm. In our experiments, we generated highly frequency-multimode infrared quantum light and showed how adiabatic frequency conversion can be used to convert the quantum state to visible wavelengths while concurrently manipulating the joint spectrum by realizing a configurable many-port frequency-domain beamsplitter unitary transformation.</description>
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Does the Workspace Do the Work? A Causal Protocol for Verifying Global-Workspace Computation in a Language Model</title>
+      <link>http://arxiv.org/abs/2611.26018v1</link>
+      <guid>a84ddc09e82509b0</guid>
+      <description>Global Workspace Theory (GWT), a leading theory of consciousness, holds that information becomes conscious when it is broadcast to specialized processes that use it. Building a workspace into a network does not reveal what the trained network computes with it: a module that reports an answer may have combined a broadcast message with its own knowledge, or merely forwarded an answer computed elsewhere, and task accuracy and ablation cannot tell these apart.</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alpha coherence is a network signature of cognitive recovery from disorders of consciousness</title>
+      <link>https://doi.org/10.1016/j.cortex.2026.11.009</link>
+      <guid>b7312cd0fbcc04b0</guid>
+      <description>New work indexed under “Alpha coherence is a network signature of cognitive recovery from disorders of consciousness.” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Quantum Genetic Algorithm for Optimization of Benchmark Test Functions using Entangled Qutrits</title>
+      <link>http://arxiv.org/abs/2611.25941v1</link>
+      <guid>a278bc5248da0eac</guid>
+      <description>Typically, quantum genetic algorithms are based on qubits, a two-level quantum system. This work investigates the optimization of Rastrigin, Rosen-Brock and Table Holder Function in comparison with Classical Genetic Algorithm (CGA), using two quantum approaches: Quantum Genetic Algorithm (QGA), and Higher-Order Quantum Genetic Algorithm (HO-QGA) based on qutrits, a three-level system.</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A Transdisciplinary Science of Information within the Organogram of Consciousness</title>
@@ -34,11 +62,39 @@
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Nondiagonal Lindblad master equations in quantum reservoir engineering</title>
+      <link>https://doi.org/10.1103/xjsd-kkq4</link>
+      <guid>0de13eb87e1a7c74</guid>
+      <description>Reservoir engineering has proven to be a practical approach to control open quantum systems, preserving quantum coherence by appropriately manipulating the reservoir and system-reservoir interactions. In this context, for systems comprised of different parts, it is common to describe the dynamics of a subsystem of interest by performing an adiabatic elimination of the remaining components of the system.</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Nambu’s Dynamics, Strings, and Gravitized Quantum Theory</title>
       <link>https://doi.org/10.3390/particles9040106</link>
       <guid>223182aed305973c</guid>
       <description>In this article, we present a new view on string theory that is rooted in quantum foundations extended to the domain of quantum gravity in the form of gravitized quantum theory, in which the canonical probability measure captured by the Born rule of quantum theory, turns out to be dynamical and contextual. We claim that this gravitization of quantum theory is the essence of string theory.</description>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gravitational self-interaction mitigates superluminal signalling</title>
+      <link>https://doi.org/10.1088/1367-2630/aec473</link>
+      <guid>90eb0153a4990ed3</guid>
+      <description>The Schrödinger-Newton equation aims at describing the dynamics of massive quantum systems subject to the gravitational self-interaction. As a deterministic nonlinear quantum wave equation, it is generally believed to conflict with the relativistic no-signalling principle.</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Algorithmic Quantum Sensing</title>
+      <link>http://arxiv.org/abs/2611.25572v1</link>
+      <guid>cfc4fd04f5ae4b9b</guid>
+      <description>We introduce a unified framework for sensing time-dependent fields through the lens of classical and quantum algorithms. First, we develop three pulse sequence protocols, namely randomized, matched, and pooled spectroscopy, which outperform established approaches such as dynamical decoupling across a wide range of tasks.</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>C2 |Q⟩: A Robust Framework for Bridging Classical and Quantum Software Development</title>
+      <link>https://doi.org/10.1145/3803018</link>
+      <guid>fdcd5eb615eea5b3</guid>
+      <description>Quantum Software Engineering (QSE) is emerging as a critical discipline to make quantum computing accessible to a broader developer community; however, most quantum development environments still require developers to engage with low-level details across the software stack—including problem encoding, circuit construction, algorithm configuration, hardware selection and result interpretation—making them difficult for classical software engineers to use. To bridge this gap, we present C2 \(|{\rm{Q}}\rangle\) , a…</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Causality Without Determinism: Free Will, Measurement and Mind</title>
@@ -48,102 +104,46 @@
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Body in memory: the role of bodily self-consciousness in episodic memory and autonoetic consciousness</title>
-      <link>https://doi.org/10.1098/rstb.2025.0167</link>
-      <guid>d91518bf99aa2ee0</guid>
-      <description>Episodic memory (EM) enables the conscious recollection of personally experienced events, including contextual features such as visual, auditory and emotional details. However, the role of bodily signals has been largely neglected in EM, although the observer's body provides a rich bodily context during the encoding, storage and recall of events, and has recently been associated with a bodily form of self-consciousness (bodily self-consciousness; BSC).</description>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Scalable Simulation of Strongly Correlated Fermions with Neural Gaussian Tensor Networks</title>
+      <link>http://arxiv.org/abs/2611.26604v1</link>
+      <guid>5574949d86c88495</guid>
+      <description>Accurate simulations of strongly correlated electrons remain a central challenge in computational physics. We introduce neural-network Gaussian projected entangled-pair states (NN-GPEPS), which exploit the locally-entangled subspace of Gaussian states to give an architecture more compatible with modern neural networks and an exact contraction cost of $O(N^{3/2})$ on two-dimensional lattices.</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CREST: A Hardware-Aware GNN-Based Framework for High-Fidelity and Robust Superconducting Quantum Compilation</title>
-      <link>http://arxiv.org/abs/2611.24886v1</link>
-      <guid>e321e0fd77f3e3c1</guid>
-      <description>Quantum compilation on superconducting processors requires selecting a connected execution region whose topology and calibrated properties suit the input circuit. This choice constrains subsequent routing and influences the noise encountered during execution, yet aggregate hardware-quality metrics alone may not reliably predict the execution fidelity of a given circuit.</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Scaling classical hardware for accurate real-time quantum error correction</title>
+      <link>http://arxiv.org/abs/2611.26447v1</link>
+      <guid>a31378b6bb71ee4f</guid>
+      <description>Fault-tolerant quantum computation requires a classical decoder fast enough to process syndrome measurements at the rate at which they are generated, and to return its decisions with low latency. This is most demanding for superconducting processors, whose fast syndrome cycles force a trade-off between decoding speed and accuracy.</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Soft Mixture of Quantum Experts for Hybrid Quantum-Classical Learning</title>
-      <link>http://arxiv.org/abs/2611.24798v1</link>
-      <guid>ef6d28f04fc2ea48</guid>
-      <description>Quantum Machine Learning (QML) has attracted increasing interest as a possible route to construct feature representations that are difficult to reproduce with classical models. However, near-term QML architectures based on trainable parametrized quantum circuits remain affected by limited hardware resources, noise, and severe optimization difficulties such as barren plateaus.</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Entanglement, records, and quantum recovery in qubit chains</title>
+      <link>http://arxiv.org/abs/2611.26368v1</link>
+      <guid>11bc8d478b03e4fd</guid>
+      <description>We investigate entanglement, readable records and quantum recovery using an exactly solvable chain of sequentially interacting qubits. For weak interactions, entanglement reaches a later environment site before that site carries an equally strong local record.</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>A provably efficient classical algorithm for simulating OTOC$^{(1)}$ in 1D</title>
-      <link>http://arxiv.org/abs/2611.24640v1</link>
-      <guid>ab16b9f7a6ff6dd2</guid>
-      <description>Out-of-time-order correlators (OTOCs) are quantities of broad interest in many-body physics due to their connection with information scrambling and quantum chaos. Recently, estimating higher-order OTOCs in random quantum circuits was proposed as a promising avenue for quantum advantage, yet the classical hardness of this task remains poorly understood.</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Adaptive Hamiltonian Identification via Quantum Reinforcement Learning under Non-Stationary Dynamics</title>
+      <link>http://arxiv.org/abs/2611.26241v1</link>
+      <guid>e0117de545579246</guid>
+      <description>Accurate identification of the Hamiltonian governing a quantum system is important for quantum-system characterization, device calibration, simulation, and reliable operation of quantum hardware. In practical systems, however, the governing dynamics may vary over time because of parameter drift, changing control conditions, or transitions between operating regimes.</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Spontaneous emission of atomic systems near metallic and semiconducting atomic chains</title>
-      <link>http://arxiv.org/abs/2611.24358v1</link>
-      <guid>50a2bd76d851a5dd</guid>
-      <description>We investigate the spontaneous emission of a quantum emitter placed near finite atomic chains described by the Su-Schrieffer-Heeger model. By tuning the chain from a metallic to a semiconducting character through dimerization, we analyze how the electronic structure of an atomic-scale scatterer, together with the illumination profile, determines the strength, bandwidth, and spatial structure of the spontaneous emission enhancement.</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <title>QFT-Based Hybrid PointNet-Quantum Neural Networks for LiDAR Point-Cloud Classification</title>
+      <link>http://arxiv.org/abs/2611.25578v1</link>
+      <guid>96b0dab6313582e1</guid>
+      <description>Hybrid quantum-classical learning architectures provide a promising framework for integrating quantum feature transformations into complex data-processing tasks. Among these transformations, the Quantum Fourier Transform (QFT) offers a structured approach to feature processing, motivating an investigation of how its circuit configuration influences predictive performance, quantum resource requirements, and noise robustness.</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Gradient Blindness in Adaptive Architecture Search for IQP Born Machines</title>
-      <link>http://arxiv.org/abs/2611.24174v1</link>
-      <guid>7212508e733d0d49</guid>
-      <description>Instantaneous quantum polynomial (IQP) Born machines learn a probability distribution from data with a circuit of commuting gates that a classical computer trains at hundreds of qubits. Adaptive algorithms grow a sparse circuit from a small seed by adding in every round the candidate gates with the largest loss gradient.</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quantum Annealing with a Quantum Neural Network: Width of Annealing Matters</title>
-      <link>http://arxiv.org/abs/2611.24089v1</link>
-      <guid>a55bcab8ce53741f</guid>
-      <description>Quantum annealing is a promising quantum algorithm for dealing with computationally hard optimization problems. Currently available hardware can implement the algorithm for a significant class of Hamiltonian problems.</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comparison of Laryngeal Mask Airway Protector and Intubating Laryngeal Mask Airway for Ease of Fiber-optic-guided Tracheal Intubation in Adult Patients: A 1-year Hospital-based Randomized Controlled Trial.</title>
-      <link>https://europepmc.org/article/MED/43049159</link>
-      <guid>77fad29dba0f4bcc</guid>
-      <description>New work indexed under “Comparison of Laryngeal Mask Airway Protector and Intubating Laryngeal Mask Airway for Ease of Fiber-optic-guided Tracheal Intubation in Adult Patients: A 1-year Hospital-based Randomized Controlled Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mind your head: Entropic Brain, irruption theory and the intelligibility problem</title>
-      <link>https://doi.org/10.1007/s11097-026-10227-2</link>
-      <guid>7bd4246b02f74dd8</guid>
-      <description>Abstract The entropic brain hypothesis (EBH) and irruption theory (IT) are two recent frameworks to investigate consciousness by examining neural entropy. While they differ in their theoretical commitments, both aim to advance neuroscientific investigations of consciousness without succumbing to the intelligibility problem: the impossibility for scientific inquiries to provide intelligible access to subjective experience.</description>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>100 ± Δ t years of quantum uncertainty: From origins to modern insights</title>
-      <link>https://doi.org/10.1103/tv7g-jcnk</link>
-      <guid>f8496c700cf1b3a6</guid>
-      <description>Heisenberg’s uncertainty principle is a cornerstone of quantum mechanics, marking a decisive departure from classical physics. Conceived almost a century ago through a thought experiment showing that measuring an electron’s position inevitably disturbs its momentum, it began as a deceptively simple idea that sparked countless studies and grew into the rich research field it is today.</description>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Body Image Health Promotion in Early Childhood: Randomised Controlled Trial of Body Blocks.</title>
-      <link>https://europepmc.org/article/MED/43046971</link>
-      <guid>b599127b7b91f53e</guid>
-      <description>New work indexed under “Body Image Health Promotion in Early Childhood: Randomised Controlled Trial of Body Blocks..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Supra-Inguinal Fascia Iliaca Block Versus Iliohypogastric-Ilioinguinal Block During Transcatheter Aortic Valve Implantation (TAVI) Under Conscious Sedation: A Patient- and Outcome Assessor-Blinded Randomized Trial.</title>
-      <link>https://europepmc.org/article/MED/43048488</link>
-      <guid>8e15aacbc1c4675a</guid>
-      <description>New work indexed under “Supra-Inguinal Fascia Iliaca Block Versus Iliohypogastric-Ilioinguinal Block During Transcatheter Aortic Valve Implantation (TAVI) Under Conscious Sedation: A Patient- and Outcome Assessor-Blinded Randomized Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Patient-Specific Approach to Shoulder Regional Analgesia Minimizes Risk while Optimizing Pain Relief: Commentary on an article by Feras Qawasmi, MD, et al.: "Comparison of Shoulder Field Anesthesia (SFA) with Interscalene Block (ISB) for Analgesia After Arthroscopic Shoulder Surgery. A Randomized Noninferiority Trial".</title>
-      <link>https://europepmc.org/article/MED/43043986</link>
-      <guid>cd40649357802183</guid>
-      <description>New work indexed under “A Patient-Specific Approach to Shoulder Regional Analgesia Minimizes Risk while Optimizing Pain Relief: Commentary on an article by Feras Qawasmi, MD, et al.: "Comparison of Shoulder Field Anesthesia (SFA) with Interscalene Block (ISB) for Analgesia After Arthroscopic Shoulder Surgery. A Randomized Noninferiority Trial"..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Effects of lowering inspired oxygen fraction during anesthesia emergence on immediate postoperative loss of lung aeration assessed by ultrasonography: a multicentre randomized controlled trial.</title>
-      <link>https://europepmc.org/article/MED/43043609</link>
-      <guid>62e46e674b2d9752</guid>
-      <description>New work indexed under “Effects of lowering inspired oxygen fraction during anesthesia emergence on immediate postoperative loss of lung aeration assessed by ultrasonography: a multicentre randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Compiling Constraints into Neuromorphic Ising Machines</title>
+      <link>http://arxiv.org/abs/2611.25352v1</link>
+      <guid>6b8da147295691ed</guid>
+      <description>Most practical combinatorial optimization problems involve constraints, and an Ising machine that flips one spin at a time can respect them only through energy penalties that raise barriers between feasible solutions. Here we show that a higher-order neuromorphic Ising machine can enforce constraints through programmable transitions rather than penalties.</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
