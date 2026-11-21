@@ -4,7 +4,7 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Fri, 20 Nov 2026 20:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 19:06:25 +0000</lastBuildDate>
     <item>
       <title>High-Accuracy Neural-Network Quantum States via Randomized Real-Time Dynamics</title>
       <link>http://arxiv.org/abs/2611.26587v1</link>
@@ -76,18 +76,11 @@
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Gravitational self-interaction mitigates superluminal signalling</title>
-      <link>https://doi.org/10.1088/1367-2630/aec473</link>
-      <guid>90eb0153a4990ed3</guid>
-      <description>The Schrödinger-Newton equation aims at describing the dynamics of massive quantum systems subject to the gravitational self-interaction. As a deterministic nonlinear quantum wave equation, it is generally believed to conflict with the relativistic no-signalling principle.</description>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Algorithmic Quantum Sensing</title>
-      <link>http://arxiv.org/abs/2611.25572v1</link>
-      <guid>cfc4fd04f5ae4b9b</guid>
-      <description>We introduce a unified framework for sensing time-dependent fields through the lens of classical and quantum algorithms. First, we develop three pulse sequence protocols, namely randomized, matched, and pooled spectroscopy, which outperform established approaches such as dynamical decoupling across a wide range of tasks.</description>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Quantum Entanglement, Consciousness and the Principles of New AI</title>
+      <link>https://doi.org/10.5772/intechopen.1018671</link>
+      <guid>e9f181a986d4cc44</guid>
+      <description>Centered on statistical fitting and pattern matching, modern artificial intelligence merely simulates specific tasks. It lacks consistent logical reasoning, creative intuition, genuine emotional valence and moral judgment, stemming from the failure of existing computing frameworks to capture the fundamental physical mechanisms behind quantum entanglement and human consciousness.</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>C2 |Q⟩: A Robust Framework for Bridging Classical and Quantum Software Development</title>
@@ -97,11 +90,46 @@
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Algorithmic Quantum Sensing</title>
+      <link>http://arxiv.org/abs/2611.25572v1</link>
+      <guid>cfc4fd04f5ae4b9b</guid>
+      <description>We introduce a unified framework for sensing time-dependent fields through the lens of classical and quantum algorithms. First, we develop three pulse sequence protocols, namely randomized, matched, and pooled spectroscopy, which outperform established approaches such as dynamical decoupling across a wide range of tasks.</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Causality Without Determinism: Free Will, Measurement and Mind</title>
       <link>https://doi.org/10.67291/fvth8832</link>
       <guid>a13c483be0893929</guid>
       <description>SHA-256 of the PDF of this edition: 62a1117115cf70814a37699e041d480c56b8a87f6fa9a3b604a1f6ea7c49be98 This edition replaces the edition registered on 5 November 2026, whose PDF has SHA-256 a020d0c88b545a3e11c8557342162cdbb15a020d2c2361de3c361029e1cee264.</description>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dopamine dynamics in a mouse model of temporal lobe seizures with impaired consciousness.</title>
+      <link>https://europepmc.org/article/MED/43064665</link>
+      <guid>a6d4263af9404560</guid>
+      <description>New work indexed under “Dopamine dynamics in a mouse model of temporal lobe seizures with impaired consciousness..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reactive, subjective and executive agents: How survival circuits underlie the expansion of subjective experience and felt motivation in humans and other vertebrates.</title>
+      <link>https://europepmc.org/article/MED/43064006</link>
+      <guid>63d6d90984d13587</guid>
+      <description>New work indexed under “Reactive, subjective and executive agents: How survival circuits underlie the expansion of subjective experience and felt motivation in humans and other vertebrates..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>From AGI to AI Welfare: Computational Functionalism and Its Consequences</title>
+      <link>https://doi.org/10.1002/aaai.70115</link>
+      <guid>e12b1589ab3ab8b2</guid>
+      <description>Claims that artificial intelligence has reached or is approaching artificial general intelligence (AGI) are increasingly widespread in both industry and academia. These claims typically rest on either behavioral benchmark tests or mechanistic interpretability findings.</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Performance comparison of QAOA mixers for ternary portfolio optimization</title>
+      <link>https://doi.org/10.1007/s11128-026-05322-x</link>
+      <guid>57b9991af5446624</guid>
+      <description>The quantum approximate optimization algorithm (QAOA) is a quantum algorithm proposed for noisy intermediate-scale quantum (NISQ) devices and is regarded as a promising approach to combinatorial optimization problems, with potential applications in the financial sector. In this study, we apply QAOA to the portfolio optimization problem, which is one of the central challenges in financial engineering.</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Scalable Simulation of Strongly Correlated Fermions with Neural Gaussian Tensor Networks</title>
@@ -115,34 +143,6 @@
       <link>http://arxiv.org/abs/2611.26447v1</link>
       <guid>a31378b6bb71ee4f</guid>
       <description>Fault-tolerant quantum computation requires a classical decoder fast enough to process syndrome measurements at the rate at which they are generated, and to return its decisions with low latency. This is most demanding for superconducting processors, whose fast syndrome cycles force a trade-off between decoding speed and accuracy.</description>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Entanglement, records, and quantum recovery in qubit chains</title>
-      <link>http://arxiv.org/abs/2611.26368v1</link>
-      <guid>11bc8d478b03e4fd</guid>
-      <description>We investigate entanglement, readable records and quantum recovery using an exactly solvable chain of sequentially interacting qubits. For weak interactions, entanglement reaches a later environment site before that site carries an equally strong local record.</description>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adaptive Hamiltonian Identification via Quantum Reinforcement Learning under Non-Stationary Dynamics</title>
-      <link>http://arxiv.org/abs/2611.26241v1</link>
-      <guid>e0117de545579246</guid>
-      <description>Accurate identification of the Hamiltonian governing a quantum system is important for quantum-system characterization, device calibration, simulation, and reliable operation of quantum hardware. In practical systems, however, the governing dynamics may vary over time because of parameter drift, changing control conditions, or transitions between operating regimes.</description>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>QFT-Based Hybrid PointNet-Quantum Neural Networks for LiDAR Point-Cloud Classification</title>
-      <link>http://arxiv.org/abs/2611.25578v1</link>
-      <guid>96b0dab6313582e1</guid>
-      <description>Hybrid quantum-classical learning architectures provide a promising framework for integrating quantum feature transformations into complex data-processing tasks. Among these transformations, the Quantum Fourier Transform (QFT) offers a structured approach to feature processing, motivating an investigation of how its circuit configuration influences predictive performance, quantum resource requirements, and noise robustness.</description>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Compiling Constraints into Neuromorphic Ising Machines</title>
-      <link>http://arxiv.org/abs/2611.25352v1</link>
-      <guid>6b8da147295691ed</guid>
-      <description>Most practical combinatorial optimization problems involve constraints, and an Ising machine that flips one spin at a time can respect them only through energy penalties that raise barriers between feasible solutions. Here we show that a higher-order neuromorphic Ising machine can enforce constraints through programmable transitions rather than penalties.</description>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

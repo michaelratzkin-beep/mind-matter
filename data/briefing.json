@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "title": "The latest signal",
   "overview": "Today’s index contains 240 recent records. The strongest signals span Quantum physics, Consciousness / philosophy, Neuroscience. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
@@ -9,7 +9,7 @@
       "title": "High-Accuracy Neural-Network Quantum States via Randomized Real-Time Dynamics",
       "why_it_matters": "Neural-network quantum states (NQSs) exhibit a disparity in converging to the ground state during energy minimization: while the energy converges quadratically with the error in the variational wave function, other observables converge only linearly, which limits the accuracy of physical predictions. Here we show how to close this gap by introducing a new algorithm that improves the accuracy of NQSs.",
       "url": "http://arxiv.org/abs/2611.26587v1",
-      "signal_score": 65,
+      "signal_score": 64,
       "evidence_label": "Preprint"
     },
     {
@@ -18,7 +18,7 @@
       "title": "Does the Workspace Do the Work? A Causal Protocol for Verifying Global-Workspace Computation in a Language Model",
       "why_it_matters": "Global Workspace Theory (GWT), a leading theory of consciousness, holds that information becomes conscious when it is broadcast to specialized processes that use it. Building a workspace into a network does not reveal what the trained network computes with it: a module that reports an answer may have combined a broadcast message with its own knowledge, or merely forwarded an answer computed elsewhere, and task accuracy and ablation cannot tell these apart.",
       "url": "http://arxiv.org/abs/2611.26018v1",
-      "signal_score": 60,
+      "signal_score": 59,
       "evidence_label": "Preprint"
     },
     {
@@ -27,7 +27,7 @@
       "title": "Alpha coherence is a network signature of cognitive recovery from disorders of consciousness",
       "why_it_matters": "New work indexed under “Alpha coherence is a network signature of cognitive recovery from disorders of consciousness.” The source did not provide an abstract; read the original before evaluating its claims.",
       "url": "https://doi.org/10.1016/j.cortex.2026.11.009",
-      "signal_score": 60,
+      "signal_score": 59,
       "evidence_label": "Journal article"
     }
   ]
