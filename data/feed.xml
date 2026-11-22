@@ -4,7 +4,7 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Sat, 21 Nov 2026 19:06:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 19:28:38 +0000</lastBuildDate>
     <item>
       <title>High-Accuracy Neural-Network Quantum States via Randomized Real-Time Dynamics</title>
       <link>http://arxiv.org/abs/2611.26587v1</link>
@@ -18,6 +18,13 @@
       <guid>e6070fa6357a013d</guid>
       <description>Multimode squeezed states of light are a resource for achieving quantum advantage in computing and sensing, where spatial or temporal modes have been the experimental norm. In our experiments, we generated highly frequency-multimode infrared quantum light and showed how adiabatic frequency conversion can be used to convert the quantum state to visible wavelengths while concurrently manipulating the joint spectrum by realizing a configurable many-port frequency-domain beamsplitter unitary transformation.</description>
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dopamine dynamics in a mouse model of temporal lobe seizures with impaired consciousness</title>
+      <link>https://doi.org/10.1002/epi.70575</link>
+      <guid>a6d4263af9404560</guid>
+      <description>OBJECTIVE: Focal temporal lobe seizures often lead to impaired consciousness. Recent work has shown depressed cortical arousal, with slow waves and decreased cortical acetylcholine as a possible mechanism for impaired consciousness in focal seizures.</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Does the Workspace Do the Work? A Causal Protocol for Verifying Global-Workspace Computation in a Language Model</title>
@@ -90,25 +97,18 @@
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum-enhanced adversarial sample detection for robust deep learning security models</title>
+      <link>https://doi.org/10.1007/s10791-026-10849-9</link>
+      <guid>4d31a3d0766f7a3a</guid>
+      <description>Adversarial samples remain one of the most practical threats to deep learning systems because they exploit a quiet mismatch between machine perception and human perception. A model may preserve high accuracy on clean benchmarks, yet a small and deliberately shaped perturbation can push its decision boundary into the wrong region.</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Algorithmic Quantum Sensing</title>
       <link>http://arxiv.org/abs/2611.25572v1</link>
       <guid>cfc4fd04f5ae4b9b</guid>
       <description>We introduce a unified framework for sensing time-dependent fields through the lens of classical and quantum algorithms. First, we develop three pulse sequence protocols, namely randomized, matched, and pooled spectroscopy, which outperform established approaches such as dynamical decoupling across a wide range of tasks.</description>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Causality Without Determinism: Free Will, Measurement and Mind</title>
-      <link>https://doi.org/10.67291/fvth8832</link>
-      <guid>a13c483be0893929</guid>
-      <description>SHA-256 of the PDF of this edition: 62a1117115cf70814a37699e041d480c56b8a87f6fa9a3b604a1f6ea7c49be98 This edition replaces the edition registered on 5 November 2026, whose PDF has SHA-256 a020d0c88b545a3e11c8557342162cdbb15a020d2c2361de3c361029e1cee264.</description>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dopamine dynamics in a mouse model of temporal lobe seizures with impaired consciousness.</title>
-      <link>https://europepmc.org/article/MED/43064665</link>
-      <guid>a6d4263af9404560</guid>
-      <description>New work indexed under “Dopamine dynamics in a mouse model of temporal lobe seizures with impaired consciousness..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Reactive, subjective and executive agents: How survival circuits underlie the expansion of subjective experience and felt motivation in humans and other vertebrates.</title>
@@ -125,13 +125,6 @@
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Performance comparison of QAOA mixers for ternary portfolio optimization</title>
-      <link>https://doi.org/10.1007/s11128-026-05322-x</link>
-      <guid>57b9991af5446624</guid>
-      <description>The quantum approximate optimization algorithm (QAOA) is a quantum algorithm proposed for noisy intermediate-scale quantum (NISQ) devices and is regarded as a promising approach to combinatorial optimization problems, with potential applications in the financial sector. In this study, we apply QAOA to the portfolio optimization problem, which is one of the central challenges in financial engineering.</description>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Scalable Simulation of Strongly Correlated Fermions with Neural Gaussian Tensor Networks</title>
       <link>http://arxiv.org/abs/2611.26604v1</link>
       <guid>5574949d86c88495</guid>
@@ -143,6 +136,13 @@
       <link>http://arxiv.org/abs/2611.26447v1</link>
       <guid>a31378b6bb71ee4f</guid>
       <description>Fault-tolerant quantum computation requires a classical decoder fast enough to process syndrome measurements at the rate at which they are generated, and to return its decisions with low latency. This is most demanding for superconducting processors, whose fast syndrome cycles force a trade-off between decoding speed and accuracy.</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Entanglement, records, and quantum recovery in qubit chains</title>
+      <link>http://arxiv.org/abs/2611.26368v1</link>
+      <guid>11bc8d478b03e4fd</guid>
+      <description>We investigate entanglement, readable records and quantum recovery using an exactly solvable chain of sequentially interacting qubits. For weak interactions, entanglement reaches a later environment site before that site carries an equally strong local record.</description>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

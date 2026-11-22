@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T19:06:25.791229+00:00",
+  "updated_at": "2026-11-22T19:28:38.763445+00:00",
   "lookback_days": 35,
   "sources": [
     "OpenAlex",
@@ -39,7 +39,7 @@
         "physics.comp-ph"
       ],
       "has_abstract": true,
-      "signal_score": 64
+      "signal_score": 63
     },
     {
       "id": "e6070fa6357a013d",
@@ -75,7 +75,48 @@
         "photon statistics"
       ],
       "has_abstract": true,
-      "signal_score": 64
+      "signal_score": 63
+    },
+    {
+      "id": "a6d4263af9404560",
+      "title": "Dopamine dynamics in a mouse model of temporal lobe seizures with impaired consciousness",
+      "authors": [
+        "Yang Zheng",
+        "Jiayang Liu",
+        "Jessey Li",
+        "Jiayin Qu",
+        "Samiksha Chopra",
+        "Taruna Yadav",
+        "Jessica A. Cardin",
+        "Hal Blumenfeld"
+      ],
+      "summary": "OBJECTIVE: Focal temporal lobe seizures often lead to impaired consciousness. Recent work has shown depressed cortical arousal, with slow waves and decreased cortical acetylcholine as a possible mechanism for impaired consciousness in focal seizures.",
+      "publication_date": "2026-11-20",
+      "source": "Epilepsia",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.1002/epi.70575",
+      "doi": "10.1002/epi.70575",
+      "work_type": "article",
+      "evidence_label": "Journal article",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "consciousness",
+        "neuroscience",
+        "cross-domain"
+      ],
+      "keywords": [
+        "dopamine dynamics",
+        "impaired consciousness",
+        "ventral tegmental area",
+        "medial prefrontal cortex",
+        "orbitofrontal cortex",
+        "hippocampal stimulation",
+        "genetically encoded fluorescent sensors",
+        "calcium imaging"
+      ],
+      "has_abstract": true,
+      "signal_score": 59
     },
     {
       "id": "a84ddc09e82509b0",
@@ -105,7 +146,7 @@
         "q-bio.NC"
       ],
       "has_abstract": true,
-      "signal_score": 59
+      "signal_score": 58
     },
     {
       "id": "b7312cd0fbcc04b0",
@@ -149,7 +190,7 @@
         "functional connectivity"
       ],
       "has_abstract": false,
-      "signal_score": 59
+      "signal_score": 58
     },
     {
       "id": "a278bc5248da0eac",
@@ -178,7 +219,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 57
+      "signal_score": 56
     },
     {
       "id": "3d5b68a7953a5362",
@@ -209,7 +250,7 @@
         "dark energy"
       ],
       "has_abstract": true,
-      "signal_score": 57
+      "signal_score": 56
     },
     {
       "id": "df4a477d55ab2d77",
@@ -246,7 +287,7 @@
         "intensive care unit patients"
       ],
       "has_abstract": true,
-      "signal_score": 57
+      "signal_score": 56
     },
     {
       "id": "15e55ab61d326824",
@@ -281,7 +322,7 @@
         "magic"
       ],
       "has_abstract": true,
-      "signal_score": 57
+      "signal_score": 56
     },
     {
       "id": "0de13eb87e1a7c74",
@@ -316,7 +357,7 @@
         "stationary solutions"
       ],
       "has_abstract": true,
-      "signal_score": 56
+      "signal_score": 55
     },
     {
       "id": "223182aed305973c",
@@ -351,7 +392,7 @@
         "quantum foundations"
       ],
       "has_abstract": true,
-      "signal_score": 56
+      "signal_score": 55
     },
     {
       "id": "e9f181a986d4cc44",
@@ -385,7 +426,7 @@
         "emotions and morality"
       ],
       "has_abstract": true,
-      "signal_score": 56
+      "signal_score": 55
     },
     {
       "id": "fdcd5eb615eea5b3",
@@ -420,7 +461,37 @@
         "modular software architecture"
       ],
       "has_abstract": true,
-      "signal_score": 55
+      "signal_score": 54
+    },
+    {
+      "id": "4d31a3d0766f7a3a",
+      "title": "Quantum-enhanced adversarial sample detection for robust deep learning security models",
+      "authors": [
+        "XinHang He"
+      ],
+      "summary": "Adversarial samples remain one of the most practical threats to deep learning systems because they exploit a quiet mismatch between machine perception and human perception. A model may preserve high accuracy on clean benchmarks, yet a small and deliberately shaped perturbation can push its decision boundary into the wrong region.",
+      "publication_date": "2026-11-20",
+      "source": "Discover Computing",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.1007/s10791-026-10849-9",
+      "doi": "10.1007/s10791-026-10849-9",
+      "work_type": "article",
+      "evidence_label": "Journal article",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "adversarial sample detection",
+        "quantum-enhanced machine learning",
+        "adversarial robustness",
+        "deep learning security",
+        "adversarial attacks",
+        "robustness verification"
+      ],
+      "has_abstract": true,
+      "signal_score": 53
     },
     {
       "id": "cfc4fd04f5ae4b9b",
@@ -447,69 +518,6 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 54
-    },
-    {
-      "id": "a13c483be0893929",
-      "title": "Causality Without Determinism: Free Will, Measurement and Mind",
-      "authors": [
-        "Forrest Landry"
-      ],
-      "summary": "SHA-256 of the PDF of this edition: 62a1117115cf70814a37699e041d480c56b8a87f6fa9a3b604a1f6ea7c49be98 This edition replaces the edition registered on 5 November 2026, whose PDF has SHA-256 a020d0c88b545a3e11c8557342162cdbb15a020d2c2361de3c361029e1cee264.",
-      "publication_date": "2026-11-04",
-      "source": "OpenAlex-indexed source",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.67291/fvth8832",
-      "doi": "10.67291/fvth8832",
-      "work_type": "book",
-      "evidence_label": "Book / chapter",
-      "open_access": true,
-      "cited_by_count": 17,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "causality",
-        "free will",
-        "determinism",
-        "measurement",
-        "mind",
-        "quantum mechanics",
-        "philosophy of mind"
-      ],
-      "has_abstract": true,
-      "signal_score": 54
-    },
-    {
-      "id": "a6d4263af9404560",
-      "title": "Dopamine dynamics in a mouse model of temporal lobe seizures with impaired consciousness.",
-      "authors": [
-        "Zheng Y",
-        "Liu J",
-        "Li J",
-        "Qu J",
-        "Chopra S",
-        "Yadav T",
-        "Cardin JA",
-        "Blumenfeld H."
-      ],
-      "summary": "New work indexed under “Dopamine dynamics in a mouse model of temporal lobe seizures with impaired consciousness..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-11-20",
-      "source": "Epilepsia",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/43064665",
-      "doi": "10.1002/epi.70575",
-      "work_type": "im; journal article",
-      "evidence_label": "Journal article",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "consciousness",
-        "neuroscience",
-        "cross-domain"
-      ],
-      "keywords": [],
-      "has_abstract": false,
       "signal_score": 53
     },
     {
@@ -541,7 +549,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 53
+      "signal_score": 52
     },
     {
       "id": "e12b1589ab3ab8b2",
@@ -564,50 +572,16 @@
       ],
       "keywords": [
         "artificial general intelligence",
-        "AI welfare",
         "functionalism",
-        "artificial consciousness",
+        "AI welfare",
         "AI rights",
+        "artificial consciousness",
         "epistemic justification",
         "mechanistic interpretability",
         "philosophy of mind"
       ],
       "has_abstract": true,
-      "signal_score": 53
-    },
-    {
-      "id": "57b9991af5446624",
-      "title": "Performance comparison of QAOA mixers for ternary portfolio optimization",
-      "authors": [
-        "Shintaro Yamamura",
-        "Satoshi Watanabe",
-        "Masaya Kunimi",
-        "Kazuhiro Saito",
-        "Tetsuro Nikuni"
-      ],
-      "summary": "The quantum approximate optimization algorithm (QAOA) is a quantum algorithm proposed for noisy intermediate-scale quantum (NISQ) devices and is regarded as a promising approach to combinatorial optimization problems, with potential applications in the financial sector. In this study, we apply QAOA to the portfolio optimization problem, which is one of the central challenges in financial engineering.",
-      "publication_date": "2026-11-19",
-      "source": "Quantum Information Processing",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.1007/s11128-026-05322-x",
-      "doi": "10.1007/s11128-026-05322-x",
-      "work_type": "article",
-      "evidence_label": "Journal article",
-      "open_access": true,
-      "cited_by_count": 1,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quantum approximate optimization algorithm",
-        "short selling",
-        "asset allocation",
-        "combinatorial optimization",
-        "NISQ devices",
-        "depolarizing noise"
-      ],
-      "has_abstract": true,
-      "signal_score": 53
+      "signal_score": 52
     },
     {
       "id": "5574949d86c88495",
@@ -637,7 +611,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 53
+      "signal_score": 52
     },
     {
       "id": "a31378b6bb71ee4f",
@@ -668,7 +642,7 @@
         "cs.LG"
       ],
       "has_abstract": true,
-      "signal_score": 53
+      "signal_score": 52
     },
     {
       "id": "11bc8d478b03e4fd",
@@ -696,7 +670,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 53
+      "signal_score": 52
     },
     {
       "id": "e0117de545579246",
@@ -724,7 +698,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 53
+      "signal_score": 52
     },
     {
       "id": "96b0dab6313582e1",
@@ -754,7 +728,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 53
+      "signal_score": 52
     },
     {
       "id": "6b8da147295691ed",
@@ -786,7 +760,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 53
+      "signal_score": 52
     },
     {
       "id": "d91518bf99aa2ee0",
@@ -822,37 +796,76 @@
         "prefrontal cortex"
       ],
       "has_abstract": true,
-      "signal_score": 53
+      "signal_score": 52
     },
     {
-      "id": "7bd4246b02f74dd8",
-      "title": "Mind your head: Entropic Brain, irruption theory and the intelligibility problem",
+      "id": "57b9991af5446624",
+      "title": "Performance comparison of QAOA mixers for ternary portfolio optimization",
       "authors": [
-        "Benedetta Cogo"
+        "Shintaro Yamamura",
+        "Satoshi Watanabe",
+        "Masaya Kunimi",
+        "Kazuhiro Saito",
+        "Tetsuro Nikuni"
       ],
-      "summary": "The entropic brain hypothesis (EBH) and irruption theory (IT) are two recent frameworks to investigate consciousness by examining neural entropy. While they differ in their theoretical commitments, both aim to advance neuroscientific investigations of consciousness without succumbing to the intelligibility problem: the impossibility for scientific inquiries to provide intelligible access to subjective experience.",
-      "publication_date": "2026-11-12",
-      "source": "Phenomenology and the Cognitive Sciences",
+      "summary": "The quantum approximate optimization algorithm (QAOA) is a quantum algorithm proposed for noisy intermediate-scale quantum (NISQ) devices and is regarded as a promising approach to combinatorial optimization problems, with potential applications in the financial sector. In this study, we apply QAOA to the portfolio optimization problem, which is one of the central challenges in financial engineering.",
+      "publication_date": "2026-11-19",
+      "source": "Quantum Information Processing",
       "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.1007/s11097-026-10227-2",
-      "doi": "10.1007/s11097-026-10227-2",
+      "url": "https://doi.org/10.1007/s11128-026-05322-x",
+      "doi": "10.1007/s11128-026-05322-x",
       "work_type": "article",
       "evidence_label": "Journal article",
       "open_access": true,
+      "cited_by_count": 1,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quantum approximate optimization algorithm",
+        "short selling",
+        "asset allocation",
+        "combinatorial optimization",
+        "NISQ devices",
+        "depolarizing noise"
+      ],
+      "has_abstract": true,
+      "signal_score": 51
+    },
+    {
+      "id": "22ae2078bbe5b4d3",
+      "title": "Quantum Annealing with a Quantum Neural Network: Width of Annealing Matters",
+      "authors": [
+        "Mojtaba Asadollahi",
+        "Danial Khajehzadeh",
+        "Abolfazl Ramezanpour"
+      ],
+      "summary": "Quantum annealing is a promising quantum algorithm for dealing with computationally hard optimization problems. Currently available hardware can implement the algorithm for a significant class of Hamiltonian problems.",
+      "publication_date": "2026-11-18",
+      "source": "arXiv (Cornell University)",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.48550/arxiv.2611.24089",
+      "doi": "10.48550/arxiv.2611.24089",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
       "cited_by_count": 0,
       "domains": [
-        "consciousness",
+        "quantum",
         "neuroscience",
         "cross-domain"
       ],
       "keywords": [
-        "consciousness",
-        "neural entropy",
-        "subjective experience",
-        "qualia"
+        "quantum annealing",
+        "quantum neural networks",
+        "quantum perceptron",
+        "network width",
+        "quantum search",
+        "band gap",
+        "optimization problems"
       ],
       "has_abstract": true,
-      "signal_score": 52
+      "signal_score": 51
     },
     {
       "id": "f8496c700cf1b3a6",
@@ -891,7 +904,7 @@
         "history of quantum mechanics"
       ],
       "has_abstract": true,
-      "signal_score": 52
+      "signal_score": 51
     },
     {
       "id": "73d1287b3e6b8140",
@@ -929,7 +942,37 @@
         "dog welfare"
       ],
       "has_abstract": true,
-      "signal_score": 51
+      "signal_score": 50
+    },
+    {
+      "id": "7bd4246b02f74dd8",
+      "title": "Mind your head: Entropic Brain, irruption theory and the intelligibility problem",
+      "authors": [
+        "Benedetta Cogo"
+      ],
+      "summary": "The entropic brain hypothesis (EBH) and irruption theory (IT) are two recent frameworks to investigate consciousness by examining neural entropy. While they differ in their theoretical commitments, both aim to advance neuroscientific investigations of consciousness without succumbing to the intelligibility problem: the impossibility for scientific inquiries to provide intelligible access to subjective experience.",
+      "publication_date": "2026-11-12",
+      "source": "Phenomenology and the Cognitive Sciences",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.1007/s11097-026-10227-2",
+      "doi": "10.1007/s11097-026-10227-2",
+      "work_type": "article",
+      "evidence_label": "Journal article",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "consciousness",
+        "neuroscience",
+        "cross-domain"
+      ],
+      "keywords": [
+        "consciousness",
+        "neural entropy",
+        "subjective experience",
+        "qualia"
+      ],
+      "has_abstract": true,
+      "signal_score": 50
     },
     {
       "id": "80cf704b281e5d4a",
@@ -965,7 +1008,7 @@
         "quantum computing hardware"
       ],
       "has_abstract": true,
-      "signal_score": 51
+      "signal_score": 50
     },
     {
       "id": "d5e64b4c1b424142",
@@ -999,7 +1042,7 @@
         "somatosensory perception"
       ],
       "has_abstract": true,
-      "signal_score": 50
+      "signal_score": 49
     },
     {
       "id": "d80b6542941c3ec8",
@@ -1026,7 +1069,7 @@
         "cs.AI"
       ],
       "has_abstract": true,
-      "signal_score": 50
+      "signal_score": 49
     },
     {
       "id": "2febd7cbfb0a1b16",
@@ -1062,7 +1105,7 @@
         "unconscious perception"
       ],
       "has_abstract": true,
-      "signal_score": 50
+      "signal_score": 49
     },
     {
       "id": "d8d0be695a5a99da",
@@ -1093,7 +1136,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 49
+      "signal_score": 48
     },
     {
       "id": "b001b86079fc767e",
@@ -1119,7 +1162,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 49
+      "signal_score": 48
     },
     {
       "id": "2cf075203c4291cc",
@@ -1151,7 +1194,7 @@
         "responsible behavior"
       ],
       "has_abstract": true,
-      "signal_score": 49
+      "signal_score": 48
     },
     {
       "id": "141c5545b7d338c3",
@@ -1184,7 +1227,7 @@
         "quantum foundations"
       ],
       "has_abstract": true,
-      "signal_score": 49
+      "signal_score": 48
     },
     {
       "id": "48f4850985d9f0f2",
@@ -1221,7 +1264,7 @@
         "autonomic measures"
       ],
       "has_abstract": true,
-      "signal_score": 49
+      "signal_score": 48
     },
     {
       "id": "b2d015b5417af679",
@@ -1247,7 +1290,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 48
+      "signal_score": 47
     },
     {
       "id": "84891eded2ff59ca",
@@ -1281,7 +1324,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 48
+      "signal_score": 47
     },
     {
       "id": "37391fba9b7094e8",
@@ -1315,7 +1358,7 @@
         "quantum memory"
       ],
       "has_abstract": true,
-      "signal_score": 48
+      "signal_score": 47
     },
     {
       "id": "6870f72e606896df",
@@ -1347,7 +1390,7 @@
         "charge readout"
       ],
       "has_abstract": true,
-      "signal_score": 48
+      "signal_score": 47
     },
     {
       "id": "41db7f9bf6516b4f",
@@ -1380,7 +1423,7 @@
         "working memory"
       ],
       "has_abstract": true,
-      "signal_score": 48
+      "signal_score": 47
     },
     {
       "id": "92aaa2e997f75c62",
@@ -1415,7 +1458,7 @@
         "measurement problem"
       ],
       "has_abstract": true,
-      "signal_score": 48
+      "signal_score": 47
     },
     {
       "id": "919eb9f0d3414a04",
@@ -1450,41 +1493,7 @@
         "coarse-graining"
       ],
       "has_abstract": true,
-      "signal_score": 48
-    },
-    {
-      "id": "217ad3e36857d5dc",
-      "title": "Epistemological Problems of Interdisciplinary Interaction between Philosophy and Cognitive Sciences (Reflection on the Book)",
-      "authors": [
-        "Зотов Олег Александрович"
-      ],
-      "summary": "This paper presents a panoramic sight of philosophical and methodological problems concerning interdisciplinary interaction of philosophy and cognitive sciences in the context of reflections upon Natalia Smirnova’s book “Imagination, Language, Creativity. Philosophy and Cognitive Sciences in the Study of Creative Activity of Consciousness” (Moscow, Saint Petersburg: Tsentr gumanitarnykh initsiativ, 2025).",
-      "publication_date": "2026-11-11",
-      "source": "Voprosy filosofii",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.21146/0042-8744-2026-11-76-85",
-      "doi": "10.21146/0042-8744-2026-11-76-85",
-      "work_type": "article",
-      "evidence_label": "Journal article",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "consciousness",
-        "neuroscience",
-        "cross-domain"
-      ],
-      "keywords": [
-        "philosophy of mind",
-        "interdisciplinary interaction",
-        "creative activity",
-        "imagination",
-        "language and creativity",
-        "phenomenology",
-        "neurophenomenology",
-        "cognitive linguistics"
-      ],
-      "has_abstract": true,
-      "signal_score": 48
+      "signal_score": 47
     },
     {
       "id": "b8bb3d3ace3b52e8",
@@ -1518,7 +1527,7 @@
         "emotional experience"
       ],
       "has_abstract": true,
-      "signal_score": 48
+      "signal_score": 47
     },
     {
       "id": "284626bd06a7f72b",
@@ -1555,7 +1564,7 @@
         "sample entropy"
       ],
       "has_abstract": true,
-      "signal_score": 48
+      "signal_score": 47
     },
     {
       "id": "47222f2d66b422c1",
@@ -1595,7 +1604,7 @@
         "body temperature"
       ],
       "has_abstract": true,
-      "signal_score": 48
+      "signal_score": 47
     },
     {
       "id": "d1b156b77410dafa",
@@ -1618,9 +1627,18 @@
       "domains": [
         "quantum"
       ],
-      "keywords": [],
+      "keywords": [
+        "quantum algorithms",
+        "metaheuristic optimization",
+        "bio-inspired algorithms",
+        "genetic algorithm",
+        "swarm intelligence",
+        "quantum-inspired algorithms",
+        "quantum computing hardware",
+        "bio-inspired optimization"
+      ],
       "has_abstract": true,
-      "signal_score": 47
+      "signal_score": 46
     },
     {
       "id": "c6e7fb39397f6970",
@@ -1645,7 +1663,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 47
+      "signal_score": 46
     },
     {
       "id": "40c0ecfe4ab3c366",
@@ -1670,7 +1688,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 47
+      "signal_score": 46
     },
     {
       "id": "3beb52051bcf88b8",
@@ -1735,7 +1753,7 @@
         "outcome measurement"
       ],
       "has_abstract": true,
-      "signal_score": 47
+      "signal_score": 46
     },
     {
       "id": "23a3ffb7bdc78962",
@@ -1764,7 +1782,7 @@
         "multipartite correlations"
       ],
       "has_abstract": true,
-      "signal_score": 47
+      "signal_score": 46
     },
     {
       "id": "e72abb76b7f3187f",
@@ -1797,7 +1815,7 @@
         "Einstein-Bohr debate"
       ],
       "has_abstract": true,
-      "signal_score": 47
+      "signal_score": 46
     },
     {
       "id": "660447349eab46b4",
@@ -1832,7 +1850,41 @@
         "symmetry"
       ],
       "has_abstract": true,
-      "signal_score": 47
+      "signal_score": 46
+    },
+    {
+      "id": "217ad3e36857d5dc",
+      "title": "Epistemological Problems of Interdisciplinary Interaction between Philosophy and Cognitive Sciences (Reflection on the Book)",
+      "authors": [
+        "Зотов Олег Александрович"
+      ],
+      "summary": "This paper presents a panoramic sight of philosophical and methodological problems concerning interdisciplinary interaction of philosophy and cognitive sciences in the context of reflections upon Natalia Smirnova’s book “Imagination, Language, Creativity. Philosophy and Cognitive Sciences in the Study of Creative Activity of Consciousness” (Moscow, Saint Petersburg: Tsentr gumanitarnykh initsiativ, 2025).",
+      "publication_date": "2026-11-11",
+      "source": "Voprosy filosofii",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.21146/0042-8744-2026-11-76-85",
+      "doi": "10.21146/0042-8744-2026-11-76-85",
+      "work_type": "article",
+      "evidence_label": "Journal article",
+      "open_access": false,
+      "cited_by_count": 0,
+      "domains": [
+        "consciousness",
+        "neuroscience",
+        "cross-domain"
+      ],
+      "keywords": [
+        "philosophy of mind",
+        "interdisciplinary interaction",
+        "creative activity",
+        "imagination",
+        "language and creativity",
+        "phenomenology",
+        "neurophenomenology",
+        "cognitive linguistics"
+      ],
+      "has_abstract": true,
+      "signal_score": 46
     },
     {
       "id": "bc94c7612edf1b84",
@@ -1863,7 +1915,7 @@
         "oddball paradigm"
       ],
       "has_abstract": true,
-      "signal_score": 47
+      "signal_score": 46
     },
     {
       "id": "dfbcd92f2aa5d3d8",
@@ -1892,7 +1944,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 46
+      "signal_score": 45
     },
     {
       "id": "aa1908f98e577476",
@@ -1924,7 +1976,7 @@
         "stochastic programming"
       ],
       "has_abstract": true,
-      "signal_score": 46
+      "signal_score": 45
     },
     {
       "id": "99d6124410793d78",
@@ -1957,7 +2009,7 @@
         "finite differences"
       ],
       "has_abstract": true,
-      "signal_score": 46
+      "signal_score": 45
     },
     {
       "id": "df035014109856b7",
@@ -1986,7 +2038,7 @@
         "data processing inequality"
       ],
       "has_abstract": true,
-      "signal_score": 46
+      "signal_score": 45
     },
     {
       "id": "ee5734e88afa82c8",
@@ -2022,7 +2074,7 @@
         "sample-based quantum diagonalization"
       ],
       "has_abstract": true,
-      "signal_score": 46
+      "signal_score": 45
     },
     {
       "id": "eca8197245ad1520",
@@ -2048,7 +2100,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 45
+      "signal_score": 44
     },
     {
       "id": "eb1a41b092635bfe",
@@ -2073,7 +2125,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 45
+      "signal_score": 44
     },
     {
       "id": "8bd26988383ec4d1",
@@ -2100,7 +2152,72 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 45
+      "signal_score": 44
+    },
+    {
+      "id": "0ff084b1fa7fcb37",
+      "title": "Indivisible Stochastic Processes and the Quantum Formalism: An Interpretive Synthesis around Barandes's Correspondence",
+      "authors": [
+        "Robert F. Thomas"
+      ],
+      "summary": "Quantum theory remains empirically unmatched in its domain, yet its conceptual foundations—measurement, the status of the wavefunction, and the classical limit—remain contested. A research programme due to Barandes reframes unitary quantum mechanics in terms of indivisible (non-Markovian) stochastic processes on configuration space, with unistochastic transition matrices supplying the bridge to complex amplitudes.",
+      "publication_date": "2026-11-20",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.5281/zenodo.24389891",
+      "doi": "10.5281/zenodo.24389891",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "non-Markovian processes",
+        "configuration space",
+        "measurement problem",
+        "wave function interpretation",
+        "classical limit",
+        "decoherence",
+        "electromagnetic resonators",
+        "objective collapse"
+      ],
+      "has_abstract": true,
+      "signal_score": 43
+    },
+    {
+      "id": "b8b98c1ef6d051fa",
+      "title": "Exploring Discrete Algorithms in Quantum Computing",
+      "authors": [
+        "Sulochana Sonkamble",
+        "Balwant Sonkamble"
+      ],
+      "summary": "Quantum computing introduces a new computational paradigm by extending the classical binary representation of information through quantum bits, which can exist in superposed states and exhibit entanglement. This work presents a systematic study of fundamental concepts, computational mechanisms, and discrete algorithms in quantum computing.",
+      "publication_date": "2026-11-20",
+      "source": "Research Square",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.21203/rs.3.rs-11232251/v1",
+      "doi": "10.21203/rs.3.rs-11232251/v1",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quantum computing",
+        "qubits",
+        "quantum gates",
+        "reversible logic",
+        "Toffoli gate",
+        "Fredkin gate",
+        "superposition",
+        "entanglement"
+      ],
+      "has_abstract": true,
+      "signal_score": 43
     },
     {
       "id": "999b7500b9ab69ab",
@@ -2140,7 +2257,7 @@
         "hardware integration"
       ],
       "has_abstract": true,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "14d3b4663740bc73",
@@ -2171,7 +2288,7 @@
         "Shor's algorithm"
       ],
       "has_abstract": true,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "1b32cbbe904a40cf",
@@ -2206,7 +2323,7 @@
         "biological consciousness"
       ],
       "has_abstract": true,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "9fc79b4690035914",
@@ -2240,7 +2357,7 @@
         "metabolic power"
       ],
       "has_abstract": true,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "0eabda02445ae331",
@@ -2278,7 +2395,7 @@
         "attention"
       ],
       "has_abstract": true,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "ed2e8f7d360af732",
@@ -2308,7 +2425,7 @@
         "q-bio.NC"
       ],
       "has_abstract": true,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "95cf26a870b7a09e",
@@ -2341,7 +2458,7 @@
         "quantum cosmology"
       ],
       "has_abstract": true,
-      "signal_score": 44
+      "signal_score": 43
     },
     {
       "id": "424f34e5cd3a0d85",
@@ -2365,7 +2482,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "b43600b89f93b62b",
@@ -2390,7 +2507,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "9fce39fa8e6cd6e0",
@@ -2418,7 +2535,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "a0dddb5f7edc1180",
@@ -2466,7 +2583,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "ed3c711d5bfb2751",
@@ -2491,7 +2608,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "1a1ce4dcf1b2e80b",
@@ -2520,7 +2637,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "2a83e442168732c3",
@@ -2546,7 +2663,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "98d7946bd8c1cd56",
@@ -2571,7 +2688,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "24e6ffd0f2afdb0d",
@@ -2598,7 +2715,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "aa86a120d4ed6e4c",
@@ -2627,7 +2744,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "42c4fa55797aa670",
@@ -2665,7 +2782,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "fc01cf0565e1129e",
@@ -2698,7 +2815,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "0aaf7cb48229f67e",
@@ -2728,7 +2845,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "af53279036ad1445",
@@ -2755,7 +2872,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "c52441d2cb9fd0e2",
@@ -2781,7 +2898,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "670667cd83f7a6d9",
@@ -2807,7 +2924,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "0c444623fdb288e1",
@@ -2836,7 +2953,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "688e260c3233dc98",
@@ -2864,7 +2981,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "f1081549cf7dc20e",
@@ -2892,7 +3009,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "679751807457dfff",
@@ -2923,7 +3040,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "6c3e5dfcb28ab8fa",
@@ -2951,7 +3068,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "2669e0af00605b85",
@@ -2983,7 +3100,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "5a4a15048b9634cb",
@@ -3011,7 +3128,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "d0367f17f49feea6",
@@ -3041,7 +3158,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "240e123914627d0e",
@@ -3082,7 +3199,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "86a3a72877679400",
@@ -3109,7 +3226,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "f8c877ea00ee606f",
@@ -3132,7 +3249,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "5b0ec247be9951dc",
@@ -3158,7 +3275,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "ebcca079963c6cdd",
@@ -3181,7 +3298,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "c1b34dd9e68585f6",
@@ -3209,7 +3326,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "66a0f9b9538b8228",
@@ -3235,7 +3352,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "6df935bab02afc9e",
@@ -3262,7 +3379,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "b517a7f0b2f3479f",
@@ -3288,7 +3405,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "fe9f7538047151aa",
@@ -3317,7 +3434,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "26a191b3aa062b6f",
@@ -3342,7 +3459,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "7d2664bb53b2ae6b",
@@ -3370,7 +3487,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "e9ab79c780d0e043",
@@ -3398,7 +3515,7 @@
         "cond-mat.stat-mech"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "dea937b8add09380",
@@ -3433,7 +3550,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "ae8d62d89a66a905",
@@ -3458,7 +3575,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "560763823226cb9f",
@@ -3485,7 +3602,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "8a650a7e31754dee",
@@ -3515,7 +3632,7 @@
         "cs.DS"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "5247eb2041e2e824",
@@ -3542,7 +3659,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "d86c26112d80d2e2",
@@ -3568,7 +3685,7 @@
         "cs.CR"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "9b45c16888277289",
@@ -3597,7 +3714,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "5e262828f5e4ace8",
@@ -3624,7 +3741,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "ac4c77384791a950",
@@ -3652,7 +3769,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "c20a79b8f5e04086",
@@ -3682,7 +3799,7 @@
         "cond-mat.stat-mech"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "8de4960f21dff9b6",
@@ -3710,7 +3827,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "2735f953541f93ad",
@@ -3738,7 +3855,7 @@
         "cs.DC"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "d82597af3a385898",
@@ -3767,7 +3884,7 @@
         "math-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "e64b69b992c9c727",
@@ -3795,7 +3912,7 @@
         "cs.IT"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "a06acd7315963e85",
@@ -3826,7 +3943,7 @@
         "cs.DS"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "40ecaa03d68f4bac",
@@ -3852,7 +3969,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "50c3268e64c3ab1c",
@@ -3877,7 +3994,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "3dd55368b6a113c0",
@@ -3908,7 +4025,7 @@
         "physics.ins-det"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "1472af87c2996b78",
@@ -3935,7 +4052,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "dda98112ab4c27d2",
@@ -3960,7 +4077,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "81ae7fe12fa5b29a",
@@ -3985,7 +4102,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "2fc75f43357e99ff",
@@ -4013,7 +4130,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "73fb487ae5057a88",
@@ -4045,7 +4162,7 @@
         "math.CO"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "7a7400b00d6da9aa",
@@ -4073,7 +4190,7 @@
         "physics.optics"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "7d67320bd6617f84",
@@ -4098,7 +4215,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "4b27d440d217ba0c",
@@ -4130,7 +4247,7 @@
         "cs.ET"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "3ef7399f8f1c2225",
@@ -4158,7 +4275,7 @@
         "nlin.CD"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "9ec6939b09e98bd5",
@@ -4186,7 +4303,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "d5ced46275c36c7b",
@@ -4216,7 +4333,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "d92fe04c45de5b4f",
@@ -4242,7 +4359,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "f19485d7cf8b971b",
@@ -4268,7 +4385,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "2bf2102e9b5f43d7",
@@ -4294,7 +4411,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "758ecabbc509a150",
@@ -4325,7 +4442,7 @@
         "cond-mat.str-el"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "96ab4b3b7d528480",
@@ -4352,7 +4469,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "2a78ff7a02bff47a",
@@ -4380,7 +4497,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "531992069a0dfcbf",
@@ -4408,7 +4525,7 @@
         "physics.optics"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "be4e98aca1e103b7",
@@ -4435,7 +4552,7 @@
         "nlin.CD"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "a0d4fb3da4d9563d",
@@ -4461,7 +4578,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "8bea5675f4c378b6",
@@ -4488,7 +4605,7 @@
         "hep-th"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "3875f9248c824d2a",
@@ -4513,7 +4630,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "169b98ed5d4aa00c",
@@ -4541,7 +4658,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "c89c6e04d6a6357e",
@@ -4572,7 +4689,7 @@
         "cs.NE"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "a43da0fb37665103",
@@ -4600,7 +4717,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "01730e8c93487661",
@@ -4629,7 +4746,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "37bad1dbabbdc10d",
@@ -4662,7 +4779,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "f408c7467311b12e",
@@ -4692,7 +4809,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "fb9990a899f1c8f2",
@@ -4719,7 +4836,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "aa22a80cdc665f17",
@@ -4748,7 +4865,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "5e2e999e6d7c911e",
@@ -4777,7 +4894,7 @@
         "cs.LG"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "e715ec86c7ed4c05",
@@ -4805,7 +4922,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "dce9c51bebb1ec46",
@@ -4834,7 +4951,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "15c60eca7ad848d8",
@@ -4864,7 +4981,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "94dc0c1fee097588",
@@ -4892,7 +5009,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "5bdb58938e71c86a",
@@ -4921,7 +5038,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "11af49ac301d33dd",
@@ -4949,7 +5066,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "06cd545d10dbca0e",
@@ -4978,7 +5095,7 @@
         "cs.CC"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "2d0507c473f78470",
@@ -5005,7 +5122,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "45de0dccea0b71c8",
@@ -5031,7 +5148,7 @@
         "cs.IT"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "7f8a3839451a2839",
@@ -5066,7 +5183,7 @@
         "physics.optics"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "dd91e0f962358cec",
@@ -5092,7 +5209,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "70ca10e96bd0d110",
@@ -5118,7 +5235,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "50b9629524eed446",
@@ -5143,7 +5260,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "e5dc8e29617acc34",
@@ -5170,7 +5287,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "07c8e81fa1fcbfad",
@@ -5202,7 +5319,7 @@
         "photonic crystals"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "e2b5bcd002899bc6",
@@ -5234,7 +5351,7 @@
         "causal inequalities"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "9739d45c96ded4ad",
@@ -5266,7 +5383,7 @@
         "excited-state spectroscopy"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "a1be64b8c8340312",
@@ -5301,7 +5418,7 @@
         "amplitude amplification"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "aab880ad1cce09e3",
@@ -5335,7 +5452,7 @@
         "quantum reinforcement learning"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "7dc4e2c37ba437e8",
@@ -5377,7 +5494,7 @@
         "principal component analysis"
       ],
       "has_abstract": true,
-      "signal_score": 43
+      "signal_score": 42
     },
     {
       "id": "afde1f1fb8494b5b",
@@ -5404,7 +5521,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "71005f61748ef915",
@@ -5429,7 +5546,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "a0fb5b28b4d2200c",
@@ -5454,7 +5571,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "465fb952825c586d",
@@ -5479,7 +5596,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "701d6fcd59b027e8",
@@ -5515,7 +5632,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "369f186207c8a53f",
@@ -5543,7 +5660,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "a3f2050650706c50",
@@ -5566,7 +5683,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "9f465cde23d72efb",
@@ -5598,7 +5715,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "f931a22cffb9b34c",
@@ -5627,7 +5744,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "366f17e43dab68de",
@@ -5659,7 +5776,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "2c51dde8f752ae15",
@@ -5686,7 +5803,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "c9f520cef2ff94e4",
@@ -5713,7 +5830,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "465e2af149a2cd31",
@@ -5741,7 +5858,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "86c84d1b1d30832b",
@@ -5795,7 +5912,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "4616723626d1ab94",
@@ -5818,7 +5935,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "32c003172b959461",
@@ -5845,7 +5962,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "614cc63977fae890",
@@ -5879,7 +5996,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "cd25108b4114ae25",
@@ -5903,7 +6020,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "ed9f01d5dcd5ef73",
@@ -5930,7 +6047,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "c19797c0869f6ee9",
@@ -5955,7 +6072,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "c6f4e989f13264bf",
@@ -5979,7 +6096,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "31aee8f4f9f9866a",
@@ -6012,7 +6129,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "3f2ea4fc63a285f6",
@@ -6038,7 +6155,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "e2260e4956eea554",
@@ -6062,7 +6179,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "d65646d943e4f9d0",
@@ -6087,7 +6204,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "c3a1cac583e38b42",
@@ -6114,7 +6231,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "8967af3e11bb1921",
@@ -6144,7 +6261,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "24d078015d6691d3",
@@ -6169,7 +6286,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "cf700ce635a8f0f3",
@@ -6197,7 +6314,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "ccb66a511de0fe9d",
@@ -6222,35 +6339,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 42
-    },
-    {
-      "id": "36975aabd7255102",
-      "title": "Acute Hemolysis Due to Metformin in a Young Adult Treated for T-Cell Acute Lymphoblastic Leukemia.",
-      "authors": [
-        "Callas B",
-        "Srivastava PS",
-        "Lo L",
-        "Wong W",
-        "Chao K",
-        "Jeng MR."
-      ],
-      "summary": "New work indexed under “Acute Hemolysis Due to Metformin in a Young Adult Treated for T-Cell Acute Lymphoblastic Leukemia..” The source did not provide an abstract; read the original before evaluating its claims.",
-      "publication_date": "2026-11-19",
-      "source": "J Pediatr Hematol Oncol",
-      "source_provider": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/43056299",
-      "doi": "10.1097/mph.0000000000003317",
-      "work_type": "journal article",
-      "evidence_label": "Journal article",
-      "open_access": false,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [],
-      "has_abstract": false,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "fab02cbb73cd5513",
@@ -6282,7 +6371,39 @@
         "neurophenomenology"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
+    },
+    {
+      "id": "6504ab2e4f015cef",
+      "title": "A relativistic gravitisation of quantum theory?",
+      "authors": [
+        "Samuel Fedida",
+        "Adrian Kent"
+      ],
+      "summary": "We develop a model, that we call local semiclassical gravity, based on the distributional semiclassical Einstein field equations (EFEs) sourced by the local quantum state, i.e. the reduced density matrix of the local system updated by collapses (only) in its past light cone.",
+      "publication_date": "2026-11-18",
+      "source": "arXiv (Cornell University)",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.48550/arxiv.2611.24227",
+      "doi": "10.48550/arxiv.2611.24227",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "Schrödinger-Newton equation",
+        "quantum gravity",
+        "weak-field limit",
+        "quantum measurement",
+        "superluminal signaling",
+        "Bell locality",
+        "quantum state cloning"
+      ],
+      "has_abstract": true,
+      "signal_score": 41
     },
     {
       "id": "60a3e0c3cb064bb9",
@@ -6308,7 +6429,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "0581064a100f1ec0",
@@ -6335,7 +6456,7 @@
         "cond-mat.str-el"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "cf19e6b36b9def1a",
@@ -6364,7 +6485,7 @@
         "quant-ph"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "029993fd5c128a1b",
@@ -6391,7 +6512,7 @@
         "cond-mat.mes-hall"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "1a23e9b82747247f",
@@ -6419,7 +6540,7 @@
         "hep-th"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "b3d99349341d545e",
@@ -6446,7 +6567,7 @@
         "math.NA"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "34a97255793c3b8b",
@@ -6479,7 +6600,7 @@
         "unfalsifiability"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "fc3bf537bf5b0798",
@@ -6506,7 +6627,7 @@
         "q-bio.NC"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "351b31d949d5ab5d",
@@ -6544,7 +6665,7 @@
         "GOLD stage"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "c7746b9982fe5dc0",
@@ -6581,7 +6702,7 @@
         "subjective experience"
       ],
       "has_abstract": true,
-      "signal_score": 42
+      "signal_score": 41
     },
     {
       "id": "86009443f258c3bc",
@@ -6613,7 +6734,41 @@
         "variational dynamics"
       ],
       "has_abstract": true,
-      "signal_score": 41
+      "signal_score": 40
+    },
+    {
+      "id": "6592254e776b5a63",
+      "title": "Anti-aging Squeezed Quantum Battery",
+      "authors": [
+        "Jing-Ci Yue",
+        "Tang Jing-tao",
+        "Jun-Hong An"
+      ],
+      "summary": "Exhibiting the superiority of energy storage and conversion over its classical counterpart, quantum battery (QB) emerges as a promising platform to revolutionize traditional energy technologies. However, their practical performance is severely constrained by the ubiquitous decoherence in microscopic world, which causes rapid aging and reduced ergotropy.",
+      "publication_date": "2026-11-17",
+      "source": "arXiv (Cornell University)",
+      "source_provider": "OpenAlex",
+      "url": "https://doi.org/10.48550/arxiv.2611.22452",
+      "doi": "10.48550/arxiv.2611.22452",
+      "work_type": "preprint",
+      "evidence_label": "Preprint",
+      "open_access": true,
+      "cited_by_count": 0,
+      "domains": [
+        "quantum"
+      ],
+      "keywords": [
+        "quantum batteries",
+        "squeezed states",
+        "anti-aging",
+        "decoherence",
+        "non-Markovian dynamics",
+        "ergotropy",
+        "bound states",
+        "finite temperature"
+      ],
+      "has_abstract": true,
+      "signal_score": 40
     },
     {
       "id": "2015ae7c5a64688f",
@@ -6651,7 +6806,7 @@
         "solid-state NMR"
       ],
       "has_abstract": true,
-      "signal_score": 41
+      "signal_score": 40
     },
     {
       "id": "9fd21f8e0b666aff",
@@ -6691,7 +6846,7 @@
         "propofol anesthesia"
       ],
       "has_abstract": true,
-      "signal_score": 41
+      "signal_score": 40
     },
     {
       "id": "6000d323e2c2e973",
@@ -6716,7 +6871,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 40
+      "signal_score": 39
     },
     {
       "id": "ba9ba1fd4454707e",
@@ -6740,7 +6895,7 @@
       ],
       "keywords": [],
       "has_abstract": false,
-      "signal_score": 40
+      "signal_score": 39
     },
     {
       "id": "b0efac1feaff4475",
@@ -6774,7 +6929,7 @@
         "protocol optimization"
       ],
       "has_abstract": true,
-      "signal_score": 40
+      "signal_score": 39
     },
     {
       "id": "ee92fa3fcca2ecbd",
@@ -6807,7 +6962,7 @@
         "device noise"
       ],
       "has_abstract": true,
-      "signal_score": 40
+      "signal_score": 39
     },
     {
       "id": "cbacb614aa8a7b49",
@@ -6865,7 +7020,7 @@
         "tests of general relativity"
       ],
       "has_abstract": true,
-      "signal_score": 40
+      "signal_score": 39
     },
     {
       "id": "bad6ea08d343bad3",
@@ -6898,7 +7053,7 @@
         "optical resonators"
       ],
       "has_abstract": true,
-      "signal_score": 40
+      "signal_score": 39
     },
     {
       "id": "e816b7c96e4ac310",
@@ -6926,7 +7081,7 @@
         "q-bio.NC"
       ],
       "has_abstract": true,
-      "signal_score": 40
+      "signal_score": 39
     },
     {
       "id": "1c2831c53526a2c8",
@@ -6958,7 +7113,7 @@
         "trust in AI"
       ],
       "has_abstract": true,
-      "signal_score": 40
+      "signal_score": 39
     },
     {
       "id": "441822fb5740e0f8",
@@ -6990,7 +7145,7 @@
         "determinism"
       ],
       "has_abstract": true,
-      "signal_score": 40
+      "signal_score": 39
     },
     {
       "id": "6a65c0ff4867898f",
@@ -7017,7 +7172,7 @@
         "philosophy of science"
       ],
       "has_abstract": true,
-      "signal_score": 40
+      "signal_score": 39
     },
     {
       "id": "b1729099b2f729b9",
@@ -7046,7 +7201,7 @@
         "metaphysics"
       ],
       "has_abstract": true,
-      "signal_score": 40
+      "signal_score": 39
     },
     {
       "id": "0caa3184c0238c7f",
@@ -7080,7 +7235,7 @@
         "electromagnetic sensitivity"
       ],
       "has_abstract": true,
-      "signal_score": 40
+      "signal_score": 39
     },
     {
       "id": "3485dc0fd9feee53",
@@ -7109,7 +7264,7 @@
         "optical communication"
       ],
       "has_abstract": true,
-      "signal_score": 40
+      "signal_score": 39
     },
     {
       "id": "776a818d841b3ff3",
@@ -7136,133 +7291,6 @@
         "commutative algebra",
         "Born rule",
         "quantum measurement"
-      ],
-      "has_abstract": true,
-      "signal_score": 39
-    },
-    {
-      "id": "6049d0dee239d81e",
-      "title": "Pilot-waves and copilot-particles: A nonstochastic approach to objective wavefunction collapse",
-      "authors": [
-        "Axel van de Walle"
-      ],
-      "summary": "We propose an extension to Schrödinger’s equation that incorporates macroscopic measurement-induced wavefunction collapse. We find that a hybrid between two leading approaches, the Bohm-de Broglie pilot-wave and objective collapse theories, accomplishes this goal in accordance with Born’s rule.",
-      "publication_date": "2026-11-10",
-      "source": "Physics Letters A",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.physleta.2026.132366",
-      "doi": "10.1016/j.physleta.2026.132366",
-      "work_type": "article",
-      "evidence_label": "Journal article",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "Bohmian mechanics",
-        "measurement problem",
-        "Born rule",
-        "wave function localization",
-        "macroscopic measurement",
-        "quantum computing"
-      ],
-      "has_abstract": true,
-      "signal_score": 39
-    },
-    {
-      "id": "f982a2e3f09f4cef",
-      "title": "Squeezing and Decoherence of Axion Dark Matter",
-      "authors": [
-        "Vasileios Fragkos",
-        "Igor Pikovski"
-      ],
-      "summary": "Bosonic particles beyond the Standard Model, such as axions, are among the leading candidates for dark matter. If such particles have a small mass, they are usually described as a purely classical field.",
-      "publication_date": "2026-11-10",
-      "source": "Universe",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.3390/universe12110346",
-      "doi": "10.3390/universe12110346",
-      "work_type": "article",
-      "evidence_label": "Journal article",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "axion dark matter",
-        "quantum squeezing",
-        "decoherence",
-        "gravitational self-interaction",
-        "light dark matter",
-        "dephasing",
-        "thermal fluctuations",
-        "dark matter detection"
-      ],
-      "has_abstract": true,
-      "signal_score": 39
-    },
-    {
-      "id": "40c1e1ab7ce19998",
-      "title": "Chronic hydrocephalus after aneurysmal subarachnoid hemorrhage: a brain–CSF interface framework for mechanisms, conceptual states, and surgical management",
-      "authors": [
-        "Eryi Sun",
-        "Rao Dai",
-        "Enxi Xu",
-        "Yan Deng",
-        "Bo Chen"
-      ],
-      "summary": "Chronic hydrocephalus following aneurysmal subarachnoid hemorrhage (aSAH) may be more usefully conceptualized as the cumulative failure of several interacting brain–CSF boundaries than as a single obstructed conduit. A purely mechanical model cannot account for inflammatory CSF secretion, delayed absorptive failure, impaired clearance, altered tissue compliance, or the heterogeneous need for permanent shunting, so we use a brain–CSF interface and compartment framework to organize these observations.",
-      "publication_date": "2026-11-10",
-      "source": "Frontiers in Neurology",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.3389/fneur.2026.1972081",
-      "doi": "10.3389/fneur.2026.1972081",
-      "work_type": "article",
-      "evidence_label": "Journal article",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "neuroscience"
-      ],
-      "keywords": [
-        "chronic hydrocephalus",
-        "aneurysmal subarachnoid hemorrhage",
-        "glymphatic system",
-        "choroid plexus",
-        "fibrosis",
-        "external ventricular drainage",
-        "lumbar drainage",
-        "cerebrospinal fluid shunting"
-      ],
-      "has_abstract": true,
-      "signal_score": 39
-    },
-    {
-      "id": "b9e9748412531174",
-      "title": "Confinement--Higgs Complementarity Viewed through Relative Quantum Reference Frames",
-      "authors": [
-        "Kei-Ichi Kondo"
-      ],
-      "summary": "We formulate confinement--Higgs complementarity in terms of the relative orientation between two independently constructed quantum reference frames (QRFs): one derived from the gauge field and the other from the scalar field. Exact continuum and lattice identities give a relational interpretation of the scalar--color observables used in recent gauge-fixing-free $SU(2)$ simulations.",
-      "publication_date": "2026-11-14",
-      "source": "arXiv (Cornell University)",
-      "source_provider": "OpenAlex",
-      "url": "https://doi.org/10.48550/arxiv.2611.19519",
-      "doi": "10.48550/arxiv.2611.19519",
-      "work_type": "preprint",
-      "evidence_label": "Preprint",
-      "open_access": true,
-      "cited_by_count": 0,
-      "domains": [
-        "quantum"
-      ],
-      "keywords": [
-        "quantum reference frames",
-        "gauge fields",
-        "scalar field",
-        "lattice gauge theory"
       ],
       "has_abstract": true,
       "signal_score": 38
