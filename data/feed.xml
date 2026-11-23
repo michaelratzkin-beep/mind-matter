@@ -4,7 +4,14 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Sun, 22 Nov 2026 19:28:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 23:47:11 +0000</lastBuildDate>
+    <item>
+      <title>Association of the 2HELPS2B Score With Impaired Recovery of Consciousness and In-Hospital Mortality in Critically Ill Patients: A Multicenter Retrospective Study</title>
+      <link>https://europepmc.org/article/PMC/PMC13788933</link>
+      <guid>7dcb48b8ae907a2d</guid>
+      <description>New work indexed under “Association of the 2HELPS2B Score With Impaired Recovery of Consciousness and In-Hospital Mortality in Critically Ill Patients: A Multicenter Retrospective Study.” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>High-Accuracy Neural-Network Quantum States via Randomized Real-Time Dynamics</title>
       <link>http://arxiv.org/abs/2611.26587v1</link>
@@ -27,6 +34,13 @@
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Clinical Survival and Failure Patterns of Stainless Steel Crowns Under General Anesthesia in Pediatric Dentistry: A Systematic Review</title>
+      <link>https://europepmc.org/article/PMC/PMC13789433</link>
+      <guid>719f841aa70f2bfa</guid>
+      <description>New work indexed under “Clinical Survival and Failure Patterns of Stainless Steel Crowns Under General Anesthesia in Pediatric Dentistry: A Systematic Review.” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Does the Workspace Do the Work? A Causal Protocol for Verifying Global-Workspace Computation in a Language Model</title>
       <link>http://arxiv.org/abs/2611.26018v1</link>
       <guid>a84ddc09e82509b0</guid>
@@ -41,11 +55,18 @@
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>A Quantum Genetic Algorithm for Optimization of Benchmark Test Functions using Entangled Qutrits</title>
-      <link>http://arxiv.org/abs/2611.25941v1</link>
-      <guid>a278bc5248da0eac</guid>
-      <description>Typically, quantum genetic algorithms are based on qubits, a two-level quantum system. This work investigates the optimization of Rastrigin, Rosen-Brock and Table Holder Function in comparison with Classical Genetic Algorithm (CGA), using two quantum approaches: Quantum Genetic Algorithm (QGA), and Higher-Order Quantum Genetic Algorithm (HO-QGA) based on qutrits, a three-level system.</description>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Quadratic unconstrained binary optimization benchmark problems from mixed Hamming packings</title>
+      <link>http://arxiv.org/abs/2611.27637v1</link>
+      <guid>a5537c9b5dad5f39</guid>
+      <description>Benchmarking exact solvers and noisy intermediate-scale quantum devices for quadratic unconstrained binary optimization (QUBO) requires small yet challenging instances, preferably coming from actual applications. We propose such a benchmark set derived from mixed Hamming packing, a hard problem in coding theory.</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Electroacupuncture for Postoperative Ileus Following Open Posterior Lumbar Surgery: A Multicenter Randomized Controlled Trial.</title>
+      <link>https://europepmc.org/article/MED/43070035</link>
+      <guid>547ef930ce0f81f9</guid>
+      <description>New work indexed under “Electroacupuncture for Postoperative Ileus Following Open Posterior Lumbar Surgery: A Multicenter Randomized Controlled Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A Transdisciplinary Science of Information within the Organogram of Consciousness</title>
@@ -90,6 +111,20 @@
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Cortical Activation and Functional Connectivity During 20Hz Unimodal and Audiovisual Sensory Stimulation in Disorders of Consciousness: A Pilot fNIRS Study.</title>
+      <link>https://europepmc.org/article/MED/43068748</link>
+      <guid>6aeac7a3ee33e8f8</guid>
+      <description>New work indexed under “Cortical Activation and Functional Connectivity During 20Hz Unimodal and Audiovisual Sensory Stimulation in Disorders of Consciousness: A Pilot fNIRS Study..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Single-realization Pauli twirling for suppressing coherent error accumulation in structured quantum circuits</title>
+      <link>http://arxiv.org/abs/2611.27703v1</link>
+      <guid>9d4a4bb13b88a0ab</guid>
+      <description>Pauli twirling is conventionally understood as an ensemble-level noise-tailoring procedure which suppresses coherent components of the error channel by averaging over randomized compilations. This picture does not by itself determine whether a single realization of Pauli-dressed circuit can outperform its bare counterpart, nor does it predict when such an advantage should occur.</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>C2 |Q⟩: A Robust Framework for Bridging Classical and Quantum Software Development</title>
       <link>https://doi.org/10.1145/3803018</link>
       <guid>fdcd5eb615eea5b3</guid>
@@ -97,53 +132,18 @@
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Clinical outcomes of silver nitrate application versus marsupialization for bartholin gland cysts and abscesses: A multicenter retrospective cohort study.</title>
+      <link>https://europepmc.org/article/MED/43069751</link>
+      <guid>9e44b3b69b744e11</guid>
+      <description>New work indexed under “Clinical outcomes of silver nitrate application versus marsupialization for bartholin gland cysts and abscesses: A multicenter retrospective cohort study..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Quantum-enhanced adversarial sample detection for robust deep learning security models</title>
       <link>https://doi.org/10.1007/s10791-026-10849-9</link>
       <guid>4d31a3d0766f7a3a</guid>
       <description>Adversarial samples remain one of the most practical threats to deep learning systems because they exploit a quiet mismatch between machine perception and human perception. A model may preserve high accuracy on clean benchmarks, yet a small and deliberately shaped perturbation can push its decision boundary into the wrong region.</description>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Algorithmic Quantum Sensing</title>
-      <link>http://arxiv.org/abs/2611.25572v1</link>
-      <guid>cfc4fd04f5ae4b9b</guid>
-      <description>We introduce a unified framework for sensing time-dependent fields through the lens of classical and quantum algorithms. First, we develop three pulse sequence protocols, namely randomized, matched, and pooled spectroscopy, which outperform established approaches such as dynamical decoupling across a wide range of tasks.</description>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reactive, subjective and executive agents: How survival circuits underlie the expansion of subjective experience and felt motivation in humans and other vertebrates.</title>
-      <link>https://europepmc.org/article/MED/43064006</link>
-      <guid>63d6d90984d13587</guid>
-      <description>New work indexed under “Reactive, subjective and executive agents: How survival circuits underlie the expansion of subjective experience and felt motivation in humans and other vertebrates..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>From AGI to AI Welfare: Computational Functionalism and Its Consequences</title>
-      <link>https://doi.org/10.1002/aaai.70115</link>
-      <guid>e12b1589ab3ab8b2</guid>
-      <description>Claims that artificial intelligence has reached or is approaching artificial general intelligence (AGI) are increasingly widespread in both industry and academia. These claims typically rest on either behavioral benchmark tests or mechanistic interpretability findings.</description>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scalable Simulation of Strongly Correlated Fermions with Neural Gaussian Tensor Networks</title>
-      <link>http://arxiv.org/abs/2611.26604v1</link>
-      <guid>5574949d86c88495</guid>
-      <description>Accurate simulations of strongly correlated electrons remain a central challenge in computational physics. We introduce neural-network Gaussian projected entangled-pair states (NN-GPEPS), which exploit the locally-entangled subspace of Gaussian states to give an architecture more compatible with modern neural networks and an exact contraction cost of $O(N^{3/2})$ on two-dimensional lattices.</description>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scaling classical hardware for accurate real-time quantum error correction</title>
-      <link>http://arxiv.org/abs/2611.26447v1</link>
-      <guid>a31378b6bb71ee4f</guid>
-      <description>Fault-tolerant quantum computation requires a classical decoder fast enough to process syndrome measurements at the rate at which they are generated, and to return its decisions with low latency. This is most demanding for superconducting processors, whose fast syndrome cycles force a trade-off between decoding speed and accuracy.</description>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Entanglement, records, and quantum recovery in qubit chains</title>
-      <link>http://arxiv.org/abs/2611.26368v1</link>
-      <guid>11bc8d478b03e4fd</guid>
-      <description>We investigate entanglement, readable records and quantum recovery using an exactly solvable chain of sequentially interacting qubits. For weak interactions, entanglement reaches a later environment site before that site carries an equally strong local record.</description>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
