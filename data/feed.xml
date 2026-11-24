@@ -4,7 +4,7 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Mon, 23 Nov 2026 23:47:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 22:19:04 +0000</lastBuildDate>
     <item>
       <title>Association of the 2HELPS2B Score With Impaired Recovery of Consciousness and In-Hospital Mortality in Critically Ill Patients: A Multicenter Retrospective Study</title>
       <link>https://europepmc.org/article/PMC/PMC13788933</link>
@@ -13,18 +13,18 @@
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>High-Accuracy Neural-Network Quantum States via Randomized Real-Time Dynamics</title>
-      <link>http://arxiv.org/abs/2611.26587v1</link>
-      <guid>d6cfd27b8a483a42</guid>
-      <description>Neural-network quantum states (NQSs) exhibit a disparity in converging to the ground state during energy minimization: while the energy converges quadratically with the error in the variational wave function, other observables converge only linearly, which limits the accuracy of physical predictions. Here we show how to close this gap by introducing a new algorithm that improves the accuracy of NQSs.</description>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Tunable spectral correlations of highly multimode visible light via broadband quantum frequency conversion</title>
       <link>https://doi.org/10.1126/sciadv.aeh8616</link>
       <guid>e6070fa6357a013d</guid>
       <description>Multimode squeezed states of light are a resource for achieving quantum advantage in computing and sensing, where spatial or temporal modes have been the experimental norm. In our experiments, we generated highly frequency-multimode infrared quantum light and showed how adiabatic frequency conversion can be used to convert the quantum state to visible wavelengths while concurrently manipulating the joint spectrum by realizing a configurable many-port frequency-domain beamsplitter unitary transformation.</description>
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Decoding sequence auditory expectations for clinical diagnostic and prognostic assessment of prolonged disorders of consciousness</title>
+      <link>https://doi.org/10.1088/1741-2552/aebdcf</link>
+      <guid>7dc4e2c37ba437e8</guid>
+      <description>Objective. Electroencephalogram (EEG) features are important objective markers for diagnostic and prognostic evaluation of prolonged disorders of consciousness (DOC). However, task-based EEG paradigms are limited by mismatches between task demands and patients’ residual awareness, as well as the limited individual assessment capacity of machine-learning-based detection frameworks.</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Dopamine dynamics in a mouse model of temporal lobe seizures with impaired consciousness</title>
@@ -55,11 +55,60 @@
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Quadratic unconstrained binary optimization benchmark problems from mixed Hamming packings</title>
-      <link>http://arxiv.org/abs/2611.27637v1</link>
-      <guid>a5537c9b5dad5f39</guid>
-      <description>Benchmarking exact solvers and noisy intermediate-scale quantum devices for quadratic unconstrained binary optimization (QUBO) requires small yet challenging instances, preferably coming from actual applications. We propose such a benchmark set derived from mixed Hamming packing, a hard problem in coding theory.</description>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Measurement of quantum states and nonlocal correlations</title>
+      <link>https://doi.org/10.1080/14786435.2026.2761981</link>
+      <guid>a14fb854073518b9</guid>
+      <description>One of the major remaining questions concerning foundations of the quantum mechanical theory is how superpositions are measured such that definite outcomes are obtained. Here a resolution to that issue is proposed.</description>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Solving the Traveling Salesman Problem Using Quantum Devices: QUBO and HOBO Formulations</title>
+      <link>http://arxiv.org/abs/2611.30972v1</link>
+      <guid>6af19ff0d6257377</guid>
+      <description>The traveling salesman problem (TSP) forms the foundation for many logistics and optimization tasks. At the same time, this problem is NP-hard and requires significant computational resources.</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exponential advantage in quantum observation with one extra qubit</title>
+      <link>http://arxiv.org/abs/2611.30876v1</link>
+      <guid>729fd6b208a4adc6</guid>
+      <description>While quantum technologies promise to revolutionise how we observe the physical world, achieving substantial advantages with minimal overhead remains a central pursuit. Here, we show that augmenting a quantum machine with just one extra qubit yields an exponential advantage in probing quantum many-body dynamics.</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Observable-Level Expressivity in Fixed-Readout Quantum Neural Networks</title>
+      <link>http://arxiv.org/abs/2611.30175v1</link>
+      <guid>73f40cb77a9ef855</guid>
+      <description>A central question in quantum machine learning is which functions of an input state a model can represent when its measurement is fixed by hardware or by experimental design. We address this question for quantum neural networks with a fixed readout observable, where the trainable pre-measurement dynamics determine the effective observable in the Heisenberg picture and the scalar output is the measured expectation value itself, without trainable affine post-processing.</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Feasibility and Preliminary Effects of a Web-Based Premature Birth Prevention Self-Management Education Program for Women of Childbearing Age: Pilot Randomized Controlled Trial With a Nested Qualitative Evaluation.</title>
+      <link>https://europepmc.org/article/MED/43071943</link>
+      <guid>68d5d0cc38a9e880</guid>
+      <description>New work indexed under “Feasibility and Preliminary Effects of a Web-Based Premature Birth Prevention Self-Management Education Program for Women of Childbearing Age: Pilot Randomized Controlled Trial With a Nested Qualitative Evaluation..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Efficacy of erector spinae plane block for patients with inflammatory bowel disease undergoing major abdominal surgery: A double-blind randomized controlled trial.</title>
+      <link>https://europepmc.org/article/MED/43071712</link>
+      <guid>d969d7cde742c61f</guid>
+      <description>New work indexed under “Efficacy of erector spinae plane block for patients with inflammatory bowel disease undergoing major abdominal surgery: A double-blind randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Interscalene block versus serratus posterior superior intercostal plane block for analgesia after shoulder arthroscopy: a randomized controlled trial.</title>
+      <link>https://europepmc.org/article/MED/43070778</link>
+      <guid>d2bdfa15676ac6a9</guid>
+      <description>New work indexed under “Interscalene block versus serratus posterior superior intercostal plane block for analgesia after shoulder arthroscopy: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patient-reported outcomes results from randomized controlled trials of hematologic malignancies: the impact of trial blinding.</title>
+      <link>https://europepmc.org/article/MED/43070638</link>
+      <guid>a862b77678896158</guid>
+      <description>New work indexed under “Patient-reported outcomes results from randomized controlled trials of hematologic malignancies: the impact of trial blinding..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Electroacupuncture for Postoperative Ileus Following Open Posterior Lumbar Surgery: A Multicenter Randomized Controlled Trial.</title>
@@ -90,60 +139,11 @@
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Nondiagonal Lindblad master equations in quantum reservoir engineering</title>
-      <link>https://doi.org/10.1103/xjsd-kkq4</link>
-      <guid>0de13eb87e1a7c74</guid>
-      <description>Reservoir engineering has proven to be a practical approach to control open quantum systems, preserving quantum coherence by appropriately manipulating the reservoir and system-reservoir interactions. In this context, for systems comprised of different parts, it is common to describe the dynamics of a subsystem of interest by performing an adiabatic elimination of the remaining components of the system.</description>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nambu’s Dynamics, Strings, and Gravitized Quantum Theory</title>
-      <link>https://doi.org/10.3390/particles9040106</link>
-      <guid>223182aed305973c</guid>
-      <description>In this article, we present a new view on string theory that is rooted in quantum foundations extended to the domain of quantum gravity in the form of gravitized quantum theory, in which the canonical probability measure captured by the Born rule of quantum theory, turns out to be dynamical and contextual. We claim that this gravitization of quantum theory is the essence of string theory.</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quantum Entanglement, Consciousness and the Principles of New AI</title>
-      <link>https://doi.org/10.5772/intechopen.1018671</link>
-      <guid>e9f181a986d4cc44</guid>
-      <description>Centered on statistical fitting and pattern matching, modern artificial intelligence merely simulates specific tasks. It lacks consistent logical reasoning, creative intuition, genuine emotional valence and moral judgment, stemming from the failure of existing computing frameworks to capture the fundamental physical mechanisms behind quantum entanglement and human consciousness.</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cortical Activation and Functional Connectivity During 20Hz Unimodal and Audiovisual Sensory Stimulation in Disorders of Consciousness: A Pilot fNIRS Study.</title>
-      <link>https://europepmc.org/article/MED/43068748</link>
-      <guid>6aeac7a3ee33e8f8</guid>
-      <description>New work indexed under “Cortical Activation and Functional Connectivity During 20Hz Unimodal and Audiovisual Sensory Stimulation in Disorders of Consciousness: A Pilot fNIRS Study..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Single-realization Pauli twirling for suppressing coherent error accumulation in structured quantum circuits</title>
-      <link>http://arxiv.org/abs/2611.27703v1</link>
-      <guid>9d4a4bb13b88a0ab</guid>
-      <description>Pauli twirling is conventionally understood as an ensemble-level noise-tailoring procedure which suppresses coherent components of the error channel by averaging over randomized compilations. This picture does not by itself determine whether a single realization of Pauli-dressed circuit can outperform its bare counterpart, nor does it predict when such an advantage should occur.</description>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>C2 |Q⟩: A Robust Framework for Bridging Classical and Quantum Software Development</title>
-      <link>https://doi.org/10.1145/3803018</link>
-      <guid>fdcd5eb615eea5b3</guid>
-      <description>Quantum Software Engineering (QSE) is emerging as a critical discipline to make quantum computing accessible to a broader developer community; however, most quantum development environments still require developers to engage with low-level details across the software stack—including problem encoding, circuit construction, algorithm configuration, hardware selection and result interpretation—making them difficult for classical software engineers to use. To bridge this gap, we present C2 \(|{\rm{Q}}\rangle\) , a…</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Clinical outcomes of silver nitrate application versus marsupialization for bartholin gland cysts and abscesses: A multicenter retrospective cohort study.</title>
-      <link>https://europepmc.org/article/MED/43069751</link>
-      <guid>9e44b3b69b744e11</guid>
-      <description>New work indexed under “Clinical outcomes of silver nitrate application versus marsupialization for bartholin gland cysts and abscesses: A multicenter retrospective cohort study..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <title>Calcium Overload, an Underrecognized Cause of Persistent Hypercalcemia in Young Children with Trisomy 21: A Systematic Review.</title>
+      <link>https://europepmc.org/article/MED/43071746</link>
+      <guid>1b6d69db25f926f1</guid>
+      <description>New work indexed under “Calcium Overload, an Underrecognized Cause of Persistent Hypercalcemia in Young Children with Trisomy 21: A Systematic Review..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quantum-enhanced adversarial sample detection for robust deep learning security models</title>
-      <link>https://doi.org/10.1007/s10791-026-10849-9</link>
-      <guid>4d31a3d0766f7a3a</guid>
-      <description>Adversarial samples remain one of the most practical threats to deep learning systems because they exploit a quiet mismatch between machine perception and human perception. A model may preserve high accuracy on clean benchmarks, yet a small and deliberately shaped perturbation can push its decision boundary into the wrong region.</description>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

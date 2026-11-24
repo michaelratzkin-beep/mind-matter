@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "title": "The latest signal",
   "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Quantum physics, Neuroscience. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
@@ -9,25 +9,25 @@
       "title": "Association of the 2HELPS2B Score With Impaired Recovery of Consciousness and In-Hospital Mortality in Critically Ill Patients: A Multicenter Retrospective Study",
       "why_it_matters": "New work indexed under “Association of the 2HELPS2B Score With Impaired Recovery of Consciousness and In-Hospital Mortality in Critically Ill Patients: A Multicenter Retrospective Study.” The source did not provide an abstract; read the original before evaluating its claims.",
       "url": "https://europepmc.org/article/PMC/PMC13788933",
-      "signal_score": 65,
+      "signal_score": 64,
       "evidence_label": "Journal article"
     },
     {
       "domain": "quantum",
       "domain_label": "Quantum physics",
-      "title": "High-Accuracy Neural-Network Quantum States via Randomized Real-Time Dynamics",
-      "why_it_matters": "Neural-network quantum states (NQSs) exhibit a disparity in converging to the ground state during energy minimization: while the energy converges quadratically with the error in the variational wave function, other observables converge only linearly, which limits the accuracy of physical predictions. Here we show how to close this gap by introducing a new algorithm that improves the accuracy of NQSs.",
-      "url": "http://arxiv.org/abs/2611.26587v1",
-      "signal_score": 62,
-      "evidence_label": "Preprint"
+      "title": "Tunable spectral correlations of highly multimode visible light via broadband quantum frequency conversion",
+      "why_it_matters": "Multimode squeezed states of light are a resource for achieving quantum advantage in computing and sensing, where spatial or temporal modes have been the experimental norm. In our experiments, we generated highly frequency-multimode infrared quantum light and showed how adiabatic frequency conversion can be used to convert the quantum state to visible wavelengths while concurrently manipulating the joint spectrum by realizing a configurable many-port frequency-domain beamsplitter unitary transformation.",
+      "url": "https://doi.org/10.1126/sciadv.aeh8616",
+      "signal_score": 61,
+      "evidence_label": "Journal article"
     },
     {
       "domain": "neuroscience",
       "domain_label": "Neuroscience",
-      "title": "Dopamine dynamics in a mouse model of temporal lobe seizures with impaired consciousness",
-      "why_it_matters": "OBJECTIVE: Focal temporal lobe seizures often lead to impaired consciousness. Recent work has shown depressed cortical arousal, with slow waves and decreased cortical acetylcholine as a possible mechanism for impaired consciousness in focal seizures.",
-      "url": "https://doi.org/10.1002/epi.70575",
-      "signal_score": 58,
+      "title": "Decoding sequence auditory expectations for clinical diagnostic and prognostic assessment of prolonged disorders of consciousness",
+      "why_it_matters": "Objective. Electroencephalogram (EEG) features are important objective markers for diagnostic and prognostic evaluation of prolonged disorders of consciousness (DOC). However, task-based EEG paradigms are limited by mismatches between task demands and patients’ residual awareness, as well as the limited individual assessment capacity of machine-learning-based detection frameworks.",
+      "url": "https://doi.org/10.1088/1741-2552/aebdcf",
+      "signal_score": 60,
       "evidence_label": "Journal article"
     }
   ]
