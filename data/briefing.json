@@ -1,34 +1,34 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "title": "The latest signal",
-  "overview": "Today’s index contains 240 recent records. The strongest signals span Consciousness / philosophy, Quantum physics, Neuroscience. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
+  "overview": "Today’s index contains 240 recent records. The strongest signals span Quantum physics, Consciousness / philosophy, Neuroscience. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
+    {
+      "domain": "quantum",
+      "domain_label": "Quantum physics",
+      "title": "Qutrit quantum neural network with non-commutative multi-subspace feature map",
+      "why_it_matters": "We present QNN-3L, a quantum neural network architecture based on three-level systems (qutrits) with longitudinal Ising-type couplings on a one-dimensional lattice. Starting from an explicit phenomenological multilevel Hamiltonian that includes local anharmonicity, diagonal couplings and resonant control pulses, we derive native selective rotations on computational subspaces and a nearest-neighbour controlled-\\((Z)\\) primitive.",
+      "url": "https://doi.org/10.1007/s42484-026-00473-7",
+      "signal_score": 67,
+      "evidence_label": "Journal article"
+    },
     {
       "domain": "consciousness",
       "domain_label": "Consciousness / philosophy",
       "title": "Association of the 2HELPS2B Score With Impaired Recovery of Consciousness and In-Hospital Mortality in Critically Ill Patients: A Multicenter Retrospective Study",
       "why_it_matters": "New work indexed under “Association of the 2HELPS2B Score With Impaired Recovery of Consciousness and In-Hospital Mortality in Critically Ill Patients: A Multicenter Retrospective Study.” The source did not provide an abstract; read the original before evaluating its claims.",
       "url": "https://europepmc.org/article/PMC/PMC13788933",
-      "signal_score": 64,
-      "evidence_label": "Journal article"
-    },
-    {
-      "domain": "quantum",
-      "domain_label": "Quantum physics",
-      "title": "Tunable spectral correlations of highly multimode visible light via broadband quantum frequency conversion",
-      "why_it_matters": "Multimode squeezed states of light are a resource for achieving quantum advantage in computing and sensing, where spatial or temporal modes have been the experimental norm. In our experiments, we generated highly frequency-multimode infrared quantum light and showed how adiabatic frequency conversion can be used to convert the quantum state to visible wavelengths while concurrently manipulating the joint spectrum by realizing a configurable many-port frequency-domain beamsplitter unitary transformation.",
-      "url": "https://doi.org/10.1126/sciadv.aeh8616",
-      "signal_score": 61,
+      "signal_score": 63,
       "evidence_label": "Journal article"
     },
     {
       "domain": "neuroscience",
       "domain_label": "Neuroscience",
-      "title": "Decoding sequence auditory expectations for clinical diagnostic and prognostic assessment of prolonged disorders of consciousness",
-      "why_it_matters": "Objective. Electroencephalogram (EEG) features are important objective markers for diagnostic and prognostic evaluation of prolonged disorders of consciousness (DOC). However, task-based EEG paradigms are limited by mismatches between task demands and patients’ residual awareness, as well as the limited individual assessment capacity of machine-learning-based detection frameworks.",
-      "url": "https://doi.org/10.1088/1741-2552/aebdcf",
+      "title": "Large-Scale Streaming Portfolio Optimization with Pauli Correlation Encoding",
+      "why_it_matters": "Classical portfolio construction over large asset universes is a combinatorial selection problem that existing heuristics do not solve well at scale. Pauli Correlation Encoding (PCE) addresses this by representing the underlying clustering problem with far fewer qubits than one per asset, and a prior study showed it is competitive with classical methods on a single historical snapshot.",
+      "url": "http://arxiv.org/abs/2611.32769v1",
       "signal_score": 60,
-      "evidence_label": "Journal article"
+      "evidence_label": "Preprint"
     }
   ]
 }

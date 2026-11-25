@@ -4,13 +4,34 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Tue, 24 Nov 2026 22:19:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:35:18 +0000</lastBuildDate>
+    <item>
+      <title>Qutrit quantum neural network with non-commutative multi-subspace feature map</title>
+      <link>https://doi.org/10.1007/s42484-026-00473-7</link>
+      <guid>f0d49cb6be418511</guid>
+      <description>We present QNN-3L, a quantum neural network architecture based on three-level systems (qutrits) with longitudinal Ising-type couplings on a one-dimensional lattice. Starting from an explicit phenomenological multilevel Hamiltonian that includes local anharmonicity, diagonal couplings and resonant control pulses, we derive native selective rotations on computational subspaces and a nearest-neighbour controlled-\((Z)\) primitive.</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Association of the 2HELPS2B Score With Impaired Recovery of Consciousness and In-Hospital Mortality in Critically Ill Patients: A Multicenter Retrospective Study</title>
       <link>https://europepmc.org/article/PMC/PMC13788933</link>
       <guid>7dcb48b8ae907a2d</guid>
       <description>New work indexed under “Association of the 2HELPS2B Score With Impaired Recovery of Consciousness and In-Hospital Mortality in Critically Ill Patients: A Multicenter Retrospective Study.” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Benchmarking and resource analysis for augmented-Lagrangian quantum Hamiltonian descent</title>
+      <link>https://doi.org/10.1103/pyzl-sllm</link>
+      <guid>2b42963648d8f382</guid>
+      <description>Quantum Hamiltonian Descent (QHD) is a continuous optimization algorithm based on simulating a time-dependent quantum Hamiltonian whose potential energy encodes the objective function and whose kinetic energy promotes exploration through quantum interference and tunneling. While QHD is formulated for unconstrained optimization, many real-world optimization problems are constrained and highly nonconvex.</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Large-Scale Streaming Portfolio Optimization with Pauli Correlation Encoding</title>
+      <link>http://arxiv.org/abs/2611.32769v1</link>
+      <guid>af109d4a86b722a4</guid>
+      <description>Classical portfolio construction over large asset universes is a combinatorial selection problem that existing heuristics do not solve well at scale. Pauli Correlation Encoding (PCE) addresses this by representing the underlying clustering problem with far fewer qubits than one per asset, and a prior study showed it is competitive with classical methods on a single historical snapshot.</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Tunable spectral correlations of highly multimode visible light via broadband quantum frequency conversion</title>
@@ -20,10 +41,24 @@
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Time Travel Paradoxes and Entangled Timelines</title>
+      <link>https://doi.org/10.3390/e28121300</link>
+      <guid>1d83b3c4c89dc2e3</guid>
+      <description>For time travel to be consistent with the known laws of physics, the resulting paradoxes must be resolved. It has been suggested that the notion of parallel timelines may provide a resolution, by allowing different events to happen in different timelines.</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Decoding sequence auditory expectations for clinical diagnostic and prognostic assessment of prolonged disorders of consciousness</title>
       <link>https://doi.org/10.1088/1741-2552/aebdcf</link>
       <guid>7dc4e2c37ba437e8</guid>
-      <description>Objective. Electroencephalogram (EEG) features are important objective markers for diagnostic and prognostic evaluation of prolonged disorders of consciousness (DOC). However, task-based EEG paradigms are limited by mismatches between task demands and patients’ residual awareness, as well as the limited individual assessment capacity of machine-learning-based detection frameworks.</description>
+      <description>Objective.Electroencephalogram (EEG) features are important objective markers for diagnostic and prognostic evaluation of prolonged disorders of consciousness (DOC). However, task-based EEG paradigms are limited by mismatches between task demands and patients' residual awareness, as well as the limited individual assessment capacity of machine-learning-based detection frameworks.Approach.In this study, we proposed a low-demand DOC detection strategy by decoding expectations of global regularities in sequence…</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Efficacy of erector spinae plane block for patients with inflammatory bowel disease undergoing major abdominal surgery: A double-blind randomized controlled trial.</title>
+      <link>https://europepmc.org/article/MED/43071712</link>
+      <guid>d969d7cde742c61f</guid>
+      <description>New work indexed under “Efficacy of erector spinae plane block for patients with inflammatory bowel disease undergoing major abdominal surgery: A double-blind randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -34,11 +69,18 @@
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Clinical Survival and Failure Patterns of Stainless Steel Crowns Under General Anesthesia in Pediatric Dentistry: A Systematic Review</title>
-      <link>https://europepmc.org/article/PMC/PMC13789433</link>
-      <guid>719f841aa70f2bfa</guid>
-      <description>New work indexed under “Clinical Survival and Failure Patterns of Stainless Steel Crowns Under General Anesthesia in Pediatric Dentistry: A Systematic Review.” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Comparative effectiveness of Neiguan acupoint stimulation in preventing postoperative nausea and vomiting following general anesthesia: A network meta-analysis.</title>
+      <link>https://europepmc.org/article/MED/43078401</link>
+      <guid>4c7cc294f665ccc1</guid>
+      <description>New work indexed under “Comparative effectiveness of Neiguan acupoint stimulation in preventing postoperative nausea and vomiting following general anesthesia: A network meta-analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collected Papers on the Immanent Metaphysics: Applications. Volume II</title>
+      <link>https://doi.org/10.67291/eqya3189</link>
+      <guid>ec748c67ac9dcd0a</guid>
+      <description>SHA-256 of the PDF of this edition: 107dbd446931a3bfcb5bca16e14a89f0b181ab58f9ca4eda5059933594611d52</description>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Does the Workspace Do the Work? A Causal Protocol for Verifying Global-Workspace Computation in a Language Model</title>
@@ -55,95 +97,53 @@
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Measurement of quantum states and nonlocal correlations</title>
-      <link>https://doi.org/10.1080/14786435.2026.2761981</link>
-      <guid>a14fb854073518b9</guid>
-      <description>One of the major remaining questions concerning foundations of the quantum mechanical theory is how superpositions are measured such that definite outcomes are obtained. Here a resolution to that issue is proposed.</description>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Consciousness, complexity, and clinical implications.</title>
+      <link>https://europepmc.org/article/MED/43079070</link>
+      <guid>23fb0d4393ccec7e</guid>
+      <description>New work indexed under “Consciousness, complexity, and clinical implications..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Solving the Traveling Salesman Problem Using Quantum Devices: QUBO and HOBO Formulations</title>
-      <link>http://arxiv.org/abs/2611.30972v1</link>
-      <guid>6af19ff0d6257377</guid>
-      <description>The traveling salesman problem (TSP) forms the foundation for many logistics and optimization tasks. At the same time, this problem is NP-hard and requires significant computational resources.</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Resource-Efficient Quantum Classifier for Facial Identification</title>
+      <link>https://doi.org/10.21203/rs.3.rs-10549498/v1</link>
+      <guid>6e3df45791fe4149</guid>
+      <description>Hybrid quantum frameworks are typically associated with higher-dimensional and complex problems. Their applicability to resource-constrained biometric systems remain insufficiently explored.</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Exponential advantage in quantum observation with one extra qubit</title>
-      <link>http://arxiv.org/abs/2611.30876v1</link>
-      <guid>729fd6b208a4adc6</guid>
-      <description>While quantum technologies promise to revolutionise how we observe the physical world, achieving substantial advantages with minimal overhead remains a central pursuit. Here, we show that augmenting a quantum machine with just one extra qubit yields an exponential advantage in probing quantum many-body dynamics.</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Theory-Informed Quantum Error Mitigation for Shor Order Finding with Fourier Neural Operators</title>
+      <link>http://arxiv.org/abs/2611.32923v1</link>
+      <guid>e14895dff5b5699b</guid>
+      <description>Quantum noise distorts the distribution of circuit measurement outcomes, often leaving enough information to infer the algorithm's correct result. To recover this latent information from the noisy distribution in Shor order finding, we introduce a theory-informed quantum error mitigation method.</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Observable-Level Expressivity in Fixed-Readout Quantum Neural Networks</title>
-      <link>http://arxiv.org/abs/2611.30175v1</link>
-      <guid>73f40cb77a9ef855</guid>
-      <description>A central question in quantum machine learning is which functions of an input state a model can represent when its measurement is fixed by hardware or by experimental design. We address this question for quantum neural networks with a fixed readout observable, where the trainable pre-measurement dynamics determine the effective observable in the Heisenberg picture and the scalar output is the measured expectation value itself, without trainable affine post-processing.</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Quantum Community Detection for Data Analysis</title>
+      <link>http://arxiv.org/abs/2611.32738v1</link>
+      <guid>0ccf64891a6ee7dd</guid>
+      <description>Community detection offers an alternative to conventional methods for data analysis tasks such as feature selection and clustering, and detecting communities with quantum algorithms is a promising avenue for quantum speedup. We investigate quantum spectral community detectors, such as the modularity-matrix algorithm deteQt, in pipelines for both tasks.</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Feasibility and Preliminary Effects of a Web-Based Premature Birth Prevention Self-Management Education Program for Women of Childbearing Age: Pilot Randomized Controlled Trial With a Nested Qualitative Evaluation.</title>
-      <link>https://europepmc.org/article/MED/43071943</link>
-      <guid>68d5d0cc38a9e880</guid>
-      <description>New work indexed under “Feasibility and Preliminary Effects of a Web-Based Premature Birth Prevention Self-Management Education Program for Women of Childbearing Age: Pilot Randomized Controlled Trial With a Nested Qualitative Evaluation..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Witnessing Gaussian Coexistence and Correlation-Ellipse Tomography</title>
+      <link>http://arxiv.org/abs/2611.32581v1</link>
+      <guid>5eed68aaa0aaa38b</guid>
+      <description>Gaussian light is specified by second-order field moments, yet their hidden correlation geometry can demand higher-order intensity measurements. We establish a measurement hierarchy for "Gaussian coexistence", i.e., the simultaneous presence of cross covariance and cross pseudocovariance.</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Efficacy of erector spinae plane block for patients with inflammatory bowel disease undergoing major abdominal surgery: A double-blind randomized controlled trial.</title>
-      <link>https://europepmc.org/article/MED/43071712</link>
-      <guid>d969d7cde742c61f</guid>
-      <description>New work indexed under “Efficacy of erector spinae plane block for patients with inflammatory bowel disease undergoing major abdominal surgery: A double-blind randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Quantum optimization beyond qubit count by low-energy subspace sampling</title>
+      <link>http://arxiv.org/abs/2611.32560v1</link>
+      <guid>49c86ba476f2ecfc</guid>
+      <description>On current digital quantum devices, standard one-qubit-per-variable encodings restrict quantum optimization algorithms to problem sizes where classical solvers typically excel. To avoid this constraint, we introduce Quantum Subspace Sampling Descent (QSSD), an iterative heuristic that decouples the number of problem variables from qubit count, while preserving knowledge of the problem's global structure.</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Interscalene block versus serratus posterior superior intercostal plane block for analgesia after shoulder arthroscopy: a randomized controlled trial.</title>
-      <link>https://europepmc.org/article/MED/43070778</link>
-      <guid>d2bdfa15676ac6a9</guid>
-      <description>New work indexed under “Interscalene block versus serratus posterior superior intercostal plane block for analgesia after shoulder arthroscopy: a randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patient-reported outcomes results from randomized controlled trials of hematologic malignancies: the impact of trial blinding.</title>
-      <link>https://europepmc.org/article/MED/43070638</link>
-      <guid>a862b77678896158</guid>
-      <description>New work indexed under “Patient-reported outcomes results from randomized controlled trials of hematologic malignancies: the impact of trial blinding..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Electroacupuncture for Postoperative Ileus Following Open Posterior Lumbar Surgery: A Multicenter Randomized Controlled Trial.</title>
-      <link>https://europepmc.org/article/MED/43070035</link>
-      <guid>547ef930ce0f81f9</guid>
-      <description>New work indexed under “Electroacupuncture for Postoperative Ileus Following Open Posterior Lumbar Surgery: A Multicenter Randomized Controlled Trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Transdisciplinary Science of Information within the Organogram of Consciousness</title>
-      <link>https://doi.org/10.37547/tajas/volume08issue11-03</link>
-      <guid>3d5b68a7953a5362</guid>
-      <description>Information transcends the traditional disciplines of physics, psychology, cosmology, and biology, yet remains connected to them through Zero-Point Energy. Although the origins of space, time, and matter are known, the when and how of Information’s emergence remain elusive.</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multimodal Coma Stimulation to Improve Arousal and Physical Function in Patients with Traumatic Brain Injury</title>
-      <link>https://doi.org/10.12691/ajnr-14-3-2</link>
-      <guid>df4a477d55ab2d77</guid>
-      <description>Background: Impaired consciousness is one of the most serious complications following Traumatic Brain Injury (TBI). Sensory deprivation may delay neural recovery and worsen patient outcomes.</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quantum tomography of fermion pairs in e + e − collisions: Longitudinal beam polarization effects</title>
-      <link>https://doi.org/10.1103/l5x9-z6zh</link>
-      <guid>15e55ab61d326824</guid>
-      <description>We present a quantum tomography study of fermion pair production at future e + e − colliders, emphasizing how longitudinal beam polarization controls the two-qubit spin density matrix. We study the processes e + e − → t t ‾ , e + e − → μ + μ − and Bhabha scattering e + e − → e + e − , representing the mass threshold behavior, the Z pole resonance and the s / t -channel interplay.</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Calcium Overload, an Underrecognized Cause of Persistent Hypercalcemia in Young Children with Trisomy 21: A Systematic Review.</title>
-      <link>https://europepmc.org/article/MED/43071746</link>
-      <guid>1b6d69db25f926f1</guid>
-      <description>New work indexed under “Calcium Overload, an Underrecognized Cause of Persistent Hypercalcemia in Young Children with Trisomy 21: A Systematic Review..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Quantum Tautochrone for photons and atoms</title>
+      <link>http://arxiv.org/abs/2611.32319v1</link>
+      <guid>56f7b1299f3e4db3</guid>
+      <description>The tautochrone problem, in which the travel time to a common point is independent of the starting position, has served as a foundational model in classical mechanics. Here we establish its quantum counterpart in engineered photonic waveguide arrays and atomic optical lattices, where nonuniform couplings drive photons and particles launched from different positions to converge simultaneously at a common site.</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
