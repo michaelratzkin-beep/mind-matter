@@ -4,7 +4,14 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Wed, 25 Nov 2026 21:35:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 21:24:59 +0000</lastBuildDate>
+    <item>
+      <title>Designing fault-tolerant blind quantum computation</title>
+      <link>https://doi.org/10.1103/d396-73sy</link>
+      <guid>c3517f343b48a650</guid>
+      <description>Blind quantum computing (BQC) allows a client with limited quantum capabilities to delegate quantum computations to a more powerful server while hiding the computation. Existing protocols face significant challenges when scaling to large-scale fault-tolerant computations due to large communication overhead, photon losses, and low efficiencies.</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Qutrit quantum neural network with non-commutative multi-subspace feature map</title>
       <link>https://doi.org/10.1007/s42484-026-00473-7</link>
@@ -13,11 +20,25 @@
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Association of the 2HELPS2B Score With Impaired Recovery of Consciousness and In-Hospital Mortality in Critically Ill Patients: A Multicenter Retrospective Study</title>
-      <link>https://europepmc.org/article/PMC/PMC13788933</link>
-      <guid>7dcb48b8ae907a2d</guid>
-      <description>New work indexed under “Association of the 2HELPS2B Score With Impaired Recovery of Consciousness and In-Hospital Mortality in Critically Ill Patients: A Multicenter Retrospective Study.” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Longitudinal cognitive and functional outcomes after hemorrhagic stroke in patients with preserved consciousness: a prospective observational study</title>
+      <link>https://europepmc.org/article/PMC/PMC13796195</link>
+      <guid>eff80542a9b733bd</guid>
+      <description>New work indexed under “Longitudinal cognitive and functional outcomes after hemorrhagic stroke in patients with preserved consciousness: a prospective observational study.” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The functional fallacy: a diagnostic framework for functional claims in the psychology of consciousness</title>
+      <link>https://doi.org/10.3389/fpsyg.2026.1976104</link>
+      <guid>54d6508a28ee1aa5</guid>
+      <description>Scientific theories of consciousness (STOCs) routinely claim, in one form or another, that consciousness does something: that it confers a function and a behavioral or adaptive advantage. This paper asks what that claim can coherently amount to.</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Consciousness, complexity, and clinical implications</title>
+      <link>https://doi.org/10.1007/s00429-026-03236-z</link>
+      <guid>23fb0d4393ccec7e</guid>
+      <description>Consciousness remains one of science's most challenging problems because it cannot be exhaustively characterized as a single function, computation, or behavior; it also refers to the presence and organization of subjective experience. This position paper integrates clinical neurology, neurophysiology, psychiatry, psychoanalysis, embodied cognition, moral neuroscience, theoretical physics, philosophy of mind, and neurotechnology.</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Benchmarking and resource analysis for augmented-Lagrangian quantum Hamiltonian descent</title>
@@ -27,18 +48,25 @@
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Large-Scale Streaming Portfolio Optimization with Pauli Correlation Encoding</title>
-      <link>http://arxiv.org/abs/2611.32769v1</link>
-      <guid>af109d4a86b722a4</guid>
-      <description>Classical portfolio construction over large asset universes is a combinatorial selection problem that existing heuristics do not solve well at scale. Pauli Correlation Encoding (PCE) addresses this by representing the underlying clustering problem with far fewer qubits than one per asset, and a prior study showed it is competitive with classical methods on a single historical snapshot.</description>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Tunable spectral correlations of highly multimode visible light via broadband quantum frequency conversion</title>
       <link>https://doi.org/10.1126/sciadv.aeh8616</link>
       <guid>e6070fa6357a013d</guid>
       <description>Multimode squeezed states of light are a resource for achieving quantum advantage in computing and sensing, where spatial or temporal modes have been the experimental norm. In our experiments, we generated highly frequency-multimode infrared quantum light and showed how adiabatic frequency conversion can be used to convert the quantum state to visible wavelengths while concurrently manipulating the joint spectrum by realizing a configurable many-port frequency-domain beamsplitter unitary transformation.</description>
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fewer Parameters, Longer Runtimes: The Wall-Clock Cost of Hybrid Quantum Physics-Informed Neural Networks</title>
+      <link>http://arxiv.org/abs/2611.34755v1</link>
+      <guid>17f45fa7baa17492</guid>
+      <description>While hybrid quantum-classical physics-informed neural networks (QCPINNs) are often described as efficient because they have fewer trainable parameters than classical PINNs, parameter count does not measure wall-clock cost. To examine this gap on a one-dimensional seawater temperature diffusion benchmark, with the quantum circuits simulated on a CPU, we time the four cumulative stages a PINN needs (the forward pass, the first- and second-order input gradients, and the PDE-loss parameter gradient) for a classical…</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>987 Awake Craniotomy versus General Anesthesia for High-Grade Gliomas: A Systematic Review and Meta-Analysis of Survival, Safety, and Resection Outcomes</title>
+      <link>https://europepmc.org/article/PMC/PMC13797346</link>
+      <guid>646d50b8901c1572</guid>
+      <description>New work indexed under “987 Awake Craniotomy versus General Anesthesia for High-Grade Gliomas: A Systematic Review and Meta-Analysis of Survival, Safety, and Resection Outcomes.” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Time Travel Paradoxes and Entangled Timelines</title>
@@ -55,11 +83,25 @@
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Efficacy of erector spinae plane block for patients with inflammatory bowel disease undergoing major abdominal surgery: A double-blind randomized controlled trial.</title>
-      <link>https://europepmc.org/article/MED/43071712</link>
-      <guid>d969d7cde742c61f</guid>
-      <description>New work indexed under “Efficacy of erector spinae plane block for patients with inflammatory bowel disease undergoing major abdominal surgery: A double-blind randomized controlled trial..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Gut microbiota features associated with clinical consciousness trajectories in neurosurgical ICU patients</title>
+      <link>https://europepmc.org/article/PMC/PMC13796217</link>
+      <guid>1c7ba399e3f417eb</guid>
+      <description>New work indexed under “Gut microbiota features associated with clinical consciousness trajectories in neurosurgical ICU patients.” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A dynamic nomogram for predicting early post-stroke disorder of consciousness among stroke patients: model development and temporal validation</title>
+      <link>https://europepmc.org/article/PMC/PMC13796210</link>
+      <guid>61f016186ac3061d</guid>
+      <description>New work indexed under “A dynamic nomogram for predicting early post-stroke disorder of consciousness among stroke patients: model development and temporal validation.” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comment on "Effect of granisetron on the spinal anesthesia-induced hemodynamic changes: a meta-analysis of randomized controlled trials" by Koo et al.</title>
+      <link>https://europepmc.org/article/MED/43086509</link>
+      <guid>89e28554191a25ed</guid>
+      <description>New work indexed under “Comment on "Effect of granisetron on the spinal anesthesia-induced hemodynamic changes: a meta-analysis of randomized controlled trials" by Koo et al..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Dopamine dynamics in a mouse model of temporal lobe seizures with impaired consciousness</title>
@@ -69,81 +111,39 @@
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Comparative effectiveness of Neiguan acupoint stimulation in preventing postoperative nausea and vomiting following general anesthesia: A network meta-analysis.</title>
-      <link>https://europepmc.org/article/MED/43078401</link>
-      <guid>4c7cc294f665ccc1</guid>
-      <description>New work indexed under “Comparative effectiveness of Neiguan acupoint stimulation in preventing postoperative nausea and vomiting following general anesthesia: A network meta-analysis..” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collected Papers on the Immanent Metaphysics: Applications. Volume II</title>
-      <link>https://doi.org/10.67291/eqya3189</link>
-      <guid>ec748c67ac9dcd0a</guid>
-      <description>SHA-256 of the PDF of this edition: 107dbd446931a3bfcb5bca16e14a89f0b181ab58f9ca4eda5059933594611d52</description>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Does the Workspace Do the Work? A Causal Protocol for Verifying Global-Workspace Computation in a Language Model</title>
-      <link>http://arxiv.org/abs/2611.26018v1</link>
-      <guid>a84ddc09e82509b0</guid>
-      <description>Global Workspace Theory (GWT), a leading theory of consciousness, holds that information becomes conscious when it is broadcast to specialized processes that use it. Building a workspace into a network does not reveal what the trained network computes with it: a module that reports an answer may have combined a broadcast message with its own knowledge, or merely forwarded an answer computed elsewhere, and task accuracy and ablation cannot tell these apart.</description>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alpha coherence is a network signature of cognitive recovery from disorders of consciousness</title>
-      <link>https://doi.org/10.1016/j.cortex.2026.11.009</link>
-      <guid>b7312cd0fbcc04b0</guid>
-      <description>New work indexed under “Alpha coherence is a network signature of cognitive recovery from disorders of consciousness.” The source did not provide an abstract; read the original before evaluating its claims.</description>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Consciousness, complexity, and clinical implications.</title>
-      <link>https://europepmc.org/article/MED/43079070</link>
-      <guid>23fb0d4393ccec7e</guid>
-      <description>New work indexed under “Consciousness, complexity, and clinical implications..” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <title>Neural Network Decoders For Qubit Loss</title>
+      <link>http://arxiv.org/abs/2611.34891v1</link>
+      <guid>1f577f16a8bf568a</guid>
+      <description>Qubit loss is a significant source of error in many quantum hardware platforms, requiring circuits that periodically replace or reset qubits to maintain fault-tolerance. When the reset process includes loss-resolving measurements, this information can improve decoding and substantially reduce overhead compared to the case where this information is not available.</description>
       <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Resource-Efficient Quantum Classifier for Facial Identification</title>
-      <link>https://doi.org/10.21203/rs.3.rs-10549498/v1</link>
-      <guid>6e3df45791fe4149</guid>
-      <description>Hybrid quantum frameworks are typically associated with higher-dimensional and complex problems. Their applicability to resource-constrained biometric systems remain insufficiently explored.</description>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Direct generation of N00N states with layered semiconductors</title>
+      <link>http://arxiv.org/abs/2611.34701v1</link>
+      <guid>7c23fdbd03208e6c</guid>
+      <description>Photonic N00N states enable phase sensing beyond the classical limit, but their generation conventionally relies on interferometric manipulation of photons using bulk optical components. Here we demonstrate the direct generation of a family of tunable two-photon polarization N00N states from a subwavelength-thick 3R-MoS2 flake.</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Theory-Informed Quantum Error Mitigation for Shor Order Finding with Fourier Neural Operators</title>
-      <link>http://arxiv.org/abs/2611.32923v1</link>
-      <guid>e14895dff5b5699b</guid>
-      <description>Quantum noise distorts the distribution of circuit measurement outcomes, often leaving enough information to infer the algorithm's correct result. To recover this latent information from the noisy distribution in Shor order finding, we introduce a theory-informed quantum error mitigation method.</description>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Data-enhanced self-learning projective quantum Monte Carlo with Rydberg-atom measurements</title>
+      <link>http://arxiv.org/abs/2611.34636v1</link>
+      <guid>1ad9a13327726897</guid>
+      <description>We introduce a data-enhanced self-learning projective quantum Monte Carlo (PQMC) method that incorporates projective measurements from programmable quantum simulators into the guiding wavefunction of a ground-state projection. We demonstrate the approach for a two-dimensional Rydberg-atom array using restricted Boltzmann machine (RBM) and recurrent neural network (RNN) guiding wavefunctions.</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Quantum Community Detection for Data Analysis</title>
-      <link>http://arxiv.org/abs/2611.32738v1</link>
-      <guid>0ccf64891a6ee7dd</guid>
-      <description>Community detection offers an alternative to conventional methods for data analysis tasks such as feature selection and clustering, and detecting communities with quantum algorithms is a promising avenue for quantum speedup. We investigate quantum spectral community detectors, such as the modularity-matrix algorithm deteQt, in pipelines for both tasks.</description>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <title>LatentRL-QAS: Transfer via Latent Reinforcement Learning for Quantum Architecture Search</title>
+      <link>http://arxiv.org/abs/2611.34634v1</link>
+      <guid>e240844a504566c8</guid>
+      <description>Reinforcement learning (RL) emerges as a prominent approach to quantum architecture search (QAS), the automated design of quantum circuits. However, transferring what an agent has learned from one number of qubits to another is still weakly explored: the state, the action space and the neural network of a state-of-the-art RL-QAS agent all grow with the number of qubits, which makes transfer learning across qubit counts prohibitive.</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Witnessing Gaussian Coexistence and Correlation-Ellipse Tomography</title>
-      <link>http://arxiv.org/abs/2611.32581v1</link>
-      <guid>5eed68aaa0aaa38b</guid>
-      <description>Gaussian light is specified by second-order field moments, yet their hidden correlation geometry can demand higher-order intensity measurements. We establish a measurement hierarchy for "Gaussian coexistence", i.e., the simultaneous presence of cross covariance and cross pseudocovariance.</description>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quantum optimization beyond qubit count by low-energy subspace sampling</title>
-      <link>http://arxiv.org/abs/2611.32560v1</link>
-      <guid>49c86ba476f2ecfc</guid>
-      <description>On current digital quantum devices, standard one-qubit-per-variable encodings restrict quantum optimization algorithms to problem sizes where classical solvers typically excel. To avoid this constraint, we introduce Quantum Subspace Sampling Descent (QSSD), an iterative heuristic that decouples the number of problem variables from qubit count, while preserving knowledge of the problem's global structure.</description>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quantum Tautochrone for photons and atoms</title>
-      <link>http://arxiv.org/abs/2611.32319v1</link>
-      <guid>56f7b1299f3e4db3</guid>
-      <description>The tautochrone problem, in which the travel time to a common point is independent of the starting position, has served as a foundational model in classical mechanics. Here we establish its quantum counterpart in engineered photonic waveguide arrays and atomic optical lattices, where nonuniform couplings drive photons and particles launched from different positions to converge simultaneously at a common site.</description>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Native higher-order optimization with entropy quantum computing</title>
+      <link>http://arxiv.org/abs/2611.34429v1</link>
+      <guid>7a2a4c98c01ad272</guid>
+      <description>Higher-order interactions are common in applied optimization: parity checks, radar-code sidelobes, portfolio skewness and kurtosis, and marketing-channel synergies all yield cubic or quartic objectives. Quantum annealers and most Ising machines accept only quadratic objectives, and gate-based quantum processors build every higher-order term from two-qubit gates.</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
