@@ -4,7 +4,7 @@
     <title>MIND / MATTER Daily Briefing</title>
     <link>https://michaelratzkin-beep.github.io/mind-matter/</link>
     <description>New research across consciousness, quantum foundations, and neuroscience.</description>
-    <lastBuildDate>Thu, 26 Nov 2026 21:24:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:05:42 +0000</lastBuildDate>
     <item>
       <title>Designing fault-tolerant blind quantum computation</title>
       <link>https://doi.org/10.1103/d396-73sy</link>
@@ -25,6 +25,13 @@
       <guid>eff80542a9b733bd</guid>
       <description>New work indexed under “Longitudinal cognitive and functional outcomes after hemorrhagic stroke in patients with preserved consciousness: a prospective observational study.” The source did not provide an abstract; read the original before evaluating its claims.</description>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Artificial Intelligence in Physics Research: Foundations, Applications and Challenges for Autonomous Scientific Discovery</title>
+      <link>https://doi.org/10.62292/njp.v35(s).2026.781</link>
+      <guid>6d2ab4db9cc8f119</guid>
+      <description>Artificial intelligence (AI) is increasingly used across physics research, but claims that it now produces autonomous scientific discovery require careful scrutiny. This narrative review aims to synthesize evidence published between January 2014 and August 2026, together with earlier foundational works, on how AI is used in physics and to evaluate the extent to which its contributions amount to validated discovery rather than prediction.</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The functional fallacy: a diagnostic framework for functional claims in the psychology of consciousness</title>
@@ -55,6 +62,13 @@
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Validation of the Hungarian version of the Coma Recovery Scale-Revised in patients with disorders of consciousness</title>
+      <link>https://europepmc.org/article/PMC/PMC13808950</link>
+      <guid>12657d800ac91605</guid>
+      <description>New work indexed under “Validation of the Hungarian version of the Coma Recovery Scale-Revised in patients with disorders of consciousness.” The source did not provide an abstract; read the original before evaluating its claims.</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Fewer Parameters, Longer Runtimes: The Wall-Clock Cost of Hybrid Quantum Physics-Informed Neural Networks</title>
       <link>http://arxiv.org/abs/2611.34755v1</link>
       <guid>17f45fa7baa17492</guid>
@@ -83,6 +97,13 @@
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum recurrent unit: an effective and parameter-efficient quantum neural network architecture for NISQ devices</title>
+      <link>https://doi.org/10.1140/epjqt/s40507-026-00600-0</link>
+      <guid>70610c6991b00589</guid>
+      <description>The rapid growth of modern machine learning models presents fundamental challenges in parameter efficiency and computational resource requirements. We introduce the Quantum Recurrent Unit (QRU), a novel quantum neural network architecture specifically designed to address these challenges while maintaining compatibility with Noisy Intermediate-Scale Quantum (NISQ) devices.</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Gut microbiota features associated with clinical consciousness trajectories in neurosurgical ICU patients</title>
       <link>https://europepmc.org/article/PMC/PMC13796217</link>
       <guid>1c7ba399e3f417eb</guid>
@@ -97,6 +118,20 @@
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Logical entangling by qubit permutations in hypergraph products</title>
+      <link>https://doi.org/10.1103/3f43-3lb3</link>
+      <guid>23b3dce9860815d5</guid>
+      <description>Logical entangling gates are a major source of physical spacetime overhead in fault-tolerant quantum computation. Phantom codes reduce this cost by implementing every ordered in-block logical CNOT through physical qubit permutations and Pauli-frame updates.</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Ground of Being: The Axioms, the Incommensuration Theorem, and the Modalities</title>
+      <link>https://doi.org/10.67291/owak8715</link>
+      <guid>8ea884409303e018</guid>
+      <description>SHA-256 of the PDF of this edition: 06e1b19858696984c29d1b0afeccbfe71cf1e360a85732e56de453ac5bd30ef7</description>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Comment on "Effect of granisetron on the spinal anesthesia-induced hemodynamic changes: a meta-analysis of randomized controlled trials" by Koo et al.</title>
       <link>https://europepmc.org/article/MED/43086509</link>
       <guid>89e28554191a25ed</guid>
@@ -109,41 +144,6 @@
       <guid>a6d4263af9404560</guid>
       <description>OBJECTIVE: Focal temporal lobe seizures often lead to impaired consciousness. Recent work has shown depressed cortical arousal, with slow waves and decreased cortical acetylcholine as a possible mechanism for impaired consciousness in focal seizures.</description>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neural Network Decoders For Qubit Loss</title>
-      <link>http://arxiv.org/abs/2611.34891v1</link>
-      <guid>1f577f16a8bf568a</guid>
-      <description>Qubit loss is a significant source of error in many quantum hardware platforms, requiring circuits that periodically replace or reset qubits to maintain fault-tolerance. When the reset process includes loss-resolving measurements, this information can improve decoding and substantially reduce overhead compared to the case where this information is not available.</description>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Direct generation of N00N states with layered semiconductors</title>
-      <link>http://arxiv.org/abs/2611.34701v1</link>
-      <guid>7c23fdbd03208e6c</guid>
-      <description>Photonic N00N states enable phase sensing beyond the classical limit, but their generation conventionally relies on interferometric manipulation of photons using bulk optical components. Here we demonstrate the direct generation of a family of tunable two-photon polarization N00N states from a subwavelength-thick 3R-MoS2 flake.</description>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Data-enhanced self-learning projective quantum Monte Carlo with Rydberg-atom measurements</title>
-      <link>http://arxiv.org/abs/2611.34636v1</link>
-      <guid>1ad9a13327726897</guid>
-      <description>We introduce a data-enhanced self-learning projective quantum Monte Carlo (PQMC) method that incorporates projective measurements from programmable quantum simulators into the guiding wavefunction of a ground-state projection. We demonstrate the approach for a two-dimensional Rydberg-atom array using restricted Boltzmann machine (RBM) and recurrent neural network (RNN) guiding wavefunctions.</description>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LatentRL-QAS: Transfer via Latent Reinforcement Learning for Quantum Architecture Search</title>
-      <link>http://arxiv.org/abs/2611.34634v1</link>
-      <guid>e240844a504566c8</guid>
-      <description>Reinforcement learning (RL) emerges as a prominent approach to quantum architecture search (QAS), the automated design of quantum circuits. However, transferring what an agent has learned from one number of qubits to another is still weakly explored: the state, the action space and the neural network of a state-of-the-art RL-QAS agent all grow with the number of qubits, which makes transfer learning across qubit counts prohibitive.</description>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Native higher-order optimization with entropy quantum computing</title>
-      <link>http://arxiv.org/abs/2611.34429v1</link>
-      <guid>7a2a4c98c01ad272</guid>
-      <description>Higher-order interactions are common in applied optimization: parity checks, radar-code sidelobes, portfolio skewness and kurtosis, and marketing-channel synergies all yield cubic or quartic objectives. Quantum annealers and most Ising machines accept only quadratic objectives, and gate-based quantum processors build every higher-order term from two-qubit gates.</description>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

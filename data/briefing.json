@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "title": "The latest signal",
   "overview": "Today’s index contains 240 recent records. The strongest signals span Quantum physics, Neuroscience, Consciousness / philosophy. Treat the ranking as a reading priority, not a verdict: preprints and ambitious theoretical claims still require independent scrutiny.",
   "items": [
@@ -9,7 +9,7 @@
       "title": "Designing fault-tolerant blind quantum computation",
       "why_it_matters": "Blind quantum computing (BQC) allows a client with limited quantum capabilities to delegate quantum computations to a more powerful server while hiding the computation. Existing protocols face significant challenges when scaling to large-scale fault-tolerant computations due to large communication overhead, photon losses, and low efficiencies.",
       "url": "https://doi.org/10.1103/d396-73sy",
-      "signal_score": 68,
+      "signal_score": 67,
       "evidence_label": "Journal article"
     },
     {
@@ -18,7 +18,7 @@
       "title": "Qutrit quantum neural network with non-commutative multi-subspace feature map",
       "why_it_matters": "We present QNN-3L, a quantum neural network architecture based on three-level systems (qutrits) with longitudinal Ising-type couplings on a one-dimensional lattice. Starting from an explicit phenomenological multilevel Hamiltonian that includes local anharmonicity, diagonal couplings and resonant control pulses, we derive native selective rotations on computational subspaces and a nearest-neighbour controlled-\\((Z)\\) primitive.",
       "url": "https://doi.org/10.1007/s42484-026-00473-7",
-      "signal_score": 66,
+      "signal_score": 65,
       "evidence_label": "Journal article"
     },
     {
@@ -27,7 +27,7 @@
       "title": "Longitudinal cognitive and functional outcomes after hemorrhagic stroke in patients with preserved consciousness: a prospective observational study",
       "why_it_matters": "New work indexed under “Longitudinal cognitive and functional outcomes after hemorrhagic stroke in patients with preserved consciousness: a prospective observational study.” The source did not provide an abstract; read the original before evaluating its claims.",
       "url": "https://europepmc.org/article/PMC/PMC13796195",
-      "signal_score": 64,
+      "signal_score": 63,
       "evidence_label": "Journal article"
     }
   ]
